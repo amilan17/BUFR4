@@ -5,7 +5,7 @@
     <ElementName_en>WMO Region number/geographical area</ElementName_en>
     <CodeFigure>0</CodeFigure>
     <EntryName_en>Antarctica</EntryName_en>
-    <Status>Operational</Status>
+    <Status>testXML1</Status>
   </BUFRCREX_CodeFlag_en>
   <BUFRCREX_CodeFlag_en>
     <FXY>001003</FXY>
