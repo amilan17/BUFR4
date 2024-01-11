@@ -1,5 +1,5 @@
 FXY,ElementName_en,CodeFigure,EntryName_en,EntryName_sub1_en,EntryName_sub2_en,Note_en,noteIDs,Status
-001003,WMO Region number/geographical area,0,Antarctica,,,,,testXML1
+001003,WMO Region number/geographical area,0,Antarctica,,,,,testXML2
 001003,WMO Region number/geographical area,1,Region I,,,,,Operational
 001003,WMO Region number/geographical area,2,Region II,,,,,Operational
 001003,WMO Region number/geographical area,3,Region III,,,,,Operational
