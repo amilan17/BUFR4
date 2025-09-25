@@ -1,7 +1,7 @@
 ClassNo,ClassName_es,FXY,ElementName_es,BUFR_Unit_es,BUFR_Scale,BUFR_ReferenceValue,BUFR_DataWidth_Bits,CREX_Unit_es,CREX_Scale,CREX_DataWidth_Char,Note_es,noteIDs,Status
-,Clase 42 — Elementos oceanográficos BUFR/CREX,0042001,Dirección dominante de las olas de mar de fondo en la partición espectral,°,0,0,9,°,0,3,,,
+,Clase 42 — Elementos oceanográficos BUFR/CREX,0042001,Dirección domite de las olas de mar de fondo en la partición espectral,°,0,0,9,°,0,3,,,
 ,Clase 42 — Elementos oceanográficos BUFR/CREX,0042002,Altura significativa de las olas de mar de fondo en la partición espectral,m,1,0,9,m,1,3,,,
-,Clase 42 — Elementos oceanográficos BUFR/CREX,0042003,Longitud dominante de las olas de mar de fondo en la partición espectral,m,2,100,17,m,2,6,,,
+,Clase 42 — Elementos oceanográficos BUFR/CREX,0042003,Longitud domite de las olas de mar de fondo en la partición espectral,m,2,100,17,m,2,6,,,
 ,Clase 42 — Elementos oceanográficos BUFR/CREX,0042004,Fiabilidad de la inversión para partición del espectro de olas de mar de fondo,Tabla de cifrado,0,0,4,Tabla de cifrado,0,2,,,
 ,Clase 42 — Elementos oceanográficos BUFR/CREX,0042005,Factor supresor de ambigüedad para la partición de las olas de mar de fondo,Numérica,5,-100000,18,Numérica,5,6,,,
 ,Clase 42 — Elementos oceanográficos BUFR/CREX,0042006,Edad de la ola,Numérica,2,1,8,Numérica,2,3,,,

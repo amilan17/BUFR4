@@ -41,6 +41,6 @@ ClassNo,ClassName_es,FXY,ElementName_es,BUFR_Unit_es,BUFR_Scale,BUFR_ReferenceVa
 ,,014053,"Radiación neta (gran precisión), integrada en un período especificado",Jm-2,-2,-1048574,21,Jm-2,-2,7,,,
 ,,014054,"Radiación fotosintéticamente activa, integrada en un período especificado",J m-2,-3,0,16,Jm-2,-3,5,,,
 ,,014055,Índice de actividad solar,Numérica,0,-32768,16,Numérica,0,5,,,
-,,014056,Luminancia de fondo,Cd m-2,0,0,18,Cd m-2,0,6,,,
+,,014056,Lumicia de fondo,Cd m-2,0,0,18,Cd m-2,0,6,,,
 ,,014057,Flujo de calor del suelo,Jm-2,-2,-1048574,21,Jm-2,-2,7,,,
 ,,014072,Irradiación UV mundial,Jm-2,0,-4000000,23,Jm-2,0,7,(véase la nota 8),8,

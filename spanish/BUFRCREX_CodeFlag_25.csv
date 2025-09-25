@@ -321,6 +321,6 @@ FXY,ElementName_es,CodeFigure,EntryName_es,EntryName_sub1_es,EntryName_sub2_es,N
 0 25 190,Modo de cálculo del eco del altímetro,255,Valor faltante,,,,,
 0 25 191,Modo de seguimiento del altímetro,0,Bucle abierto,,,,,
 0 25 191,Modo de seguimiento del altímetro,1,Bucle cerrado,,,,,
-0 25 191,Modo de seguimiento del altímetro,2,Ganancia fija de bucle abierto,,,,,
+0 25 191,Modo de seguimiento del altímetro,2,Gacia fija de bucle abierto,,,,,
 0 25 191,Modo de seguimiento del altímetro,3-254,Reservadas,,,,,
 0 25 191,Modo de seguimiento del altímetro,255,Valor faltante,,,,,

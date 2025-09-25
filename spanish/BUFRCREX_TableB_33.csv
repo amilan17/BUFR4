@@ -29,7 +29,7 @@ ClassNo,ClassName_es,FXY,ElementName_es,BUFR_Unit_es,BUFR_Scale,BUFR_ReferenceVa
 ,,033 043,Grado de confianza de la temperatura media en superficie,Tabla de banderines,0,0,8,Tabla de banderines,0,3,,,
 ,,033 044,Información sobre la calidad de los datos de ASAR,Tabla de banderines,0,0,15,Tabla de banderines,0,5,,,
 ,,033 045,Probabilidad del suceso siguiente (véanse las notas 1 y 3),%,0,0,7,%,0,3,,,
-,,033 046,"Probabilidad condicional del suceso siguiente con respecto a un suceso condicionante especificado (véanse las notas 1, 2 y 3)",%,0,0,7,%,0,3,,,
+,,033 046,"Probabilidad condicional del suceso siguiente con respecto a un suceso condiciote especificado (véanse las notas 1, 2 y 3)",%,0,0,7,%,0,3,,,
 ,,033 047,Datos de confianza de las mediciones,Tabla de banderines,0,0,31,Tabla de banderines,0,11,,,
 ,,033 048,Medida de confianza de inversión SAR,Tabla de cifrado,0,0,2,Tabla de cifrado,0,1,,,
 ,,033 049,Medida de confianza de recuperación de viento,Tabla de cifrado,0,0,2,Tabla de cifrado,0,1,,,

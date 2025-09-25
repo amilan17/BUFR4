@@ -52,7 +52,7 @@ ClassNo,ClassName_es,FXY,ElementName_es,BUFR_Unit_es,BUFR_Scale,BUFR_ReferenceVa
 ,,020,Fase de las nubes,Tabla de cifrado,0,0,,Tabla de cifrado,0,,,,
 ,,020,Visibilidad hacia el mar desde una estación costera,m,-1,0,,m,-1,,,,
 ,,020,Visibilidad horizontal mínima,m,-1,0,,m,-1,,,,
-,,020,Visibilidad horizontal reinante,m,-1,0,,m,-1,,(véase la nota 7),,
+,,020,Visibilidad horizontal reite,m,-1,0,,m,-1,,(véase la nota 7),,
 ,,020,Alcance visual en pista,m,0,0,,m,0,,,,
 ,,020,Estado del suelo (con o sin nieve),Tabla de cifrado,0,0,,Tabla de cifrado,0,,,,
 ,,020,Fenómenos especiales,Tabla de cifrado,0,0,,Tabla de cifrado,0,,,,
