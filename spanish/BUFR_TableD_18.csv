@@ -1,0 +1,13 @@
+Category,CategoryOfSequences_es,FXY1,Title_es,SubTitle_es,FXY2,ElementName_es,ElementDescription_es,Note_es,noteIDs,Status
+,,318001,,,301025,"Latitud y longitud (precisión aproximada), día/hora",,,,
+,,,,,024011,Dosis,,,,
+,,318003,,,301026,"Latitud/longitud (gran precisión), período de tiempo (día, hora, minuto)",,,,
+,,,,,024005,Masa de isótopos,,,,
+,,,,,024004,Nombre del elemento,,,,
+,,,,,024021,Concentración en el aire (del tipo de isótopo designado incluyendo la dosis beta bruta),,,,
+,,318004,,,301025,"Latitud/longitud (precisión aproximada), día/hora",,,,
+,,,,,004023,Período o desplazamiento de tiempo,,,,
+,,,,,013011,Precipitación total/equivalente total en agua,,,,
+,,,,,024005,Masa de isótopos,,,,
+,,,,,024004,Nombre del elemento,,,,
+,,,,,024022,Concentración en las precipitaciones (del tipo de isótopo designado),,,,
