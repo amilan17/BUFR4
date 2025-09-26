@@ -1,61 +1,54 @@
 Category,CategoryOfSequences_es,FXY1,Title_es,SubTitle_es,FXY2,ElementName_es,ElementDescription_es,Note_es,noteIDs,Status
-,,,Valores de reflectividad de radar,,,,,,,
-,,313009,,,021001,Reflectividad horizontal,,,,
-,,,,,101000,Repetici贸n diferida de 1 descriptor,,,,
-,,,,,031001,Factor de repetici贸n diferida del descriptor,,,,
-,,,,,021001,Reflectividad horizontal,,,,
-,,,Intensidades de lluvia por radar,,,,,,,
-,,313010,,,021036,Intensidad de lluvia por radar,,,,
-,,,,,101000,Repetici贸n diferida de 1 descriptor,,,,
-,,,,,031001,Factor de repetici贸n diferida del descriptor,,,,
-,,,,,021036,Intensidad de lluvia por radar,,,,
-,,,,,,(Hilera de datos cifrados por valor de p铆xel (4 bits) no pasados en su totalidad),,,,
-,,313031,,,006002,Longitud (precisi贸n aproximada),Primera localizaci贸n de longitud menos un incremento,,,
-,,,,,006012,Incremento de la longitud (precisi贸n aproximada),,,,
-,,,,,101000,Repetici贸n diferida de 1 descriptor,,,,
-,,,,,031002,Factor ampliado de repetici贸n diferida del descriptor,,,,
-,,,,,030001,Valor de p铆xel (4 bits),,,,
-,,,,,,(Datos en forma de imagen cifrados por valor de p铆xel (4 bits) no pasados en su totalidad),,,,
-,,313032,,,005002,Latitud (precisi贸n aproximada),Primera localizaci贸n de latitud menos un incremento,,,
-,,,,,005012,Incremento de la latitud (precisi贸n aproximada),Valor se帽alado para que no pase a trav茅s del polo,,,
-,,,,,101000,Repetici贸n diferida de 1 descriptor,,,,
-,,,,,031002,Factor ampliado de repetici贸n diferida del descriptor,,,,
-,,,,,313031,Hilera de datos cifrados por valor de p铆xel (4 bits) no pasados en su totalidad,,,,
-,,,,,,(Hilera de datos cifrados por valor de p铆xel (4 bits) pasados en su totalidad),,,,
-,,313041,,,006002,Longitud (precisi贸n aproximada),Primera localizaci贸n de longitud menos un incremento,,,
-,,,,,110000,Repetici贸n diferida de 10 descriptores,,,,
-,,,,,031001,Factor de repetici贸n diferida del descriptor,,,,
-,,,,,104000,Repetici贸n diferida de 4 descriptores,,,,
-,,,,,031001,Factor de repetici贸n diferida del descriptor,,,,
-,,,,,006012,Incremento de la longitud (precisi贸n aproximada),,,,
-,,,,,101000,Repetici贸n diferida de 1 descriptor,,,,
-,,,,,031012,Factor ampliado de repetici贸n diferida del descriptor y los datos,,,,
-,,,,,030001,Valor de p铆xel (4 bits),,,,
-,,,,,006012,Incremento de la longitud (precisi贸n aproximada),,,,
-,,,,,101000,Repetici贸n diferida de 1 descriptor,,,,
-,,,,,031001,Factor de repetici贸n diferida del descriptor,,,,
-,,,,,030001,Valor de p铆xel (4 bits),,,,
-,,,,,,(Datos en forma de imagen cifrados por valor de p铆xel (4 bits) pasados en su totalidad),,,,
-,,313042,,,005002,Latitud (precisi贸n aproximada),Primera localizaci贸n de latitud menos un incremento,,,
-,,,,,005012,Incremento de la latitud (precisi贸n aproximada),Valor se帽alado para que no pase a trav茅s del polo,,,
-,,,,,101000,Repetici贸n diferida de 1 descriptor,,,,
-,,,,,031002,Factor ampliado de repetici贸n diferida del descriptor,,,,
-,,,,,313041,Hilera de datos cifrados por valor de p铆xel (4 bits) pasados en su totalidad,,,,
-,,,,,,"(Datos en forma de imagen cifrados por valor de p铆xel (4 bits) pasados en su totalidad, ret铆cula normal)",,,,
-,,313043,,,006002,Longitud (precisi贸n aproximada),Primera ubicaci贸n de longitud menos un incremento,,,
-,,,,,005002,Latitud (precisi贸n aproximada),Primera ubicaci贸n de latitud menos un incremento,,,
-,,,,,005012,Incremento de la latitud (exactitud aproximada),,,,
-,,,,,112000,Repetici贸n diferida de 12 descriptores,,,,
-,,,,,031001,Factor de repetici贸n diferida del descriptor,,,,
-,,,,,110000,Repetici贸n diferida de 10 descriptores,,,,
-,,,,,031001,Factor de repetici贸n diferida del descriptor,,,,
-,,,,,104000,Repetici贸n diferida de 4 descriptores,,,,
-,,,,,031001,Factor de repetici贸n diferida del descriptor,,,,
-,,,,,006012,Incremento de la longitud (exactitud aproximada),,,,
-,,,,,101000,Repetici贸n diferida de 1 descriptor,,,,
-,,,,,031011,Factor de repetici贸n diferida del descriptor y los datos,,,,
-,,,,,030001,Valor de p铆xel (4 bits),,,,
-,,,,,006012,Incremento de la longitud (exactitud aproximada),,,,
-,,,,,101000,Repetici贸n diferida de 1 descriptor,,,,
-,,,,,031001,Factor de repetici贸n diferida del descriptor,,,,
-,,,,,030001,Valor de p铆xel (4 bits),,,,
+13,Secuencias comunes a los datos en forma de im醙enes,313009,(Valores de reflectividad de radar),,021001,Reflectividad horizontal,,,,Operational
+13,Secuencias comunes a los datos en forma de im醙enes,,,,101000,Repetici贸n diferida de 1 descriptor,,,,Operational
+13,Secuencias comunes a los datos en forma de im醙enes,,,,031001,Factor de repetici贸n diferida del descriptor,,,,Operational
+13,Secuencias comunes a los datos en forma de im醙enes,,,,021001,Reflectividad horizontal,,,,Operational
+13,Secuencias comunes a los datos en forma de im醙enes,313010,(Intensidades de lluvia por radar),,021036,Intensidad de lluvia por radar,,,,Operational
+13,Secuencias comunes a los datos en forma de im醙enes,,,,101000,Repetici贸n diferida de 1 descriptor,,,,Operational
+13,Secuencias comunes a los datos en forma de im醙enes,,,,031001,Factor de repetici贸n diferida del descriptor,,,,Operational
+13,Secuencias comunes a los datos en forma de im醙enes,,,,021036,Intensidad de lluvia por radar,,,,Operational
+13,Secuencias comunes a los datos en forma de im醙enes,313031,(Hilera de datos cifrados por valor de p铆xel (4 bits) no pasados en su totalidad),,006002,Longitud (precisi贸n aproximada),Primera localizaci贸n de longitud menos un incremento,,,Operational
+13,Secuencias comunes a los datos en forma de im醙enes,,,,006012,Incremento de la longitud (precisi贸n aproximada),,,,Operational
+13,Secuencias comunes a los datos en forma de im醙enes,,,,101000,Repetici贸n diferida de 1 descriptor,,,,Operational
+13,Secuencias comunes a los datos en forma de im醙enes,,,,031002,Factor ampliado de repetici贸n diferida del descriptor,,,,Operational
+13,Secuencias comunes a los datos en forma de im醙enes,,,,030001,Valor de p铆xel (4 bits),,,,Operational
+13,Secuencias comunes a los datos en forma de im醙enes,313032,(Datos en forma de imagen cifrados por valor de p铆xel (4 bits) no pasados en su totalidad),,005002,Latitud (precisi贸n aproximada),Primera localizaci贸n de latitud menos un incremento,,,Operational
+13,Secuencias comunes a los datos en forma de im醙enes,,,,005012,Incremento de la latitud (precisi贸n aproximada),Valor se帽alado para que no pase a trav茅s del polo,,,Operational
+13,Secuencias comunes a los datos en forma de im醙enes,,,,101000,Repetici贸n diferida de 1 descriptor,,,,Operational
+13,Secuencias comunes a los datos en forma de im醙enes,,,,031002,Factor ampliado de repetici贸n diferida del descriptor,,,,Operational
+13,Secuencias comunes a los datos en forma de im醙enes,,,,313031,Hilera de datos cifrados por valor de p铆xel (4 bits) no pasados en su totalidad,,,,Operational
+13,Secuencias comunes a los datos en forma de im醙enes,313041,(Hilera de datos cifrados por valor de p铆xel (4 bits) pasados en su totalidad),,006002,Longitud (precisi贸n aproximada),Primera localizaci贸n de longitud menos un incremento,,,Operational
+13,Secuencias comunes a los datos en forma de im醙enes,,,,110000,Repetici贸n diferida de 10 descriptores,,,,Operational
+13,Secuencias comunes a los datos en forma de im醙enes,,,,031001,Factor de repetici贸n diferida del descriptor,,,,Operational
+13,Secuencias comunes a los datos en forma de im醙enes,,,,104000,Repetici贸n diferida de 4 descriptores,,,,Operational
+13,Secuencias comunes a los datos en forma de im醙enes,,,,031001,Factor de repetici贸n diferida del descriptor,,,,Operational
+13,Secuencias comunes a los datos en forma de im醙enes,,,,006012,Incremento de la longitud (precisi贸n aproximada),,,,Operational
+13,Secuencias comunes a los datos en forma de im醙enes,,,,101000,Repetici贸n diferida de 1 descriptor,,,,Operational
+13,Secuencias comunes a los datos en forma de im醙enes,,,,031012,Factor ampliado de repetici贸n diferida del descriptor y los datos,,,,Operational
+13,Secuencias comunes a los datos en forma de im醙enes,,,,030001,Valor de p铆xel (4 bits),,,,Operational
+13,Secuencias comunes a los datos en forma de im醙enes,,,,006012,Incremento de la longitud (precisi贸n aproximada),,,,Operational
+13,Secuencias comunes a los datos en forma de im醙enes,,,,101000,Repetici贸n diferida de 1 descriptor,,,,Operational
+13,Secuencias comunes a los datos en forma de im醙enes,,,,031001,Factor de repetici贸n diferida del descriptor,,,,Operational
+13,Secuencias comunes a los datos en forma de im醙enes,,,,030001,Valor de p铆xel (4 bits),,,,Operational
+13,Secuencias comunes a los datos en forma de im醙enes,313042,(Datos en forma de imagen cifrados por valor de p铆xel (4 bits) pasados en su totalidad),,005002,Latitud (precisi贸n aproximada),Primera localizaci贸n de latitud menos un incremento,,,Operational
+13,Secuencias comunes a los datos en forma de im醙enes,,,,005012,Incremento de la latitud (precisi贸n aproximada),Valor se帽alado para que no pase a trav茅s del polo,,,Operational
+13,Secuencias comunes a los datos en forma de im醙enes,,,,101000,Repetici贸n diferida de 1 descriptor,,,,Operational
+13,Secuencias comunes a los datos en forma de im醙enes,,,,031002,Factor ampliado de repetici贸n diferida del descriptor,,,,Operational
+13,Secuencias comunes a los datos en forma de im醙enes,,,,313041,Hilera de datos cifrados por valor de p铆xel (4 bits) pasados en su totalidad,,,,Operational
+13,Secuencias comunes a los datos en forma de im醙enes,313043,"(Datos en forma de imagen cifrados por valor de p铆xel (4 bits) pasados en su totalidad, ret铆cula normal)",,006002,Longitud (precisi贸n aproximada),Primera ubicaci贸n de longitud menos un incremento,,,Operational
+13,Secuencias comunes a los datos en forma de im醙enes,,,,005002,Latitud (precisi贸n aproximada),Primera ubicaci贸n de latitud menos un incremento,,,Operational
+13,Secuencias comunes a los datos en forma de im醙enes,,,,005012,Incremento de la latitud (exactitud aproximada),,,,Operational
+13,Secuencias comunes a los datos en forma de im醙enes,,,,112000,Repetici贸n diferida de 12 descriptores,,,,Operational
+13,Secuencias comunes a los datos en forma de im醙enes,,,,031001,Factor de repetici贸n diferida del descriptor,,,,Operational
+13,Secuencias comunes a los datos en forma de im醙enes,,,,110000,Repetici贸n diferida de 10 descriptores,,,,Operational
+13,Secuencias comunes a los datos en forma de im醙enes,,,,031001,Factor de repetici贸n diferida del descriptor,,,,Operational
+13,Secuencias comunes a los datos en forma de im醙enes,,,,104000,Repetici贸n diferida de 4 descriptores,,,,Operational
+13,Secuencias comunes a los datos en forma de im醙enes,,,,031001,Factor de repetici贸n diferida del descriptor,,,,Operational
+13,Secuencias comunes a los datos en forma de im醙enes,,,,006012,Incremento de la longitud (exactitud aproximada),,,,Operational
+13,Secuencias comunes a los datos en forma de im醙enes,,,,101000,Repetici贸n diferida de 1 descriptor,,,,Operational
+13,Secuencias comunes a los datos en forma de im醙enes,,,,031011,Factor de repetici贸n diferida del descriptor y los datos,,,,Operational
+13,Secuencias comunes a los datos en forma de im醙enes,,,,030001,Valor de p铆xel (4 bits),,,,Operational
+13,Secuencias comunes a los datos en forma de im醙enes,,,,006012,Incremento de la longitud (exactitud aproximada),,,,Operational
+13,Secuencias comunes a los datos en forma de im醙enes,,,,101000,Repetici贸n diferida de 1 descriptor,,,,Operational
+13,Secuencias comunes a los datos en forma de im醙enes,,,,031001,Factor de repetici贸n diferida del descriptor,,,,Operational
+13,Secuencias comunes a los datos en forma de im醙enes,,,,030001,Valor de p铆xel (4 bits),,,,Operational

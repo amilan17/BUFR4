@@ -1,502 +1,456 @@
 Category,CategoryOfSequences_es,FXY1,Title_es,SubTitle_es,FXY2,ElementName_es,ElementDescription_es,Note_es,noteIDs,Status
-,,316001,,,301011,"A√±o, mes, d√≠a",,,,
-,,,,,004004,Hora,,,,
-,,,precisi√≥n aproximada,,301023,Latitud/longitud (precisi√≥n aproximada),,,,
-,,,,,001021,Identificador de la configuraci√≥n sin√≥ptica,,,,
-,,,,,002041,M√©todo de estimaci√≥n utilizado para el informe de configuraci√≥n sin√≥ptica,,,,
-,,,,,019001,Tipo de configuraci√≥n sin√≥ptica,,,,
-,,,,,010051,Presi√≥n reducida a nivel medio del mar,,,,
-,,,,,019002,Radio real de la configuraci√≥n,,,,
-,,,,,019003,Umbral de velocidad del viento,Generalmente 15 m s‚Äì1,,,
-,,,,,019004,Radio real para las velocidades del viento superiores al umbral,,,,
-,,,Encabezamiento,,,,,,,
-,,316002,,,008021,Significaci√≥n temporal,Hora de los datos (an√°lisis),,,
-,,,,,004001,A√±o,,,,
-,,,,,004002,Mes,,,,
-,,,,,004003,D√≠a,,,,
-,,,,,004004,Hora,,,,
-,,,,,004005,Minuto,,,,
-,,,,,001033,Identificaci√≥n del centro de origen/generaci√≥n,,,,
-,,,,,008021,Significaci√≥n temporal,Hora de validez (pron√≥stico),,,
-,,,,,004001,A√±o,,,,
-,,,,,004002,Mes,,,,
-,,,,,004003,D√≠a,,,,
-,,,,,004004,Hora,,,,
-,,,,,004005,Minuto,,,,
-,,,,,007002,Altura o altitud,Nivel de vuelo (base de la capa del mapa),,,
-,,,,,007002,Altura o altitud,Nivel de vuelo (cima de la capa del mapa),,,
-,,,Corriente de chorro,,,,,,,
-,,316003,,,110000,Repetici√≥n diferida de 10 descriptores,,,,
-,,,,,031001,Factor de repetici√≥n diferida del descriptor,,,,
-,,,,,008011,Caracter√≠stica meteorol√≥gica,Valor de la corriente de chorro,,,
-,,,,,008007,Significaci√≥n dimensional,Valor de la l√≠nea,,,
-,,,,,104000,Repetici√≥n diferida de 4 descriptores,,,,
-,,,,,031001,Factor de repetici√≥n diferida del descriptor,,,,
-,,,exactitud aproximada,,005002,Latitud (exactitud aproximada),,,,
-,,,exactitud aproximada,,006002,Longitud (exactitud aproximada),,,,
-,,,,,010002,Altura,Nivel de vuelo,,,
-,,,,,011002,Velocidad del viento,,,,
-,,,,,008007,Significaci√≥n dimensional,Anular,,,
-,,,,,008011,Caracter√≠stica meteorol√≥gica,Anular | Fin del objeto,,,
-,,,Turbulencia,,,,,,,
-,,316004,,,111000,Repetici√≥n diferida de 11 descriptores,,,,
-,,,,,031001,Factor de repetici√≥n diferida del descriptor,,,,
-,,,,,008011,Caracter√≠stica meteorol√≥gica,Valor de la turbulencia,,,
-,,,,,008007,Significaci√≥n dimensional,Valor del √°rea,,,
-,,,,,007002,Altura o altitud,Nivel de vuelo (base de la capa),,,
-,,,,,007002,Altura o altitud,Nivel de vuelo (cima de la capa),,,
-,,,,,102000,Repetici√≥n diferida de 2 descriptores,,,,
-,,,,,031001,Factor de repetici√≥n diferida del descriptor,,,,
-,,,exactitud aproximada,,005002,Latitud (exactitud aproximada),,,,
-,,,exactitud aproximada,,006002,Longitud (exactitud aproximada),,,,
-,,,v√©ase la nota 1,,011031,Grado de turbulencia (v√©ase la nota 1),,,,
-,,,,,008007,Significaci√≥n dimensional,Anular,,,
-,,,,,008011,Caracter√≠stica meteorol√≥gica,Anular | Fin del objeto,,,
-,,,Tormenta,,,,,,,
-,,316005,,,108000,Repetici√≥n diferida de 8 descriptores,,,,
-,,,,,031001,Factor de repetici√≥n diferida del descriptor,,,,
-,,,,,008005,Significaci√≥n del atributo meteorol√≥gico,Centro de la tormenta,,,
-,,,,,008007,Significaci√≥n dimensional,Valor del punto,,,
-,,,exactitud aproximada,,005002,Latitud (exactitud aproximada),,,,
-,,,exactitud aproximada,,006002,Longitud (exactitud aproximada),,,,
-,,,,,001026,Nombre OMM de la tormenta,Se utiliza ‚ÄúUNKNOWN‚Äù para una tempestad de arena,,,
-,,,,,019001,Tipo de caracter√≠stica sin√≥ptica,Valor correspondiente al tipo de tormenta,,,
-,,,,,008007,Significaci√≥n dimensional,Anular,,,
-,,,,,008005,Significaci√≥n del atributo meteorol√≥gico,Anular | Fin del objeto,,,
-,,,Nubes,,,,,,,
-,,316006,,,112000,Repetici√≥n diferida de 12 descriptores,,,,
-,,,,,031001,Factor de repetici√≥n diferida del descriptor,,,,
-,,,,,008011,Caracter√≠stica meteorol√≥gica,Valor de la nube,,,
-,,,,,008007,Significaci√≥n dimensional,Valor del √°rea,,,
-,,,,,007002,Altura o altitud,Nivel de vuelo (base de la capa),,,
-,,,,,007002,Altura o altitud,Nivel de vuelo (cima de la capa),,,
-,,,,,102000,Repetici√≥n diferida de 2 descriptores,,,,
-,,,,,031001,Factor de repetici√≥n diferida del descriptor,,,,
-,,,exactitud aproximada,,005002,Latitud (exactitud aproximada),,,,
-,,,exactitud aproximada,,006002,Longitud (exactitud aproximada),,,,
-,,,v√©ase la nota 2,,020011,Nubosidad (v√©ase la nota 2),,,,
-,,,,,020012,Tipo de nubes,,,,
-,,,,,008007,Significaci√≥n dimensional,Anular,,,
-,,,,,008011,Caracter√≠stica meteorol√≥gica,Anular | Fin del objeto,,,
-,,,Frente,,,,,,,
-,,316007,,,110000,Repetici√≥n diferida de 10 descriptores,,,,
-,,,,,031001,Factor de repetici√≥n diferida del descriptor,,,,
-,,,v√©ase la nota 3,,008011,Caracter√≠stica meteorol√≥gica (v√©ase la nota 3),Valor correspondiente al tipo de frente,,,
-,,,,,008007,Significaci√≥n dimensional,Valor de la l√≠nea,,,
-,,,,,104000,Repetici√≥n diferida de 4 descriptores,,,,
-,,,,,031001,Factor de repetici√≥n diferida del descriptor,,,,
-,,,exactitud aproximada,,005002,Latitud (exactitud aproximada),,,,
-,,,exactitud aproximada,,006002,Longitud (exactitud aproximada),,,,
-,,,,,019005,Direcci√≥n del desplazamiento de la caracter√≠stica,,,,
-,,,,,019006,Velocidad del desplazamiento de la caracter√≠stica,,,,
-,,,,,008007,Significaci√≥n dimensional,Anular,,,
-,,,,,008011,Caracter√≠stica meteorol√≥gica,Anular | Fin del objeto,,,
-,,,Tropopausa,,,,,,,
-,,316008,,,111000,Repetici√≥n diferida de 11 descriptores,,,,
-,,,,,031001,Factor de repetici√≥n diferida del descriptor,,,,
-,,,,,008001,Significaci√≥n del sondeo vertical,Se fija el bit 3 para la tropopausa.,,,
-,,,,,008007,Significaci√≥n dimensional,Valor del punto,,,
-,,,v√©ase la nota 4,,008023,Estad√≠sticas de primer orden (v√©ase la nota 4),Valor correspondiente al tipo de tropopausa,,,
-,,,,,103000,Repetici√≥n diferida de 3 descriptores,,,,
-,,,,,031001,Factor de repetici√≥n diferida del descriptor,,,,
-,,,exactitud aproximada,,005002,Latitud (exactitud aproximada),,,,
-,,,exactitud aproximada,,006002,Longitud (exactitud aproximada),,,,
-,,,,,010002,Altura,,,,
-,,,,,008023,Estad√≠sticas de primer orden,Anular,,,
-,,,,,008007,Significaci√≥n dimensional,Anular,,,
-,,,,,008001,Significaci√≥n del sondeo vertical,Anular | Fin del objeto,,,
-,,,√Årea de engelamiento del fuselaje de la aeronave,,,,,,,
-,,316009,,,111000,Repetici√≥n diferida de 11 descriptores,,,,
-,,,,,031001,Factor de repetici√≥n diferida del descriptor,,,,
-,,,,,008011,Caracter√≠stica meteorol√≥gica,Valor correspondiente al engelamiento del fuselaje de la aeronave,,,
-,,,,,008007,Significaci√≥n dimensional,Valor del √°rea,,,
-,,,,,007002,Altura o altitud,Nivel de vuelo (base de la capa),,,
-,,,,,007002,Altura o altitud,Nivel de vuelo (cima de la capa),,,
-,,,,,102000,Repetici√≥n diferida de 2 descriptores,,,,
-,,,,,031001,Factor de repetici√≥n diferida del descriptor,,,,
-,,,exactitud aproximada,,005002,Latitud (exactitud aproximada),,,,
-,,,exactitud aproximada,,006002,Longitud (exactitud aproximada),,,,
-,,,,,020041,Engelamiento del fuselaje de la aeronave,Tipo de engelamiento del fuselaje de la aeronave,,,
-,,,,,008007,Significaci√≥n dimensional,Anular,,,
-,,,,,008011,Caracter√≠stica meteorol√≥gica,Anular | Fin del objeto,,,
-,,,Nombre de la caracter√≠stica,,,,,,,
-,,316010,,,107000,Repetici√≥n diferida de 7 descriptores,,,,
-,,,,,031001,Factor de repetici√≥n diferida del descriptor,,,,
-,,,,,008011,Caracter√≠stica meteorol√≥gica,,,,
-,,,,,008007,Significaci√≥n dimensional,Valor del punto,,,
-,,,,,001022,Nombre de la caracter√≠stica,,,,
-,,,exactitud aproximada,,005002,Latitud (exactitud aproximada),,,,
-,,,exactitud aproximada,,006002,Longitud (exactitud aproximada),,,,
-,,,,,008007,Significaci√≥n dimensional,Anular,,,
-,,,,,008011,Caracter√≠stica meteorol√≥gica,Anular | Fin del objeto,,,
-,,,Erupci√≥n de volc√°n,,,,,,,
-,,316011,,,117000,Repetici√≥n diferida de 17 descriptores,,,,
-,,,,,031001,Factor de repetici√≥n diferida del descriptor,,,,
-,,,,,008011,Caracter√≠stica meteorol√≥gica,Valor correspondiente a nubes especiales,,,
-,,,,,001022,Nombre de la caracter√≠stica,Nombre del volc√°n,,,
-,,,,,008007,Significaci√≥n dimensional,Valor del punto,,,
-,,,,,102000,Repetici√≥n diferida de 2 descriptores,,,,
-,,,,,031001,Factor de repetici√≥n diferida del descriptor,,,,
-,,,exactitud aproximada,,005002,Latitud (exactitud aproximada),,,,
-,,,exactitud aproximada,,006002,Longitud (exactitud aproximada),,,,
-,,,,,008021,Significaci√≥n temporal,Hora de inicio de la erupci√≥n,,,
-,,,,,004001,A√±o,,,,
-,,,,,004002,Mes,,,,
-,,,,,004003,D√≠a,,,,
-,,,,,004004,Hora,,,,
-,,,,,004005,Minuto,,,,
-,,,,,020090,Nubes especiales,Nubes formadas por erupciones volc√°nicas,,,
-,,,,,008021,Significaci√≥n temporal,Anular,,,
-,,,,,008007,Significaci√≥n dimensional,Anular,,,
-,,,,,008011,Caracter√≠stica meteorol√≥gica,Anular | Fin del objeto,,,
-,,,Identificaci√≥n de la tormenta tropical,,,,,,,
-,,316020,,,001033,Identificaci√≥n del centro de origen/generaci√≥n,,,,
-,,,,,001025,Identificador de tormenta,,,,
-,,,,,001027,Nombre OMM completo de la tormenta,,,,
-,,,,,301011,"A√±o, mes, d√≠a",,,,
-,,,,,301012,"Hora, minuto",,,,
-,,,Datos de an√°lisis,,,,,,,
-,,316021,precisi√≥n aproximada,,301023,Latitud/longitud (precisi√≥n aproximada),,,,
-,,,,,002041,M√©todo de estimaci√≥n utilizado en los informes relativos a la configuraci√≥n sin√≥ptica,,,,
-,,,,,019001,Tipo de caracter√≠stica sin√≥ptica,,,,
-,,,,,019007,Radio efectivo de la caracter√≠stica,,,,
-,,,,,019005,Direcci√≥n del desplazamiento de la caracter√≠stica,,,,
-,,,,,019006,Velocidad del desplazamiento de la caracter√≠stica,,,,
-,,,,,019008,Extensi√≥n vertical de la circulaci√≥n,,,,
-,,,,,008005,Significaci√≥n del atributo meteorol√≥gico,= 1 centro de la tormenta,,,
-,,,,,010004,Presi√≥n,Centro de la tormenta en virtud del calificador de significaci√≥n precedente,,,
-,,,,,008005,Significaci√≥n del atributo meteorol√≥gico,= 2 l√≠mite exterior o el borde de la caracter√≠stica,,,
-,,,,,010004,Presi√≥n,L√≠mite exterior,,,
-,,,,,019007,Radio efectivo de la caracter√≠stica,L√≠mite exterior,,,
-,,,,,008005,Significaci√≥n del atributo meteorol√≥gico,= 3 ubicaci√≥n del viento m√°ximo,,,
-,,,,,008021,Significaci√≥n temporal,Tiempo promediado,,,
-,,,,,004075,Per√≠odo o desplazamiento de tiempo abreviado,Minutos,,,
-,,,viento medio,,011040,Velocidad m√°xima del viento (viento medio),,,,
-,,,,,019007,Radio efectivo de la caracter√≠stica,Viento m√°ximo,,,
-,,,,,105004,Repetir 5 descriptores 4 veces,,,,
-,,,,,005021,Rumbo o azimut,Inicial,,,
-,,,,,005021,Rumbo o azimut,Final,,,
-,,,,,102002,Repetir 2 descriptores 2 veces,,,,
-,,,,,019003,Umbral de velocidad del viento,,,,
-,,,,,019004,Radio efectivo de las velocidades del viento por encima del umbral,,,,
-,,,Datos de pron√≥sticos,,,,,,,
-,,316022,,,001032,Aplicaci√≥n de producci√≥n,"Nombre del modelo PNT, etc., tabla de cifrado definida por el centro de origen/ generaci√≥n",,,
-,,,,,002041,M√©todo para la estimaci√≥n de informes relativos a la caracter√≠stica sin√≥ptica,,,,
-,,,,,019001,Tipo de caracter√≠stica sin√≥ptica,,,,
-,,,,,019010,M√©todo de seguimiento del centro de la caracter√≠stica sin√≥ptica,,,,
-,,,,,118000,Repetici√≥n diferida de 18 descriptores,,,,
-,,,,,031001,Factor de repetici√≥n diferida del descriptor,,,,
-,,,,,008021,Significaci√≥n temporal,Previsi√≥n,,,
-,,,,,004014,Incremento de tiempo,Horas,,,
-,,,,,008005,Significaci√≥n del atributo meteorol√≥gico,Caracter√≠stica sin√≥ptica de superficie,,,
-,,,exactitud aproximada,,301023,Latitud/longitud (exactitud aproximada),,,,
-,,,,,019005,Direcci√≥n del desplazamiento de la caracter√≠stica,,,,
-,,,,,019006,Velocidad del desplazamiento de la caracter√≠stica,,,,
-,,,,,010004,Presi√≥n,,,,
-,,,,,011041,Velocidad m√°xima de las r√°fagas de viento,"Utilizada, por ejemplo, en los Estados Unidos",,,
-,,,,,008021,Significaci√≥n temporal,Promedio del tiempo de predicci√≥n,,,
-,,,,,004075,Per√≠odo o desplazamiento de tiempo abreviado,Minutos,,,
-,,,viento medio,,011040,Velocidad m√°xima del viento (viento medio),,,,
-,,,,,019008,Extensi√≥n vertical de la circulaci√≥n,,,,
-,,,,,105004,Repetir 5 descriptores 4 veces,,,,
-,,,,,005021,Rumbo o azimut,Final,,,
-,,,,,005021,Rumbo o azimut,Inicial,,,
-,,,,,102002,Repetir 2 descriptores 2 veces,,,,
-,,,,,019003,Umbral de velocidad del viento,,,,
-,,,,,019004,Radio efectivo de las velocidades del viento por encima del umbral,,,,
-,,,Informaci√≥n sobre el an√°lisis de la tormenta tropical,,,,,,,
-,,316026,,,316020,Identificaci√≥n de la tormenta tropical,,,,
-,,,,,316021,Datos de an√°lisis,,,,
-,,,Informaci√≥n sobre la predicci√≥n de tormentas tropicales,,,,,,,
-,,316027,,,316020,Identificaci√≥n de la tormenta tropical,,,,
-,,,,,316022,Datos de an√°lisis,,,,
-,,,Encabezamiento SIGMET,,,,,,,
-,,316030,,,301014,Per√≠odo de tiempo,Para el cual es v√°lido SIGMET,,,
-,,,,,001037,Identificador de secuencia SIGMET,,,,
-,,,,,010064,Nivel de crucero SIGMET,,,,
-,,,,,008019,Calificador para el identificador del centro siguiente,1 = unidad ATS que presta servicio a la FIR,,,
-,,,,,001062,Indicador de ubicaci√≥n abreviado de la OACI,,,,
-,,,,,008019,Calificador para el identificador del centro siguiente,"= 2 FIR, = 3 UIR, = 4 CTA",,,
-,,,,,001065,Identificador de regi√≥n de la OACI,,,,
-,,,,,008019,Calificador para el identificador del centro siguiente,= 6 MWO,,,
-,,,,,001062,Indicador de ubicaci√≥n abreviado de la OACI,,,,
-,,,,,008019,Calificador para el identificador del centro siguiente,Fijar en faltante (anular),,,
-,,,SIGMET ‚Äì Posici√≥n y desplazamiento observados o pronosticados,,,,,,,
-,,316031,,,008021,Significaci√≥n temporal,"= 16 an√°lisis, = 4 predicci√≥n",,,
-,,,,,301011,"A√±o, mes, d√≠a",,,,
-,,,,,301012,"Hora, minuto",,,,
-,,,,,301027,Descripci√≥n de un elemento en 3-D o 2-D,,,,
-,,,,,019005,Direcci√≥n del desplazamiento de la caracter√≠stica,,,,
-,,,,,019006,Velocidad del desplazamiento de la caracter√≠stica,,,,
-,,,,,020028,Cambio esperado en intensidad,,,,
-,,,,,008021,Significaci√≥n temporal,Fijar en faltante (anular),,,
-,,,SIGMET ‚Äì Situaci√≥n del pron√≥stico,,,,,,,
-,,316032,,,008021,Significaci√≥n temporal,= 4 previsi√≥n,,,
-,,,,,301011,"A√±o, mes, d√≠a",,,,
-,,,,,301012,"Hora, minuto",,,,
-,,,,,301027,Descripci√≥n de un elemento en 3-D o 2-D,,,,
-,,,,,008021,Significaci√≥n temporal,Fijar en faltante(anular),,,
-,,,SIGMET ‚Äì Perspectiva,,,,,,,
-,,316033,,,008021,Significaci√≥n temporal,= 4 previsi√≥n,,,
-,,,,,301011,"A√±o, mes, d√≠a",,,,
-,,,,,301012,"Hora, minuto",,,,
-,,,,,101000,Repetici√≥n diferida de 1 descriptor,,,,
-,,,,,031001,Factor de repetici√≥n diferida del descriptor,,,,
-,,,,,301027,Descripci√≥n de un elemento en 3-D o 2-D,,,,
-,,,,,008021,Significaci√≥n temporal,Fijar en faltante(anular),,,
-,,,SIGMET ‚Äì Ceniza volc√°nica,,,,,,,
-,,316034,,,008079,Estado del producto,"= 0 emisi√≥n normal,
-= 1 correcci√≥n",,,
-,,,,,316030,Encabezamiento SIGMET,,,,
-,,,,,008011,Caracter√≠stica meteorol√≥gica,= 17 volc√°n,,,
-,,,,,001022,Nombre de la caracter√≠stica,,,,
-,,,,,008007,Significaci√≥n dimensional,= 0 punto,,,
-,,,exactitud aproximada,,301023,Latitud/longitud (exactitud aproximada),,,,
-,,,,,008007,Significaci√≥n dimensional,Fijar en faltante (anular),,,
-,,,,,020090,Nubes especiales,= 5 nubes originadas por erupciones volc√°nicas,,,
-,,,,,316031,"SIGMET, posici√≥n y desplazamiento observados o pronosticados",,,,
-,,,,,101000,Repetici√≥n diferida de 1 descriptor,,,,
-,,,,,031000,Factor de repetici√≥n ligeramente diferida del descriptor,,,,
-,,,,,316032,"SIGMET, situaci√≥n del pron√≥stico",,,,
-,,,,,101000,Repetici√≥n diferida de 1 descriptor,,,,
-,,,,,031001,Factor de repetici√≥n diferida del descriptor,,,,
-,,,,,316033,"SIGMET, perspectiva",,,,
-,,,,,008011,Caracter√≠stica meteorol√≥gica,Fijar en faltante (anular),,,
-,,,,,008079,Estado del producto,Fijar en faltante (anular),,,
-,,,SIGMET ‚Äì Tormenta,,,,,,,
-,,316035,,,008079,Estado del producto,"= 0 emisi√≥n normal,
-= 1 correcci√≥n",,,
-,,,,,316030,Encabezamiento SIGMET,,,,
-,,,,,008011,Caracter√≠stica meteorol√≥gica,= 21 tormenta,,,
-,,,,,020023,Otros fen√≥menos meteorol√≥gicos,Bit 2 = turbonadas o los 18 bits = faltante,,,
-,,,,,020021,Tipo de precipitaci√≥n,Bit 14 = granizo o los 30 bits = faltante,,,
-,,,,,020008,Distribuci√≥n de las nubes para la aviaci√≥n,"= 15 OBSC, = 16 EMBD, = 12 FRQ, =
-31 faltante",,,
-,,,,,316031,"SIGMET, posici√≥n y desplazamiento observados o pronosticados",,,,
-,,,,,008011,Caracter√≠stica meteorol√≥gica,Fijar en faltante (anular),,,
-,,,,,008079,Estado del producto,Fijar en faltante (anular),,,
-,,,SIGMET ‚Äì Cicl√≥n tropical,,,,,,,
-,,316036,,,008079,Estado del producto,"= 0 emisi√≥n normal,
-= 1 correcci√≥n",,,
-,,,,,316030,Encabezamiento SIGMET,,,,
-,,,,,008011,Caracter√≠stica meteorol√≥gica,= 22 cicl√≥n tropical,,,
-,,,,,001027,Nombre OMM de la tormenta,,,,
-,,,,,316031,"SIGMET, posici√≥n y desplazamiento observados o pronosticados",,,,
-,,,,,101000,Repetici√≥n diferida de 1 descriptor,,,,
-,,,,,031000,Factor de repetici√≥n ligeramente diferida del descriptor,,,,
-,,,,,316032,"SIGMET, situaci√≥n del pron√≥stico",,,,
-,,,,,101000,Repetici√≥n diferida de 1 descriptor,,,,
-,,,,,031001,Factor de repetici√≥n diferida del descriptor,,,,
-,,,,,316033,"SIGMET, perspectiva",,,,
-,,,,,008011,Caracter√≠stica meteorol√≥gica,Fijar en faltante (anular),,,
-,,,,,008079,Estado del producto,Fijar en faltante (anular),,,
-,,,SIGMET ‚Äì Turbulencia,,,,,,,
-,,316037,,,008079,Estado del producto,"= 0 emisi√≥n normal,
-= 1 correcci√≥n",,,
-,,,,,316030,Encabezamiento SIGMET,,,,
-,,,,,008011,Caracter√≠stica meteorol√≥gica,= 13 turbulencia,,,
-,,,,,011031,Grado de turbulencia,"= 10 moderado,= 11 fuerte",,,
-,,,,,316031,"SIGMET, posici√≥n y desplazamiento observados o pronosticados",,,,
-,,,,,008011,Caracter√≠stica meteorol√≥gica,Fijar en faltante (anular),,,
-,,,,,008079,Estado del producto,Fijar en faltante (anular),,,
-,,,SIGMET ‚Äì Engelamiento,,,,,,,
-,,316038,,,008079,Estado del producto,"= 0 emisi√≥n normal,
-= 1 correcci√≥n",,,
-,,,,,316030,Encabezamiento SIGMET,,,,
-,,,,,008011,Caracter√≠stica meteorol√≥gica,= 15 engelamiento del fuselaje de la aeronave,,,
-,,,,,020041,Engelamiento del fuselaje de la aeronave,= 7 fuerte,,,
-,,,,,020021,Tipo de precipitaci√≥n,bit 3 = congelamiento l√≠quido o los 30 bits = faltante,,,
-,,,,,316031,"SIGMET, posici√≥n y desplazamiento observados o pronosticados",,,,
-,,,,,008011,Caracter√≠stica meteorol√≥gica,Fijar en faltante (anular),,,
-,,,,,008079,Estado del producto,Fijar en faltante (anular),,,
-,,,"SIGMET ‚Äì Onda orogr√°fica, tempestad de polvo o tempestad de arena",,,,,,,
-,,316039,,,008079,Estado del producto,"= 0 emisi√≥n normal,
-= 1 correcci√≥n",,,
-,,,,,316030,Encabezamiento SIGMET,,,,
-,,,,,008011,Caracter√≠stica meteorol√≥gica,"= 23 onda orogr√°fica,
-= 24 tempestad de polvo, = 25 tempestad de arena",,,
-,,,,,020024,Intensidad de los fen√≥menos,"= 3 fuerte, = 5 violento",,,
-,,,,,316031,"SIGMET, posici√≥n y desplazamiento observados o pronosticados",,,,
-,,,,,008011,Caracter√≠stica meteorol√≥gica,Fijar en faltante (anular),,,
-,,,,,008079,Estado del producto,Fijar en faltante (anular),,,
-,,,Anulaci√≥n de SIGMET,,,,,,,
-,,316040,,,316030,Encabezamiento SIGMET,,,,
-,,,,,008079,Estado del producto,= 4 anulaci√≥n,,,
-,,,,,301014,Per√≠odo de tiempo,Del SIGMET que va a anularse,,,
-,,,,,001037,Identificador de secuencia de SIGMET,Del SIGMET que va a anularse,,,
-,,,,,010064,Nivel de crucero SIGMET,Del SIGSMET que va a anularse,,,
-,,,,,008079,Estado del producto,Fijar en faltante (anular),,,
-,,,Modelo RADOB ‚Äì parte A: informaci√≥n sobre ciclones tropicales,,,,,,,
-,,316050,,,301001,N√∫meros de bloque y de la estaci√≥n de la OMM,,,,
-,,,,,301011,"A√±o, mes, d√≠a",,,,
-,,,,,301012,"Hora, minuto",,,,
-,,,,,002160,Longitud de onda del radar,,,,
-,,,,,008005,Significaci√≥n del atributo meteorol√≥gico,= 1,,,
-,,,precisi√≥n aproximada,,005002,Latitud (precisi√≥n aproximada),,,,
-,,, precisi√≥n aproximada,,006002,Longitud ( precisi√≥n aproximada),,,,
-,,,,,008005,Significaci√≥n del atributo meteorol√≥gico,Anular,,,
-,,,,,019100,Intervalo de tiempo para calcular el movimiento del cicl√≥n tropical,,,,
-,,,,,019005,Direcci√≥n de desplazamiento del elemento,,,,
-,,,,,019006,Velocidad de desplazamiento del elemento,,,,
-,,,,,019101,Precisi√≥n de la posici√≥n del centro del cicl√≥n tropical,,,,
-,,,,,019102,Configuraci√≥n y definici√≥n del ojo del cicl√≥n tropical,,,,
-,,,,,019103,Di√°metro del eje principal del ojo del cicl√≥n tropical,,,,
-,,,,,019104,Cambio de la naturaleza del ojo durante los 30 minutos,,,,
-,,,,,019105,Distancia entre el fin de la banda en espiral y el centro,,,,
-,,,Modelo SAREP ‚Äì parte A: informaci√≥n sobre ciclones tropicales,,,,,,,
-,,316052,,,301005,Centro/centro secundario de origen,,,,
-,,,,,301011,"A√±o, mes, d√≠a",,,,
-,,,,,301012,"Hora, minuto",,,,
-,,,,,001007,Identificador del sat√©lite,,,,
-,,,,,025150,M√©todo satelital de an√°lisis de la intensidad del cicl√≥n tropical,,,,
-,,,,,122000,Repetici√≥n diferida de 22 descriptores,,,,
-,,,,,031001,Factor de repetici√≥n diferida del descriptor,,,,
-,,,,,001027,Nombre completo OMM de la tormenta,,,,
-,,,Comit√© de Tifones,,019150,N√∫mero Com√∫n Internacional del Tif√≥n (Comit√© de Tifones),,,,
-,,,,,019106,N√∫mero de identificaci√≥n del cicl√≥n tropical,,,,
-,,,,,008005,Significaci√≥n del atributo meteorol√≥gico,= 1,,,
-,,,exactitud aproximada,,005002,Latitud (exactitud aproximada),,,,
-,,,exactitud aproximada,,006002,Longitud (exactitud aproximada),,,,
-,,,,,008005,Significaci√≥n del atributo meteorol√≥gico,Anular,,,
-,,,,,019107,Intervalo de tiempo sobre el que se ha calculado el movimiento del cicl√≥n tropical,,,,
-,,,,,019005,Direcci√≥n de desplazamiento de la caracter√≠stica,,,,
-,,,,,019006,Velocidad de desplazamiento de la caracter√≠stica,,,,
-,,,,,019108,Exactitud de la posici√≥n geogr√°fica del cicl√≥n tropical,,,,
-,,,,,019109,Di√°metro medio de la cobertura nubosa del cicl√≥n tropical,,,,
-,,,,,019110,Cambio aparente en 24 horas de la intensidad del cicl√≥n tropical,,,,
-,,,CI,,019111,N√∫mero intensidad actual (CI) del cicl√≥n tropical,,,,
-,,,DT,,019112,N√∫mero ‚Äútropical-datos‚Äù (DT) del cicl√≥n tropical,,,,
-,,,,,019113,Tipo de caracter√≠sticas de las nubes del n√∫mero DT,,,,
-,,,MET,,019114,N√∫mero ‚Äútropical-predicci√≥n de modelo‚Äù (MET) del cicl√≥n tropical,,,,
-,,,"+: desarrollado, -: debilitado",,019115,"Tendencia del cambio en las 24 horas anteriores (+: desarrollado, -: debilitado)",,,,
-,,,PT,,019116,N√∫mero ‚Äútropical-patr√≥n‚Äù (PT) del cicl√≥n tropical,,,,
-,,,,,019117,Tipo de imagen de nube del n√∫mero PT,,,,
-,,,T,,019118,N√∫mero final tropical (T) del cicl√≥n tropical,,,,
-,,,,,019119,Tipo del n√∫mero final T,,,,
-,,,,,,Situaci√≥n del centro de la l√≠nea de turbonada,,,,
-,,0,exactitud aproximada,,05002,Latitud (exactitud aproximada),,,,
-,,0,exactitud aproximada,,06002,Longitud (exactitud aproximada),,,,
-,,0,,,19005,Direcci√≥n del desplazamiento de la caracter√≠stica,,,,
-,,0,,,19006,Velocidad del desplazamiento de la caracter√≠stica,,,,
-,,,,,,"Amplitud del elemento, desde el punto m√°s exterior al punto central: lado norte",,,,
-,,0,exactitud aproximada,,05002,Latitud (exactitud aproximada),,,,
-,,0,exactitud aproximada,,06002,Longitud (exactitud aproximada),,,,
-,,,,,,"Amplitud del elemento, desde el punto m√°s exterior al punto central: lado sur",,,,
-,,0,exactitud aproximada,,05002,Latitud (exactitud aproximada),,,,
-,,0,exactitud aproximada,,06002,Longitud (exactitud aproximada),,,,
-,,0,precisi√≥n aproximada,,05002,Latitud (precisi√≥n aproximada),,,,
-,,0,precisi√≥n aproximada,,06002,Longitud (precisi√≥n aproximada),,,,
-,,0,,,19005,Direcci√≥n del desplazamiento de la caracter√≠stica,,,,
-,,0,,,19006,Velocidad del desplazamiento de la caracter√≠stica,,,,
-,,,,,,"Amplitud del elemento, desde el punto m√°s exterior al punto central: lado norte",,,,
-,,1,,,02000,Repetici√≥n diferida de 2 descriptores,,,,
-,,0,,,31001,Factor de repetici√≥n diferida del descriptor,,,,
-,,0,precisi√≥n aproximada,,05002,Latitud (precisi√≥n aproximada),,,,
-,,0,precisi√≥n aproximada,,06002,Longitud (precisi√≥n aproximada),,,,
-,,,,,,"Amplitud del elemento, desde el punto m√°s exterior al punto central: lado sur",,,,
-,,1,,,02000,Repetici√≥n diferida de 2 descriptores,,,,
-,,0,,,31001,Factor de repetici√≥n diferida del descriptor,,,,
-,,0,precisi√≥n aproximada,,05002,Latitud (precisi√≥n aproximada),,,,
-,,0,precisi√≥n aproximada,,06002,Longitud (precisi√≥n aproximada),,,,
-,,,,,,"Amplitud del elemento, desde el punto m√°s exterior al punto central: Evoluci√≥n",,,,
-,,0,,,04074,Per√≠odo o desplazamiento de tiempo abreviado,Per√≠odo de validez,,,
-,,0,,,20048,Evoluci√≥n del elemento,,,,
-,,0,,,11041,Velocidad m√°xima de las r√°fagas de viento,Irrupci√≥n m√°xima esperada,,,
-,,,,,013055,Intensidad de la precipitaci√≥n,Intensidad de la lluvia esperada,,,
-,,,AIRMET Sierra gr√°ficos,,,,,,,
-,,316 071,,,301014,Per√≠odo de tiempo,Durante el que AIRMET es v√°lido,,,
-,,,,,101000,Repetici√≥n diferida de 1 descriptor,,,,
-,,,,,031002,Factor ampliado de repetici√≥n diferida del descriptor,,,,
-,,,,,316075,Techo de nubes y visibilidad IFR GFA,,,,
-,,,,,101000,Repetici√≥n diferida de 1 descriptor,,,,
-,,,,,031002,Factor ampliado de repetici√≥n diferida del descriptor,,,,
-,,,,,316076,Oscurecimiento de monta√±a GFA,,,,
-,,,AIRMET Tango gr√°ficos,,,,,,,
-,,316 072,,,301014,Per√≠odo de tiempo,Durante el que AIRMET es v√°lido,,,
-,,,,,101000,Repetici√≥n diferida de 1 descriptor,,,,
-,,,,,031002,Factor ampliado de repetici√≥n diferida del descriptor,,,,
-,,,,,316077,Turbulencia GFA,,,,
-,,,,,101000,Repetici√≥n diferida de 1 descriptor,,,,
-,,,,,031002,Factor ampliado de repetici√≥n diferida del descriptor,,,,
-,,,,,316078,Viento fuerte en superficie GFA,,,,
-,,,,,101000,Repetici√≥n diferida de 1 descriptor,,,,
-,,,,,031002,Factor ampliado de repetici√≥n diferida del descriptor,,,,
-,,,,,316079,Cizalladura del viento en niveles bajos GFA,,,,
-,,,AIRMET Zulu gr√°ficos,,,,,,,
-,,316 073,,,301014,Per√≠odo de tiempo,Durante el que AIRMET es v√°lido,,,
-,,,,,101000,Repetici√≥n diferida de 1 descriptor,,,,
-,,,,,031002,Factor ampliado de repetici√≥n diferida del descriptor,,,,
-,,,,,316080,Engelamiento GFA,,,,
-,,,,,101000,Repetici√≥n diferida de 1 descriptor,,,,
-,,,,,031002,Factor ampliado de repetici√≥n diferida del descriptor,,,,
-,,,,,316081,Nivel de congelaci√≥n GFA,,,,
-,,,Identificador y ubicaci√≥n observada o pronosticada GFA,,,,,,,
-,,316 074,GFA,,001039,Identificador de secuencia de predicci√≥n gr√°fica de √°rea (GFA),,,,
-,,,,,008021,Significaci√≥n temporal,"= 4 predicci√≥n,",,,
-,,,,,,,= 16 an√°lisis,,,
-,,,,,301014,Per√≠odo de tiempo,Respecto del que se observa o pronostica el fen√≥meno peligroso,,,
-,,,,,301027,Descripci√≥n de un elemento en 3-D o 2-D,,,,
-,,,,,008021,Significaci√≥n temporal,Fijar en faltante (anular),,,
-,,,Techo de nubes y visibilidad IFR GFA,,,,,,,
-,,316075,,,008079,Estado del producto,"= 0 normal, = 1
-COR, = 2 AMD, = 3 COR AMD, = 4 CNL",,,
-,,,,,008041,Significaci√≥n de datos,= 8 techo de nubes y visibilidad IFR,,,
-,,,,,316074,Identificador y ubicaci√≥n observada o pronosticada GFA,,,,
-,,,,,020006,Reglas de vuelo,= 1 IFR,,,
-,,,,,033042,Tipo del l√≠mite representado por el valor siguiente,"= 2 l√≠mite superior exclusivo, = 7 faltante",,,
-,,,,,020013,Altura de la base de las nubes,,,,
-,,,,,033042,Tipo del l√≠mite representado por el valor siguiente,"= 2 l√≠mite superior exclusivo, = 7 faltante",,,
-,,,,,020001,Visibilidad horizontal,,,,
-,,,,,020025,Oscurecimiento,,,,
-,,,,,020026,Car√°cter del oscurecimiento,"= 6 ventisca alta, = 15 faltante",,,
-,,,,,008041,Significaci√≥n de datos,Fijar en faltante (anular),,,
-,,,,,008079,Estado del producto,Fijar en faltante (anular),,,
-,,,Oscurecimiento de monta√±a GFA,,,,,,,
-,,316076,,,008079,Estado del producto,"= 0 normal, = 1
-COR, = 2 AMD, = 3 COR AMD, = 4 CNL",,,
-,,,,,008041,Significaci√≥n de datos,= 9 oscurecimiento de monta√±a,,,
-,,,,,316074,Identificador y ubicaci√≥n observada o pronosticada GFA,,,,
-,,,,,020006,Reglas de vuelo,= 1 IFR,,,
-,,,,,020025,Oscurecimiento,,,,
-,,,,,020026,Car√°cter del oscurecimiento,"= 6 ventisca alta, = 15 faltante",,,
-,,,,,008041,Significaci√≥n de datos,Fijar en faltante (anular),,,
-,,,,,008079,Estado del producto,Fijar en faltante (anular),,,
-,,,Turbulencia GFA,,,,,,,
-,,316077,,,008079,Estado del producto,"= 0 normal, = 1
-COR, = 2 AMD, = 3 COR AMD, = 4 CNL",,,
-,,,,,008011,Caracter√≠stica meteorol√≥gica,= 13 turbulencia,,,
-,,,,,316074,Identificador y ubicaci√≥n observada o pronosticada GFA,,,,
-,,,,,011031,Grado de turbulencia,= 6 moderada,,,
-,,,,,008011,Caracter√≠stica meteorol√≥gica,Fijar en faltante (anular),,,
-,,,,,008079,Estado del producto,Fijar en faltante (anular),,,
-,,,Viento fuerte en superficie GFA,,,,,,,
-,,316078,,,008079,Estado del producto,"= 0 normal, = 1
-COR, = 2 AMD, = 3 COR AMD, = 4 NL",,,
-,,,,,008041,Significaci√≥n de datos,= 10 viento fuerte en superficie,,,
-,,,,,316074,Identificador y ubicaci√≥n observada o pronosticada GFA,,,,
-,,,,,033042,Tipo de l√≠mite representado por el valor siguiente,= 0 l√≠mite inferior exclusivo,,,
-,,,,,011012,Velocidad del viento a 10 m,,,,
-,,,,,008041,Significaci√≥n de datos,Fijar en faltante (anular),,,
-,,,,,008079,Estado del producto,Fijar en faltante (anular),,,
-,,,Cizalladura del viento en niveles bajos GFA,,,,,,,
-,,316079,,,008079,Estado del producto,"= 0 normal, = 1
-COR, = 2 AMD, = 3 COR AMD, = 4 NL",,,
-,,,,,008011,Caracter√≠stica meteorol√≥gica,= 16 fen√≥meno,,,
-,,,,,316074,Identificador y ubicaci√≥n observada o pronosticada GFA,,,,
-,,,,,020023,Otros fen√≥menos meteorol√≥gicos,bit 12 = cizalladura,,,
-,,,,,020024,Intensidad del fen√≥meno,,,,
-,,,,,008011,Caracter√≠stica meteorol√≥gica,Fijar en faltante (anular),,,
-,,,,,008079,Estado del producto,Fijar en faltante (anular),,,
-,,,Engelamiento GFA,,,,,,,
-,,316080,,,008079,Estado del producto,"= 0 normal, = 1
-COR, = 2 AMD, = 3 COR AMD, = 4 NL",,,
-,,,,,008011,Caracter√≠stica meteorol√≥gica,= 15 engelamiento del fuselaje de la aeronave,,,
-,,,,,316074,Identificador y ubicaci√≥n observada o pronosticada GFA),,,,
-,,,,,020041,Engelamiento del fuselaje de la aeronave,= 4 engelamiento moderado,,,
-,,,,,008011,Caracter√≠stica meteorol√≥gica,Fijar en faltante (anular),,,
-,,,,,008079,Estado del producto,Fijar en faltante (anular),,,
-,,,Nivel de congelamiento GFA,,,,,,,
-,,316081,,,008079,Estado del producto,"= 0 normal, = 1
-COR, = 2 AMD, = 3 COR AMD, = 4 NL",,,
-,,,,,008041,Significaci√≥n de datos,"= 11 nivel de engelamiento, = 12 nivel de engelamiento m√∫ltiple",,,
-,,,,,316074,Identificador y ubicaci√≥n observada o pronosticada GFA,,,,
+16, Secuencias de las caracterÌsticas sinÛpticas,316001,,,301011,"A√±o, mes, d√≠a",,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,004004,Hora,,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,301023,Latitud/longitud (precisi√≥n aproximada),,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,001021,Identificador de la configuraci√≥n sin√≥ptica,,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,002041,M√©todo de estimaci√≥n utilizado para el informe de configuraci√≥n sin√≥ptica,,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,019001,Tipo de configuraci√≥n sin√≥ptica,,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,010051,Presi√≥n reducida a nivel medio del mar,,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,019002,Radio real de la configuraci√≥n,,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,019003,Umbral de velocidad del viento,Generalmente 15 m s‚Äì1,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,019004,Radio real para las velocidades del viento superiores al umbral,,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,316002,(Encabezamiento),,008021,Significaci√≥n temporal,Hora de los datos (an√°lisis),,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,004001,A√±o,,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,004002,Mes,,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,004003,D√≠a,,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,004004,Hora,,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,004005,Minuto,,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,001033,Identificaci√≥n del centro de origen/generaci√≥n,,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,008021,Significaci√≥n temporal,Hora de validez (pron√≥stico),,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,004001,A√±o,,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,004002,Mes,,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,004003,D√≠a,,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,004004,Hora,,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,004005,Minuto,,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,007002,Altura o altitud,Nivel de vuelo (base de la capa del mapa),,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,007002,Altura o altitud,Nivel de vuelo (cima de la capa del mapa),,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,316003,(Corriente de chorro),,110000,Repetici√≥n diferida de 10 descriptores,,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,031001,Factor de repetici√≥n diferida del descriptor,,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,008011,Caracter√≠stica meteorol√≥gica,Valor de la corriente de chorro,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,008007,Significaci√≥n dimensional,Valor de la l√≠nea,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,104000,Repetici√≥n diferida de 4 descriptores,,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,031001,Factor de repetici√≥n diferida del descriptor,,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,005002,Latitud (exactitud aproximada),,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,006002,Longitud (exactitud aproximada),,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,010002,Altura,Nivel de vuelo,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,011002,Velocidad del viento,,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,008007,Significaci√≥n dimensional,Anular,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,008011,Caracter√≠stica meteorol√≥gica,Anular | Fin del objeto,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,316004,(Turbulencia),,111000,Repetici√≥n diferida de 11 descriptores,,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,031001,Factor de repetici√≥n diferida del descriptor,,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,008011,Caracter√≠stica meteorol√≥gica,Valor de la turbulencia,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,008007,Significaci√≥n dimensional,Valor del √°rea,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,007002,Altura o altitud,Nivel de vuelo (base de la capa),,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,007002,Altura o altitud,Nivel de vuelo (cima de la capa),,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,102000,Repetici√≥n diferida de 2 descriptores,,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,031001,Factor de repetici√≥n diferida del descriptor,,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,005002,Latitud (exactitud aproximada),,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,006002,Longitud (exactitud aproximada),,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,011031,Grado de turbulencia (v√©ase la nota 1),,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,008007,Significaci√≥n dimensional,Anular,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,008011,Caracter√≠stica meteorol√≥gica,Anular | Fin del objeto,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,316005,(Tormenta),,108000,Repetici√≥n diferida de 8 descriptores,,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,031001,Factor de repetici√≥n diferida del descriptor,,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,008005,Significaci√≥n del atributo meteorol√≥gico,Centro de la tormenta,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,008007,Significaci√≥n dimensional,Valor del punto,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,005002,Latitud (exactitud aproximada),,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,006002,Longitud (exactitud aproximada),,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,001026,Nombre OMM de la tormenta,Se utiliza ‚ÄúUNKNOWN‚Äù para una tempestad de arena,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,019001,Tipo de caracter√≠stica sin√≥ptica,Valor correspondiente al tipo de tormenta,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,008007,Significaci√≥n dimensional,Anular,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,008005,Significaci√≥n del atributo meteorol√≥gico,Anular | Fin del objeto,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,316006,(Nubes),,112000,Repetici√≥n diferida de 12 descriptores,,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,031001,Factor de repetici√≥n diferida del descriptor,,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,008011,Caracter√≠stica meteorol√≥gica,Valor de la nube,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,008007,Significaci√≥n dimensional,Valor del √°rea,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,007002,Altura o altitud,Nivel de vuelo (base de la capa),,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,007002,Altura o altitud,Nivel de vuelo (cima de la capa),,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,102000,Repetici√≥n diferida de 2 descriptores,,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,031001,Factor de repetici√≥n diferida del descriptor,,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,005002,Latitud (exactitud aproximada),,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,006002,Longitud (exactitud aproximada),,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,020011,Nubosidad (v√©ase la nota 2),,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,020012,Tipo de nubes,,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,008007,Significaci√≥n dimensional,Anular,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,008011,Caracter√≠stica meteorol√≥gica,Anular | Fin del objeto,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,316007,(Frente),,110000,Repetici√≥n diferida de 10 descriptores,,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,031001,Factor de repetici√≥n diferida del descriptor,,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,008011,Caracter√≠stica meteorol√≥gica (v√©ase la nota 3),Valor correspondiente al tipo de frente,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,008007,Significaci√≥n dimensional,Valor de la l√≠nea,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,104000,Repetici√≥n diferida de 4 descriptores,,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,031001,Factor de repetici√≥n diferida del descriptor,,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,005002,Latitud (exactitud aproximada),,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,006002,Longitud (exactitud aproximada),,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,019005,Direcci√≥n del desplazamiento de la caracter√≠stica,,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,019006,Velocidad del desplazamiento de la caracter√≠stica,,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,008007,Significaci√≥n dimensional,Anular,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,008011,Caracter√≠stica meteorol√≥gica,Anular | Fin del objeto,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,316008,(Tropopausa),,111000,Repetici√≥n diferida de 11 descriptores,,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,031001,Factor de repetici√≥n diferida del descriptor,,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,008001,Significaci√≥n del sondeo vertical,Se fija el bit 3 para la tropopausa.,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,008007,Significaci√≥n dimensional,Valor del punto,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,008023,Estad√≠sticas de primer orden (v√©ase la nota 4),Valor correspondiente al tipo de tropopausa,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,103000,Repetici√≥n diferida de 3 descriptores,,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,031001,Factor de repetici√≥n diferida del descriptor,,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,005002,Latitud (exactitud aproximada),,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,006002,Longitud (exactitud aproximada),,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,010002,Altura,,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,008023,Estad√≠sticas de primer orden,Anular,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,008007,Significaci√≥n dimensional,Anular,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,008001,Significaci√≥n del sondeo vertical,Anular | Fin del objeto,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,316009,(√Årea de engelamiento del fuselaje de la aeronave),,111000,Repetici√≥n diferida de 11 descriptores,,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,031001,Factor de repetici√≥n diferida del descriptor,,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,008011,Caracter√≠stica meteorol√≥gica,Valor correspondiente al engelamiento del fuselaje de la aeronave,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,008007,Significaci√≥n dimensional,Valor del √°rea,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,007002,Altura o altitud,Nivel de vuelo (base de la capa),,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,007002,Altura o altitud,Nivel de vuelo (cima de la capa),,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,102000,Repetici√≥n diferida de 2 descriptores,,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,031001,Factor de repetici√≥n diferida del descriptor,,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,005002,Latitud (exactitud aproximada),,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,006002,Longitud (exactitud aproximada),,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,020041,Engelamiento del fuselaje de la aeronave,Tipo de engelamiento del fuselaje de la aeronave,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,008007,Significaci√≥n dimensional,Anular,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,008011,Caracter√≠stica meteorol√≥gica,Anular | Fin del objeto,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,316010,(Nombre de la caracter√≠stica),,107000,Repetici√≥n diferida de 7 descriptores,,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,031001,Factor de repetici√≥n diferida del descriptor,,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,008011,Caracter√≠stica meteorol√≥gica,,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,008007,Significaci√≥n dimensional,Valor del punto,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,001022,Nombre de la caracter√≠stica,,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,005002,Latitud (exactitud aproximada),,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,006002,Longitud (exactitud aproximada),,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,008007,Significaci√≥n dimensional,Anular,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,008011,Caracter√≠stica meteorol√≥gica,Anular | Fin del objeto,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,316011,(Erupci√≥n de volc√°n),,117000,Repetici√≥n diferida de 17 descriptores,,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,031001,Factor de repetici√≥n diferida del descriptor,,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,008011,Caracter√≠stica meteorol√≥gica,Valor correspondiente a nubes especiales,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,001022,Nombre de la caracter√≠stica,Nombre del volc√°n,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,008007,Significaci√≥n dimensional,Valor del punto,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,102000,Repetici√≥n diferida de 2 descriptores,,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,031001,Factor de repetici√≥n diferida del descriptor,,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,005002,Latitud (exactitud aproximada),,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,006002,Longitud (exactitud aproximada),,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,008021,Significaci√≥n temporal,Hora de inicio de la erupci√≥n,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,004001,A√±o,,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,004002,Mes,,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,004003,D√≠a,,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,004004,Hora,,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,004005,Minuto,,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,020090,Nubes especiales,Nubes formadas por erupciones volc√°nicas,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,008021,Significaci√≥n temporal,Anular,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,008007,Significaci√≥n dimensional,Anular,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,008011,Caracter√≠stica meteorol√≥gica,Anular | Fin del objeto,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,316020,(Identificaci√≥n de la tormenta tropical),,001033,Identificaci√≥n del centro de origen/generaci√≥n,,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,001025,Identificador de tormenta,,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,001027,Nombre OMM completo de la tormenta,,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,301011,"A√±o, mes, d√≠a",,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,301012,"Hora, minuto",,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,316021,(Datos de an√°lisis),,301023,Latitud/longitud (precisi√≥n aproximada),,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,002041,M√©todo de estimaci√≥n utilizado en los informes relativos a la configuraci√≥n sin√≥ptica,,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,019001,Tipo de caracter√≠stica sin√≥ptica,,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,019007,Radio efectivo de la caracter√≠stica,,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,019005,Direcci√≥n del desplazamiento de la caracter√≠stica,,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,019006,Velocidad del desplazamiento de la caracter√≠stica,,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,019008,Extensi√≥n vertical de la circulaci√≥n,,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,008005,Significaci√≥n del atributo meteorol√≥gico,= 1 centro de la tormenta,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,010004,Presi√≥n,Centro de la tormenta en virtud del calificador de significaci√≥n precedente,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,008005,Significaci√≥n del atributo meteorol√≥gico,= 2 l√≠mite exterior o el borde de la caracter√≠stica,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,010004,Presi√≥n,L√≠mite exterior,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,019007,Radio efectivo de la caracter√≠stica,L√≠mite exterior,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,008005,Significaci√≥n del atributo meteorol√≥gico,= 3 ubicaci√≥n del viento m√°ximo,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,008021,Significaci√≥n temporal,Tiempo promediado,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,004075,Per√≠odo o desplazamiento de tiempo abreviado,Minutos,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,011040,Velocidad m√°xima del viento (viento medio),,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,019007,Radio efectivo de la caracter√≠stica,Viento m√°ximo,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,105004,Repetir 5 descriptores 4 veces,,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,005021,Rumbo o azimut,Inicial,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,005021,Rumbo o azimut,Final,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,102002,Repetir 2 descriptores 2 veces,,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,019003,Umbral de velocidad del viento,,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,019004,Radio efectivo de las velocidades del viento por encima del umbral,,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,316022,(Datos de pron√≥sticos),,001032,Aplicaci√≥n de producci√≥n,"Nombre del modelo PNT, etc., tabla de cifrado definida por el centro de origen/ generaci√≥n",,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,002041,M√©todo para la estimaci√≥n de informes relativos a la caracter√≠stica sin√≥ptica,,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,019001,Tipo de caracter√≠stica sin√≥ptica,,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,019010,M√©todo de seguimiento del centro de la caracter√≠stica sin√≥ptica,,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,118000,Repetici√≥n diferida de 18 descriptores,,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,031001,Factor de repetici√≥n diferida del descriptor,,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,008021,Significaci√≥n temporal,Previsi√≥n,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,004014,Incremento de tiempo,Horas,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,008005,Significaci√≥n del atributo meteorol√≥gico,Caracter√≠stica sin√≥ptica de superficie,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,301023,Latitud/longitud (exactitud aproximada),,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,019005,Direcci√≥n del desplazamiento de la caracter√≠stica,,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,019006,Velocidad del desplazamiento de la caracter√≠stica,,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,010004,Presi√≥n,,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,011041,Velocidad m√°xima de las r√°fagas de viento,"Utilizada, por ejemplo, en los Estados Unidos",,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,008021,Significaci√≥n temporal,Promedio del tiempo de predicci√≥n,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,004075,Per√≠odo o desplazamiento de tiempo abreviado,Minutos,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,011040,Velocidad m√°xima del viento (viento medio),,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,019008,Extensi√≥n vertical de la circulaci√≥n,,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,105004,Repetir 5 descriptores 4 veces,,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,005021,Rumbo o azimut,Final,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,005021,Rumbo o azimut,Inicial,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,102002,Repetir 2 descriptores 2 veces,,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,019003,Umbral de velocidad del viento,,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,019004,Radio efectivo de las velocidades del viento por encima del umbral,,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,316026,(Informaci√≥n sobre el an√°lisis de la tormenta tropical),,316020,Identificaci√≥n de la tormenta tropical,,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,316021,Datos de an√°lisis,,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,316027,(Informaci√≥n sobre la predicci√≥n de tormentas tropicales),,316020,Identificaci√≥n de la tormenta tropical,,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,316022,Datos de an√°lisis,,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,316030,(Encabezamiento SIGMET),,301014,Per√≠odo de tiempo,Para el cual es v√°lido SIGMET,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,001037,Identificador de secuencia SIGMET,,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,010064,Nivel de crucero SIGMET,,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,008019,Calificador para el identificador del centro siguiente,1 = unidad ATS que presta servicio a la FIR,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,001062,Indicador de ubicaci√≥n abreviado de la OACI,,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,008019,Calificador para el identificador del centro siguiente,"= 2 FIR, = 3 UIR, = 4 CTA",,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,001065,Identificador de regi√≥n de la OACI,,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,008019,Calificador para el identificador del centro siguiente,= 6 MWO,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,001062,Indicador de ubicaci√≥n abreviado de la OACI,,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,008019,Calificador para el identificador del centro siguiente,Fijar en faltante (anular),,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,316031,(SIGMET ‚Äì Posici√≥n y desplazamiento observados o pronosticados),,008021,Significaci√≥n temporal,"= 16 an√°lisis, = 4 predicci√≥n",,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,301011,"A√±o, mes, d√≠a",,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,301012,"Hora, minuto",,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,301027,Descripci√≥n de un elemento en 3-D o 2-D,,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,019005,Direcci√≥n del desplazamiento de la caracter√≠stica,,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,019006,Velocidad del desplazamiento de la caracter√≠stica,,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,020028,Cambio esperado en intensidad,,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,008021,Significaci√≥n temporal,Fijar en faltante (anular),,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,316032,(SIGMET ‚Äì Situaci√≥n del pron√≥stico),,008021,Significaci√≥n temporal,= 4 previsi√≥n,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,301011,"A√±o, mes, d√≠a",,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,301012,"Hora, minuto",,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,301027,Descripci√≥n de un elemento en 3-D o 2-D,,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,008021,Significaci√≥n temporal,Fijar en faltante(anular),,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,316033,(SIGMET ‚Äì Perspectiva),,008021,Significaci√≥n temporal,= 4 previsi√≥n,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,301011,"A√±o, mes, d√≠a",,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,301012,"Hora, minuto",,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,101000,Repetici√≥n diferida de 1 descriptor,,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,031001,Factor de repetici√≥n diferida del descriptor,,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,301027,Descripci√≥n de un elemento en 3-D o 2-D,,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,008021,Significaci√≥n temporal,Fijar en faltante(anular),,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,316034,(SIGMET ‚Äì Ceniza volc√°nica),,008079,Estado del producto,"= 0 emisi√≥n normal,
+= 1 correcci√≥n",,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,316030,Encabezamiento SIGMET,,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,008011,Caracter√≠stica meteorol√≥gica,= 17 volc√°n,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,001022,Nombre de la caracter√≠stica,,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,008007,Significaci√≥n dimensional,= 0 punto,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,301023,Latitud/longitud (exactitud aproximada),,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,008007,Significaci√≥n dimensional,Fijar en faltante (anular),,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,020090,Nubes especiales,= 5 nubes originadas por erupciones volc√°nicas,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,316031,"SIGMET, posici√≥n y desplazamiento observados o pronosticados",,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,101000,Repetici√≥n diferida de 1 descriptor,,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,031000,Factor de repetici√≥n ligeramente diferida del descriptor,,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,316032,"SIGMET, situaci√≥n del pron√≥stico",,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,101000,Repetici√≥n diferida de 1 descriptor,,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,031001,Factor de repetici√≥n diferida del descriptor,,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,316033,"SIGMET, perspectiva",,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,008011,Caracter√≠stica meteorol√≥gica,Fijar en faltante (anular),,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,008079,Estado del producto,Fijar en faltante (anular),,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,316035,(SIGMET ‚Äì Tormenta),,008079,Estado del producto,"= 0 emisi√≥n normal,
+= 1 correcci√≥n",,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,316030,Encabezamiento SIGMET,,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,008011,Caracter√≠stica meteorol√≥gica,= 21 tormenta,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,020023,Otros fen√≥menos meteorol√≥gicos,Bit 2 = turbonadas o los 18 bits = faltante,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,020021,Tipo de precipitaci√≥n,Bit 14 = granizo o los 30 bits = faltante,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,020008,Distribuci√≥n de las nubes para la aviaci√≥n,"= 15 OBSC, = 16 EMBD, = 12 FRQ, =
+31 faltante",,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,316031,"SIGMET, posici√≥n y desplazamiento observados o pronosticados",,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,008011,Caracter√≠stica meteorol√≥gica,Fijar en faltante (anular),,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,008079,Estado del producto,Fijar en faltante (anular),,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,316036,(SIGMET ‚Äì Cicl√≥n tropical),,008079,Estado del producto,"= 0 emisi√≥n normal,
+= 1 correcci√≥n",,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,316030,Encabezamiento SIGMET,,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,008011,Caracter√≠stica meteorol√≥gica,= 22 cicl√≥n tropical,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,001027,Nombre OMM de la tormenta,,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,316031,"SIGMET, posici√≥n y desplazamiento observados o pronosticados",,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,101000,Repetici√≥n diferida de 1 descriptor,,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,031000,Factor de repetici√≥n ligeramente diferida del descriptor,,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,316032,"SIGMET, situaci√≥n del pron√≥stico",,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,101000,Repetici√≥n diferida de 1 descriptor,,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,031001,Factor de repetici√≥n diferida del descriptor,,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,316033,"SIGMET, perspectiva",,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,008011,Caracter√≠stica meteorol√≥gica,Fijar en faltante (anular),,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,008079,Estado del producto,Fijar en faltante (anular),,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,316037,(SIGMET ‚Äì Turbulencia),,008079,Estado del producto,"= 0 emisi√≥n normal,
+= 1 correcci√≥n",,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,316030,Encabezamiento SIGMET,,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,008011,Caracter√≠stica meteorol√≥gica,= 13 turbulencia,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,011031,Grado de turbulencia,"= 10 moderado,= 11 fuerte",,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,316031,"SIGMET, posici√≥n y desplazamiento observados o pronosticados",,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,008011,Caracter√≠stica meteorol√≥gica,Fijar en faltante (anular),,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,008079,Estado del producto,Fijar en faltante (anular),,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,316038,(SIGMET ‚Äì Engelamiento),,008079,Estado del producto,"= 0 emisi√≥n normal,
+= 1 correcci√≥n",,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,316030,Encabezamiento SIGMET,,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,008011,Caracter√≠stica meteorol√≥gica,= 15 engelamiento del fuselaje de la aeronave,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,020041,Engelamiento del fuselaje de la aeronave,= 7 fuerte,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,020021,Tipo de precipitaci√≥n,bit 3 = congelamiento l√≠quido o los 30 bits = faltante,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,316031,"SIGMET, posici√≥n y desplazamiento observados o pronosticados",,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,008011,Caracter√≠stica meteorol√≥gica,Fijar en faltante (anular),,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,008079,Estado del producto,Fijar en faltante (anular),,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,316039,"(SIGMET ‚Äì Onda orogr√°fica, tempestad de polvo o tempestad de arena)",,008079,Estado del producto,"= 0 emisi√≥n normal,
+= 1 correcci√≥n",,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,316030,Encabezamiento SIGMET,,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,008011,Caracter√≠stica meteorol√≥gica,"= 23 onda orogr√°fica,
+= 24 tempestad de polvo, = 25 tempestad de arena",,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,020024,Intensidad de los fen√≥menos,"= 3 fuerte, = 5 violento",,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,316031,"SIGMET, posici√≥n y desplazamiento observados o pronosticados",,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,008011,Caracter√≠stica meteorol√≥gica,Fijar en faltante (anular),,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,008079,Estado del producto,Fijar en faltante (anular),,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,316040,(Anulaci√≥n de SIGMET),,316030,Encabezamiento SIGMET,,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,008079,Estado del producto,= 4 anulaci√≥n,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,301014,Per√≠odo de tiempo,Del SIGMET que va a anularse,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,001037,Identificador de secuencia de SIGMET,Del SIGMET que va a anularse,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,010064,Nivel de crucero SIGMET,Del SIGSMET que va a anularse,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,008079,Estado del producto,Fijar en faltante (anular),,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,316050,(Modelo RADOB ‚Äì parte A: informaci√≥n sobre ciclones tropicales),,301001,N√∫meros de bloque y de la estaci√≥n de la OMM,,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,301011,"A√±o, mes, d√≠a",,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,301012,"Hora, minuto",,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,002160,Longitud de onda del radar,,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,008005,Significaci√≥n del atributo meteorol√≥gico,1,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,005002,Latitud (precisi√≥n aproximada),,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,006002,Longitud ( precisi√≥n aproximada),,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,008005,Significaci√≥n del atributo meteorol√≥gico,Anular,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,019100,Intervalo de tiempo para calcular el movimiento del cicl√≥n tropical,,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,019005,Direcci√≥n de desplazamiento del elemento,,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,019006,Velocidad de desplazamiento del elemento,,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,019101,Precisi√≥n de la posici√≥n del centro del cicl√≥n tropical,,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,019102,Configuraci√≥n y definici√≥n del ojo del cicl√≥n tropical,,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,019103,Di√°metro del eje principal del ojo del cicl√≥n tropical,,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,019104,Cambio de la naturaleza del ojo durante los 30 minutos,,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,019105,Distancia entre el fin de la banda en espiral y el centro,,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,316052,(Modelo SAREP ‚Äì parte A: informaci√≥n sobre ciclones tropicales),,301005,Centro/centro secundario de origen,,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,301011,"A√±o, mes, d√≠a",,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,301012,"Hora, minuto",,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,001007,Identificador del sat√©lite,,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,025150,M√©todo satelital de an√°lisis de la intensidad del cicl√≥n tropical,,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,122000,Repetici√≥n diferida de 22 descriptores,,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,031001,Factor de repetici√≥n diferida del descriptor,,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,001027,Nombre completo OMM de la tormenta,,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,019150,N√∫mero Com√∫n Internacional del Tif√≥n (Comit√© de Tifones),,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,019106,N√∫mero de identificaci√≥n del cicl√≥n tropical,,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,008005,Significaci√≥n del atributo meteorol√≥gico,1,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,005002,Latitud (exactitud aproximada),,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,006002,Longitud (exactitud aproximada),,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,008005,Significaci√≥n del atributo meteorol√≥gico,Anular,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,019107,Intervalo de tiempo sobre el que se ha calculado el movimiento del cicl√≥n tropical,,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,019005,Direcci√≥n de desplazamiento de la caracter√≠stica,,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,019006,Velocidad de desplazamiento de la caracter√≠stica,,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,019108,Exactitud de la posici√≥n geogr√°fica del cicl√≥n tropical,,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,019109,Di√°metro medio de la cobertura nubosa del cicl√≥n tropical,,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,019110,Cambio aparente en 24 horas de la intensidad del cicl√≥n tropical,,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,019111,N√∫mero intensidad actual (CI) del cicl√≥n tropical,,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,019112,N√∫mero ‚Äútropical-datos‚Äù (DT) del cicl√≥n tropical,,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,019113,Tipo de caracter√≠sticas de las nubes del n√∫mero DT,,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,019114,N√∫mero ‚Äútropical-predicci√≥n de modelo‚Äù (MET) del cicl√≥n tropical,,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,019115,"Tendencia del cambio en las 24 horas anteriores (+: desarrollado, -: debilitado)",,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,019116,N√∫mero ‚Äútropical-patr√≥n‚Äù (PT) del cicl√≥n tropical,,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,019117,Tipo de imagen de nube del n√∫mero PT,,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,019118,N√∫mero final tropical (T) del cicl√≥n tropical,,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,019119,Tipo del n√∫mero final T,,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,XXXXXX,Situaci√≥n del centro de la l√≠nea de turbonada,,005002,Latitud (exactitud aproximada),,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,006002,Longitud (exactitud aproximada),,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,019005,Direcci√≥n del desplazamiento de la caracter√≠stica,,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,019006,Velocidad del desplazamiento de la caracter√≠stica,,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,XXXXXX,"Amplitud del elemento, desde el punto m√°s exterior al punto central: lado norte",,005002,Latitud (exactitud aproximada),,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,006002,Longitud (exactitud aproximada),,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,XXXXXX,"Amplitud del elemento, desde el punto m√°s exterior al punto central: lado sur",,005002,Latitud (exactitud aproximada),,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,006002,Longitud (exactitud aproximada),,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,005002,Latitud (precisi√≥n aproximada),,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,006002,Longitud (precisi√≥n aproximada),,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,019005,Direcci√≥n del desplazamiento de la caracter√≠stica,,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,019006,Velocidad del desplazamiento de la caracter√≠stica,,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,XXXXXX,"Amplitud del elemento, desde el punto m√°s exterior al punto central: lado norte",,102000,Repetici√≥n diferida de 2 descriptores,,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,031001,Factor de repetici√≥n diferida del descriptor,,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,005002,Latitud (precisi√≥n aproximada),,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,006002,Longitud (precisi√≥n aproximada),,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,XXXXXX,"Amplitud del elemento, desde el punto m√°s exterior al punto central: lado sur",,102000,Repetici√≥n diferida de 2 descriptores,,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,031001,Factor de repetici√≥n diferida del descriptor,,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,005002,Latitud (precisi√≥n aproximada),,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,006002,Longitud (precisi√≥n aproximada),,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,XXXXXX,"Amplitud del elemento, desde el punto m√°s exterior al punto central: Evoluci√≥n",,004074,Per√≠odo o desplazamiento de tiempo abreviado,Per√≠odo de validez,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,020048,Evoluci√≥n del elemento,,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,011041,Velocidad m√°xima de las r√°fagas de viento,Irrupci√≥n m√°xima esperada,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,013055,Intensidad de la precipitaci√≥n,Intensidad de la lluvia esperada,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,316 071,(AIRMET Sierra gr√°ficos),,301014,Per√≠odo de tiempo,Durante el que AIRMET es v√°lido,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,101000,Repetici√≥n diferida de 1 descriptor,,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,031002,Factor ampliado de repetici√≥n diferida del descriptor,,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,316075,Techo de nubes y visibilidad IFR GFA,,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,101000,Repetici√≥n diferida de 1 descriptor,,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,031002,Factor ampliado de repetici√≥n diferida del descriptor,,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,316076,Oscurecimiento de monta√±a GFA,,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,316 072,(AIRMET Tango gr√°ficos),,301014,Per√≠odo de tiempo,Durante el que AIRMET es v√°lido,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,101000,Repetici√≥n diferida de 1 descriptor,,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,031002,Factor ampliado de repetici√≥n diferida del descriptor,,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,316077,Turbulencia GFA,,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,101000,Repetici√≥n diferida de 1 descriptor,,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,031002,Factor ampliado de repetici√≥n diferida del descriptor,,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,316078,Viento fuerte en superficie GFA,,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,101000,Repetici√≥n diferida de 1 descriptor,,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,031002,Factor ampliado de repetici√≥n diferida del descriptor,,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,316079,Cizalladura del viento en niveles bajos GFA,,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,316 073,(AIRMET Zulu gr√°ficos),,301014,Per√≠odo de tiempo,Durante el que AIRMET es v√°lido,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,101000,Repetici√≥n diferida de 1 descriptor,,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,031002,Factor ampliado de repetici√≥n diferida del descriptor,,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,316080,Engelamiento GFA,,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,101000,Repetici√≥n diferida de 1 descriptor,,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,031002,Factor ampliado de repetici√≥n diferida del descriptor,,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,316081,Nivel de congelaci√≥n GFA,,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,316 074,(Identificador y ubicaci√≥n observada o pronosticada GFA),,001039,Identificador de secuencia de predicci√≥n gr√°fica de √°rea (GFA),,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,008021,Significaci√≥n temporal,"= 4 predicci√≥n,= 16 an√°lisis",,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,301014,Per√≠odo de tiempo,Respecto del que se observa o pronostica el fen√≥meno peligroso,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,301027,Descripci√≥n de un elemento en 3-D o 2-D,,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,008021,Significaci√≥n temporal,Fijar en faltante (anular),,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,316075,(Techo de nubes y visibilidad IFR GFA),,008079,Estado del producto,"= 0 normal, = 1
+COR, = 2 AMD, = 3 COR AMD, = 4 CNL",,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,008041,Significaci√≥n de datos,= 8 techo de nubes y visibilidad IFR,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,316074,Identificador y ubicaci√≥n observada o pronosticada GFA,,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,020006,Reglas de vuelo,= 1 IFR,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,033042,Tipo del l√≠mite representado por el valor siguiente,"= 2 l√≠mite superior exclusivo, = 7 faltante",,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,020013,Altura de la base de las nubes,,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,033042,Tipo del l√≠mite representado por el valor siguiente,"= 2 l√≠mite superior exclusivo, = 7 faltante",,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,020001,Visibilidad horizontal,,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,020025,Oscurecimiento,,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,020026,Car√°cter del oscurecimiento,"= 6 ventisca alta, = 15 faltante",,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,008041,Significaci√≥n de datos,Fijar en faltante (anular),,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,008079,Estado del producto,Fijar en faltante (anular),,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,316076,(Oscurecimiento de monta√±a GFA),,008079,Estado del producto,"= 0 normal, = 1
+COR, = 2 AMD, = 3 COR AMD, = 4 CNL",,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,008041,Significaci√≥n de datos,= 9 oscurecimiento de monta√±a,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,316074,Identificador y ubicaci√≥n observada o pronosticada GFA,,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,020006,Reglas de vuelo,= 1 IFR,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,020025,Oscurecimiento,,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,020026,Car√°cter del oscurecimiento,"= 6 ventisca alta, = 15 faltante",,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,008041,Significaci√≥n de datos,Fijar en faltante (anular),,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,008079,Estado del producto,Fijar en faltante (anular),,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,316077,(Turbulencia GFA),,008079,Estado del producto,"= 0 normal, = 1
+COR, = 2 AMD, = 3 COR AMD, = 4 CNL",,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,008011,Caracter√≠stica meteorol√≥gica,= 13 turbulencia,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,316074,Identificador y ubicaci√≥n observada o pronosticada GFA,,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,011031,Grado de turbulencia,= 6 moderada,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,008011,Caracter√≠stica meteorol√≥gica,Fijar en faltante (anular),,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,008079,Estado del producto,Fijar en faltante (anular),,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,316078,(Viento fuerte en superficie GFA),,008079,Estado del producto,"= 0 normal, = 1
+COR, = 2 AMD, = 3 COR AMD, = 4 NL",,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,008041,Significaci√≥n de datos,= 10 viento fuerte en superficie,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,316074,Identificador y ubicaci√≥n observada o pronosticada GFA,,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,033042,Tipo de l√≠mite representado por el valor siguiente,= 0 l√≠mite inferior exclusivo,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,011012,Velocidad del viento a 10 m,,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,008041,Significaci√≥n de datos,Fijar en faltante (anular),,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,008079,Estado del producto,Fijar en faltante (anular),,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,316079,(Cizalladura del viento en niveles bajos GFA),,008079,Estado del producto,"= 0 normal, = 1
+COR, = 2 AMD, = 3 COR AMD, = 4 NL",,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,008011,Caracter√≠stica meteorol√≥gica,= 16 fen√≥meno,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,316074,Identificador y ubicaci√≥n observada o pronosticada GFA,,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,020023,Otros fen√≥menos meteorol√≥gicos,bit 12 = cizalladura,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,020024,Intensidad del fen√≥meno,,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,008011,Caracter√≠stica meteorol√≥gica,Fijar en faltante (anular),,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,008079,Estado del producto,Fijar en faltante (anular),,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,316080,(Engelamiento GFA),,008079,Estado del producto,"= 0 normal, = 1
+COR, = 2 AMD, = 3 COR AMD, = 4 NL",,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,008011,Caracter√≠stica meteorol√≥gica,= 15 engelamiento del fuselaje de la aeronave,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,316074,Identificador y ubicaci√≥n observada o pronosticada GFA),,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,020041,Engelamiento del fuselaje de la aeronave,= 4 engelamiento moderado,,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,008011,Caracter√≠stica meteorol√≥gica,Fijar en faltante (anular),,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,008079,Estado del producto,Fijar en faltante (anular),,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,316081,(Nivel de congelamiento GFA),,008079,Estado del producto,"= 0 normal, = 1
+COR, = 2 AMD, = 3 COR AMD, = 4 NL",,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,008041,Significaci√≥n de datos,"= 11 nivel de engelamiento, = 12 nivel de engelamiento m√∫ltiple",,,Operational
+16, Secuencias de las caracterÌsticas sinÛpticas,,,,316074,Identificador y ubicaci√≥n observada o pronosticada GFA,,,,Operational
