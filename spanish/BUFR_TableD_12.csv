@@ -1,533 +1,533 @@
 Category,CategoryOfSequences_es,FXY1,Title_es,SubTitle_es,FXY2,ElementName_es,ElementDescription_es,Note_es,noteIDs,Status
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),312001,,,301043,"Identificador del satélite, método de cálculo del viento, fecha/hora, localización",,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,304001,"Presión en la cima de las nubes, temperatura, viento",,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),312002,,,301043,"Identificador del satélite, método de cálculo del viento, fecha/hora, localización",,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,304002,"Presión en la cima de las nubes, viento",,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),312003,,,301042,"Identificador del satélite, instrumento, técnica de procesamiento de datos, fecha/hora, localización",,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,304003,Temperatura de la superficie,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),312004,,,301042,"Identificador del satélite, instrumento, técnica de procesamiento de datos, fecha/hora, localización",,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,304004,"Presión en la cima de las nubes, capa de nubes, temperatura",,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),312005,,,301042,"Identificador del satélite, instrumento, técnica de procesamiento de datos, fecha/hora, localización",,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,020014,Altura de la cima de las nubes,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),312006,,,301044,"Identificador del satélite, método de cálculo de la humedad, fecha/hora, localización",,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,304005,Humedad relativa media de la capa,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),312007,,,301042,"Identificador del satélite, instrumento, técnica de procesamiento de datos, fecha/hora, localización",,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,304006,Radiación,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),312010,"(Información orbital, parte I)",,001007,Identificador del satélite,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,005040,Número de órbita,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,002021,Datos de instrumentos satelitales utilizados en el procesamiento,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,005041,Número de línea de exploración,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,004001,Año,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,004043,Día del año,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),312011,"(Información orbital, parte II)",,202131,Cambio de escala,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,201149,Cambio de anchura de datos,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,004006,Segundo,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,201000,Cambio de anchura de datos,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,202126,Cambio de escala,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,010002,Altura,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,202000,Cambio de escala,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,005043,Número de campo de visión,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,005053,Incremento del número de campo de visión,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),312012,(Temperaturas de luminancia medidas mediante sonda HIRS — canales 1 a 19),,202129,Cambio de escala,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,201132,Cambio de anchura de datos,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,101019,Repetir 1 descriptor 19 veces,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,012063,Temperatura de luminancia,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,201000,Cambio de anchura de datos,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,202000,Cambio de escala,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),312013,(Temperaturas de luminancia medidas mediante sonda HIRS — canal 20),,005042,Número de canal,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,202129,Cambio de escala,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,201135,Cambio de anchura de datos,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,012063,Temperatura de luminancia,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,201000,Cambio de anchura de datos,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,202000,Cambio de escala,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),312014,(Datos satelitales transmitidos por sonda HIRS),,312010,"Información orbital, parte I",,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,312011,"Información orbital, parte II",,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,105056,Repetir 5 descriptores 56 veces,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,301023,Latitud/longitud (exactitud aproximada),,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,005042,Número de canal,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,005052,Incremento del número de canal,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,312012,Temperaturas de luminancia obtenidas mediante sondas HIRS — canal 1 a 19,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,312013,Temperaturas de luminancia obtenidas mediante sondas HIRS — canal 20,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),312015,(Temperaturas de luminancia obtenidas mediante MSU — canales 1 a 4),,109011,Repetir 9 descriptores 11 veces,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,301023,Latitud/longitud (exactitud aproximada),,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,005042,Número de canal,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,005052,Incremento del número de canal,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,202129,Cambio de escala,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,201132,Cambio de anchura de datos,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,101004,Repetir 1 descriptor 4 veces,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,012063,Temperatura de luminancia,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,202000,Cambio de escala,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,201000,Cambio de anchura de datos,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),312016,(Datos satelitales obtenidos mediante MSU),,312010,"Información orbital, parte I",,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,312011,"Información orbital, parte II",,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,312015,Temperaturas de luminancia obtenidas mediante MSU — canales 1 a 4,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),312017,(Temperaturas de luminancia obtenidas mediante SSU — canales 1 a 3),,109008,Repetir 9 descriptores 8 veces,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,301023,Latitud/longitud (exactitud aproximada),,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,005042,Número de canal,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,005052,Incremento del número del canal,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,202129,Cambio de escala,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,201132,Cambio de anchura de datos,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,101003,Repetir 1 descriptor 3 veces,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,012063,Temperatura de luminancia,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,202000,Cambio de escala,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,201000,Cambio de anchura de datos,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),312018,(Datos satelitales SSU),,312010,"Información orbital, parte I",,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,312011,"Información orbital, parte II",,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,312017,Temperaturas de luminancia obtenidas mediante SSU — canales 1 a 3,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),312019,(Producto del dispersómetro de onda con cambio de anchura para el número de onda (espectral)),,301047,Encabezamiento del producto ERS,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,301048,Parámetros de radar,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,015015,Componente espectral máximo de la imagen antes de la normalización,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,029002,Tipo de retícula de coordenadas,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,021076,Representación de las intensidades,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,106012,Repetir 6 descriptores 12 veces,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,201129,Cambio de anchura de datos,14 bits,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,006030,Número de onda (espectral),,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,201000,Cambio de anchura de datos,Anular,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,102012,Repetir 2 descriptores 12 veces,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,005030,Dirección (espectral),,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,021075,Intensidad del espectro de la imagen,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,021066,Datos sobre el grado de confianza del producto del dispersómetro de onda,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),312020,(Producto del dispersómetro de onda),,301047,Encabezamiento del producto ERS,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,301048,Parámetros de radar,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,015015,Componente espectral máximo de la imagen antes de la normalización,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,029002,Tipo de retícula de coordenadas,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,021076,Representación de las intensidades,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,104012,Repetir 4 descriptores 12 veces,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,006030,Número de onda (espectral),,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,102012,Repetir 2 descriptores 12 veces,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,005030,Dirección (espectral),,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,021075,Intensidad del espectro de la imagen,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,021066,Datos sobre el grado de confianza del producto del dispersómetro de onda,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),312021,(Producto del dispersómetro de viento),,301047,Encabezamiento del producto ERS,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,101003,Repetir 1 descriptor 3 veces,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,301049,Datos del haz del radar,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,011012,Velocidad del viento a 10 m,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,011011,Dirección del viento a 10 m,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,021067,Datos sobre el grado de confianza del producto del viento,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),312022,(Producto del altímetro de radar),,301047,Encabezamiento del producto ERS,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,008022,Número total (con relación a la acumulación o el promedio),Número en promedio,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,011012,Velocidad del viento a 10 m,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,011050,Desviación estándar de la velocidad del viento horizontal,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,022070,Altura significativa de las olas,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,022026,Desviación estándar de la altura significativa de las olas,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,312041,Altitud,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,010050,Desviación estándar de la altitud,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,021068,Datos sobre el grado de confianza del producto del altímetro del radar,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,021071,Máximas,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,021072,Estado de la calibración del altímetro del satélite,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,021073,Modo del instrumento del altímetro del satélite,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,312042,Correcciones de la altitud,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,021062,Retrodispersión,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,015011,Log10 de la densidad de electrones integrada,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),312023,(Producto ATSR de la temperatura de la superficie del mar),,301047,Encabezamiento del producto ERS,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,103003,Repetir 3 descriptores 3 veces,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,008022,Número total (con relación a la acumulación o el promedio),Número en promedio,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,012061,Temperatura de la película superficial,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,022050,Desviación estándar de la temperatura de la superficie del mar,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,021069,Datos sobre el grado de confianza del producto de la temperatura de la superficie del mar (SST),,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,021085,Temperatura de la superficie del mar obtenida mediante ATSR del número de banda que cruza por la trayectoria,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),312024,(Producto aumentado del dispersómetro de onda),,312020,Producto del dispersómetro de onda,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,08060,Significación del modo de exploración de la muestra,Alcance,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,080022,Número total (con relación a la acumulación o el promedio),Número en la muestra,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,008060,Significación del modo de exploración de la muestra,Horizontal,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,008022,Número total (con relación a la acumulación o el promedio),Número en la muestra,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,025014,Corte azimutal de ecos parásitos,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,022101,Energía total con números de onda bajos (longitud de onda > 731 m),,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,022097,Longitud de onda (> 731 m) media del espectro de la imagen con números de onda bajos,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,022098,Dispersión de la longitud de onda (> 731 m) con números de onda bajos,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,022099,Dirección media con números de onda bajos (longitud de onda > 731 m),,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,022100,Dispersión de la dirección con números de onda bajos (longitud de onda > 731 m),,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),312025,(Producto aumentado del dispersómetro de onda con cambio de anchura para el número de onda (espectral)),,312019,Producto del dispersómetro de onda con cambio de anchura para el número de onda (espectral),,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,008060,Significación del modo de exploración de la muestra,Alcance,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,008022,Número total (con relación a la acumulación o el promedio),Número en la muestra,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,008060,Significación del modo de exploración de la muestra,Horizontal,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,008022,Número total (con relación a la acumulación o el promedio,Número en la muestra,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,025014,Corte azimutal de ecos parásitos,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,022101,Energía total con números de onda bajos (longitud de onda > 731 m),,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,022097,Longitud de onda (> 731 m) media del espectro de la imagen con números de onda bajos,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,022098,Dispersión de la longitud de onda (> 731 m) con números de onda bajos,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,022099,Dirección media con números de onda bajos(longitud de onda > 731 m),,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,022100,Dispersión de la dirección con números de onda bajos (longitud de onda > 731 m),,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),312026,(Datos de QuikSCAT),,301046,"Identificador del satélite, dirección del movimiento, sensor, función modélica, programa informático, resolución",,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,301011,"Año, mes, día",,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,301013,"Hora, minuto, segundo",,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,301023,Latitud/longitud (exactitud aproximada),,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,312031,Viento determinado por SeaWinds,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,101004,Repetir 1 descriptor 4 veces,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,312030,"Viento, incertidumbre formal, probabilidad",,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,021110,Número de sigma-0 del haz interior (delante del satélite),,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,301023,Latitud/longitud (exactitud aproximada),,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,321027,"Especificación del radar, sección transversal normalizada de radar, coeficiente de variancia Kp",,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,021111,Número de sigma-0 del haz exterior (delante del satélite),,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,301023,Latitud/longitud (exactitud aproximada),,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,321027,"Especificación del radar, sección transversal normalizada de radar, coeficiente de variancia Kp",,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,021112,Número de sigma-0 del haz interior (detrás del satélite),,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,301023,Latitud/longitud (exactitud aproximada),,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,321027,"Especificación del radar, sección transversal normalizada de radar, coeficiente de variancia Kp",,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,021113,Número de sigma-0 del haz exterior (detrás del satélite),,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,301023,Latitud/longitud (exactitud aproximada),,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,321027,"Especificación del radar, sección transversal normalizada de radar, coeficiente de variancia Kp",,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),312027,(Producto ATSR de la temperatura de la superficie del mar (SADIST-2)),,301047,Encabezamiento del producto del satélite ERS,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,105009,Repetir 5 descriptores 9 veces,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,301023,Latitud/longitud (exactitud aproximada),Célula de 10 minutos de arco,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,007021,Elevación,Ángulo de incidencia de la visión del nadir | Fijar en cero,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,012061,Temperatura de la película superficial,Temperatura de la superficie del mar (visión del nadir únicamente),,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,007021,Elevación,Ángulo de incidencia de la visión doble | Fijar en faltante,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,012061,Temperatura de la película superficial,Temperatura de la superficie del mar (visión doble),,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,021085,Número de bandas transversales del radiómetro ATSR para la exploración de la temperatura de la superficie del mar,0-9,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,021070,Datos sobre el grado de confianza del producto de la temperatura de la superficie del mar (SADIST-2),Banderín de 23 bits,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),312028,(Datos de SeaWinds transmitidos por QuikSCAT),,301046,"Identificador del satélite, dirección del movimiento, sensor, función modélica, programa informático, resolución",,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,301011,"Año, mes, día",,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,301013,"Hora, minuto, segundo",,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,301023,Latitud/longitud (exactitud aproximada),,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,008025,Calificador de diferencia de tiempo,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,201136,Cambio de anchura de datos,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,004006,Segundo,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,201000,Cambio de anchura de datos,Anular,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,312031,Viento determinado por SeaWinds,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,312032,Precipitación determinada por SeaWinds,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,101004,Repetir 1 descriptor 4 veces,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,312030,"Viento, incertidumbre formal, probabilidad",,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,101002,Repetir 1 descriptor 2 veces,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,312033,"Polarización de la antena, temperatura de luminancia",,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,021110,Número de sigma-0 del haz interior (delante del satélite),,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,301023,Latitud/longitud (exactitud aproximada),,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,321028,"Especificación del radar, sección transversal normalizada del radar SeaWinds, coeficiente de variancia Kp",,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,021111,Número de sigma-0 del haz exterior (delante del satélite),,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,301023,Latitud/longitud (exactitud aproximada),,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,321028,"Especificación del radar, sección transversal normalizada del radar SeaWinds, coeficiente de variancia Kp",,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,021112,Número de sigma-0 del haz interior (detrás del satélite),,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,301023,Latitud/longitud (exactitud aproximada),,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,321028,"Especificación del radar, sección transversal normalizada del radar SeaWinds, coeficiente de variancia Kp",,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,021113,Número de sigma-0 del haz exterior (detrás del satélite),,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,301023,Latitud/longitud (exactitud aproximada),,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,321028,"Especificación del radar, sección transversal normalizada del radar SeaWinds, coeficiente de variancia Kp",,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),312029,(Datos de dispersómetro de nivel 2b),,301046,"Identificador del satélite, dirección del movimiento, sensor, función modélica, programa informático, resolución",,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,301011,"Año, mes, día",,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,301013,"Hora, minuto, segundo",,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,301023,Latitud/longitud (exactitud aproximada),,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,008025,Calificador de diferencia de tiempo,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,201136,Cambio de anchura de datos,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,004006,Segundo,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,201000,Anular cambio de anchura de datos,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,005034,Número de la fila a lo largo de la trayectoria,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,201129,Cambio de anchura de datos,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,006034,Número de la célula transversal a la trayectoria,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,201000,Anular el cambio de anchura de datos,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,033055,Banderín de calidad del vector de viento,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,011081,Dirección del viento del modelo a 10 m,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,011082,Velocidad del viento del modelo a 10 m,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,021101,Número de ambigüedades del vector,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,021102,Índice del vector seleccionado de viento,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,021103,Número total de mediciones de sigma-0,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,312032,Precipitación determinada por SeaWinds,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,101004,Repetir 1 descriptor 4 veces,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,312030,"Viento, incertidumbre formal, probabilidad",,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,101002,Repetir 1 descriptor dos veces,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,312033,"Polarización de la antena, temperatura de luminancia",,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,021110,Número de sigma-0 del haz interior (delante del satélite),,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,301023,Latitud/longitud (exactitud aproximada),,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,321028,"Especificación del radar, sección transversal normalizada del radar SeaWinds, coeficiente de variancia Kp",,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,021111,Número de sigma-0 del haz exterior (delante del satélite),,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,301023,Latitud/longitud (exactitud aproximada),,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,321028,"Especificación del radar, sección transversal normalizada del radar SeaWinds, coeficiente de variancia Kp",,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,021112,Número de sigma-0 del haz interior (detrás del satélite),,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,301023,Latitud/longitud (exactitud aproximada),,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,321028,"Especificación del radar, sección transversal normalizada del radar SeaWinds, coeficiente de variancia Kp",,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,021113,Número de sigma-0 del haz exterior (detrás del satélite),,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,301023,Latitud/longitud (exactitud aproximada),,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,321028,"Especificación del radar, sección transversal normalizada del radar SeaWinds, coeficiente de variancia Kp",,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),312030,"(Viento, incertidumbre formal, probabilidad)",,201130,Cambio de anchura de datos,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,202129,Cambio de escala,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,011012,Velocidad del viento a 10 m,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,202000,Cambio de escala,Anular,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,201000,Cambio de anchura de datos,Anular,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,011052,Incertidumbre formal de la velocidad del viento,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,201135,Cambio de anchura de datos,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,202130,Cambio de escala,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,011011,Dirección del viento a 10 m,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,202000,Cambio de escala,Anular,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,201000,Cambio de anchura de datos,Anular,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,011053,Incertidumbre formal de la dirección del viento,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,021104,Probabilidad calculada para la solución,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),312031,(Viento determinado por SeaWinds),,005034,Número de la fila a lo largo de la trayectoria,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,006034,Número de la célula transversal a la trayectoria,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,021109,Calidad del vector viento medida en el interior de la célula por SeaWinds,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,011081,Dirección modélica del viento a 10 m,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,011082,Velocidad modélica del viento a 10 m,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,021101,Número de ambigüedades del vector,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,021102,Índice del vector seleccionado del viento,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,021103,Número total de mediciones de sigma-0,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),312032,(Precipitación determinada por SeaWinds),,021120,Probabilidad de lluvia,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,021121,Índice de lluvia determinado por SeaWinds a partir de una función objetiva normalizada,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,013055,Intensidad de la precipitación,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,021122,Corrección de atenuación aplicada a sigma-0 (a partir de tB),,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),312033,"(Polarización de la antena, temperatura de luminancia)",,002104,Polarización de la antena,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,008022,Número total (con relación a la acumulación o el promedio),,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,012063,Temperatura de luminancia,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,012065,Desviación típica de la temperatura de luminancia,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),312034,(Datos de dispersómetro CFOSAT),,301046,"Identificador del satélite, dirección del movimiento, sensor, función del modelo, programa informático, resolución",,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,301011,"Año, mes, día",,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,301013,"Hora, minuto, segundo",,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,301023,Latitud/longitud (exactitud aproximada),,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,008025,Calificador de diferencia de tiempo,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,201136,Cambio de anchura de datos,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,004006,Segundo,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,201000,Cambio de anchura de datos,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,312031,Viento determinado por dispersómetro,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,312032,Precipitación determinada por dispersómetro,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,101004,Repetir 1 descriptor 4 veces,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,312030,"Viento, incertidumbre formal, probabilidad",,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,101002,Repetir 1 descriptor 2 veces,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,312033,"Polarización de la antena, temperatura de luminancia",,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,103018,Repetir 3 descriptores 18 veces,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,021110,Número de sigma-0 del haz interior (delante del satélite),,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,301023,Latitud/longitud (exactitud aproximada),,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,321028,"Especificación del radar, sección transversal normalizada de radar, coeficiente de variancia Kp",,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),312035,(Datos de dispersómetro de nivel 2a),,001007,Identificación del satélite,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,001031,Identificación del centro de origen/generación,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,002048,Indicador del sensor del satélite,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,202124,Cambio de escala,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,002026,Resolución transversal a la trayectoria,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,002027,Resolución en la dirección de la trayectoria,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,202000,Anular cambio de escala,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,005040,Número de órbita,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,004001,Año,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,004002,Mes,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,004003,Día,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,004004,Hora,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,004005,Minuto,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,004006,Segundo,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,005002,Latitud (exactitud aproximada),,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,006002,Longitud (exactitud aproximada),,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,005034,Número de la fila a lo largo de la trayectoria,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,006031,Número de columna,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,201129,Cambio de anchura de datos,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,006034,Número de la célula transversal a la trayectoria,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,201000,Anular cambio de anchura de datos,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,005021,Rumbo o azimut,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,002111,Ángulo de incidencia del radar,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,012063,Temperatura de luminancia,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,021095,Coeficiente Kp A,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,021096,Coeficiente Kp B,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,021097,Coeficiente Kp C,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,021030,Relación señal-ruido,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,021105,Sección transversal normalizada de radar,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,033056,Banderín de calidad de Sigma-0,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),312 041,(Altitud),,201141,Cambio de anchura de datos,28 bits,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,202130,Cambio de escala,Escala: 2,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,007001,Altura de la estación,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,201000,Cambio de anchura de datos,Anular,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,202000,Cambio de escala,Anular,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),312 042,(Correcciones de la altitud),,021077,Corrección de la altitud (ionosfera),,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,021078,Corrección de la altitud (troposfera seca),,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,021079,Corrección de la altitud (troposfera húmeda),,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,021080,Corrección de la altitud (constante de calibración),,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,021081,Corrección en bucle abierto (bucle altura-tiempo),,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,021082,Corrección en bucle abierto (control automático de ganancia),,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),312 045,(Temperatura de la superficie del mar obtenida mediante AATSR),,001007,Identificador del satélite,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,002019,Instrumentos de satélite,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,001096,Adquisición de estación,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,025061,Identificación del programa informático y número de versión,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,005040,Número de órbita,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,301011,"Año, mes, día",,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,301013,"Hora, minuto, segundo",,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,301021,Latitud/longitud (gran exactitud),,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,007002,Altura o altitud,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,012180,Temperatura de luminancia promedio a 12 micrones para todos los píxeles claros en el nadir,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,012181,Temperatura de luminancia promedio a 11 micrones para todos los píxeles claros en el nadir,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,012182,"Temperatura de luminancia promedio a 3,7 micrones para todos los píxeles claros en el nadir",,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,012183,"Temperatura de luminancia promedio a 12 micrones para todos los píxeles claros, vista hacia adelante",,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,012184,"Temperatura de luminancia promedio a 11 micrones para todos los píxeles claros, vista hacia adelante",,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,012185,"Temperatura de luminancia promedio a 3,7 micrones para todos los píxeles claros, vista hacia adelante",,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,002174,Número medio de píxeles transversales por pista,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,021086,"Número de píxeles en el nadir solamente, promedio",,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,012186,Temperatura media de la superficie del mar en el nadir,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,021087,"Número de píxeles en vista dual, promedio",,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,012187,Temperatura media de la superficie del mar en vista dual,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,033043,Grado de confianza de la temperatura media en superficie,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),312050,(Informes del instrumento MERIS),,001007,Identificador del satélite,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,002019,Instrumentos de satélite,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,001096,Adquisición de estación,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,025061,Identificación y número de versión del software,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,005040,Número de órbita,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,301011,"Año, mes, día",,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,301013,"Hora, minuto, segundo",,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,301021,Latitud/longitud (gran exactitud),,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,007025,Ángulo cenital del sol,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,005022,Azimut solar,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,010080,Ángulo de visión cenital,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,027080,Ángulo de visión azimutal,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,008003,Significación vertical (observaciones satelitales),,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,007004,Presión,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,013093,Espesor óptico de la nube,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,008003,Significación vertical (observaciones satelitales),,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,201131,Cambio de anchura de datos,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,202129,Cambio de escala,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,007004,Presión,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,007004,Presión,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,202000,Cambio de escala,Anular,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,201000,Cambio de anchura de datos,Anular,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,013095,Vapor de agua total en columna,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),312051,(Espectros transversales del océano – WVS),,001007,Identificador del satélite,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,002019,Instrumentos de satélite,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,001096,Adquisición de estación,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,025061,Identificación y número de versión del software,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,005040,Número de órbita,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,008075,Calificador de órbita ascendente/descendente,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,301011,"Año, mes, día",,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,301013,"Hora, minuto, segundo",,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,301021,Latitud/longitud (gran exactitud),,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,001012,Dirección del movimiento de la plataforma de observación,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,201131,Cambio de anchura de datos,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),XXXXX,,,025124,Banderín de proceso de nivel 2 – MWR,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,025125,Calidad de proceso de nivel 2 – MWR,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,025122,Configuración del equipo informático para radiofrecuencia,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,025123,Configuración del equipo informático para amplificador de gran potencia,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,301011,"Año, mes, día",,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,301013,"Hora, minuto, segundo",,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,301021,Latitud/longitud (gran exactitud),,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,007002,Altura o altitud,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,002119,Operaciones de instrumento RA-2,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,033047,Datos de confianza de las mediciones,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,010081,Altitud del centro de gravedad sobre el elipsoide de referencia,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,010082,Tasa de altitud instantánea,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,010083,Ángulo de nadir al cuadrado externo del satélite mediante datos de plataforma,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,010084,Ángulo de nadir al cuadrado externo del satélite mediante datos de forma de onda,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,002116,Porcentaje procesado de banda de 320 MHz,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,002117,Porcentaje procesado de banda de 80 MHz,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,002118,Porcentaje procesado de banda de 20 MHz,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,002156,Porcentaje de mediciones válidas de reseguimiento de océano en banda Ku,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,002157,Porcentaje de mediciones válidas de reseguimiento de océano en banda S,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,014055,Índice de actividad solar,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,022150,Número de puntos válidos a 18 Hz para banda Ku,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,022151,Alcance oceánico en banda Ku,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,022152,Alcance oceánico estándar a 18Hz en banda Ku,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,022153,Número de puntos válidos a 18 Hz para banda S,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,022154,Alcance oceánico en banda S,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,022155,Alcance oceánico estándar a 18 Hz en banda S,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,022156,Altura significativa de las olas en banda Ku,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,022157,Alcance oceánico estándar a 18 Hz en banda Ku,Altura significativa de las olas,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,022158,Altura significativa de las olas en banda S,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,022159,Altura significativa estándar de las olas a 18 Hz en banda S,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,021137,Coeficiente corregido de retrodispersión oceánica en banda Ku,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,021138,Coeficiente corregido estándar de retrodispersión oceánica en banda Ku,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,021139,Corrección instrumental neta en banda Ku para control automático de ganancia,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,021140,Coeficiente corregido de retrodispersión oceánica en banda S,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,021141,Coeficiente corregido estándar de retrodispersión oceánica en banda S,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,021142,Corrección instrumental neta en banda S para control automático de ganancia,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,010085,Altura media de la superficie del mar,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,010086,Altura del geoide,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,010087,Profundidad del océano/elevación de la tierra,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,010088,Altura total de la marea oceánica geocéntrica (solución 1),,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),312056,(Información de célula de viento de dispersómetro),,025060,Identificación del programa informático,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,001032,Aplicación de producción,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,011082,Modelar la velocidad del viento a 10 m,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,011081,Modelar la dirección del viento a 10 m,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,020095,Probabilidad de hielo,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,020096,Edad de hielo (parámetro “A”),,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,021155,Calidad de la célula del vector viento,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,201133,Cambio de anchura de datos,Aumentar anchura de datos en 5 bits,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,021101,Número de ambigüedades del vector,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,021102,Índice del vector seleccionado del viento,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,201000,Cambio de anchura de datos,Anular,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),312057,(Datos ambiguos del viento),,201130,Cambio de anchura de datos,Aumentar anchura de datos en 2 bits,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,202129,Cambio de escala,Aumentar el ajuste en 101,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,011012,Velocidad del viento a 10 m,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,202000,Cambio de escala,Anular,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,201000,Cambio de anchura de datos,Anular,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,201131,Cambio de anchura de datos,Aumentar anchura de datos en 3 bits,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,202129,Cambio de escala,Aumentar el ajuste en 101,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,011011,Dirección del viento a 10 m,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,202000,Cambio de escala,Anular,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,201000,Cambio de anchura de datos,Anular,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,021156,Distancia del retrodispersor,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,021104,Probabilidad calculada para la solución,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),312058,(Datos de nivel 1b de ASCAT),,301125,Información de encabezamiento de ASCAT,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,301011,"Año, mes, día",,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,301013,"Hora, minuto, segundo",,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,301021,Latitud/longitud (gran exactitud),,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,312055,Información de célula de nivel 1b de ASCAT,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,021150,Coubicación de haces,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,101003,Repetir 1 descriptor 3 veces,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,321030,Información Sigma-0 ASCAT,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),312059,(Datos de dispersómetro sobre el viento),,312056,Información de célula de viento de dispersómetro,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,101000,Repetición diferida de 1 descriptor,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,031001,Factor de repetición diferida del descriptor,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,312057,Datos ambiguos sobre el viento,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),312060,(Datos de dispersómetro sobre la humedad del suelo),,025060,Identificador del soporte lógico,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,025062,Identificador de la base de datos,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,040001,Humedad del suelo en superficie (ms),,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,040002,Error estimado en la humedad del suelo en superficie,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,021062,Retrodifusor,Retrodifusor extrapolado a un ángulo de incidencia de 40° (Sigma0_40),,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,021151,Error estimado en Sigma-0 a un ángulo de incidencia de 40°,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,021152,Pendiente del ángulo de incidencia de 40°,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,021153,Error estimado en la pendiente a un ángulo de incidencia de 40°,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,021154,Sensibilidad de la humedad del suelo,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,021062,Retrodifusor,Retrodifusor seco,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,021088,Retrodifusor húmedo,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,040003,Humedad media del suelo de superficie,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,040004,Detección de la cantidad de lluvia,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,040005,Banderines de corrección de la humedad del suelo,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,040006,Banderines de proceso de la humedad el suelo,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,040007,Calidad de la humedad del suelo,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,020065,Capa de nieve,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,040008,Fracción helada de la superficie terrestre,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,040009,Fracción de inundación y humedales,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,040010,Complejidad topográfica,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),312061,(Datos de nivel 1b y de nivel 2 de ASCAT),,312058,Datos de nivel 1b de ASCAT,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,312060,Datos del dispersómetro sobre humedad del suelo,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,312059,Datos del dispersómetro sobre viento,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),312070,(Datos SMOS),,001007,Identificador del satélite,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,002019,Instrumentos de satélite,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,001144,Identificador de instantánea,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,001124,Identificador de punto de retícula,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,030010,Número de puntos de retícula,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,301011,"Año, mes, día",,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,301013,"Hora, minuto, segundo",,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,301021,Latitud/longitud (gran exactitud),,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,007012,Altitud del punto de retícula,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,015012,Recuento total de electrones por m2,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,012165,Temperatura de brillo de luz solar directa,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,012166,Exactitud de la instantánea,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,012167,Exactitud radiométrica (polarización pura),,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,012168,Exactitud radiométrica (polarización cruzada),,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,027010,Eje de huella 1,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,028010,Eje de huella 2,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,002099,Polarización,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,013048,Fracción de agua,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,025081,Ángulo de incidencia,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,025082,Ángulo azimutal,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,025083,Ángulo rotacional de Faraday,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,025084,Ángulo rotacional geométrico,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,012080,Parte real de la temperatura de brillo,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,012081,Parte imaginaria de la temperatura de brillo,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,012082,Exactitud radiométrica en píxeles,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,010087,Profundidad del océano/elevación de la tierra,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,010089,Altura total de la marea oceánica geocéntrica (solución 2),,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,010090,Altura de marea de largo período,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,010091,Altura de carga de marea,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,010092,Altura de marea en tierra sólida,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,010093,Altura de marea en polo geocéntrico,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,011097,Velocidad altimétrica del viento,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,021093,Máximas de la banda Ku,Promedio de valores a 20 Hz,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,101020,Repetir 1 descriptor 20 veces,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,021182,Máximas en banda Ku a 20 Hz,20 valores,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,033053,Calidad de reseguimiento de dato oceánicos en banda Ku,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,022151,Alcance oceánico en banda Ku,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,022145,Desviación estándar del intervalo oceánico a 20 Hz,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,022148,Número de puntos válidos respecto del intervalo oceánico a 20 Hz,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,022146,Intervalo de desplazamiento del centro de gravedad,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,022147,Desviación estándar del intervalo del desplazamiento del centro de gravedad a 20 Hz,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,025126,Corrección troposférica seca según modelo,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,025128,Corrección troposférica húmeda según modelo,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,025127,Corrección de barómetro invertido,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,021176,Corrección de variabilidad de alta frecuencia,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,025132,Corrección ionosférica en banda Ku según modelo,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,025133,Corrección del error sistemático sobre el estado del mar en banda Ku,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,025182,Banderín de procesamiento de nivel 1,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,025183,Calidad de procesamiento de nivel 1,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,025180,LRM por ciento,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,025184,Estado del producto de nivel 2,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,025181,Banderín de procesamiento de nivel 2,,,,Operational
-12,Secuencias de los informes de las observaciones de nivel �nico (datos satelitales),,,,033080,Banderines de calidad del nivel de exploración,Calidad de procesamiento de nivel 2,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312001,,,301043,"Identificador del satélite, método de cálculo del viento, fecha/hora, localización",,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312001,,,304001,"Presión en la cima de las nubes, temperatura, viento",,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312002,,,301043,"Identificador del satélite, método de cálculo del viento, fecha/hora, localización",,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312002,,,304002,"Presión en la cima de las nubes, viento",,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312003,,,301042,"Identificador del satélite, instrumento, técnica de procesamiento de datos, fecha/hora, localización",,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312003,,,304003,Temperatura de la superficie,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312004,,,301042,"Identificador del satélite, instrumento, técnica de procesamiento de datos, fecha/hora, localización",,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312004,,,304004,"Presión en la cima de las nubes, capa de nubes, temperatura",,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312005,,,301042,"Identificador del satélite, instrumento, técnica de procesamiento de datos, fecha/hora, localización",,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312005,,,020014,Altura de la cima de las nubes,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312006,,,301044,"Identificador del satélite, método de cálculo de la humedad, fecha/hora, localización",,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312006,,,304005,Humedad relativa media de la capa,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312007,,,301042,"Identificador del satélite, instrumento, técnica de procesamiento de datos, fecha/hora, localización",,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312007,,,304006,Radiación,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312010,"(Información orbital, parte I)",,001007,Identificador del satélite,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312010,"(Información orbital, parte I)",,005040,Número de órbita,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312010,"(Información orbital, parte I)",,002021,Datos de instrumentos satelitales utilizados en el procesamiento,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312010,"(Información orbital, parte I)",,005041,Número de línea de exploración,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312010,"(Información orbital, parte I)",,004001,Año,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312010,"(Información orbital, parte I)",,004043,Día del año,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312011,"(Información orbital, parte II)",,202131,Cambio de escala,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312011,"(Información orbital, parte II)",,201149,Cambio de anchura de datos,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312011,"(Información orbital, parte II)",,004006,Segundo,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312011,"(Información orbital, parte II)",,201000,Cambio de anchura de datos,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312011,"(Información orbital, parte II)",,202126,Cambio de escala,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312011,"(Información orbital, parte II)",,010002,Altura,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312011,"(Información orbital, parte II)",,202000,Cambio de escala,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312011,"(Información orbital, parte II)",,005043,Número de campo de visión,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312011,"(Información orbital, parte II)",,005053,Incremento del número de campo de visión,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312012,(Temperaturas de luminancia medidas mediante sonda HIRS — canales 1 a 19),,202129,Cambio de escala,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312012,(Temperaturas de luminancia medidas mediante sonda HIRS — canales 1 a 19),,201132,Cambio de anchura de datos,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312012,(Temperaturas de luminancia medidas mediante sonda HIRS — canales 1 a 19),,101019,Repetir 1 descriptor 19 veces,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312012,(Temperaturas de luminancia medidas mediante sonda HIRS — canales 1 a 19),,012063,Temperatura de luminancia,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312012,(Temperaturas de luminancia medidas mediante sonda HIRS — canales 1 a 19),,201000,Cambio de anchura de datos,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312012,(Temperaturas de luminancia medidas mediante sonda HIRS — canales 1 a 19),,202000,Cambio de escala,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312013,(Temperaturas de luminancia medidas mediante sonda HIRS — canal 20),,005042,Número de canal,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312013,(Temperaturas de luminancia medidas mediante sonda HIRS — canal 20),,202129,Cambio de escala,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312013,(Temperaturas de luminancia medidas mediante sonda HIRS — canal 20),,201135,Cambio de anchura de datos,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312013,(Temperaturas de luminancia medidas mediante sonda HIRS — canal 20),,012063,Temperatura de luminancia,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312013,(Temperaturas de luminancia medidas mediante sonda HIRS — canal 20),,201000,Cambio de anchura de datos,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312013,(Temperaturas de luminancia medidas mediante sonda HIRS — canal 20),,202000,Cambio de escala,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312014,(Datos satelitales transmitidos por sonda HIRS),,312010,"Información orbital, parte I",,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312014,(Datos satelitales transmitidos por sonda HIRS),,312011,"Información orbital, parte II",,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312014,(Datos satelitales transmitidos por sonda HIRS),,105056,Repetir 5 descriptores 56 veces,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312014,(Datos satelitales transmitidos por sonda HIRS),,301023,Latitud/longitud (exactitud aproximada),,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312014,(Datos satelitales transmitidos por sonda HIRS),,005042,Número de canal,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312014,(Datos satelitales transmitidos por sonda HIRS),,005052,Incremento del número de canal,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312014,(Datos satelitales transmitidos por sonda HIRS),,312012,Temperaturas de luminancia obtenidas mediante sondas HIRS — canal 1 a 19,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312014,(Datos satelitales transmitidos por sonda HIRS),,312013,Temperaturas de luminancia obtenidas mediante sondas HIRS — canal 20,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312015,(Temperaturas de luminancia obtenidas mediante MSU — canales 1 a 4),,109011,Repetir 9 descriptores 11 veces,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312015,(Temperaturas de luminancia obtenidas mediante MSU — canales 1 a 4),,301023,Latitud/longitud (exactitud aproximada),,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312015,(Temperaturas de luminancia obtenidas mediante MSU — canales 1 a 4),,005042,Número de canal,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312015,(Temperaturas de luminancia obtenidas mediante MSU — canales 1 a 4),,005052,Incremento del número de canal,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312015,(Temperaturas de luminancia obtenidas mediante MSU — canales 1 a 4),,202129,Cambio de escala,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312015,(Temperaturas de luminancia obtenidas mediante MSU — canales 1 a 4),,201132,Cambio de anchura de datos,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312015,(Temperaturas de luminancia obtenidas mediante MSU — canales 1 a 4),,101004,Repetir 1 descriptor 4 veces,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312015,(Temperaturas de luminancia obtenidas mediante MSU — canales 1 a 4),,012063,Temperatura de luminancia,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312015,(Temperaturas de luminancia obtenidas mediante MSU — canales 1 a 4),,202000,Cambio de escala,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312015,(Temperaturas de luminancia obtenidas mediante MSU — canales 1 a 4),,201000,Cambio de anchura de datos,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312016,(Datos satelitales obtenidos mediante MSU),,312010,"Información orbital, parte I",,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312016,(Datos satelitales obtenidos mediante MSU),,312011,"Información orbital, parte II",,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312016,(Datos satelitales obtenidos mediante MSU),,312015,Temperaturas de luminancia obtenidas mediante MSU — canales 1 a 4,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312017,(Temperaturas de luminancia obtenidas mediante SSU — canales 1 a 3),,109008,Repetir 9 descriptores 8 veces,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312017,(Temperaturas de luminancia obtenidas mediante SSU — canales 1 a 3),,301023,Latitud/longitud (exactitud aproximada),,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312017,(Temperaturas de luminancia obtenidas mediante SSU — canales 1 a 3),,005042,Número de canal,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312017,(Temperaturas de luminancia obtenidas mediante SSU — canales 1 a 3),,005052,Incremento del número del canal,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312017,(Temperaturas de luminancia obtenidas mediante SSU — canales 1 a 3),,202129,Cambio de escala,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312017,(Temperaturas de luminancia obtenidas mediante SSU — canales 1 a 3),,201132,Cambio de anchura de datos,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312017,(Temperaturas de luminancia obtenidas mediante SSU — canales 1 a 3),,101003,Repetir 1 descriptor 3 veces,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312017,(Temperaturas de luminancia obtenidas mediante SSU — canales 1 a 3),,012063,Temperatura de luminancia,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312017,(Temperaturas de luminancia obtenidas mediante SSU — canales 1 a 3),,202000,Cambio de escala,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312017,(Temperaturas de luminancia obtenidas mediante SSU — canales 1 a 3),,201000,Cambio de anchura de datos,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312018,(Datos satelitales SSU),,312010,"Información orbital, parte I",,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312018,(Datos satelitales SSU),,312011,"Información orbital, parte II",,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312018,(Datos satelitales SSU),,312017,Temperaturas de luminancia obtenidas mediante SSU — canales 1 a 3,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312019,(Producto del dispersómetro de onda con cambio de anchura para el número de onda (espectral)),,301047,Encabezamiento del producto ERS,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312019,(Producto del dispersómetro de onda con cambio de anchura para el número de onda (espectral)),,301048,Parámetros de radar,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312019,(Producto del dispersómetro de onda con cambio de anchura para el número de onda (espectral)),,015015,Componente espectral máximo de la imagen antes de la normalización,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312019,(Producto del dispersómetro de onda con cambio de anchura para el número de onda (espectral)),,029002,Tipo de retícula de coordenadas,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312019,(Producto del dispersómetro de onda con cambio de anchura para el número de onda (espectral)),,021076,Representación de las intensidades,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312019,(Producto del dispersómetro de onda con cambio de anchura para el número de onda (espectral)),,106012,Repetir 6 descriptores 12 veces,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312019,(Producto del dispersómetro de onda con cambio de anchura para el número de onda (espectral)),,201129,Cambio de anchura de datos,14 bits,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312019,(Producto del dispersómetro de onda con cambio de anchura para el número de onda (espectral)),,006030,Número de onda (espectral),,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312019,(Producto del dispersómetro de onda con cambio de anchura para el número de onda (espectral)),,201000,Cambio de anchura de datos,Anular,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312019,(Producto del dispersómetro de onda con cambio de anchura para el número de onda (espectral)),,102012,Repetir 2 descriptores 12 veces,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312019,(Producto del dispersómetro de onda con cambio de anchura para el número de onda (espectral)),,005030,Dirección (espectral),,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312019,(Producto del dispersómetro de onda con cambio de anchura para el número de onda (espectral)),,021075,Intensidad del espectro de la imagen,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312019,(Producto del dispersómetro de onda con cambio de anchura para el número de onda (espectral)),,021066,Datos sobre el grado de confianza del producto del dispersómetro de onda,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312020,(Producto del dispersómetro de onda),,301047,Encabezamiento del producto ERS,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312020,(Producto del dispersómetro de onda),,301048,Parámetros de radar,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312020,(Producto del dispersómetro de onda),,015015,Componente espectral máximo de la imagen antes de la normalización,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312020,(Producto del dispersómetro de onda),,029002,Tipo de retícula de coordenadas,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312020,(Producto del dispersómetro de onda),,021076,Representación de las intensidades,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312020,(Producto del dispersómetro de onda),,104012,Repetir 4 descriptores 12 veces,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312020,(Producto del dispersómetro de onda),,006030,Número de onda (espectral),,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312020,(Producto del dispersómetro de onda),,102012,Repetir 2 descriptores 12 veces,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312020,(Producto del dispersómetro de onda),,005030,Dirección (espectral),,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312020,(Producto del dispersómetro de onda),,021075,Intensidad del espectro de la imagen,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312020,(Producto del dispersómetro de onda),,021066,Datos sobre el grado de confianza del producto del dispersómetro de onda,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312021,(Producto del dispersómetro de viento),,301047,Encabezamiento del producto ERS,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312021,(Producto del dispersómetro de viento),,101003,Repetir 1 descriptor 3 veces,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312021,(Producto del dispersómetro de viento),,301049,Datos del haz del radar,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312021,(Producto del dispersómetro de viento),,011012,Velocidad del viento a 10 m,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312021,(Producto del dispersómetro de viento),,011011,Dirección del viento a 10 m,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312021,(Producto del dispersómetro de viento),,021067,Datos sobre el grado de confianza del producto del viento,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312022,(Producto del altímetro de radar),,301047,Encabezamiento del producto ERS,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312022,(Producto del altímetro de radar),,008022,Número total (con relación a la acumulación o el promedio),Número en promedio,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312022,(Producto del altímetro de radar),,011012,Velocidad del viento a 10 m,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312022,(Producto del altímetro de radar),,011050,Desviación estándar de la velocidad del viento horizontal,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312022,(Producto del altímetro de radar),,022070,Altura significativa de las olas,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312022,(Producto del altímetro de radar),,022026,Desviación estándar de la altura significativa de las olas,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312022,(Producto del altímetro de radar),,312041,Altitud,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312022,(Producto del altímetro de radar),,010050,Desviación estándar de la altitud,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312022,(Producto del altímetro de radar),,021068,Datos sobre el grado de confianza del producto del altímetro del radar,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312022,(Producto del altímetro de radar),,021071,Máximas,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312022,(Producto del altímetro de radar),,021072,Estado de la calibración del altímetro del satélite,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312022,(Producto del altímetro de radar),,021073,Modo del instrumento del altímetro del satélite,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312022,(Producto del altímetro de radar),,312042,Correcciones de la altitud,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312022,(Producto del altímetro de radar),,021062,Retrodispersión,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312022,(Producto del altímetro de radar),,015011,Log10 de la densidad de electrones integrada,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312023,(Producto ATSR de la temperatura de la superficie del mar),,301047,Encabezamiento del producto ERS,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312023,(Producto ATSR de la temperatura de la superficie del mar),,103003,Repetir 3 descriptores 3 veces,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312023,(Producto ATSR de la temperatura de la superficie del mar),,008022,Número total (con relación a la acumulación o el promedio),Número en promedio,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312023,(Producto ATSR de la temperatura de la superficie del mar),,012061,Temperatura de la película superficial,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312023,(Producto ATSR de la temperatura de la superficie del mar),,022050,Desviación estándar de la temperatura de la superficie del mar,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312023,(Producto ATSR de la temperatura de la superficie del mar),,021069,Datos sobre el grado de confianza del producto de la temperatura de la superficie del mar (SST),,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312023,(Producto ATSR de la temperatura de la superficie del mar),,021085,Temperatura de la superficie del mar obtenida mediante ATSR del número de banda que cruza por la trayectoria,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312024,(Producto aumentado del dispersómetro de onda),,312020,Producto del dispersómetro de onda,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312024,(Producto aumentado del dispersómetro de onda),,08060,Significación del modo de exploración de la muestra,Alcance,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312024,(Producto aumentado del dispersómetro de onda),,080022,Número total (con relación a la acumulación o el promedio),Número en la muestra,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312024,(Producto aumentado del dispersómetro de onda),,008060,Significación del modo de exploración de la muestra,Horizontal,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312024,(Producto aumentado del dispersómetro de onda),,008022,Número total (con relación a la acumulación o el promedio),Número en la muestra,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312024,(Producto aumentado del dispersómetro de onda),,025014,Corte azimutal de ecos parásitos,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312024,(Producto aumentado del dispersómetro de onda),,022101,Energía total con números de onda bajos (longitud de onda > 731 m),,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312024,(Producto aumentado del dispersómetro de onda),,022097,Longitud de onda (> 731 m) media del espectro de la imagen con números de onda bajos,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312024,(Producto aumentado del dispersómetro de onda),,022098,Dispersión de la longitud de onda (> 731 m) con números de onda bajos,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312024,(Producto aumentado del dispersómetro de onda),,022099,Dirección media con números de onda bajos (longitud de onda > 731 m),,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312024,(Producto aumentado del dispersómetro de onda),,022100,Dispersión de la dirección con números de onda bajos (longitud de onda > 731 m),,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312025,(Producto aumentado del dispersómetro de onda con cambio de anchura para el número de onda (espectral)),,312019,Producto del dispersómetro de onda con cambio de anchura para el número de onda (espectral),,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312025,(Producto aumentado del dispersómetro de onda con cambio de anchura para el número de onda (espectral)),,008060,Significación del modo de exploración de la muestra,Alcance,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312025,(Producto aumentado del dispersómetro de onda con cambio de anchura para el número de onda (espectral)),,008022,Número total (con relación a la acumulación o el promedio),Número en la muestra,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312025,(Producto aumentado del dispersómetro de onda con cambio de anchura para el número de onda (espectral)),,008060,Significación del modo de exploración de la muestra,Horizontal,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312025,(Producto aumentado del dispersómetro de onda con cambio de anchura para el número de onda (espectral)),,008022,Número total (con relación a la acumulación o el promedio,Número en la muestra,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312025,(Producto aumentado del dispersómetro de onda con cambio de anchura para el número de onda (espectral)),,025014,Corte azimutal de ecos parásitos,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312025,(Producto aumentado del dispersómetro de onda con cambio de anchura para el número de onda (espectral)),,022101,Energía total con números de onda bajos (longitud de onda > 731 m),,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312025,(Producto aumentado del dispersómetro de onda con cambio de anchura para el número de onda (espectral)),,022097,Longitud de onda (> 731 m) media del espectro de la imagen con números de onda bajos,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312025,(Producto aumentado del dispersómetro de onda con cambio de anchura para el número de onda (espectral)),,022098,Dispersión de la longitud de onda (> 731 m) con números de onda bajos,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312025,(Producto aumentado del dispersómetro de onda con cambio de anchura para el número de onda (espectral)),,022099,Dirección media con números de onda bajos(longitud de onda > 731 m),,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312025,(Producto aumentado del dispersómetro de onda con cambio de anchura para el número de onda (espectral)),,022100,Dispersión de la dirección con números de onda bajos (longitud de onda > 731 m),,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312026,(Datos de QuikSCAT),,301046,"Identificador del satélite, dirección del movimiento, sensor, función modélica, programa informático, resolución",,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312026,(Datos de QuikSCAT),,301011,"Año, mes, día",,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312026,(Datos de QuikSCAT),,301013,"Hora, minuto, segundo",,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312026,(Datos de QuikSCAT),,301023,Latitud/longitud (exactitud aproximada),,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312026,(Datos de QuikSCAT),,312031,Viento determinado por SeaWinds,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312026,(Datos de QuikSCAT),,101004,Repetir 1 descriptor 4 veces,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312026,(Datos de QuikSCAT),,312030,"Viento, incertidumbre formal, probabilidad",,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312026,(Datos de QuikSCAT),,021110,Número de sigma-0 del haz interior (delante del satélite),,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312026,(Datos de QuikSCAT),,301023,Latitud/longitud (exactitud aproximada),,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312026,(Datos de QuikSCAT),,321027,"Especificación del radar, sección transversal normalizada de radar, coeficiente de variancia Kp",,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312026,(Datos de QuikSCAT),,021111,Número de sigma-0 del haz exterior (delante del satélite),,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312026,(Datos de QuikSCAT),,301023,Latitud/longitud (exactitud aproximada),,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312026,(Datos de QuikSCAT),,321027,"Especificación del radar, sección transversal normalizada de radar, coeficiente de variancia Kp",,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312026,(Datos de QuikSCAT),,021112,Número de sigma-0 del haz interior (detrás del satélite),,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312026,(Datos de QuikSCAT),,301023,Latitud/longitud (exactitud aproximada),,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312026,(Datos de QuikSCAT),,321027,"Especificación del radar, sección transversal normalizada de radar, coeficiente de variancia Kp",,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312026,(Datos de QuikSCAT),,021113,Número de sigma-0 del haz exterior (detrás del satélite),,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312026,(Datos de QuikSCAT),,301023,Latitud/longitud (exactitud aproximada),,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312026,(Datos de QuikSCAT),,321027,"Especificación del radar, sección transversal normalizada de radar, coeficiente de variancia Kp",,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312027,(Producto ATSR de la temperatura de la superficie del mar (SADIST-2)),,301047,Encabezamiento del producto del satélite ERS,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312027,(Producto ATSR de la temperatura de la superficie del mar (SADIST-2)),,105009,Repetir 5 descriptores 9 veces,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312027,(Producto ATSR de la temperatura de la superficie del mar (SADIST-2)),,301023,Latitud/longitud (exactitud aproximada),Célula de 10 minutos de arco,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312027,(Producto ATSR de la temperatura de la superficie del mar (SADIST-2)),,007021,Elevación,Ángulo de incidencia de la visión del nadir | Fijar en cero,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312027,(Producto ATSR de la temperatura de la superficie del mar (SADIST-2)),,012061,Temperatura de la película superficial,Temperatura de la superficie del mar (visión del nadir únicamente),,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312027,(Producto ATSR de la temperatura de la superficie del mar (SADIST-2)),,007021,Elevación,Ángulo de incidencia de la visión doble | Fijar en faltante,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312027,(Producto ATSR de la temperatura de la superficie del mar (SADIST-2)),,012061,Temperatura de la película superficial,Temperatura de la superficie del mar (visión doble),,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312027,(Producto ATSR de la temperatura de la superficie del mar (SADIST-2)),,021085,Número de bandas transversales del radiómetro ATSR para la exploración de la temperatura de la superficie del mar,0-9,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312027,(Producto ATSR de la temperatura de la superficie del mar (SADIST-2)),,021070,Datos sobre el grado de confianza del producto de la temperatura de la superficie del mar (SADIST-2),Banderín de 23 bits,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312028,(Datos de SeaWinds transmitidos por QuikSCAT),,301046,"Identificador del satélite, dirección del movimiento, sensor, función modélica, programa informático, resolución",,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312028,(Datos de SeaWinds transmitidos por QuikSCAT),,301011,"Año, mes, día",,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312028,(Datos de SeaWinds transmitidos por QuikSCAT),,301013,"Hora, minuto, segundo",,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312028,(Datos de SeaWinds transmitidos por QuikSCAT),,301023,Latitud/longitud (exactitud aproximada),,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312028,(Datos de SeaWinds transmitidos por QuikSCAT),,008025,Calificador de diferencia de tiempo,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312028,(Datos de SeaWinds transmitidos por QuikSCAT),,201136,Cambio de anchura de datos,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312028,(Datos de SeaWinds transmitidos por QuikSCAT),,004006,Segundo,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312028,(Datos de SeaWinds transmitidos por QuikSCAT),,201000,Cambio de anchura de datos,Anular,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312028,(Datos de SeaWinds transmitidos por QuikSCAT),,312031,Viento determinado por SeaWinds,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312028,(Datos de SeaWinds transmitidos por QuikSCAT),,312032,Precipitación determinada por SeaWinds,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312028,(Datos de SeaWinds transmitidos por QuikSCAT),,101004,Repetir 1 descriptor 4 veces,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312028,(Datos de SeaWinds transmitidos por QuikSCAT),,312030,"Viento, incertidumbre formal, probabilidad",,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312028,(Datos de SeaWinds transmitidos por QuikSCAT),,101002,Repetir 1 descriptor 2 veces,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312028,(Datos de SeaWinds transmitidos por QuikSCAT),,312033,"Polarización de la antena, temperatura de luminancia",,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312028,(Datos de SeaWinds transmitidos por QuikSCAT),,021110,Número de sigma-0 del haz interior (delante del satélite),,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312028,(Datos de SeaWinds transmitidos por QuikSCAT),,301023,Latitud/longitud (exactitud aproximada),,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312028,(Datos de SeaWinds transmitidos por QuikSCAT),,321028,"Especificación del radar, sección transversal normalizada del radar SeaWinds, coeficiente de variancia Kp",,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312028,(Datos de SeaWinds transmitidos por QuikSCAT),,021111,Número de sigma-0 del haz exterior (delante del satélite),,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312028,(Datos de SeaWinds transmitidos por QuikSCAT),,301023,Latitud/longitud (exactitud aproximada),,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312028,(Datos de SeaWinds transmitidos por QuikSCAT),,321028,"Especificación del radar, sección transversal normalizada del radar SeaWinds, coeficiente de variancia Kp",,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312028,(Datos de SeaWinds transmitidos por QuikSCAT),,021112,Número de sigma-0 del haz interior (detrás del satélite),,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312028,(Datos de SeaWinds transmitidos por QuikSCAT),,301023,Latitud/longitud (exactitud aproximada),,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312028,(Datos de SeaWinds transmitidos por QuikSCAT),,321028,"Especificación del radar, sección transversal normalizada del radar SeaWinds, coeficiente de variancia Kp",,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312028,(Datos de SeaWinds transmitidos por QuikSCAT),,021113,Número de sigma-0 del haz exterior (detrás del satélite),,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312028,(Datos de SeaWinds transmitidos por QuikSCAT),,301023,Latitud/longitud (exactitud aproximada),,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312028,(Datos de SeaWinds transmitidos por QuikSCAT),,321028,"Especificación del radar, sección transversal normalizada del radar SeaWinds, coeficiente de variancia Kp",,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312029,(Datos de dispersómetro de nivel 2b),,301046,"Identificador del satélite, dirección del movimiento, sensor, función modélica, programa informático, resolución",,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312029,(Datos de dispersómetro de nivel 2b),,301011,"Año, mes, día",,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312029,(Datos de dispersómetro de nivel 2b),,301013,"Hora, minuto, segundo",,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312029,(Datos de dispersómetro de nivel 2b),,301023,Latitud/longitud (exactitud aproximada),,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312029,(Datos de dispersómetro de nivel 2b),,008025,Calificador de diferencia de tiempo,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312029,(Datos de dispersómetro de nivel 2b),,201136,Cambio de anchura de datos,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312029,(Datos de dispersómetro de nivel 2b),,004006,Segundo,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312029,(Datos de dispersómetro de nivel 2b),,201000,Anular cambio de anchura de datos,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312029,(Datos de dispersómetro de nivel 2b),,005034,Número de la fila a lo largo de la trayectoria,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312029,(Datos de dispersómetro de nivel 2b),,201129,Cambio de anchura de datos,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312029,(Datos de dispersómetro de nivel 2b),,006034,Número de la célula transversal a la trayectoria,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312029,(Datos de dispersómetro de nivel 2b),,201000,Anular el cambio de anchura de datos,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312029,(Datos de dispersómetro de nivel 2b),,033055,Banderín de calidad del vector de viento,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312029,(Datos de dispersómetro de nivel 2b),,011081,Dirección del viento del modelo a 10 m,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312029,(Datos de dispersómetro de nivel 2b),,011082,Velocidad del viento del modelo a 10 m,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312029,(Datos de dispersómetro de nivel 2b),,021101,Número de ambigüedades del vector,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312029,(Datos de dispersómetro de nivel 2b),,021102,Índice del vector seleccionado de viento,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312029,(Datos de dispersómetro de nivel 2b),,021103,Número total de mediciones de sigma-0,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312029,(Datos de dispersómetro de nivel 2b),,312032,Precipitación determinada por SeaWinds,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312029,(Datos de dispersómetro de nivel 2b),,101004,Repetir 1 descriptor 4 veces,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312029,(Datos de dispersómetro de nivel 2b),,312030,"Viento, incertidumbre formal, probabilidad",,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312029,(Datos de dispersómetro de nivel 2b),,101002,Repetir 1 descriptor dos veces,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312029,(Datos de dispersómetro de nivel 2b),,312033,"Polarización de la antena, temperatura de luminancia",,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312029,(Datos de dispersómetro de nivel 2b),,021110,Número de sigma-0 del haz interior (delante del satélite),,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312029,(Datos de dispersómetro de nivel 2b),,301023,Latitud/longitud (exactitud aproximada),,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312029,(Datos de dispersómetro de nivel 2b),,321028,"Especificación del radar, sección transversal normalizada del radar SeaWinds, coeficiente de variancia Kp",,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312029,(Datos de dispersómetro de nivel 2b),,021111,Número de sigma-0 del haz exterior (delante del satélite),,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312029,(Datos de dispersómetro de nivel 2b),,301023,Latitud/longitud (exactitud aproximada),,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312029,(Datos de dispersómetro de nivel 2b),,321028,"Especificación del radar, sección transversal normalizada del radar SeaWinds, coeficiente de variancia Kp",,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312029,(Datos de dispersómetro de nivel 2b),,021112,Número de sigma-0 del haz interior (detrás del satélite),,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312029,(Datos de dispersómetro de nivel 2b),,301023,Latitud/longitud (exactitud aproximada),,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312029,(Datos de dispersómetro de nivel 2b),,321028,"Especificación del radar, sección transversal normalizada del radar SeaWinds, coeficiente de variancia Kp",,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312029,(Datos de dispersómetro de nivel 2b),,021113,Número de sigma-0 del haz exterior (detrás del satélite),,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312029,(Datos de dispersómetro de nivel 2b),,301023,Latitud/longitud (exactitud aproximada),,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312029,(Datos de dispersómetro de nivel 2b),,321028,"Especificación del radar, sección transversal normalizada del radar SeaWinds, coeficiente de variancia Kp",,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312030,"(Viento, incertidumbre formal, probabilidad)",,201130,Cambio de anchura de datos,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312030,"(Viento, incertidumbre formal, probabilidad)",,202129,Cambio de escala,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312030,"(Viento, incertidumbre formal, probabilidad)",,011012,Velocidad del viento a 10 m,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312030,"(Viento, incertidumbre formal, probabilidad)",,202000,Cambio de escala,Anular,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312030,"(Viento, incertidumbre formal, probabilidad)",,201000,Cambio de anchura de datos,Anular,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312030,"(Viento, incertidumbre formal, probabilidad)",,011052,Incertidumbre formal de la velocidad del viento,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312030,"(Viento, incertidumbre formal, probabilidad)",,201135,Cambio de anchura de datos,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312030,"(Viento, incertidumbre formal, probabilidad)",,202130,Cambio de escala,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312030,"(Viento, incertidumbre formal, probabilidad)",,011011,Dirección del viento a 10 m,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312030,"(Viento, incertidumbre formal, probabilidad)",,202000,Cambio de escala,Anular,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312030,"(Viento, incertidumbre formal, probabilidad)",,201000,Cambio de anchura de datos,Anular,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312030,"(Viento, incertidumbre formal, probabilidad)",,011053,Incertidumbre formal de la dirección del viento,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312030,"(Viento, incertidumbre formal, probabilidad)",,021104,Probabilidad calculada para la solución,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312031,(Viento determinado por SeaWinds),,005034,Número de la fila a lo largo de la trayectoria,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312031,(Viento determinado por SeaWinds),,006034,Número de la célula transversal a la trayectoria,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312031,(Viento determinado por SeaWinds),,021109,Calidad del vector viento medida en el interior de la célula por SeaWinds,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312031,(Viento determinado por SeaWinds),,011081,Dirección modélica del viento a 10 m,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312031,(Viento determinado por SeaWinds),,011082,Velocidad modélica del viento a 10 m,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312031,(Viento determinado por SeaWinds),,021101,Número de ambigüedades del vector,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312031,(Viento determinado por SeaWinds),,021102,Índice del vector seleccionado del viento,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312031,(Viento determinado por SeaWinds),,021103,Número total de mediciones de sigma-0,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312032,(Precipitación determinada por SeaWinds),,021120,Probabilidad de lluvia,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312032,(Precipitación determinada por SeaWinds),,021121,Índice de lluvia determinado por SeaWinds a partir de una función objetiva normalizada,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312032,(Precipitación determinada por SeaWinds),,013055,Intensidad de la precipitación,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312032,(Precipitación determinada por SeaWinds),,021122,Corrección de atenuación aplicada a sigma-0 (a partir de tB),,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312033,"(Polarización de la antena, temperatura de luminancia)",,002104,Polarización de la antena,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312033,"(Polarización de la antena, temperatura de luminancia)",,008022,Número total (con relación a la acumulación o el promedio),,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312033,"(Polarización de la antena, temperatura de luminancia)",,012063,Temperatura de luminancia,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312033,"(Polarización de la antena, temperatura de luminancia)",,012065,Desviación típica de la temperatura de luminancia,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312034,(Datos de dispersómetro CFOSAT),,301046,"Identificador del satélite, dirección del movimiento, sensor, función del modelo, programa informático, resolución",,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312034,(Datos de dispersómetro CFOSAT),,301011,"Año, mes, día",,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312034,(Datos de dispersómetro CFOSAT),,301013,"Hora, minuto, segundo",,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312034,(Datos de dispersómetro CFOSAT),,301023,Latitud/longitud (exactitud aproximada),,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312034,(Datos de dispersómetro CFOSAT),,008025,Calificador de diferencia de tiempo,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312034,(Datos de dispersómetro CFOSAT),,201136,Cambio de anchura de datos,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312034,(Datos de dispersómetro CFOSAT),,004006,Segundo,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312034,(Datos de dispersómetro CFOSAT),,201000,Cambio de anchura de datos,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312034,(Datos de dispersómetro CFOSAT),,312031,Viento determinado por dispersómetro,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312034,(Datos de dispersómetro CFOSAT),,312032,Precipitación determinada por dispersómetro,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312034,(Datos de dispersómetro CFOSAT),,101004,Repetir 1 descriptor 4 veces,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312034,(Datos de dispersómetro CFOSAT),,312030,"Viento, incertidumbre formal, probabilidad",,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312034,(Datos de dispersómetro CFOSAT),,101002,Repetir 1 descriptor 2 veces,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312034,(Datos de dispersómetro CFOSAT),,312033,"Polarización de la antena, temperatura de luminancia",,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312034,(Datos de dispersómetro CFOSAT),,103018,Repetir 3 descriptores 18 veces,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312034,(Datos de dispersómetro CFOSAT),,021110,Número de sigma-0 del haz interior (delante del satélite),,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312034,(Datos de dispersómetro CFOSAT),,301023,Latitud/longitud (exactitud aproximada),,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312034,(Datos de dispersómetro CFOSAT),,321028,"Especificación del radar, sección transversal normalizada de radar, coeficiente de variancia Kp",,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312035,(Datos de dispersómetro de nivel 2a),,001007,Identificación del satélite,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312035,(Datos de dispersómetro de nivel 2a),,001031,Identificación del centro de origen/generación,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312035,(Datos de dispersómetro de nivel 2a),,002048,Indicador del sensor del satélite,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312035,(Datos de dispersómetro de nivel 2a),,202124,Cambio de escala,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312035,(Datos de dispersómetro de nivel 2a),,002026,Resolución transversal a la trayectoria,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312035,(Datos de dispersómetro de nivel 2a),,002027,Resolución en la dirección de la trayectoria,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312035,(Datos de dispersómetro de nivel 2a),,202000,Anular cambio de escala,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312035,(Datos de dispersómetro de nivel 2a),,005040,Número de órbita,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312035,(Datos de dispersómetro de nivel 2a),,004001,Año,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312035,(Datos de dispersómetro de nivel 2a),,004002,Mes,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312035,(Datos de dispersómetro de nivel 2a),,004003,Día,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312035,(Datos de dispersómetro de nivel 2a),,004004,Hora,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312035,(Datos de dispersómetro de nivel 2a),,004005,Minuto,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312035,(Datos de dispersómetro de nivel 2a),,004006,Segundo,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312035,(Datos de dispersómetro de nivel 2a),,005002,Latitud (exactitud aproximada),,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312035,(Datos de dispersómetro de nivel 2a),,006002,Longitud (exactitud aproximada),,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312035,(Datos de dispersómetro de nivel 2a),,005034,Número de la fila a lo largo de la trayectoria,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312035,(Datos de dispersómetro de nivel 2a),,006031,Número de columna,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312035,(Datos de dispersómetro de nivel 2a),,201129,Cambio de anchura de datos,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312035,(Datos de dispersómetro de nivel 2a),,006034,Número de la célula transversal a la trayectoria,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312035,(Datos de dispersómetro de nivel 2a),,201000,Anular cambio de anchura de datos,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312035,(Datos de dispersómetro de nivel 2a),,005021,Rumbo o azimut,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312035,(Datos de dispersómetro de nivel 2a),,002111,Ángulo de incidencia del radar,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312035,(Datos de dispersómetro de nivel 2a),,012063,Temperatura de luminancia,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312035,(Datos de dispersómetro de nivel 2a),,021095,Coeficiente Kp A,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312035,(Datos de dispersómetro de nivel 2a),,021096,Coeficiente Kp B,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312035,(Datos de dispersómetro de nivel 2a),,021097,Coeficiente Kp C,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312035,(Datos de dispersómetro de nivel 2a),,021030,Relación señal-ruido,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312035,(Datos de dispersómetro de nivel 2a),,021105,Sección transversal normalizada de radar,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312035,(Datos de dispersómetro de nivel 2a),,033056,Banderín de calidad de Sigma-0,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312 041,(Altitud),,201141,Cambio de anchura de datos,28 bits,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312 041,(Altitud),,202130,Cambio de escala,Escala: 2,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312 041,(Altitud),,007001,Altura de la estación,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312 041,(Altitud),,201000,Cambio de anchura de datos,Anular,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312 041,(Altitud),,202000,Cambio de escala,Anular,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312 042,(Correcciones de la altitud),,021077,Corrección de la altitud (ionosfera),,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312 042,(Correcciones de la altitud),,021078,Corrección de la altitud (troposfera seca),,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312 042,(Correcciones de la altitud),,021079,Corrección de la altitud (troposfera húmeda),,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312 042,(Correcciones de la altitud),,021080,Corrección de la altitud (constante de calibración),,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312 042,(Correcciones de la altitud),,021081,Corrección en bucle abierto (bucle altura-tiempo),,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312 042,(Correcciones de la altitud),,021082,Corrección en bucle abierto (control automático de ganancia),,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312 045,(Temperatura de la superficie del mar obtenida mediante AATSR),,001007,Identificador del satélite,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312 045,(Temperatura de la superficie del mar obtenida mediante AATSR),,002019,Instrumentos de satélite,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312 045,(Temperatura de la superficie del mar obtenida mediante AATSR),,001096,Adquisición de estación,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312 045,(Temperatura de la superficie del mar obtenida mediante AATSR),,025061,Identificación del programa informático y número de versión,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312 045,(Temperatura de la superficie del mar obtenida mediante AATSR),,005040,Número de órbita,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312 045,(Temperatura de la superficie del mar obtenida mediante AATSR),,301011,"Año, mes, día",,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312 045,(Temperatura de la superficie del mar obtenida mediante AATSR),,301013,"Hora, minuto, segundo",,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312 045,(Temperatura de la superficie del mar obtenida mediante AATSR),,301021,Latitud/longitud (gran exactitud),,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312 045,(Temperatura de la superficie del mar obtenida mediante AATSR),,007002,Altura o altitud,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312 045,(Temperatura de la superficie del mar obtenida mediante AATSR),,012180,Temperatura de luminancia promedio a 12 micrones para todos los píxeles claros en el nadir,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312 045,(Temperatura de la superficie del mar obtenida mediante AATSR),,012181,Temperatura de luminancia promedio a 11 micrones para todos los píxeles claros en el nadir,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312 045,(Temperatura de la superficie del mar obtenida mediante AATSR),,012182,"Temperatura de luminancia promedio a 3,7 micrones para todos los píxeles claros en el nadir",,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312 045,(Temperatura de la superficie del mar obtenida mediante AATSR),,012183,"Temperatura de luminancia promedio a 12 micrones para todos los píxeles claros, vista hacia adelante",,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312 045,(Temperatura de la superficie del mar obtenida mediante AATSR),,012184,"Temperatura de luminancia promedio a 11 micrones para todos los píxeles claros, vista hacia adelante",,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312 045,(Temperatura de la superficie del mar obtenida mediante AATSR),,012185,"Temperatura de luminancia promedio a 3,7 micrones para todos los píxeles claros, vista hacia adelante",,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312 045,(Temperatura de la superficie del mar obtenida mediante AATSR),,002174,Número medio de píxeles transversales por pista,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312 045,(Temperatura de la superficie del mar obtenida mediante AATSR),,021086,"Número de píxeles en el nadir solamente, promedio",,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312 045,(Temperatura de la superficie del mar obtenida mediante AATSR),,012186,Temperatura media de la superficie del mar en el nadir,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312 045,(Temperatura de la superficie del mar obtenida mediante AATSR),,021087,"Número de píxeles en vista dual, promedio",,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312 045,(Temperatura de la superficie del mar obtenida mediante AATSR),,012187,Temperatura media de la superficie del mar en vista dual,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312 045,(Temperatura de la superficie del mar obtenida mediante AATSR),,033043,Grado de confianza de la temperatura media en superficie,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312050,(Informes del instrumento MERIS),,001007,Identificador del satélite,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312050,(Informes del instrumento MERIS),,002019,Instrumentos de satélite,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312050,(Informes del instrumento MERIS),,001096,Adquisición de estación,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312050,(Informes del instrumento MERIS),,025061,Identificación y número de versión del software,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312050,(Informes del instrumento MERIS),,005040,Número de órbita,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312050,(Informes del instrumento MERIS),,301011,"Año, mes, día",,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312050,(Informes del instrumento MERIS),,301013,"Hora, minuto, segundo",,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312050,(Informes del instrumento MERIS),,301021,Latitud/longitud (gran exactitud),,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312050,(Informes del instrumento MERIS),,007025,Ángulo cenital del sol,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312050,(Informes del instrumento MERIS),,005022,Azimut solar,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312050,(Informes del instrumento MERIS),,010080,Ángulo de visión cenital,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312050,(Informes del instrumento MERIS),,027080,Ángulo de visión azimutal,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312050,(Informes del instrumento MERIS),,008003,Significación vertical (observaciones satelitales),,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312050,(Informes del instrumento MERIS),,007004,Presión,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312050,(Informes del instrumento MERIS),,013093,Espesor óptico de la nube,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312050,(Informes del instrumento MERIS),,008003,Significación vertical (observaciones satelitales),,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312050,(Informes del instrumento MERIS),,201131,Cambio de anchura de datos,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312050,(Informes del instrumento MERIS),,202129,Cambio de escala,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312050,(Informes del instrumento MERIS),,007004,Presión,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312050,(Informes del instrumento MERIS),,007004,Presión,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312050,(Informes del instrumento MERIS),,202000,Cambio de escala,Anular,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312050,(Informes del instrumento MERIS),,201000,Cambio de anchura de datos,Anular,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312050,(Informes del instrumento MERIS),,013095,Vapor de agua total en columna,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312051,(Espectros transversales del océano – WVS),,001007,Identificador del satélite,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312051,(Espectros transversales del océano – WVS),,002019,Instrumentos de satélite,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312051,(Espectros transversales del océano – WVS),,001096,Adquisición de estación,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312051,(Espectros transversales del océano – WVS),,025061,Identificación y número de versión del software,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312051,(Espectros transversales del océano – WVS),,005040,Número de órbita,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312051,(Espectros transversales del océano – WVS),,008075,Calificador de órbita ascendente/descendente,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312051,(Espectros transversales del océano – WVS),,301011,"Año, mes, día",,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312051,(Espectros transversales del océano – WVS),,301013,"Hora, minuto, segundo",,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312051,(Espectros transversales del océano – WVS),,301021,Latitud/longitud (gran exactitud),,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312051,(Espectros transversales del océano – WVS),,001012,Dirección del movimiento de la plataforma de observación,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312051,(Espectros transversales del océano – WVS),,201131,Cambio de anchura de datos,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),XXXXX,(Espectros transversales del océano – WVS),,025124,Banderín de proceso de nivel 2 – MWR,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),XXXXX,(Espectros transversales del océano – WVS),,025125,Calidad de proceso de nivel 2 – MWR,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),XXXXX,(Espectros transversales del océano – WVS),,025122,Configuración del equipo informático para radiofrecuencia,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),XXXXX,(Espectros transversales del océano – WVS),,025123,Configuración del equipo informático para amplificador de gran potencia,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),XXXXX,(Espectros transversales del océano – WVS),,301011,"Año, mes, día",,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),XXXXX,(Espectros transversales del océano – WVS),,301013,"Hora, minuto, segundo",,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),XXXXX,(Espectros transversales del océano – WVS),,301021,Latitud/longitud (gran exactitud),,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),XXXXX,(Espectros transversales del océano – WVS),,007002,Altura o altitud,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),XXXXX,(Espectros transversales del océano – WVS),,002119,Operaciones de instrumento RA-2,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),XXXXX,(Espectros transversales del océano – WVS),,033047,Datos de confianza de las mediciones,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),XXXXX,(Espectros transversales del océano – WVS),,010081,Altitud del centro de gravedad sobre el elipsoide de referencia,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),XXXXX,(Espectros transversales del océano – WVS),,010082,Tasa de altitud instantánea,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),XXXXX,(Espectros transversales del océano – WVS),,010083,Ángulo de nadir al cuadrado externo del satélite mediante datos de plataforma,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),XXXXX,(Espectros transversales del océano – WVS),,010084,Ángulo de nadir al cuadrado externo del satélite mediante datos de forma de onda,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),XXXXX,(Espectros transversales del océano – WVS),,002116,Porcentaje procesado de banda de 320 MHz,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),XXXXX,(Espectros transversales del océano – WVS),,002117,Porcentaje procesado de banda de 80 MHz,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),XXXXX,(Espectros transversales del océano – WVS),,002118,Porcentaje procesado de banda de 20 MHz,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),XXXXX,(Espectros transversales del océano – WVS),,002156,Porcentaje de mediciones válidas de reseguimiento de océano en banda Ku,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),XXXXX,(Espectros transversales del océano – WVS),,002157,Porcentaje de mediciones válidas de reseguimiento de océano en banda S,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),XXXXX,(Espectros transversales del océano – WVS),,014055,Índice de actividad solar,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),XXXXX,(Espectros transversales del océano – WVS),,022150,Número de puntos válidos a 18 Hz para banda Ku,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),XXXXX,(Espectros transversales del océano – WVS),,022151,Alcance oceánico en banda Ku,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),XXXXX,(Espectros transversales del océano – WVS),,022152,Alcance oceánico estándar a 18Hz en banda Ku,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),XXXXX,(Espectros transversales del océano – WVS),,022153,Número de puntos válidos a 18 Hz para banda S,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),XXXXX,(Espectros transversales del océano – WVS),,022154,Alcance oceánico en banda S,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),XXXXX,(Espectros transversales del océano – WVS),,022155,Alcance oceánico estándar a 18 Hz en banda S,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),XXXXX,(Espectros transversales del océano – WVS),,022156,Altura significativa de las olas en banda Ku,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),XXXXX,(Espectros transversales del océano – WVS),,022157,Alcance oceánico estándar a 18 Hz en banda Ku,Altura significativa de las olas,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),XXXXX,(Espectros transversales del océano – WVS),,022158,Altura significativa de las olas en banda S,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),XXXXX,(Espectros transversales del océano – WVS),,022159,Altura significativa estándar de las olas a 18 Hz en banda S,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),XXXXX,(Espectros transversales del océano – WVS),,021137,Coeficiente corregido de retrodispersión oceánica en banda Ku,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),XXXXX,(Espectros transversales del océano – WVS),,021138,Coeficiente corregido estándar de retrodispersión oceánica en banda Ku,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),XXXXX,(Espectros transversales del océano – WVS),,021139,Corrección instrumental neta en banda Ku para control automático de ganancia,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),XXXXX,(Espectros transversales del océano – WVS),,021140,Coeficiente corregido de retrodispersión oceánica en banda S,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),XXXXX,(Espectros transversales del océano – WVS),,021141,Coeficiente corregido estándar de retrodispersión oceánica en banda S,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),XXXXX,(Espectros transversales del océano – WVS),,021142,Corrección instrumental neta en banda S para control automático de ganancia,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),XXXXX,(Espectros transversales del océano – WVS),,010085,Altura media de la superficie del mar,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),XXXXX,(Espectros transversales del océano – WVS),,010086,Altura del geoide,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),XXXXX,(Espectros transversales del océano – WVS),,010087,Profundidad del océano/elevación de la tierra,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),XXXXX,(Espectros transversales del océano – WVS),,010088,Altura total de la marea oceánica geocéntrica (solución 1),,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312056,(Información de célula de viento de dispersómetro),,025060,Identificación del programa informático,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312056,(Información de célula de viento de dispersómetro),,001032,Aplicación de producción,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312056,(Información de célula de viento de dispersómetro),,011082,Modelar la velocidad del viento a 10 m,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312056,(Información de célula de viento de dispersómetro),,011081,Modelar la dirección del viento a 10 m,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312056,(Información de célula de viento de dispersómetro),,020095,Probabilidad de hielo,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312056,(Información de célula de viento de dispersómetro),,020096,Edad de hielo (parámetro “A”),,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312056,(Información de célula de viento de dispersómetro),,021155,Calidad de la célula del vector viento,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312056,(Información de célula de viento de dispersómetro),,201133,Cambio de anchura de datos,Aumentar anchura de datos en 5 bits,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312056,(Información de célula de viento de dispersómetro),,021101,Número de ambigüedades del vector,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312056,(Información de célula de viento de dispersómetro),,021102,Índice del vector seleccionado del viento,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312056,(Información de célula de viento de dispersómetro),,201000,Cambio de anchura de datos,Anular,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312057,(Datos ambiguos del viento),,201130,Cambio de anchura de datos,Aumentar anchura de datos en 2 bits,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312057,(Datos ambiguos del viento),,202129,Cambio de escala,Aumentar el ajuste en 101,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312057,(Datos ambiguos del viento),,011012,Velocidad del viento a 10 m,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312057,(Datos ambiguos del viento),,202000,Cambio de escala,Anular,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312057,(Datos ambiguos del viento),,201000,Cambio de anchura de datos,Anular,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312057,(Datos ambiguos del viento),,201131,Cambio de anchura de datos,Aumentar anchura de datos en 3 bits,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312057,(Datos ambiguos del viento),,202129,Cambio de escala,Aumentar el ajuste en 101,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312057,(Datos ambiguos del viento),,011011,Dirección del viento a 10 m,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312057,(Datos ambiguos del viento),,202000,Cambio de escala,Anular,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312057,(Datos ambiguos del viento),,201000,Cambio de anchura de datos,Anular,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312057,(Datos ambiguos del viento),,021156,Distancia del retrodispersor,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312057,(Datos ambiguos del viento),,021104,Probabilidad calculada para la solución,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312058,(Datos de nivel 1b de ASCAT),,301125,Información de encabezamiento de ASCAT,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312058,(Datos de nivel 1b de ASCAT),,301011,"Año, mes, día",,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312058,(Datos de nivel 1b de ASCAT),,301013,"Hora, minuto, segundo",,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312058,(Datos de nivel 1b de ASCAT),,301021,Latitud/longitud (gran exactitud),,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312058,(Datos de nivel 1b de ASCAT),,312055,Información de célula de nivel 1b de ASCAT,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312058,(Datos de nivel 1b de ASCAT),,021150,Coubicación de haces,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312058,(Datos de nivel 1b de ASCAT),,101003,Repetir 1 descriptor 3 veces,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312058,(Datos de nivel 1b de ASCAT),,321030,Información Sigma-0 ASCAT,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312059,(Datos de dispersómetro sobre el viento),,312056,Información de célula de viento de dispersómetro,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312059,(Datos de dispersómetro sobre el viento),,101000,Repetición diferida de 1 descriptor,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312059,(Datos de dispersómetro sobre el viento),,031001,Factor de repetición diferida del descriptor,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312059,(Datos de dispersómetro sobre el viento),,312057,Datos ambiguos sobre el viento,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312060,(Datos de dispersómetro sobre la humedad del suelo),,025060,Identificador del soporte lógico,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312060,(Datos de dispersómetro sobre la humedad del suelo),,025062,Identificador de la base de datos,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312060,(Datos de dispersómetro sobre la humedad del suelo),,040001,Humedad del suelo en superficie (ms),,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312060,(Datos de dispersómetro sobre la humedad del suelo),,040002,Error estimado en la humedad del suelo en superficie,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312060,(Datos de dispersómetro sobre la humedad del suelo),,021062,Retrodifusor,Retrodifusor extrapolado a un ángulo de incidencia de 40° (Sigma0_40),,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312060,(Datos de dispersómetro sobre la humedad del suelo),,021151,Error estimado en Sigma-0 a un ángulo de incidencia de 40°,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312060,(Datos de dispersómetro sobre la humedad del suelo),,021152,Pendiente del ángulo de incidencia de 40°,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312060,(Datos de dispersómetro sobre la humedad del suelo),,021153,Error estimado en la pendiente a un ángulo de incidencia de 40°,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312060,(Datos de dispersómetro sobre la humedad del suelo),,021154,Sensibilidad de la humedad del suelo,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312060,(Datos de dispersómetro sobre la humedad del suelo),,021062,Retrodifusor,Retrodifusor seco,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312060,(Datos de dispersómetro sobre la humedad del suelo),,021088,Retrodifusor húmedo,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312060,(Datos de dispersómetro sobre la humedad del suelo),,040003,Humedad media del suelo de superficie,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312060,(Datos de dispersómetro sobre la humedad del suelo),,040004,Detección de la cantidad de lluvia,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312060,(Datos de dispersómetro sobre la humedad del suelo),,040005,Banderines de corrección de la humedad del suelo,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312060,(Datos de dispersómetro sobre la humedad del suelo),,040006,Banderines de proceso de la humedad el suelo,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312060,(Datos de dispersómetro sobre la humedad del suelo),,040007,Calidad de la humedad del suelo,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312060,(Datos de dispersómetro sobre la humedad del suelo),,020065,Capa de nieve,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312060,(Datos de dispersómetro sobre la humedad del suelo),,040008,Fracción helada de la superficie terrestre,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312060,(Datos de dispersómetro sobre la humedad del suelo),,040009,Fracción de inundación y humedales,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312060,(Datos de dispersómetro sobre la humedad del suelo),,040010,Complejidad topográfica,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312061,(Datos de nivel 1b y de nivel 2 de ASCAT),,312058,Datos de nivel 1b de ASCAT,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312061,(Datos de nivel 1b y de nivel 2 de ASCAT),,312060,Datos del dispersómetro sobre humedad del suelo,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312061,(Datos de nivel 1b y de nivel 2 de ASCAT),,312059,Datos del dispersómetro sobre viento,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312070,(Datos SMOS),,001007,Identificador del satélite,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312070,(Datos SMOS),,002019,Instrumentos de satélite,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312070,(Datos SMOS),,001144,Identificador de instantánea,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312070,(Datos SMOS),,001124,Identificador de punto de retícula,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312070,(Datos SMOS),,030010,Número de puntos de retícula,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312070,(Datos SMOS),,301011,"Año, mes, día",,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312070,(Datos SMOS),,301013,"Hora, minuto, segundo",,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312070,(Datos SMOS),,301021,Latitud/longitud (gran exactitud),,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312070,(Datos SMOS),,007012,Altitud del punto de retícula,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312070,(Datos SMOS),,015012,Recuento total de electrones por m2,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312070,(Datos SMOS),,012165,Temperatura de brillo de luz solar directa,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312070,(Datos SMOS),,012166,Exactitud de la instantánea,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312070,(Datos SMOS),,012167,Exactitud radiométrica (polarización pura),,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312070,(Datos SMOS),,012168,Exactitud radiométrica (polarización cruzada),,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312070,(Datos SMOS),,027010,Eje de huella 1,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312070,(Datos SMOS),,028010,Eje de huella 2,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312070,(Datos SMOS),,002099,Polarización,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312070,(Datos SMOS),,013048,Fracción de agua,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312070,(Datos SMOS),,025081,Ángulo de incidencia,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312070,(Datos SMOS),,025082,Ángulo azimutal,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312070,(Datos SMOS),,025083,Ángulo rotacional de Faraday,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312070,(Datos SMOS),,025084,Ángulo rotacional geométrico,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312070,(Datos SMOS),,012080,Parte real de la temperatura de brillo,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312070,(Datos SMOS),,012081,Parte imaginaria de la temperatura de brillo,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312070,(Datos SMOS),,012082,Exactitud radiométrica en píxeles,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312070,(Datos SMOS),,010087,Profundidad del océano/elevación de la tierra,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312070,(Datos SMOS),,010089,Altura total de la marea oceánica geocéntrica (solución 2),,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312070,(Datos SMOS),,010090,Altura de marea de largo período,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312070,(Datos SMOS),,010091,Altura de carga de marea,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312070,(Datos SMOS),,010092,Altura de marea en tierra sólida,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312070,(Datos SMOS),,010093,Altura de marea en polo geocéntrico,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312070,(Datos SMOS),,011097,Velocidad altimétrica del viento,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312070,(Datos SMOS),,021093,Máximas de la banda Ku,Promedio de valores a 20 Hz,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312070,(Datos SMOS),,101020,Repetir 1 descriptor 20 veces,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312070,(Datos SMOS),,021182,Máximas en banda Ku a 20 Hz,20 valores,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312070,(Datos SMOS),,033053,Calidad de reseguimiento de dato oceánicos en banda Ku,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312070,(Datos SMOS),,022151,Alcance oceánico en banda Ku,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312070,(Datos SMOS),,022145,Desviación estándar del intervalo oceánico a 20 Hz,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312070,(Datos SMOS),,022148,Número de puntos válidos respecto del intervalo oceánico a 20 Hz,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312070,(Datos SMOS),,022146,Intervalo de desplazamiento del centro de gravedad,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312070,(Datos SMOS),,022147,Desviación estándar del intervalo del desplazamiento del centro de gravedad a 20 Hz,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312070,(Datos SMOS),,025126,Corrección troposférica seca según modelo,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312070,(Datos SMOS),,025128,Corrección troposférica húmeda según modelo,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312070,(Datos SMOS),,025127,Corrección de barómetro invertido,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312070,(Datos SMOS),,021176,Corrección de variabilidad de alta frecuencia,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312070,(Datos SMOS),,025132,Corrección ionosférica en banda Ku según modelo,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312070,(Datos SMOS),,025133,Corrección del error sistemático sobre el estado del mar en banda Ku,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312070,(Datos SMOS),,025182,Banderín de procesamiento de nivel 1,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312070,(Datos SMOS),,025183,Calidad de procesamiento de nivel 1,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312070,(Datos SMOS),,025180,LRM por ciento,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312070,(Datos SMOS),,025184,Estado del producto de nivel 2,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312070,(Datos SMOS),,025181,Banderín de procesamiento de nivel 2,,,,Operational
+12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312070,(Datos SMOS),,033080,Banderines de calidad del nivel de exploración,Calidad de procesamiento de nivel 2,,,Operational

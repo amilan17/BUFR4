@@ -1,177 +1,177 @@
-Category,CategoryOfSequences_es,FXY1,Title_es,SubTitle_es,FXY2,ElementName_es,ElementDescription_es,Note_es,noteIDs,Status
-11,Secuencias de los informes de las observaciones de nivel �nico (datos convencionales),311001,,,301051,"Número de vuelo, sistema de navegación, fecha/ hora, posición, fase de vuelo",ASDAR,,,Operational
-11,Secuencias de los informes de las observaciones de nivel �nico (datos convencionales),,,,007002,Altura o altitud,,,,Operational
-11,Secuencias de los informes de las observaciones de nivel �nico (datos convencionales),,,,012001,Temperatura/temperatura del aire,,,,Operational
-11,Secuencias de los informes de las observaciones de nivel �nico (datos convencionales),,,,011001,Dirección del viento,,,,Operational
-11,Secuencias de los informes de las observaciones de nivel �nico (datos convencionales),,,,011002,Velocidad del viento,,,,Operational
-11,Secuencias de los informes de las observaciones de nivel �nico (datos convencionales),,,,011031,Grado de turbulencia,,,,Operational
-11,Secuencias de los informes de las observaciones de nivel �nico (datos convencionales),,,,011032,Altura de la base de la turbulencia,,,,Operational
-11,Secuencias de los informes de las observaciones de nivel �nico (datos convencionales),,,,011033,Altura de la cima de la turbulencia,,,,Operational
-11,Secuencias de los informes de las observaciones de nivel �nico (datos convencionales),,,,020041,Engelamiento del fuselaje de la aeronave,,,,Operational
-11,Secuencias de los informes de las observaciones de nivel �nico (datos convencionales),311002,(Informes ACARS),,301065,Identificación del mensaje ACARS,,,,Operational
-11,Secuencias de los informes de las observaciones de nivel �nico (datos convencionales),,,,301066,Posición con referencia al mensaje ACARS,,,,Operational
-11,Secuencias de los informes de las observaciones de nivel �nico (datos convencionales),,,,311003,Variables ACARS normalizadas transmitidas,,,,Operational
-11,Secuencias de los informes de las observaciones de nivel �nico (datos convencionales),,,,311004,Variables ACARS adicionales transmitidas,,,,Operational
-11,Secuencias de los informes de las observaciones de nivel �nico (datos convencionales),311003,(Variables ACARS normalizadas transmitidas),,010070,Altitud indicada de la aeronave,,,,Operational
-11,Secuencias de los informes de las observaciones de nivel �nico (datos convencionales),,,,011001,Dirección del viento,,,,Operational
-11,Secuencias de los informes de las observaciones de nivel �nico (datos convencionales),,,,011002,Velocidad del viento,,,,Operational
-11,Secuencias de los informes de las observaciones de nivel �nico (datos convencionales),,,,012001,Temperatura/temperatura del aire,,,,Operational
-11,Secuencias de los informes de las observaciones de nivel �nico (datos convencionales),,,,013002,Relación de mezcla,,,,Operational
-11,Secuencias de los informes de las observaciones de nivel �nico (datos convencionales),311004,(Variables ACARS adicionales transmitidas),,101000,Repetición diferida de 1 descriptor,,,,Operational
-11,Secuencias de los informes de las observaciones de nivel �nico (datos convencionales),,,,031000,Factor de repetición ligeramente diferida del descriptor,,,,Operational
-11,Secuencias de los informes de las observaciones de nivel �nico (datos convencionales),,,,011034,Velocidad de las ráfagas verticales,,,,Operational
-11,Secuencias de los informes de las observaciones de nivel �nico (datos convencionales),,,,101000,Repetición diferida de 1 descriptor,,,,Operational
-11,Secuencias de los informes de las observaciones de nivel �nico (datos convencionales),,,,031000,Factor de repetición ligeramente diferida del descriptor,,,,Operational
-11,Secuencias de los informes de las observaciones de nivel �nico (datos convencionales),,,,011035,Aceleración de las ráfagas verticales,,,,Operational
-11,Secuencias de los informes de las observaciones de nivel �nico (datos convencionales),,,,101000,Repetición diferida de 1 descriptor,,,,Operational
-11,Secuencias de los informes de las observaciones de nivel �nico (datos convencionales),,,,031000,Factor de repetición ligeramente diferida del descriptor,,,,Operational
-11,Secuencias de los informes de las observaciones de nivel �nico (datos convencionales),,,,011075,Intensidad media de la turbulencia (velocidad de disipación de los remolinos),,,,Operational
-11,Secuencias de los informes de las observaciones de nivel �nico (datos convencionales),,,,101000,Repetición diferida de 1 descriptor,,,,Operational
-11,Secuencias de los informes de las observaciones de nivel �nico (datos convencionales),,,,031000,Factor de repetición ligeramente diferida del descriptor,,,,Operational
-11,Secuencias de los informes de las observaciones de nivel �nico (datos convencionales),,,,011076,Intensidad máxima de la turbulencia (velocidad de disipación de los remolinos),,,,Operational
-11,Secuencias de los informes de las observaciones de nivel �nico (datos convencionales),,,,101000,Repetición diferida de 1 descriptor,,,,Operational
-11,Secuencias de los informes de las observaciones de nivel �nico (datos convencionales),,,,031000,Factor de repetición ligeramente diferida del descriptor,,,,Operational
-11,Secuencias de los informes de las observaciones de nivel �nico (datos convencionales),,,,033025,Indicador de valores interpolados ACARS,,,,Operational
-11,Secuencias de los informes de las observaciones de nivel �nico (datos convencionales),,,,101000,Repetición diferida de 1 descriptor,,,,Operational
-11,Secuencias de los informes de las observaciones de nivel �nico (datos convencionales),,,,031000,Factor de repetición ligeramente diferida del descriptor,,,,Operational
-11,Secuencias de los informes de las observaciones de nivel �nico (datos convencionales),,,,033026,Calidad de la humedad,,,,
-11,Secuencias de los informes de las observaciones de nivel �nico (datos convencionales),311005,(Informes AMDAR estándar),,001008,Número de matrícula de aeronave u otra identificación,,,,Operational
-11,Secuencias de los informes de las observaciones de nivel �nico (datos convencionales),,,,001023,Número de secuencia de observación,,,,Operational
-11,Secuencias de los informes de las observaciones de nivel �nico (datos convencionales),,,,301021,Latitud/longitud (gran exactitud),,,,Operational
-11,Secuencias de los informes de las observaciones de nivel �nico (datos convencionales),,,,301011,"Año, mes, día",,,,Operational
-11,Secuencias de los informes de las observaciones de nivel �nico (datos convencionales),,,,301013,"Hora, minuto, segundo",,,,Operational
-11,Secuencias de los informes de las observaciones de nivel �nico (datos convencionales),,,,007010,Nivel de vuelo,,,,Operational
-11,Secuencias de los informes de las observaciones de nivel �nico (datos convencionales),,,,008009,Fase de vuelo detallada,,,,Operational
-11,Secuencias de los informes de las observaciones de nivel �nico (datos convencionales),,,,011001,Dirección del viento,,,,Operational
-11,Secuencias de los informes de las observaciones de nivel �nico (datos convencionales),,,,011002,Velocidad del viento,,,,Operational
-11,Secuencias de los informes de las observaciones de nivel �nico (datos convencionales),,,,011031,Grado de turbulencia,,,,Operational
-11,Secuencias de los informes de las observaciones de nivel �nico (datos convencionales),,,,011036,Equivalente máximo derivado de la velocidad de las ráfagas verticales,,,,Operational
-11,Secuencias de los informes de las observaciones de nivel �nico (datos convencionales),,,,012101,Temperatura/temperatura del aire,,,,Operational
-11,Secuencias de los informes de las observaciones de nivel �nico (datos convencionales),,,,033025,Indicador de valores interpolados ACARS,,,,Operational
-11,Secuencias de los informes de las observaciones de nivel �nico (datos convencionales),311006,(Datos AMDAR o datos de aeronaves para un nivel sin indicación de latitud/longitud),,007010,Nivel de vuelo,,,,Operational
-11,Secuencias de los informes de las observaciones de nivel �nico (datos convencionales),,,,011001,Dirección del viento,,,,Operational
-11,Secuencias de los informes de las observaciones de nivel �nico (datos convencionales),,,,011002,Velocidad del viento,,,,Operational
-11,Secuencias de los informes de las observaciones de nivel �nico (datos convencionales),,,,002064,Calidad del ángulo de balanceo de la aeronave,,,,Operational
-11,Secuencias de los informes de las observaciones de nivel �nico (datos convencionales),,,,012101,Temperatura/temperatura del aire,,,,Operational
-11,Secuencias de los informes de las observaciones de nivel �nico (datos convencionales),,,,012103,Temperatura de punto de rocío,,,,Operational
-11,Secuencias de los informes de las observaciones de nivel �nico (datos convencionales),311007,(Datos de aeronaves para un nivel con indicación de latitud/longitud),,007010,Nivel de vuelo,,,,Operational
-11,Secuencias de los informes de las observaciones de nivel �nico (datos convencionales),,,,301021,Latitud/longitud (gran exactitud),,,,Operational
-11,Secuencias de los informes de las observaciones de nivel �nico (datos convencionales),,,,011001,Dirección del viento,,,,Operational
-11,Secuencias de los informes de las observaciones de nivel �nico (datos convencionales),,,,011002,Velocidad del viento,,,,Operational
-11,Secuencias de los informes de las observaciones de nivel �nico (datos convencionales),,,,002064,Calidad del ángulo de balanceo de la aeronave,,,,Operational
-11,Secuencias de los informes de las observaciones de nivel �nico (datos convencionales),,,,012101,Temperatura/temperatura del aire,,,,Operational
-11,Secuencias de los informes de las observaciones de nivel �nico (datos convencionales),,,,012103,Temperatura del punto de rocío,,,,Operational
-11,Secuencias de los informes de las observaciones de nivel �nico (datos convencionales),311008,(Perfil de ascenso/descenso de aeronaves sin indicación de latitud/ longitud en cada nivel),,001008,Número de matrícula de aeronave u otra identificación,,,,Operational
-11,Secuencias de los informes de las observaciones de nivel �nico (datos convencionales),,,,301011,"Año, mes, día",,,,Operational
-11,Secuencias de los informes de las observaciones de nivel �nico (datos convencionales),,,,301013,"Hora, minuto, segundo",,,,Operational
-11,Secuencias de los informes de las observaciones de nivel �nico (datos convencionales),,,,301021,Latitud/longitud (gran exactitud),,,,Operational
-11,Secuencias de los informes de las observaciones de nivel �nico (datos convencionales),,,,308004,Fase del vuelo de la aeronave,,,,Operational
-11,Secuencias de los informes de las observaciones de nivel �nico (datos convencionales),,,,101000,Repetición diferida de 1 descriptor,,,,Operational
-11,Secuencias de los informes de las observaciones de nivel �nico (datos convencionales),,,,031001,Factor de repetición diferida del descriptor,,,,Operational
-11,Secuencias de los informes de las observaciones de nivel �nico (datos convencionales),,,,311006,Datos AMDAR o datos de aeronaves para un nivel sin indicación de latitud/longitud,,,,Operational
-11,Secuencias de los informes de las observaciones de nivel �nico (datos convencionales),311009,(Perfil de ascenso/descenso de aeronaves con indicación de latitud/longitud en cada nivel),,001008,Número de matrícula de aeronave u otra identificación,,,,Operational
-11,Secuencias de los informes de las observaciones de nivel �nico (datos convencionales),,,,301011,"Año, mes, día",,,,Operational
-11,Secuencias de los informes de las observaciones de nivel �nico (datos convencionales),,,,301013,"Hora, minuto, segundo",,,,Operational
-11,Secuencias de los informes de las observaciones de nivel �nico (datos convencionales),,,,301021,Latitud/longitud (gran exactitud),,,,Operational
-11,Secuencias de los informes de las observaciones de nivel �nico (datos convencionales),,,,308004,Fase del vuelo de la aeronave,,,,Operational
-11,Secuencias de los informes de las observaciones de nivel �nico (datos convencionales),,,,101000,Repetición diferida de 1 descriptor,,,,Operational
-11,Secuencias de los informes de las observaciones de nivel �nico (datos convencionales),,,,031001,Factor de repetición diferida del descriptor,,,,Operational
-11,Secuencias de los informes de las observaciones de nivel �nico (datos convencionales),,,,311007,Datos de aeronaves para un nivel con indicación de latitud/longitud,,,,Operational
-11,Secuencias de los informes de las observaciones de nivel �nico (datos convencionales),311010,"(Modelo BUFR para AMDAR, versión 7)",,001008,Número de matrícula de aeronave u otra identificación,,,,Operational
-11,Secuencias de los informes de las observaciones de nivel �nico (datos convencionales),,,,001023,Número de secuencia de observación,,,,Operational
-11,Secuencias de los informes de las observaciones de nivel �nico (datos convencionales),,,,001006,Número de vuelo de aeronave,,,,Operational
-11,Secuencias de los informes de las observaciones de nivel �nico (datos convencionales),,,,001110,Número de cola de la aeronave,,,,Operational
-11,Secuencias de los informes de las observaciones de nivel �nico (datos convencionales),,,,001111,Aeropuerto de origen,,,,Operational
-11,Secuencias de los informes de las observaciones de nivel �nico (datos convencionales),,,,001112,Aeropuerto de destino,,,,Operational
-11,Secuencias de los informes de las observaciones de nivel �nico (datos convencionales),,,,204002,Campo asociado añadido,2 bits,,,Operational
-11,Secuencias de los informes de las observaciones de nivel �nico (datos convencionales),,,,031021,Significación del campo asociado,= 8 dos bits de información de calidad,,,Operational
-11,Secuencias de los informes de las observaciones de nivel �nico (datos convencionales),,,,301011,"Año, mes, día",,,,Operational
-11,Secuencias de los informes de las observaciones de nivel �nico (datos convencionales),,,,301013,"Hora, minuto, segundo",,,,Operational
-11,Secuencias de los informes de las observaciones de nivel �nico (datos convencionales),,,,301021,Latitud/longitud (gran exactitud),,,,Operational
-11,Secuencias de los informes de las observaciones de nivel �nico (datos convencionales),,,,007010,Nivel de vuelo,,,,Operational
-11,Secuencias de los informes de las observaciones de nivel �nico (datos convencionales),,,,010053,Altitud del Sistema mundial de satélites para la navegación,Altitud barométrica,,,Operational
-11,Secuencias de los informes de las observaciones de nivel �nico (datos convencionales),,,,008009,Fase detallada de vuelo,,,,Operational
-11,Secuencias de los informes de las observaciones de nivel �nico (datos convencionales),,,,011001,Dirección del viento,,,,Operational
-11,Secuencias de los informes de las observaciones de nivel �nico (datos convencionales),,,,011002,Velocidad del viento,,,,Operational
-11,Secuencias de los informes de las observaciones de nivel �nico (datos convencionales),,,,002064,Calidad del ángulo de balanceo de la aeronave,,,,Operational
-11,Secuencias de los informes de las observaciones de nivel �nico (datos convencionales),,,,011100,Velocidad verdadera de la aeronave,,,,Operational
-11,Secuencias de los informes de las observaciones de nivel �nico (datos convencionales),,,,011101,Componente u de la velocidad terrestre de la aeronave,,,,Operational
-11,Secuencias de los informes de las observaciones de nivel �nico (datos convencionales),,,,011102,Componente v de la velocidad terrestre de la aeronave,,,,Operational
-11,Secuencias de los informes de las observaciones de nivel �nico (datos convencionales),,,,011103,Componente w de la velocidad terrestre de la aeronave,,,,Operational
-11,Secuencias de los informes de las observaciones de nivel �nico (datos convencionales),,,,011104,"Rumbo verdadero de la aeronave, buque u otra plataforma móvil",Rumbo verdadero de la aeronave,,,Operational
-11,Secuencias de los informes de las observaciones de nivel �nico (datos convencionales),,,,012101,Temperatura/temperatura del aire,,,,Operational
-11,Secuencias de los informes de las observaciones de nivel �nico (datos convencionales),,,,002170,Sensores de humedad de la aeronave,,,,Operational
-11,Secuencias de los informes de las observaciones de nivel �nico (datos convencionales),,,,201144,Cambio de anchura de datos,,,,Operational
-11,Secuencias de los informes de las observaciones de nivel �nico (datos convencionales),,,,202133,Cambio de escala,,,,Operational
-11,Secuencias de los informes de las observaciones de nivel �nico (datos convencionales),,,,013002,Relación de mezcla,,,,Operational
-11,Secuencias de los informes de las observaciones de nivel �nico (datos convencionales),,,,202000,Cambio de escala,Anular,,,Operational
-11,Secuencias de los informes de las observaciones de nivel �nico (datos convencionales),,,,201000,Cambio de anchura de datos,Anular,,,Operational
-11,Secuencias de los informes de las observaciones de nivel �nico (datos convencionales),,,,201135,Cambio de anchura de datos,,,,Operational
-11,Secuencias de los informes de las observaciones de nivel �nico (datos convencionales),,,,202130,Cambio de escala,,,,Operational
-11,Secuencias de los informes de las observaciones de nivel �nico (datos convencionales),,,,013003,Humedad relativa,,,,Operational
-11,Secuencias de los informes de las observaciones de nivel �nico (datos convencionales),,,,202000,Cambio de escala,Anular,,,Operational
-11,Secuencias de los informes de las observaciones de nivel �nico (datos convencionales),,,,201000,Cambio de anchura de datos,Anular,,,Operational
-11,Secuencias de los informes de las observaciones de nivel �nico (datos convencionales),,,,101000,Repetición diferida de 1 descriptor,,,,Operational
-11,Secuencias de los informes de las observaciones de nivel �nico (datos convencionales),,,,031000,Factor de repetición ligeramente diferida del descriptor,,,,Operational
-11,Secuencias de los informes de las observaciones de nivel �nico (datos convencionales),,,,012103,Temperatura del punto de rocío,,,,Operational
-11,Secuencias de los informes de las observaciones de nivel �nico (datos convencionales),,,,033026,Calidad de la humedad,,,,Operational
-11,Secuencias de los informes de las observaciones de nivel �nico (datos convencionales),,,,101000,Repetición diferida de 1 descriptor,,,,Operational
-11,Secuencias de los informes de las observaciones de nivel �nico (datos convencionales),,,,031000,Factor de repetición ligeramente diferida del descriptor,,,,Operational
-11,Secuencias de los informes de las observaciones de nivel �nico (datos convencionales),,,,020042,Presencia de engelamiento del fuselaje de la aeronave,,,,Operational
-11,Secuencias de los informes de las observaciones de nivel �nico (datos convencionales),,,,103000,Repetición diferida de 3 descriptores,,,,Operational
-11,Secuencias de los informes de las observaciones de nivel �nico (datos convencionales),,,,031000,Factor de repetición ligeramente diferida del descriptor,,,,Operational
-11,Secuencias de los informes de las observaciones de nivel �nico (datos convencionales),,,,020043,Contenido máximo de agua líquida,,,,Operational
-11,Secuencias de los informes de las observaciones de nivel �nico (datos convencionales),,,,020044,Contenido medio de agua líquida,,,,Operational
-11,Secuencias de los informes de las observaciones de nivel �nico (datos convencionales),,,,020045,Condiciones de gotitas de agua grandes subfundidas (SLD),,,,Operational
-11,Secuencias de los informes de las observaciones de nivel �nico (datos convencionales),,,,101000,Repetición diferida de 1 descriptor,,,,Operational
-11,Secuencias de los informes de las observaciones de nivel �nico (datos convencionales),,,,031000,Factor de repetición ligeramente diferida del descriptor,,,,Operational
-11,Secuencias de los informes de las observaciones de nivel �nico (datos convencionales),,,,033025,Indicador de valores interpolados ACARS,,,,Operational
-11,Secuencias de los informes de las observaciones de nivel �nico (datos convencionales),,,,103000,Repetición diferida de 3 descriptores,,,,Operational
-11,Secuencias de los informes de las observaciones de nivel �nico (datos convencionales),,,,031001,Factor de repetición diferida del descriptor,,,,Operational
-11,Secuencias de los informes de las observaciones de nivel �nico (datos convencionales),,,,011075,Intensidad media de la turbulencia (tasa de disipación de los remolinos),,,,Operational
-11,Secuencias de los informes de las observaciones de nivel �nico (datos convencionales),,,,011076,Intensidad máxima de la turbulencia (tasa de disipación de los remolinos),,,,Operational
-11,Secuencias de los informes de las observaciones de nivel �nico (datos convencionales),,,,011039,Hora ampliada a la que se produce la máxima tasa de disipación de los remolinos,,,,Operational
-11,Secuencias de los informes de las observaciones de nivel �nico (datos convencionales),,,,102000,Repetición diferida de 2 descriptores,,,,Operational
-11,Secuencias de los informes de las observaciones de nivel �nico (datos convencionales),,,,031000,Factor de repetición ligeramente diferida del descriptor,,,,Operational
-11,Secuencias de los informes de las observaciones de nivel �nico (datos convencionales),,,,011037,Índice de turbulencia,EDR,,,Operational
-11,Secuencias de los informes de las observaciones de nivel �nico (datos convencionales),,,,011077,Intervalo de notificación o tiempo medio para la tasa de disipación de los remolinos,,,,Operational
-11,Secuencias de los informes de las observaciones de nivel �nico (datos convencionales),,,,103000,Repetición diferida de 3 descriptores,,,,Operational
-11,Secuencias de los informes de las observaciones de nivel �nico (datos convencionales),,,,031000,Factor de repetición ligeramente diferida del descriptor,,,,Operational
-11,Secuencias de los informes de las observaciones de nivel �nico (datos convencionales),,,,011034,Velocidad de las ráfagas verticales,,,,Operational
-11,Secuencias de los informes de las observaciones de nivel �nico (datos convencionales),,,,011035,Aceleración de las ráfagas verticales,,,,Operational
-11,Secuencias de los informes de las observaciones de nivel �nico (datos convencionales),,,,011036,Equivalente máximo derivado de la velocidad de las ráfagas verticales,,,,Operational
-11,Secuencias de los informes de las observaciones de nivel �nico (datos convencionales),,,,204000,Campo asociado añadido,Anular,,,Operational
-11,Secuencias de los informes de las observaciones de nivel �nico (datos convencionales),,,,119000,Repetición diferida de 19 descriptores,,,,Operational
-11,Secuencias de los informes de las observaciones de nivel �nico (datos convencionales),,,,031001,Factor de repetición diferida del descriptor,,,,Operational
-11,Secuencias de los informes de las observaciones de nivel �nico (datos convencionales),,,,301011,"Año, mes, día",,,,Operational
-11,Secuencias de los informes de las observaciones de nivel �nico (datos convencionales),,,,301013,"Hora, minuto, segundo",,,,Operational
-11,Secuencias de los informes de las observaciones de nivel �nico (datos convencionales),,,,301021,Latitud/longitud (gran exactitud),,,,Operational
-11,Secuencias de los informes de las observaciones de nivel �nico (datos convencionales),,,,007007,Altura,,,,Operational
-11,Secuencias de los informes de las observaciones de nivel �nico (datos convencionales),,,,011105,Versión del algoritmo EDR,,,,Operational
-11,Secuencias de los informes de las observaciones de nivel �nico (datos convencionales),,,,204007,Campo asociado añadido,7 bits,,,Operational
-11,Secuencias de los informes de las observaciones de nivel �nico (datos convencionales),,,,007004,Presión,,,,Operational
-11,Secuencias de los informes de las observaciones de nivel �nico (datos convencionales),,,,007004,Presión,,,,Operational
-11,Secuencias de los informes de las observaciones de nivel �nico (datos convencionales),,,,013099,Log10 de la densidad de partículas de nube integrada,,,,Operational
-11,Secuencias de los informes de las observaciones de nivel �nico (datos convencionales),,,,013100,Log10 del área de partículas de nube integrada,,,,Operational
-11,Secuencias de los informes de las observaciones de nivel �nico (datos convencionales),,,,013101,Log10 del volumen de partículas de nube integrado,,,,Operational
-11,Secuencias de los informes de las observaciones de nivel �nico (datos convencionales),311012,(Modelo BUFR para perfiles de ascenso/descenso de aeronaves con indicación de latitud y longitud para cada nivel),,301150,Identificador WIGOS,,,,Operational
-11,Secuencias de los informes de las observaciones de nivel �nico (datos convencionales),,,,001008,Número de matrícula de aeronave u otra identificación,,,,Operational
-11,Secuencias de los informes de las observaciones de nivel �nico (datos convencionales),,,,001111,Aeropuerto de origen,,,,Operational
-11,Secuencias de los informes de las observaciones de nivel �nico (datos convencionales),,,,001112,Aeropuerto de destino,,,,Operational
-11,Secuencias de los informes de las observaciones de nivel �nico (datos convencionales),,,,301011,"Año, mes, día",,,,Operational
-11,Secuencias de los informes de las observaciones de nivel �nico (datos convencionales),,,,301013,"Hora, minuto, segundo",,,,Operational
-11,Secuencias de los informes de las observaciones de nivel �nico (datos convencionales),,,,301021,Latitud/longitud (gran exactitud),,,,Operational
-11,Secuencias de los informes de las observaciones de nivel �nico (datos convencionales),,,,008004,Fase del vuelo,,,,Operational
-11,Secuencias de los informes de las observaciones de nivel �nico (datos convencionales),,,,110000,Repetición diferida de 10 descriptores,,,,Operational
-11,Secuencias de los informes de las observaciones de nivel �nico (datos convencionales),,,,031002,Factor ampliado de repetición diferida del descriptor,,,,Operational
-11,Secuencias de los informes de las observaciones de nivel �nico (datos convencionales),xxxxx,(Datos de perfiles de ascenso/descenso de aeronave para un nivel con indicación de latitud y longitud),,301011,"Año, mes, día",,,,Operational
-11,Secuencias de los informes de las observaciones de nivel �nico (datos convencionales),,,,301013,"Hora, minuto, segundo",,,,Operational
-11,Secuencias de los informes de las observaciones de nivel �nico (datos convencionales),,,,311007,Datos de aeronave para un nivel con indicación de latitud/longitud,,,,Operational
-11,Secuencias de los informes de las observaciones de nivel �nico (datos convencionales),,,,201144,Cambio de la anchura de datos,,,,Operational
-11,Secuencias de los informes de las observaciones de nivel �nico (datos convencionales),,,,202133,Cambio de escala,,,,Operational
-11,Secuencias de los informes de las observaciones de nivel �nico (datos convencionales),,,,013002,Relación de mezcla,Valor medido originalmente,,,Operational
-11,Secuencias de los informes de las observaciones de nivel �nico (datos convencionales),,,,202000,Cambio de escala,Anular,,,Operational
-11,Secuencias de los informes de las observaciones de nivel �nico (datos convencionales),,,,201000,Cambio de anchura de datos,Anular,,,Operational
-11,Secuencias de los informes de las observaciones de nivel �nico (datos convencionales),,,,0 130 13003,Humedad relativa,"Valor derivado de la relación de mezcla, limitado a ≤ 100%",,,Operational
-11,Secuencias de los informes de las observaciones de nivel �nico (datos convencionales),,,,0 33026,Calidad de la humedad,"Tabla de cifrado (notificar la figura de clave 10 si Td > T, véase la Tabla de
-cifrado que figura a continuación)",,,Operational
+"Category","CategoryOfSequences_es","FXY1","Title_es","SubTitle_es","FXY2","ElementName_es","ElementDescription_es","Note_es","noteIDs","Status"
+"11","Secuencias de los informes de las observaciones de nivel único (datos convencionales)","311001","","","301051","Número de vuelo, sistema de navegación, fecha/ hora, posición, fase de vuelo","ASDAR","","","Operational"
+"11","Secuencias de los informes de las observaciones de nivel único (datos convencionales)","311001","","","007002","Altura o altitud","","","","Operational"
+"11","Secuencias de los informes de las observaciones de nivel único (datos convencionales)","311001","","","012001","Temperatura/temperatura del aire","","","","Operational"
+"11","Secuencias de los informes de las observaciones de nivel único (datos convencionales)","311001","","","011001","Dirección del viento","","","","Operational"
+"11","Secuencias de los informes de las observaciones de nivel único (datos convencionales)","311001","","","011002","Velocidad del viento","","","","Operational"
+"11","Secuencias de los informes de las observaciones de nivel único (datos convencionales)","311001","","","011031","Grado de turbulencia","","","","Operational"
+"11","Secuencias de los informes de las observaciones de nivel único (datos convencionales)","311001","","","011032","Altura de la base de la turbulencia","","","","Operational"
+"11","Secuencias de los informes de las observaciones de nivel único (datos convencionales)","311001","","","011033","Altura de la cima de la turbulencia","","","","Operational"
+"11","Secuencias de los informes de las observaciones de nivel único (datos convencionales)","311001","","","020041","Engelamiento del fuselaje de la aeronave","","","","Operational"
+"11","Secuencias de los informes de las observaciones de nivel único (datos convencionales)","311002","(Informes ACARS)","","301065","Identificación del mensaje ACARS","","","","Operational"
+"11","Secuencias de los informes de las observaciones de nivel único (datos convencionales)","311002","(Informes ACARS)","","301066","Posición con referencia al mensaje ACARS","","","","Operational"
+"11","Secuencias de los informes de las observaciones de nivel único (datos convencionales)","311002","(Informes ACARS)","","311003","Variables ACARS normalizadas transmitidas","","","","Operational"
+"11","Secuencias de los informes de las observaciones de nivel único (datos convencionales)","311002","(Informes ACARS)","","311004","Variables ACARS adicionales transmitidas","","","","Operational"
+"11","Secuencias de los informes de las observaciones de nivel único (datos convencionales)","311003","(Variables ACARS normalizadas transmitidas)","","010070","Altitud indicada de la aeronave","","","","Operational"
+"11","Secuencias de los informes de las observaciones de nivel único (datos convencionales)","311003","(Variables ACARS normalizadas transmitidas)","","011001","Dirección del viento","","","","Operational"
+"11","Secuencias de los informes de las observaciones de nivel único (datos convencionales)","311003","(Variables ACARS normalizadas transmitidas)","","011002","Velocidad del viento","","","","Operational"
+"11","Secuencias de los informes de las observaciones de nivel único (datos convencionales)","311003","(Variables ACARS normalizadas transmitidas)","","012001","Temperatura/temperatura del aire","","","","Operational"
+"11","Secuencias de los informes de las observaciones de nivel único (datos convencionales)","311003","(Variables ACARS normalizadas transmitidas)","","013002","Relación de mezcla","","","","Operational"
+"11","Secuencias de los informes de las observaciones de nivel único (datos convencionales)","311004","(Variables ACARS adicionales transmitidas)","","101000","Repetición diferida de 1 descriptor","","","","Operational"
+"11","Secuencias de los informes de las observaciones de nivel único (datos convencionales)","311004","(Variables ACARS adicionales transmitidas)","","031000","Factor de repetición ligeramente diferida del descriptor","","","","Operational"
+"11","Secuencias de los informes de las observaciones de nivel único (datos convencionales)","311004","(Variables ACARS adicionales transmitidas)","","011034","Velocidad de las ráfagas verticales","","","","Operational"
+"11","Secuencias de los informes de las observaciones de nivel único (datos convencionales)","311004","(Variables ACARS adicionales transmitidas)","","101000","Repetición diferida de 1 descriptor","","","","Operational"
+"11","Secuencias de los informes de las observaciones de nivel único (datos convencionales)","311004","(Variables ACARS adicionales transmitidas)","","031000","Factor de repetición ligeramente diferida del descriptor","","","","Operational"
+"11","Secuencias de los informes de las observaciones de nivel único (datos convencionales)","311004","(Variables ACARS adicionales transmitidas)","","011035","Aceleración de las ráfagas verticales","","","","Operational"
+"11","Secuencias de los informes de las observaciones de nivel único (datos convencionales)","311004","(Variables ACARS adicionales transmitidas)","","101000","Repetición diferida de 1 descriptor","","","","Operational"
+"11","Secuencias de los informes de las observaciones de nivel único (datos convencionales)","311004","(Variables ACARS adicionales transmitidas)","","031000","Factor de repetición ligeramente diferida del descriptor","","","","Operational"
+"11","Secuencias de los informes de las observaciones de nivel único (datos convencionales)","311004","(Variables ACARS adicionales transmitidas)","","011075","Intensidad media de la turbulencia (velocidad de disipación de los remolinos)","","","","Operational"
+"11","Secuencias de los informes de las observaciones de nivel único (datos convencionales)","311004","(Variables ACARS adicionales transmitidas)","","101000","Repetición diferida de 1 descriptor","","","","Operational"
+"11","Secuencias de los informes de las observaciones de nivel único (datos convencionales)","311004","(Variables ACARS adicionales transmitidas)","","031000","Factor de repetición ligeramente diferida del descriptor","","","","Operational"
+"11","Secuencias de los informes de las observaciones de nivel único (datos convencionales)","311004","(Variables ACARS adicionales transmitidas)","","011076","Intensidad máxima de la turbulencia (velocidad de disipación de los remolinos)","","","","Operational"
+"11","Secuencias de los informes de las observaciones de nivel único (datos convencionales)","311004","(Variables ACARS adicionales transmitidas)","","101000","Repetición diferida de 1 descriptor","","","","Operational"
+"11","Secuencias de los informes de las observaciones de nivel único (datos convencionales)","311004","(Variables ACARS adicionales transmitidas)","","031000","Factor de repetición ligeramente diferida del descriptor","","","","Operational"
+"11","Secuencias de los informes de las observaciones de nivel único (datos convencionales)","311004","(Variables ACARS adicionales transmitidas)","","033025","Indicador de valores interpolados ACARS","","","","Operational"
+"11","Secuencias de los informes de las observaciones de nivel único (datos convencionales)","311004","(Variables ACARS adicionales transmitidas)","","101000","Repetición diferida de 1 descriptor","","","","Operational"
+"11","Secuencias de los informes de las observaciones de nivel único (datos convencionales)","311004","(Variables ACARS adicionales transmitidas)","","031000","Factor de repetición ligeramente diferida del descriptor","","","","Operational"
+"11","Secuencias de los informes de las observaciones de nivel único (datos convencionales)","311004","(Variables ACARS adicionales transmitidas)","","033026","Calidad de la humedad","","","",""
+"11","Secuencias de los informes de las observaciones de nivel único (datos convencionales)","311005","(Informes AMDAR estándar)","","001008","Número de matrícula de aeronave u otra identificación","","","","Operational"
+"11","Secuencias de los informes de las observaciones de nivel único (datos convencionales)","311005","(Informes AMDAR estándar)","","001023","Número de secuencia de observación","","","","Operational"
+"11","Secuencias de los informes de las observaciones de nivel único (datos convencionales)","311005","(Informes AMDAR estándar)","","301021","Latitud/longitud (gran exactitud)","","","","Operational"
+"11","Secuencias de los informes de las observaciones de nivel único (datos convencionales)","311005","(Informes AMDAR estándar)","","301011","Año, mes, día","","","","Operational"
+"11","Secuencias de los informes de las observaciones de nivel único (datos convencionales)","311005","(Informes AMDAR estándar)","","301013","Hora, minuto, segundo","","","","Operational"
+"11","Secuencias de los informes de las observaciones de nivel único (datos convencionales)","311005","(Informes AMDAR estándar)","","007010","Nivel de vuelo","","","","Operational"
+"11","Secuencias de los informes de las observaciones de nivel único (datos convencionales)","311005","(Informes AMDAR estándar)","","008009","Fase de vuelo detallada","","","","Operational"
+"11","Secuencias de los informes de las observaciones de nivel único (datos convencionales)","311005","(Informes AMDAR estándar)","","011001","Dirección del viento","","","","Operational"
+"11","Secuencias de los informes de las observaciones de nivel único (datos convencionales)","311005","(Informes AMDAR estándar)","","011002","Velocidad del viento","","","","Operational"
+"11","Secuencias de los informes de las observaciones de nivel único (datos convencionales)","311005","(Informes AMDAR estándar)","","011031","Grado de turbulencia","","","","Operational"
+"11","Secuencias de los informes de las observaciones de nivel único (datos convencionales)","311005","(Informes AMDAR estándar)","","011036","Equivalente máximo derivado de la velocidad de las ráfagas verticales","","","","Operational"
+"11","Secuencias de los informes de las observaciones de nivel único (datos convencionales)","311005","(Informes AMDAR estándar)","","012101","Temperatura/temperatura del aire","","","","Operational"
+"11","Secuencias de los informes de las observaciones de nivel único (datos convencionales)","311005","(Informes AMDAR estándar)","","033025","Indicador de valores interpolados ACARS","","","","Operational"
+"11","Secuencias de los informes de las observaciones de nivel único (datos convencionales)","311006","(Datos AMDAR o datos de aeronaves para un nivel sin indicación de latitud/longitud)","","007010","Nivel de vuelo","","","","Operational"
+"11","Secuencias de los informes de las observaciones de nivel único (datos convencionales)","311006","(Datos AMDAR o datos de aeronaves para un nivel sin indicación de latitud/longitud)","","011001","Dirección del viento","","","","Operational"
+"11","Secuencias de los informes de las observaciones de nivel único (datos convencionales)","311006","(Datos AMDAR o datos de aeronaves para un nivel sin indicación de latitud/longitud)","","011002","Velocidad del viento","","","","Operational"
+"11","Secuencias de los informes de las observaciones de nivel único (datos convencionales)","311006","(Datos AMDAR o datos de aeronaves para un nivel sin indicación de latitud/longitud)","","002064","Calidad del ángulo de balanceo de la aeronave","","","","Operational"
+"11","Secuencias de los informes de las observaciones de nivel único (datos convencionales)","311006","(Datos AMDAR o datos de aeronaves para un nivel sin indicación de latitud/longitud)","","012101","Temperatura/temperatura del aire","","","","Operational"
+"11","Secuencias de los informes de las observaciones de nivel único (datos convencionales)","311006","(Datos AMDAR o datos de aeronaves para un nivel sin indicación de latitud/longitud)","","012103","Temperatura de punto de rocío","","","","Operational"
+"11","Secuencias de los informes de las observaciones de nivel único (datos convencionales)","311007","(Datos de aeronaves para un nivel con indicación de latitud/longitud)","","007010","Nivel de vuelo","","","","Operational"
+"11","Secuencias de los informes de las observaciones de nivel único (datos convencionales)","311007","(Datos de aeronaves para un nivel con indicación de latitud/longitud)","","301021","Latitud/longitud (gran exactitud)","","","","Operational"
+"11","Secuencias de los informes de las observaciones de nivel único (datos convencionales)","311007","(Datos de aeronaves para un nivel con indicación de latitud/longitud)","","011001","Dirección del viento","","","","Operational"
+"11","Secuencias de los informes de las observaciones de nivel único (datos convencionales)","311007","(Datos de aeronaves para un nivel con indicación de latitud/longitud)","","011002","Velocidad del viento","","","","Operational"
+"11","Secuencias de los informes de las observaciones de nivel único (datos convencionales)","311007","(Datos de aeronaves para un nivel con indicación de latitud/longitud)","","002064","Calidad del ángulo de balanceo de la aeronave","","","","Operational"
+"11","Secuencias de los informes de las observaciones de nivel único (datos convencionales)","311007","(Datos de aeronaves para un nivel con indicación de latitud/longitud)","","012101","Temperatura/temperatura del aire","","","","Operational"
+"11","Secuencias de los informes de las observaciones de nivel único (datos convencionales)","311007","(Datos de aeronaves para un nivel con indicación de latitud/longitud)","","012103","Temperatura del punto de rocío","","","","Operational"
+"11","Secuencias de los informes de las observaciones de nivel único (datos convencionales)","311008","(Perfil de ascenso/descenso de aeronaves sin indicación de latitud/ longitud en cada nivel)","","001008","Número de matrícula de aeronave u otra identificación","","","","Operational"
+"11","Secuencias de los informes de las observaciones de nivel único (datos convencionales)","311008","(Perfil de ascenso/descenso de aeronaves sin indicación de latitud/ longitud en cada nivel)","","301011","Año, mes, día","","","","Operational"
+"11","Secuencias de los informes de las observaciones de nivel único (datos convencionales)","311008","(Perfil de ascenso/descenso de aeronaves sin indicación de latitud/ longitud en cada nivel)","","301013","Hora, minuto, segundo","","","","Operational"
+"11","Secuencias de los informes de las observaciones de nivel único (datos convencionales)","311008","(Perfil de ascenso/descenso de aeronaves sin indicación de latitud/ longitud en cada nivel)","","301021","Latitud/longitud (gran exactitud)","","","","Operational"
+"11","Secuencias de los informes de las observaciones de nivel único (datos convencionales)","311008","(Perfil de ascenso/descenso de aeronaves sin indicación de latitud/ longitud en cada nivel)","","308004","Fase del vuelo de la aeronave","","","","Operational"
+"11","Secuencias de los informes de las observaciones de nivel único (datos convencionales)","311008","(Perfil de ascenso/descenso de aeronaves sin indicación de latitud/ longitud en cada nivel)","","101000","Repetición diferida de 1 descriptor","","","","Operational"
+"11","Secuencias de los informes de las observaciones de nivel único (datos convencionales)","311008","(Perfil de ascenso/descenso de aeronaves sin indicación de latitud/ longitud en cada nivel)","","031001","Factor de repetición diferida del descriptor","","","","Operational"
+"11","Secuencias de los informes de las observaciones de nivel único (datos convencionales)","311008","(Perfil de ascenso/descenso de aeronaves sin indicación de latitud/ longitud en cada nivel)","","311006","Datos AMDAR o datos de aeronaves para un nivel sin indicación de latitud/longitud","","","","Operational"
+"11","Secuencias de los informes de las observaciones de nivel único (datos convencionales)","311009","(Perfil de ascenso/descenso de aeronaves con indicación de latitud/longitud en cada nivel)","","001008","Número de matrícula de aeronave u otra identificación","","","","Operational"
+"11","Secuencias de los informes de las observaciones de nivel único (datos convencionales)","311009","(Perfil de ascenso/descenso de aeronaves con indicación de latitud/longitud en cada nivel)","","301011","Año, mes, día","","","","Operational"
+"11","Secuencias de los informes de las observaciones de nivel único (datos convencionales)","311009","(Perfil de ascenso/descenso de aeronaves con indicación de latitud/longitud en cada nivel)","","301013","Hora, minuto, segundo","","","","Operational"
+"11","Secuencias de los informes de las observaciones de nivel único (datos convencionales)","311009","(Perfil de ascenso/descenso de aeronaves con indicación de latitud/longitud en cada nivel)","","301021","Latitud/longitud (gran exactitud)","","","","Operational"
+"11","Secuencias de los informes de las observaciones de nivel único (datos convencionales)","311009","(Perfil de ascenso/descenso de aeronaves con indicación de latitud/longitud en cada nivel)","","308004","Fase del vuelo de la aeronave","","","","Operational"
+"11","Secuencias de los informes de las observaciones de nivel único (datos convencionales)","311009","(Perfil de ascenso/descenso de aeronaves con indicación de latitud/longitud en cada nivel)","","101000","Repetición diferida de 1 descriptor","","","","Operational"
+"11","Secuencias de los informes de las observaciones de nivel único (datos convencionales)","311009","(Perfil de ascenso/descenso de aeronaves con indicación de latitud/longitud en cada nivel)","","031001","Factor de repetición diferida del descriptor","","","","Operational"
+"11","Secuencias de los informes de las observaciones de nivel único (datos convencionales)","311009","(Perfil de ascenso/descenso de aeronaves con indicación de latitud/longitud en cada nivel)","","311007","Datos de aeronaves para un nivel con indicación de latitud/longitud","","","","Operational"
+"11","Secuencias de los informes de las observaciones de nivel único (datos convencionales)","311010","(Modelo BUFR para AMDAR, versión 7)","","001008","Número de matrícula de aeronave u otra identificación","","","","Operational"
+"11","Secuencias de los informes de las observaciones de nivel único (datos convencionales)","311010","(Modelo BUFR para AMDAR, versión 7)","","001023","Número de secuencia de observación","","","","Operational"
+"11","Secuencias de los informes de las observaciones de nivel único (datos convencionales)","311010","(Modelo BUFR para AMDAR, versión 7)","","001006","Número de vuelo de aeronave","","","","Operational"
+"11","Secuencias de los informes de las observaciones de nivel único (datos convencionales)","311010","(Modelo BUFR para AMDAR, versión 7)","","001110","Número de cola de la aeronave","","","","Operational"
+"11","Secuencias de los informes de las observaciones de nivel único (datos convencionales)","311010","(Modelo BUFR para AMDAR, versión 7)","","001111","Aeropuerto de origen","","","","Operational"
+"11","Secuencias de los informes de las observaciones de nivel único (datos convencionales)","311010","(Modelo BUFR para AMDAR, versión 7)","","001112","Aeropuerto de destino","","","","Operational"
+"11","Secuencias de los informes de las observaciones de nivel único (datos convencionales)","311010","(Modelo BUFR para AMDAR, versión 7)","","204002","Campo asociado añadido","2 bits","","","Operational"
+"11","Secuencias de los informes de las observaciones de nivel único (datos convencionales)","311010","(Modelo BUFR para AMDAR, versión 7)","","031021","Significación del campo asociado","= 8 dos bits de información de calidad","","","Operational"
+"11","Secuencias de los informes de las observaciones de nivel único (datos convencionales)","311010","(Modelo BUFR para AMDAR, versión 7)","","301011","Año, mes, día","","","","Operational"
+"11","Secuencias de los informes de las observaciones de nivel único (datos convencionales)","311010","(Modelo BUFR para AMDAR, versión 7)","","301013","Hora, minuto, segundo","","","","Operational"
+"11","Secuencias de los informes de las observaciones de nivel único (datos convencionales)","311010","(Modelo BUFR para AMDAR, versión 7)","","301021","Latitud/longitud (gran exactitud)","","","","Operational"
+"11","Secuencias de los informes de las observaciones de nivel único (datos convencionales)","311010","(Modelo BUFR para AMDAR, versión 7)","","007010","Nivel de vuelo","","","","Operational"
+"11","Secuencias de los informes de las observaciones de nivel único (datos convencionales)","311010","(Modelo BUFR para AMDAR, versión 7)","","010053","Altitud del Sistema mundial de satélites para la navegación","Altitud barométrica","","","Operational"
+"11","Secuencias de los informes de las observaciones de nivel único (datos convencionales)","311010","(Modelo BUFR para AMDAR, versión 7)","","008009","Fase detallada de vuelo","","","","Operational"
+"11","Secuencias de los informes de las observaciones de nivel único (datos convencionales)","311010","(Modelo BUFR para AMDAR, versión 7)","","011001","Dirección del viento","","","","Operational"
+"11","Secuencias de los informes de las observaciones de nivel único (datos convencionales)","311010","(Modelo BUFR para AMDAR, versión 7)","","011002","Velocidad del viento","","","","Operational"
+"11","Secuencias de los informes de las observaciones de nivel único (datos convencionales)","311010","(Modelo BUFR para AMDAR, versión 7)","","002064","Calidad del ángulo de balanceo de la aeronave","","","","Operational"
+"11","Secuencias de los informes de las observaciones de nivel único (datos convencionales)","311010","(Modelo BUFR para AMDAR, versión 7)","","011100","Velocidad verdadera de la aeronave","","","","Operational"
+"11","Secuencias de los informes de las observaciones de nivel único (datos convencionales)","311010","(Modelo BUFR para AMDAR, versión 7)","","011101","Componente u de la velocidad terrestre de la aeronave","","","","Operational"
+"11","Secuencias de los informes de las observaciones de nivel único (datos convencionales)","311010","(Modelo BUFR para AMDAR, versión 7)","","011102","Componente v de la velocidad terrestre de la aeronave","","","","Operational"
+"11","Secuencias de los informes de las observaciones de nivel único (datos convencionales)","311010","(Modelo BUFR para AMDAR, versión 7)","","011103","Componente w de la velocidad terrestre de la aeronave","","","","Operational"
+"11","Secuencias de los informes de las observaciones de nivel único (datos convencionales)","311010","(Modelo BUFR para AMDAR, versión 7)","","011104","Rumbo verdadero de la aeronave, buque u otra plataforma móvil","Rumbo verdadero de la aeronave","","","Operational"
+"11","Secuencias de los informes de las observaciones de nivel único (datos convencionales)","311010","(Modelo BUFR para AMDAR, versión 7)","","012101","Temperatura/temperatura del aire","","","","Operational"
+"11","Secuencias de los informes de las observaciones de nivel único (datos convencionales)","311010","(Modelo BUFR para AMDAR, versión 7)","","002170","Sensores de humedad de la aeronave","","","","Operational"
+"11","Secuencias de los informes de las observaciones de nivel único (datos convencionales)","311010","(Modelo BUFR para AMDAR, versión 7)","","201144","Cambio de anchura de datos","","","","Operational"
+"11","Secuencias de los informes de las observaciones de nivel único (datos convencionales)","311010","(Modelo BUFR para AMDAR, versión 7)","","202133","Cambio de escala","","","","Operational"
+"11","Secuencias de los informes de las observaciones de nivel único (datos convencionales)","311010","(Modelo BUFR para AMDAR, versión 7)","","013002","Relación de mezcla","","","","Operational"
+"11","Secuencias de los informes de las observaciones de nivel único (datos convencionales)","311010","(Modelo BUFR para AMDAR, versión 7)","","202000","Cambio de escala","Anular","","","Operational"
+"11","Secuencias de los informes de las observaciones de nivel único (datos convencionales)","311010","(Modelo BUFR para AMDAR, versión 7)","","201000","Cambio de anchura de datos","Anular","","","Operational"
+"11","Secuencias de los informes de las observaciones de nivel único (datos convencionales)","311010","(Modelo BUFR para AMDAR, versión 7)","","201135","Cambio de anchura de datos","","","","Operational"
+"11","Secuencias de los informes de las observaciones de nivel único (datos convencionales)","311010","(Modelo BUFR para AMDAR, versión 7)","","202130","Cambio de escala","","","","Operational"
+"11","Secuencias de los informes de las observaciones de nivel único (datos convencionales)","311010","(Modelo BUFR para AMDAR, versión 7)","","013003","Humedad relativa","","","","Operational"
+"11","Secuencias de los informes de las observaciones de nivel único (datos convencionales)","311010","(Modelo BUFR para AMDAR, versión 7)","","202000","Cambio de escala","Anular","","","Operational"
+"11","Secuencias de los informes de las observaciones de nivel único (datos convencionales)","311010","(Modelo BUFR para AMDAR, versión 7)","","201000","Cambio de anchura de datos","Anular","","","Operational"
+"11","Secuencias de los informes de las observaciones de nivel único (datos convencionales)","311010","(Modelo BUFR para AMDAR, versión 7)","","101000","Repetición diferida de 1 descriptor","","","","Operational"
+"11","Secuencias de los informes de las observaciones de nivel único (datos convencionales)","311010","(Modelo BUFR para AMDAR, versión 7)","","031000","Factor de repetición ligeramente diferida del descriptor","","","","Operational"
+"11","Secuencias de los informes de las observaciones de nivel único (datos convencionales)","311010","(Modelo BUFR para AMDAR, versión 7)","","012103","Temperatura del punto de rocío","","","","Operational"
+"11","Secuencias de los informes de las observaciones de nivel único (datos convencionales)","311010","(Modelo BUFR para AMDAR, versión 7)","","033026","Calidad de la humedad","","","","Operational"
+"11","Secuencias de los informes de las observaciones de nivel único (datos convencionales)","311010","(Modelo BUFR para AMDAR, versión 7)","","101000","Repetición diferida de 1 descriptor","","","","Operational"
+"11","Secuencias de los informes de las observaciones de nivel único (datos convencionales)","311010","(Modelo BUFR para AMDAR, versión 7)","","031000","Factor de repetición ligeramente diferida del descriptor","","","","Operational"
+"11","Secuencias de los informes de las observaciones de nivel único (datos convencionales)","311010","(Modelo BUFR para AMDAR, versión 7)","","020042","Presencia de engelamiento del fuselaje de la aeronave","","","","Operational"
+"11","Secuencias de los informes de las observaciones de nivel único (datos convencionales)","311010","(Modelo BUFR para AMDAR, versión 7)","","103000","Repetición diferida de 3 descriptores","","","","Operational"
+"11","Secuencias de los informes de las observaciones de nivel único (datos convencionales)","311010","(Modelo BUFR para AMDAR, versión 7)","","031000","Factor de repetición ligeramente diferida del descriptor","","","","Operational"
+"11","Secuencias de los informes de las observaciones de nivel único (datos convencionales)","311010","(Modelo BUFR para AMDAR, versión 7)","","020043","Contenido máximo de agua líquida","","","","Operational"
+"11","Secuencias de los informes de las observaciones de nivel único (datos convencionales)","311010","(Modelo BUFR para AMDAR, versión 7)","","020044","Contenido medio de agua líquida","","","","Operational"
+"11","Secuencias de los informes de las observaciones de nivel único (datos convencionales)","311010","(Modelo BUFR para AMDAR, versión 7)","","020045","Condiciones de gotitas de agua grandes subfundidas (SLD)","","","","Operational"
+"11","Secuencias de los informes de las observaciones de nivel único (datos convencionales)","311010","(Modelo BUFR para AMDAR, versión 7)","","101000","Repetición diferida de 1 descriptor","","","","Operational"
+"11","Secuencias de los informes de las observaciones de nivel único (datos convencionales)","311010","(Modelo BUFR para AMDAR, versión 7)","","031000","Factor de repetición ligeramente diferida del descriptor","","","","Operational"
+"11","Secuencias de los informes de las observaciones de nivel único (datos convencionales)","311010","(Modelo BUFR para AMDAR, versión 7)","","033025","Indicador de valores interpolados ACARS","","","","Operational"
+"11","Secuencias de los informes de las observaciones de nivel único (datos convencionales)","311010","(Modelo BUFR para AMDAR, versión 7)","","103000","Repetición diferida de 3 descriptores","","","","Operational"
+"11","Secuencias de los informes de las observaciones de nivel único (datos convencionales)","311010","(Modelo BUFR para AMDAR, versión 7)","","031001","Factor de repetición diferida del descriptor","","","","Operational"
+"11","Secuencias de los informes de las observaciones de nivel único (datos convencionales)","311010","(Modelo BUFR para AMDAR, versión 7)","","011075","Intensidad media de la turbulencia (tasa de disipación de los remolinos)","","","","Operational"
+"11","Secuencias de los informes de las observaciones de nivel único (datos convencionales)","311010","(Modelo BUFR para AMDAR, versión 7)","","011076","Intensidad máxima de la turbulencia (tasa de disipación de los remolinos)","","","","Operational"
+"11","Secuencias de los informes de las observaciones de nivel único (datos convencionales)","311010","(Modelo BUFR para AMDAR, versión 7)","","011039","Hora ampliada a la que se produce la máxima tasa de disipación de los remolinos","","","","Operational"
+"11","Secuencias de los informes de las observaciones de nivel único (datos convencionales)","311010","(Modelo BUFR para AMDAR, versión 7)","","102000","Repetición diferida de 2 descriptores","","","","Operational"
+"11","Secuencias de los informes de las observaciones de nivel único (datos convencionales)","311010","(Modelo BUFR para AMDAR, versión 7)","","031000","Factor de repetición ligeramente diferida del descriptor","","","","Operational"
+"11","Secuencias de los informes de las observaciones de nivel único (datos convencionales)","311010","(Modelo BUFR para AMDAR, versión 7)","","011037","Índice de turbulencia","EDR","","","Operational"
+"11","Secuencias de los informes de las observaciones de nivel único (datos convencionales)","311010","(Modelo BUFR para AMDAR, versión 7)","","011077","Intervalo de notificación o tiempo medio para la tasa de disipación de los remolinos","","","","Operational"
+"11","Secuencias de los informes de las observaciones de nivel único (datos convencionales)","311010","(Modelo BUFR para AMDAR, versión 7)","","103000","Repetición diferida de 3 descriptores","","","","Operational"
+"11","Secuencias de los informes de las observaciones de nivel único (datos convencionales)","311010","(Modelo BUFR para AMDAR, versión 7)","","031000","Factor de repetición ligeramente diferida del descriptor","","","","Operational"
+"11","Secuencias de los informes de las observaciones de nivel único (datos convencionales)","311010","(Modelo BUFR para AMDAR, versión 7)","","011034","Velocidad de las ráfagas verticales","","","","Operational"
+"11","Secuencias de los informes de las observaciones de nivel único (datos convencionales)","311010","(Modelo BUFR para AMDAR, versión 7)","","011035","Aceleración de las ráfagas verticales","","","","Operational"
+"11","Secuencias de los informes de las observaciones de nivel único (datos convencionales)","311010","(Modelo BUFR para AMDAR, versión 7)","","011036","Equivalente máximo derivado de la velocidad de las ráfagas verticales","","","","Operational"
+"11","Secuencias de los informes de las observaciones de nivel único (datos convencionales)","311010","(Modelo BUFR para AMDAR, versión 7)","","204000","Campo asociado añadido","Anular","","","Operational"
+"11","Secuencias de los informes de las observaciones de nivel único (datos convencionales)","311010","(Modelo BUFR para AMDAR, versión 7)","","119000","Repetición diferida de 19 descriptores","","","","Operational"
+"11","Secuencias de los informes de las observaciones de nivel único (datos convencionales)","311010","(Modelo BUFR para AMDAR, versión 7)","","031001","Factor de repetición diferida del descriptor","","","","Operational"
+"11","Secuencias de los informes de las observaciones de nivel único (datos convencionales)","311010","(Modelo BUFR para AMDAR, versión 7)","","301011","Año, mes, día","","","","Operational"
+"11","Secuencias de los informes de las observaciones de nivel único (datos convencionales)","311010","(Modelo BUFR para AMDAR, versión 7)","","301013","Hora, minuto, segundo","","","","Operational"
+"11","Secuencias de los informes de las observaciones de nivel único (datos convencionales)","311010","(Modelo BUFR para AMDAR, versión 7)","","301021","Latitud/longitud (gran exactitud)","","","","Operational"
+"11","Secuencias de los informes de las observaciones de nivel único (datos convencionales)","311010","(Modelo BUFR para AMDAR, versión 7)","","007007","Altura","","","","Operational"
+"11","Secuencias de los informes de las observaciones de nivel único (datos convencionales)","311010","(Modelo BUFR para AMDAR, versión 7)","","011105","Versión del algoritmo EDR","","","","Operational"
+"11","Secuencias de los informes de las observaciones de nivel único (datos convencionales)","311010","(Modelo BUFR para AMDAR, versión 7)","","204007","Campo asociado añadido","7 bits","","","Operational"
+"11","Secuencias de los informes de las observaciones de nivel único (datos convencionales)","311010","(Modelo BUFR para AMDAR, versión 7)","","007004","Presión","","","","Operational"
+"11","Secuencias de los informes de las observaciones de nivel único (datos convencionales)","311010","(Modelo BUFR para AMDAR, versión 7)","","007004","Presión","","","","Operational"
+"11","Secuencias de los informes de las observaciones de nivel único (datos convencionales)","311010","(Modelo BUFR para AMDAR, versión 7)","","013099","Log10 de la densidad de partículas de nube integrada","","","","Operational"
+"11","Secuencias de los informes de las observaciones de nivel único (datos convencionales)","311010","(Modelo BUFR para AMDAR, versión 7)","","013100","Log10 del área de partículas de nube integrada","","","","Operational"
+"11","Secuencias de los informes de las observaciones de nivel único (datos convencionales)","311010","(Modelo BUFR para AMDAR, versión 7)","","013101","Log10 del volumen de partículas de nube integrado","","","","Operational"
+"11","Secuencias de los informes de las observaciones de nivel único (datos convencionales)","311012","(Modelo BUFR para perfiles de ascenso/descenso de aeronaves con indicación de latitud y longitud para cada nivel)","","301150","Identificador WIGOS","","","","Operational"
+"11","Secuencias de los informes de las observaciones de nivel único (datos convencionales)","311012","(Modelo BUFR para perfiles de ascenso/descenso de aeronaves con indicación de latitud y longitud para cada nivel)","","001008","Número de matrícula de aeronave u otra identificación","","","","Operational"
+"11","Secuencias de los informes de las observaciones de nivel único (datos convencionales)","311012","(Modelo BUFR para perfiles de ascenso/descenso de aeronaves con indicación de latitud y longitud para cada nivel)","","001111","Aeropuerto de origen","","","","Operational"
+"11","Secuencias de los informes de las observaciones de nivel único (datos convencionales)","311012","(Modelo BUFR para perfiles de ascenso/descenso de aeronaves con indicación de latitud y longitud para cada nivel)","","001112","Aeropuerto de destino","","","","Operational"
+"11","Secuencias de los informes de las observaciones de nivel único (datos convencionales)","311012","(Modelo BUFR para perfiles de ascenso/descenso de aeronaves con indicación de latitud y longitud para cada nivel)","","301011","Año, mes, día","","","","Operational"
+"11","Secuencias de los informes de las observaciones de nivel único (datos convencionales)","311012","(Modelo BUFR para perfiles de ascenso/descenso de aeronaves con indicación de latitud y longitud para cada nivel)","","301013","Hora, minuto, segundo","","","","Operational"
+"11","Secuencias de los informes de las observaciones de nivel único (datos convencionales)","311012","(Modelo BUFR para perfiles de ascenso/descenso de aeronaves con indicación de latitud y longitud para cada nivel)","","301021","Latitud/longitud (gran exactitud)","","","","Operational"
+"11","Secuencias de los informes de las observaciones de nivel único (datos convencionales)","311012","(Modelo BUFR para perfiles de ascenso/descenso de aeronaves con indicación de latitud y longitud para cada nivel)","","008004","Fase del vuelo","","","","Operational"
+"11","Secuencias de los informes de las observaciones de nivel único (datos convencionales)","311012","(Modelo BUFR para perfiles de ascenso/descenso de aeronaves con indicación de latitud y longitud para cada nivel)","","110000","Repetición diferida de 10 descriptores","","","","Operational"
+"11","Secuencias de los informes de las observaciones de nivel único (datos convencionales)","311012","(Modelo BUFR para perfiles de ascenso/descenso de aeronaves con indicación de latitud y longitud para cada nivel)","","031002","Factor ampliado de repetición diferida del descriptor","","","","Operational"
+"11","Secuencias de los informes de las observaciones de nivel único (datos convencionales)","xxxxx","(Datos de perfiles de ascenso/descenso de aeronave para un nivel con indicación de latitud y longitud)","","301011","Año, mes, día","","","","Operational"
+"11","Secuencias de los informes de las observaciones de nivel único (datos convencionales)","xxxxx","(Datos de perfiles de ascenso/descenso de aeronave para un nivel con indicación de latitud y longitud)","","301013","Hora, minuto, segundo","","","","Operational"
+"11","Secuencias de los informes de las observaciones de nivel único (datos convencionales)","xxxxx","(Datos de perfiles de ascenso/descenso de aeronave para un nivel con indicación de latitud y longitud)","","311007","Datos de aeronave para un nivel con indicación de latitud/longitud","","","","Operational"
+"11","Secuencias de los informes de las observaciones de nivel único (datos convencionales)","xxxxx","(Datos de perfiles de ascenso/descenso de aeronave para un nivel con indicación de latitud y longitud)","","201144","Cambio de la anchura de datos","","","","Operational"
+"11","Secuencias de los informes de las observaciones de nivel único (datos convencionales)","xxxxx","(Datos de perfiles de ascenso/descenso de aeronave para un nivel con indicación de latitud y longitud)","","202133","Cambio de escala","","","","Operational"
+"11","Secuencias de los informes de las observaciones de nivel único (datos convencionales)","xxxxx","(Datos de perfiles de ascenso/descenso de aeronave para un nivel con indicación de latitud y longitud)","","013002","Relación de mezcla","Valor medido originalmente","","","Operational"
+"11","Secuencias de los informes de las observaciones de nivel único (datos convencionales)","xxxxx","(Datos de perfiles de ascenso/descenso de aeronave para un nivel con indicación de latitud y longitud)","","202000","Cambio de escala","Anular","","","Operational"
+"11","Secuencias de los informes de las observaciones de nivel único (datos convencionales)","xxxxx","(Datos de perfiles de ascenso/descenso de aeronave para un nivel con indicación de latitud y longitud)","","201000","Cambio de anchura de datos","Anular","","","Operational"
+"11","Secuencias de los informes de las observaciones de nivel único (datos convencionales)","xxxxx","(Datos de perfiles de ascenso/descenso de aeronave para un nivel con indicación de latitud y longitud)","","0 130 13003","Humedad relativa","Valor derivado de la relación de mezcla, limitado a ≤ 100%","","","Operational"
+"11","Secuencias de los informes de las observaciones de nivel único (datos convencionales)","xxxxx","(Datos de perfiles de ascenso/descenso de aeronave para un nivel con indicación de latitud y longitud)","","0 33026","Calidad de la humedad","Tabla de cifrado (notificar la figura de clave 10 si Td > T, véase la Tabla de
+cifrado que figura a continuación)","","","Operational"

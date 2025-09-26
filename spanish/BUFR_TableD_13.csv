@@ -1,54 +1,54 @@
 Category,CategoryOfSequences_es,FXY1,Title_es,SubTitle_es,FXY2,ElementName_es,ElementDescription_es,Note_es,noteIDs,Status
-13,Secuencias comunes a los datos en forma de im�genes,313009,(Valores de reflectividad de radar),,021001,Reflectividad horizontal,,,,Operational
-13,Secuencias comunes a los datos en forma de im�genes,,,,101000,Repetición diferida de 1 descriptor,,,,Operational
-13,Secuencias comunes a los datos en forma de im�genes,,,,031001,Factor de repetición diferida del descriptor,,,,Operational
-13,Secuencias comunes a los datos en forma de im�genes,,,,021001,Reflectividad horizontal,,,,Operational
-13,Secuencias comunes a los datos en forma de im�genes,313010,(Intensidades de lluvia por radar),,021036,Intensidad de lluvia por radar,,,,Operational
-13,Secuencias comunes a los datos en forma de im�genes,,,,101000,Repetición diferida de 1 descriptor,,,,Operational
-13,Secuencias comunes a los datos en forma de im�genes,,,,031001,Factor de repetición diferida del descriptor,,,,Operational
-13,Secuencias comunes a los datos en forma de im�genes,,,,021036,Intensidad de lluvia por radar,,,,Operational
-13,Secuencias comunes a los datos en forma de im�genes,313031,(Hilera de datos cifrados por valor de píxel (4 bits) no pasados en su totalidad),,006002,Longitud (precisión aproximada),Primera localización de longitud menos un incremento,,,Operational
-13,Secuencias comunes a los datos en forma de im�genes,,,,006012,Incremento de la longitud (precisión aproximada),,,,Operational
-13,Secuencias comunes a los datos en forma de im�genes,,,,101000,Repetición diferida de 1 descriptor,,,,Operational
-13,Secuencias comunes a los datos en forma de im�genes,,,,031002,Factor ampliado de repetición diferida del descriptor,,,,Operational
-13,Secuencias comunes a los datos en forma de im�genes,,,,030001,Valor de píxel (4 bits),,,,Operational
-13,Secuencias comunes a los datos en forma de im�genes,313032,(Datos en forma de imagen cifrados por valor de píxel (4 bits) no pasados en su totalidad),,005002,Latitud (precisión aproximada),Primera localización de latitud menos un incremento,,,Operational
-13,Secuencias comunes a los datos en forma de im�genes,,,,005012,Incremento de la latitud (precisión aproximada),Valor señalado para que no pase a través del polo,,,Operational
-13,Secuencias comunes a los datos en forma de im�genes,,,,101000,Repetición diferida de 1 descriptor,,,,Operational
-13,Secuencias comunes a los datos en forma de im�genes,,,,031002,Factor ampliado de repetición diferida del descriptor,,,,Operational
-13,Secuencias comunes a los datos en forma de im�genes,,,,313031,Hilera de datos cifrados por valor de píxel (4 bits) no pasados en su totalidad,,,,Operational
-13,Secuencias comunes a los datos en forma de im�genes,313041,(Hilera de datos cifrados por valor de píxel (4 bits) pasados en su totalidad),,006002,Longitud (precisión aproximada),Primera localización de longitud menos un incremento,,,Operational
-13,Secuencias comunes a los datos en forma de im�genes,,,,110000,Repetición diferida de 10 descriptores,,,,Operational
-13,Secuencias comunes a los datos en forma de im�genes,,,,031001,Factor de repetición diferida del descriptor,,,,Operational
-13,Secuencias comunes a los datos en forma de im�genes,,,,104000,Repetición diferida de 4 descriptores,,,,Operational
-13,Secuencias comunes a los datos en forma de im�genes,,,,031001,Factor de repetición diferida del descriptor,,,,Operational
-13,Secuencias comunes a los datos en forma de im�genes,,,,006012,Incremento de la longitud (precisión aproximada),,,,Operational
-13,Secuencias comunes a los datos en forma de im�genes,,,,101000,Repetición diferida de 1 descriptor,,,,Operational
-13,Secuencias comunes a los datos en forma de im�genes,,,,031012,Factor ampliado de repetición diferida del descriptor y los datos,,,,Operational
-13,Secuencias comunes a los datos en forma de im�genes,,,,030001,Valor de píxel (4 bits),,,,Operational
-13,Secuencias comunes a los datos en forma de im�genes,,,,006012,Incremento de la longitud (precisión aproximada),,,,Operational
-13,Secuencias comunes a los datos en forma de im�genes,,,,101000,Repetición diferida de 1 descriptor,,,,Operational
-13,Secuencias comunes a los datos en forma de im�genes,,,,031001,Factor de repetición diferida del descriptor,,,,Operational
-13,Secuencias comunes a los datos en forma de im�genes,,,,030001,Valor de píxel (4 bits),,,,Operational
-13,Secuencias comunes a los datos en forma de im�genes,313042,(Datos en forma de imagen cifrados por valor de píxel (4 bits) pasados en su totalidad),,005002,Latitud (precisión aproximada),Primera localización de latitud menos un incremento,,,Operational
-13,Secuencias comunes a los datos en forma de im�genes,,,,005012,Incremento de la latitud (precisión aproximada),Valor señalado para que no pase a través del polo,,,Operational
-13,Secuencias comunes a los datos en forma de im�genes,,,,101000,Repetición diferida de 1 descriptor,,,,Operational
-13,Secuencias comunes a los datos en forma de im�genes,,,,031002,Factor ampliado de repetición diferida del descriptor,,,,Operational
-13,Secuencias comunes a los datos en forma de im�genes,,,,313041,Hilera de datos cifrados por valor de píxel (4 bits) pasados en su totalidad,,,,Operational
-13,Secuencias comunes a los datos en forma de im�genes,313043,"(Datos en forma de imagen cifrados por valor de píxel (4 bits) pasados en su totalidad, retícula normal)",,006002,Longitud (precisión aproximada),Primera ubicación de longitud menos un incremento,,,Operational
-13,Secuencias comunes a los datos en forma de im�genes,,,,005002,Latitud (precisión aproximada),Primera ubicación de latitud menos un incremento,,,Operational
-13,Secuencias comunes a los datos en forma de im�genes,,,,005012,Incremento de la latitud (exactitud aproximada),,,,Operational
-13,Secuencias comunes a los datos en forma de im�genes,,,,112000,Repetición diferida de 12 descriptores,,,,Operational
-13,Secuencias comunes a los datos en forma de im�genes,,,,031001,Factor de repetición diferida del descriptor,,,,Operational
-13,Secuencias comunes a los datos en forma de im�genes,,,,110000,Repetición diferida de 10 descriptores,,,,Operational
-13,Secuencias comunes a los datos en forma de im�genes,,,,031001,Factor de repetición diferida del descriptor,,,,Operational
-13,Secuencias comunes a los datos en forma de im�genes,,,,104000,Repetición diferida de 4 descriptores,,,,Operational
-13,Secuencias comunes a los datos en forma de im�genes,,,,031001,Factor de repetición diferida del descriptor,,,,Operational
-13,Secuencias comunes a los datos en forma de im�genes,,,,006012,Incremento de la longitud (exactitud aproximada),,,,Operational
-13,Secuencias comunes a los datos en forma de im�genes,,,,101000,Repetición diferida de 1 descriptor,,,,Operational
-13,Secuencias comunes a los datos en forma de im�genes,,,,031011,Factor de repetición diferida del descriptor y los datos,,,,Operational
-13,Secuencias comunes a los datos en forma de im�genes,,,,030001,Valor de píxel (4 bits),,,,Operational
-13,Secuencias comunes a los datos en forma de im�genes,,,,006012,Incremento de la longitud (exactitud aproximada),,,,Operational
-13,Secuencias comunes a los datos en forma de im�genes,,,,101000,Repetición diferida de 1 descriptor,,,,Operational
-13,Secuencias comunes a los datos en forma de im�genes,,,,031001,Factor de repetición diferida del descriptor,,,,Operational
-13,Secuencias comunes a los datos en forma de im�genes,,,,030001,Valor de píxel (4 bits),,,,Operational
+13,Secuencias comunes a los datos en forma de imágenes,313009,(Valores de reflectividad de radar),,021001,Reflectividad horizontal,,,,Operational
+13,Secuencias comunes a los datos en forma de imágenes,313009,(Valores de reflectividad de radar),,101000,Repetición diferida de 1 descriptor,,,,Operational
+13,Secuencias comunes a los datos en forma de imágenes,313009,(Valores de reflectividad de radar),,031001,Factor de repetición diferida del descriptor,,,,Operational
+13,Secuencias comunes a los datos en forma de imágenes,313009,(Valores de reflectividad de radar),,021001,Reflectividad horizontal,,,,Operational
+13,Secuencias comunes a los datos en forma de imágenes,313010,(Intensidades de lluvia por radar),,021036,Intensidad de lluvia por radar,,,,Operational
+13,Secuencias comunes a los datos en forma de imágenes,313010,(Intensidades de lluvia por radar),,101000,Repetición diferida de 1 descriptor,,,,Operational
+13,Secuencias comunes a los datos en forma de imágenes,313010,(Intensidades de lluvia por radar),,031001,Factor de repetición diferida del descriptor,,,,Operational
+13,Secuencias comunes a los datos en forma de imágenes,313010,(Intensidades de lluvia por radar),,021036,Intensidad de lluvia por radar,,,,Operational
+13,Secuencias comunes a los datos en forma de imágenes,313031,(Hilera de datos cifrados por valor de píxel (4 bits) no pasados en su totalidad),,006002,Longitud (precisión aproximada),Primera localización de longitud menos un incremento,,,Operational
+13,Secuencias comunes a los datos en forma de imágenes,313031,(Hilera de datos cifrados por valor de píxel (4 bits) no pasados en su totalidad),,006012,Incremento de la longitud (precisión aproximada),,,,Operational
+13,Secuencias comunes a los datos en forma de imágenes,313031,(Hilera de datos cifrados por valor de píxel (4 bits) no pasados en su totalidad),,101000,Repetición diferida de 1 descriptor,,,,Operational
+13,Secuencias comunes a los datos en forma de imágenes,313031,(Hilera de datos cifrados por valor de píxel (4 bits) no pasados en su totalidad),,031002,Factor ampliado de repetición diferida del descriptor,,,,Operational
+13,Secuencias comunes a los datos en forma de imágenes,313031,(Hilera de datos cifrados por valor de píxel (4 bits) no pasados en su totalidad),,030001,Valor de píxel (4 bits),,,,Operational
+13,Secuencias comunes a los datos en forma de imágenes,313032,(Datos en forma de imagen cifrados por valor de píxel (4 bits) no pasados en su totalidad),,005002,Latitud (precisión aproximada),Primera localización de latitud menos un incremento,,,Operational
+13,Secuencias comunes a los datos en forma de imágenes,313032,(Datos en forma de imagen cifrados por valor de píxel (4 bits) no pasados en su totalidad),,005012,Incremento de la latitud (precisión aproximada),Valor señalado para que no pase a través del polo,,,Operational
+13,Secuencias comunes a los datos en forma de imágenes,313032,(Datos en forma de imagen cifrados por valor de píxel (4 bits) no pasados en su totalidad),,101000,Repetición diferida de 1 descriptor,,,,Operational
+13,Secuencias comunes a los datos en forma de imágenes,313032,(Datos en forma de imagen cifrados por valor de píxel (4 bits) no pasados en su totalidad),,031002,Factor ampliado de repetición diferida del descriptor,,,,Operational
+13,Secuencias comunes a los datos en forma de imágenes,313032,(Datos en forma de imagen cifrados por valor de píxel (4 bits) no pasados en su totalidad),,313031,Hilera de datos cifrados por valor de píxel (4 bits) no pasados en su totalidad,,,,Operational
+13,Secuencias comunes a los datos en forma de imágenes,313041,(Hilera de datos cifrados por valor de píxel (4 bits) pasados en su totalidad),,006002,Longitud (precisión aproximada),Primera localización de longitud menos un incremento,,,Operational
+13,Secuencias comunes a los datos en forma de imágenes,313041,(Hilera de datos cifrados por valor de píxel (4 bits) pasados en su totalidad),,110000,Repetición diferida de 10 descriptores,,,,Operational
+13,Secuencias comunes a los datos en forma de imágenes,313041,(Hilera de datos cifrados por valor de píxel (4 bits) pasados en su totalidad),,031001,Factor de repetición diferida del descriptor,,,,Operational
+13,Secuencias comunes a los datos en forma de imágenes,313041,(Hilera de datos cifrados por valor de píxel (4 bits) pasados en su totalidad),,104000,Repetición diferida de 4 descriptores,,,,Operational
+13,Secuencias comunes a los datos en forma de imágenes,313041,(Hilera de datos cifrados por valor de píxel (4 bits) pasados en su totalidad),,031001,Factor de repetición diferida del descriptor,,,,Operational
+13,Secuencias comunes a los datos en forma de imágenes,313041,(Hilera de datos cifrados por valor de píxel (4 bits) pasados en su totalidad),,006012,Incremento de la longitud (precisión aproximada),,,,Operational
+13,Secuencias comunes a los datos en forma de imágenes,313041,(Hilera de datos cifrados por valor de píxel (4 bits) pasados en su totalidad),,101000,Repetición diferida de 1 descriptor,,,,Operational
+13,Secuencias comunes a los datos en forma de imágenes,313041,(Hilera de datos cifrados por valor de píxel (4 bits) pasados en su totalidad),,031012,Factor ampliado de repetición diferida del descriptor y los datos,,,,Operational
+13,Secuencias comunes a los datos en forma de imágenes,313041,(Hilera de datos cifrados por valor de píxel (4 bits) pasados en su totalidad),,030001,Valor de píxel (4 bits),,,,Operational
+13,Secuencias comunes a los datos en forma de imágenes,313041,(Hilera de datos cifrados por valor de píxel (4 bits) pasados en su totalidad),,006012,Incremento de la longitud (precisión aproximada),,,,Operational
+13,Secuencias comunes a los datos en forma de imágenes,313041,(Hilera de datos cifrados por valor de píxel (4 bits) pasados en su totalidad),,101000,Repetición diferida de 1 descriptor,,,,Operational
+13,Secuencias comunes a los datos en forma de imágenes,313041,(Hilera de datos cifrados por valor de píxel (4 bits) pasados en su totalidad),,031001,Factor de repetición diferida del descriptor,,,,Operational
+13,Secuencias comunes a los datos en forma de imágenes,313041,(Hilera de datos cifrados por valor de píxel (4 bits) pasados en su totalidad),,030001,Valor de píxel (4 bits),,,,Operational
+13,Secuencias comunes a los datos en forma de imágenes,313042,(Datos en forma de imagen cifrados por valor de píxel (4 bits) pasados en su totalidad),,005002,Latitud (precisión aproximada),Primera localización de latitud menos un incremento,,,Operational
+13,Secuencias comunes a los datos en forma de imágenes,313042,(Datos en forma de imagen cifrados por valor de píxel (4 bits) pasados en su totalidad),,005012,Incremento de la latitud (precisión aproximada),Valor señalado para que no pase a través del polo,,,Operational
+13,Secuencias comunes a los datos en forma de imágenes,313042,(Datos en forma de imagen cifrados por valor de píxel (4 bits) pasados en su totalidad),,101000,Repetición diferida de 1 descriptor,,,,Operational
+13,Secuencias comunes a los datos en forma de imágenes,313042,(Datos en forma de imagen cifrados por valor de píxel (4 bits) pasados en su totalidad),,031002,Factor ampliado de repetición diferida del descriptor,,,,Operational
+13,Secuencias comunes a los datos en forma de imágenes,313042,(Datos en forma de imagen cifrados por valor de píxel (4 bits) pasados en su totalidad),,313041,Hilera de datos cifrados por valor de píxel (4 bits) pasados en su totalidad,,,,Operational
+13,Secuencias comunes a los datos en forma de imágenes,313043,"(Datos en forma de imagen cifrados por valor de píxel (4 bits) pasados en su totalidad, retícula normal)",,006002,Longitud (precisión aproximada),Primera ubicación de longitud menos un incremento,,,Operational
+13,Secuencias comunes a los datos en forma de imágenes,313043,"(Datos en forma de imagen cifrados por valor de píxel (4 bits) pasados en su totalidad, retícula normal)",,005002,Latitud (precisión aproximada),Primera ubicación de latitud menos un incremento,,,Operational
+13,Secuencias comunes a los datos en forma de imágenes,313043,"(Datos en forma de imagen cifrados por valor de píxel (4 bits) pasados en su totalidad, retícula normal)",,005012,Incremento de la latitud (exactitud aproximada),,,,Operational
+13,Secuencias comunes a los datos en forma de imágenes,313043,"(Datos en forma de imagen cifrados por valor de píxel (4 bits) pasados en su totalidad, retícula normal)",,112000,Repetición diferida de 12 descriptores,,,,Operational
+13,Secuencias comunes a los datos en forma de imágenes,313043,"(Datos en forma de imagen cifrados por valor de píxel (4 bits) pasados en su totalidad, retícula normal)",,031001,Factor de repetición diferida del descriptor,,,,Operational
+13,Secuencias comunes a los datos en forma de imágenes,313043,"(Datos en forma de imagen cifrados por valor de píxel (4 bits) pasados en su totalidad, retícula normal)",,110000,Repetición diferida de 10 descriptores,,,,Operational
+13,Secuencias comunes a los datos en forma de imágenes,313043,"(Datos en forma de imagen cifrados por valor de píxel (4 bits) pasados en su totalidad, retícula normal)",,031001,Factor de repetición diferida del descriptor,,,,Operational
+13,Secuencias comunes a los datos en forma de imágenes,313043,"(Datos en forma de imagen cifrados por valor de píxel (4 bits) pasados en su totalidad, retícula normal)",,104000,Repetición diferida de 4 descriptores,,,,Operational
+13,Secuencias comunes a los datos en forma de imágenes,313043,"(Datos en forma de imagen cifrados por valor de píxel (4 bits) pasados en su totalidad, retícula normal)",,031001,Factor de repetición diferida del descriptor,,,,Operational
+13,Secuencias comunes a los datos en forma de imágenes,313043,"(Datos en forma de imagen cifrados por valor de píxel (4 bits) pasados en su totalidad, retícula normal)",,006012,Incremento de la longitud (exactitud aproximada),,,,Operational
+13,Secuencias comunes a los datos en forma de imágenes,313043,"(Datos en forma de imagen cifrados por valor de píxel (4 bits) pasados en su totalidad, retícula normal)",,101000,Repetición diferida de 1 descriptor,,,,Operational
+13,Secuencias comunes a los datos en forma de imágenes,313043,"(Datos en forma de imagen cifrados por valor de píxel (4 bits) pasados en su totalidad, retícula normal)",,031011,Factor de repetición diferida del descriptor y los datos,,,,Operational
+13,Secuencias comunes a los datos en forma de imágenes,313043,"(Datos en forma de imagen cifrados por valor de píxel (4 bits) pasados en su totalidad, retícula normal)",,030001,Valor de píxel (4 bits),,,,Operational
+13,Secuencias comunes a los datos en forma de imágenes,313043,"(Datos en forma de imagen cifrados por valor de píxel (4 bits) pasados en su totalidad, retícula normal)",,006012,Incremento de la longitud (exactitud aproximada),,,,Operational
+13,Secuencias comunes a los datos en forma de imágenes,313043,"(Datos en forma de imagen cifrados por valor de píxel (4 bits) pasados en su totalidad, retícula normal)",,101000,Repetición diferida de 1 descriptor,,,,Operational
+13,Secuencias comunes a los datos en forma de imágenes,313043,"(Datos en forma de imagen cifrados por valor de píxel (4 bits) pasados en su totalidad, retícula normal)",,031001,Factor de repetición diferida del descriptor,,,,Operational
+13,Secuencias comunes a los datos en forma de imágenes,313043,"(Datos en forma de imagen cifrados por valor de píxel (4 bits) pasados en su totalidad, retícula normal)",,030001,Valor de píxel (4 bits),,,,Operational

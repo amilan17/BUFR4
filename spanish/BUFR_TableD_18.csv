@@ -1,13 +1,13 @@
-Category,CategoryOfSequences_es,FXY1,Title_es,SubTitle_es,FXY2,ElementName_es,ElementDescription_es,Note_es,noteIDs,Status
-18,Secuencias de los informes de las observaciones radiol骻icas,318001,,,301025,"Latitud y longitud (precisi贸n aproximada), d铆a/hora",,,,Operational
-18,Secuencias de los informes de las observaciones radiol骻icas,,,,024011,Dosis,,,,Operational
-18,Secuencias de los informes de las observaciones radiol骻icas,318003,,,301026,"Latitud/longitud (gran precisi贸n), per铆odo de tiempo (d铆a, hora, minuto)",,,,Operational
-18,Secuencias de los informes de las observaciones radiol骻icas,,,,024005,Masa de is贸topos,,,,Operational
-18,Secuencias de los informes de las observaciones radiol骻icas,,,,024004,Nombre del elemento,,,,Operational
-18,Secuencias de los informes de las observaciones radiol骻icas,,,,024021,Concentraci贸n en el aire (del tipo de is贸topo designado incluyendo la dosis beta bruta),,,,Operational
-18,Secuencias de los informes de las observaciones radiol骻icas,318004,,,301025,"Latitud/longitud (precisi贸n aproximada), d铆a/hora",,,,Operational
-18,Secuencias de los informes de las observaciones radiol骻icas,,,,004023,Per铆odo o desplazamiento de tiempo,,,,Operational
-18,Secuencias de los informes de las observaciones radiol骻icas,,,,013011,Precipitaci贸n total/equivalente total en agua,,,,Operational
-18,Secuencias de los informes de las observaciones radiol骻icas,,,,024005,Masa de is贸topos,,,,Operational
-18,Secuencias de los informes de las observaciones radiol骻icas,,,,024004,Nombre del elemento,,,,Operational
-18,Secuencias de los informes de las observaciones radiol骻icas,,,,024022,Concentraci贸n en las precipitaciones (del tipo de is贸topo designado),,,,Operational
+"Category","CategoryOfSequences_es","FXY1","Title_es","SubTitle_es","FXY2","ElementName_es","ElementDescription_es","Note_es","noteIDs","Status"
+"18","Secuencias de los informes de las observaciones radiol贸gicas","318001","","","301025","Latitud y longitud (precisi贸n aproximada), d铆a/hora","","","","Operational"
+"18","Secuencias de los informes de las observaciones radiol贸gicas","318001","","","024011","Dosis","","","","Operational"
+"18","Secuencias de los informes de las observaciones radiol贸gicas","318003","","","301026","Latitud/longitud (gran precisi贸n), per铆odo de tiempo (d铆a, hora, minuto)","","","","Operational"
+"18","Secuencias de los informes de las observaciones radiol贸gicas","318003","","","024005","Masa de is贸topos","","","","Operational"
+"18","Secuencias de los informes de las observaciones radiol贸gicas","318003","","","024004","Nombre del elemento","","","","Operational"
+"18","Secuencias de los informes de las observaciones radiol贸gicas","318003","","","024021","Concentraci贸n en el aire (del tipo de is贸topo designado incluyendo la dosis beta bruta)","","","","Operational"
+"18","Secuencias de los informes de las observaciones radiol贸gicas","318004","","","301025","Latitud/longitud (precisi贸n aproximada), d铆a/hora","","","","Operational"
+"18","Secuencias de los informes de las observaciones radiol贸gicas","318004","","","004023","Per铆odo o desplazamiento de tiempo","","","","Operational"
+"18","Secuencias de los informes de las observaciones radiol贸gicas","318004","","","013011","Precipitaci贸n total/equivalente total en agua","","","","Operational"
+"18","Secuencias de los informes de las observaciones radiol贸gicas","318004","","","024005","Masa de is贸topos","","","","Operational"
+"18","Secuencias de los informes de las observaciones radiol贸gicas","318004","","","024004","Nombre del elemento","","","","Operational"
+"18","Secuencias de los informes de las observaciones radiol贸gicas","318004","","","024022","Concentraci贸n en las precipitaciones (del tipo de is贸topo designado)","","","","Operational"
