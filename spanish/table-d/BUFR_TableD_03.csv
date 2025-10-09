@@ -37,8 +37,8 @@ Category,CategoryOfSequences_es,FXY1,Title_es,SubTitle_es,FXY2,ElementName_es,El
 03,Secuencias meteorológicas comunes a los datos de los sondeos verticales,303014,"Geopotencial, temperatura, temperatura del punto de rocío, viento al nivel de la presión",,012003,Temperatura del punto de rocío,,,,Operational
 03,Secuencias meteorológicas comunes a los datos de los sondeos verticales,303014,"Geopotencial, temperatura, temperatura del punto de rocío, viento al nivel de la presión",,011001,Dirección del viento,,,,Operational
 03,Secuencias meteorológicas comunes a los datos de los sondeos verticales,303014,"Geopotencial, temperatura, temperatura del punto de rocío, viento al nivel de la presión",,011002,Velocidad del viento,,,,Operational
-03,Secuencias meteorológicas comunes a los datos de los sondeos verticales,303021,"(Capa, calidad)",,007004,"Presión""",,,,Operational
-
+03,Secuencias meteorológicas comunes a los datos de los sondeos verticales,303021,"(Capa, calidad)",,007004,Presión,Definir la capa,,,Operational
+03,Secuencias meteorológicas comunes a los datos de los sondeos verticales,303021,"(Capa, calidad)",,007004,Presión,,,,Operational
 03,Secuencias meteorológicas comunes a los datos de los sondeos verticales,303021,"(Capa, calidad)",,204007,Añadir campo asociado,7 bits,,,Operational
 03,Secuencias meteorológicas comunes a los datos de los sondeos verticales,303021,"(Capa, calidad)",,031021,Significación del campo asociado,,,,Operational
 03,Secuencias meteorológicas comunes a los datos de los sondeos verticales,303022,,,303021,"Capa, calidad",,,,Operational
