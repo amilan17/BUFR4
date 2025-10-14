@@ -1,15 +1,14 @@
 Category,CategoryOfSequences_es,FXY1,Title_es,SubTitle_es,FXY2,ElementName_es,ElementDescription_es,Note_es,noteIDs,Status
-16, Secuencias de las características sinópticas,,,,,,,,,
-,316001,,,301011,"Año, mes, día",,,,Operational,
-16, Secuencias de las características sinópticas,,,,004004,Hora,,,,Operational
-16, Secuencias de las características sinópticas,,,,301023,Latitud/longitud (precisión aproximada),,,,Operational
-16, Secuencias de las características sinópticas,,,,001021,Identificador de la configuración sinóptica,,,,Operational
-16, Secuencias de las características sinópticas,,,,002041,Método de estimación utilizado para el informe de configuración sinóptica,,,,Operational
-16, Secuencias de las características sinópticas,,,,019001,Tipo de configuración sinóptica,,,,Operational
-16, Secuencias de las características sinópticas,,,,010051,Presión reducida a nivel medio del mar,,,,Operational
-16, Secuencias de las características sinópticas,,,,019002,Radio real de la configuración,,,,Operational
-16, Secuencias de las características sinópticas,,,,019003,Umbral de velocidad del viento,Generalmente 15 m s–1,,,Operational
-16, Secuencias de las características sinópticas,,,,019004,Radio real para las velocidades del viento superiores al umbral,,,,Operational
+16, Secuencias de las características sinópticas,316001,,,301011,"Año, mes, día",,,,Operational
+16, Secuencias de las características sinópticas,316001,,,004004,Hora,,,,Operational
+16, Secuencias de las características sinópticas,316001,,,301023,Latitud/longitud (precisión aproximada),,,,Operational
+16, Secuencias de las características sinópticas,316001,,,001021,Identificador de la configuración sinóptica,,,,Operational
+16, Secuencias de las características sinópticas,316001,,,002041,Método de estimación utilizado para el informe de configuración sinóptica,,,,Operational
+16, Secuencias de las características sinópticas,316001,,,019001,Tipo de configuración sinóptica,,,,Operational
+16, Secuencias de las características sinópticas,316001,,,010051,Presión reducida a nivel medio del mar,,,,Operational
+16, Secuencias de las características sinópticas,316001,,,019002,Radio real de la configuración,,,,Operational
+16, Secuencias de las características sinópticas,316001,,,019003,Umbral de velocidad del viento,Generalmente 15 m s–1,,,Operational
+16, Secuencias de las características sinópticas,316001,,,019004,Radio real para las velocidades del viento superiores al umbral,,,,Operational
 16, Secuencias de las características sinópticas,316002,(Encabezamiento),,008021,Significación temporal,Hora de los datos (análisis),,,Operational
 16, Secuencias de las características sinópticas,316002,(Encabezamiento),,004001,Año,,,,Operational
 16, Secuencias de las características sinópticas,316002,(Encabezamiento),,004002,Mes,,,,Operational
@@ -153,7 +152,7 @@ Category,CategoryOfSequences_es,FXY1,Title_es,SubTitle_es,FXY2,ElementName_es,El
 16, Secuencias de las características sinópticas,316021,(Datos de análisis),,019006,Velocidad del desplazamiento de la característica,,,,Operational
 16, Secuencias de las características sinópticas,316021,(Datos de análisis),,019008,Extensión vertical de la circulación,,,,Operational
 16, Secuencias de las características sinópticas,316021,(Datos de análisis),,008005,Significación del atributo meteorológico,= 1 centro de la tormenta,,,Operational
-16, Secuencias de las características sinópticas,316021,(Datos de análisis),,010004,Presión,Centro de la tormenta en virtud del calificador de significación precedente,,,Operational
+16, Secuencias de las características sinópticas,316021,(Datos de análisis),,010004,Presión,Centro de la tormenta en virtud del calificador de Significación precedente,,,Operational
 16, Secuencias de las características sinópticas,316021,(Datos de análisis),,008005,Significación del atributo meteorológico,= 2 límite exterior o el borde de la característica,,,Operational
 16, Secuencias de las características sinópticas,316021,(Datos de análisis),,010004,Presión,Límite exterior,,,Operational
 16, Secuencias de las características sinópticas,316021,(Datos de análisis),,019007,Radio efectivo de la característica,Límite exterior,,,Operational
@@ -169,7 +168,7 @@ Category,CategoryOfSequences_es,FXY1,Title_es,SubTitle_es,FXY2,ElementName_es,El
 16, Secuencias de las características sinópticas,316021,(Datos de análisis),,019003,Umbral de velocidad del viento,,,,Operational
 16, Secuencias de las características sinópticas,316021,(Datos de análisis),,019004,Radio efectivo de las velocidades del viento por encima del umbral,,,,Operational
 16, Secuencias de las características sinópticas,316022,(Datos de pronósticos),,001032,Aplicación de producción,"Nombre del modelo PNT, etc., tabla de cifrado definida por el centro de origen/ generación",,,Operational
-16, Secuencias de las características sinópticas,316022,(Datos de pronósticos),,002041,Método para la estimación de informes relativos a la característica sinóptica,,,,Operational
+16, Secuencias de las características sinópticas,316022,(Datos de pronósticos),,002041,Método para la estimación de informes relativos a la Característica sinóptica,,,,Operational
 16, Secuencias de las características sinópticas,316022,(Datos de pronósticos),,019001,Tipo de característica sinóptica,,,,Operational
 16, Secuencias de las características sinópticas,316022,(Datos de pronósticos),,019010,Método de seguimiento del centro de la característica sinóptica,,,,Operational
 16, Secuencias de las características sinópticas,316022,(Datos de pronósticos),,118000,Repetición diferida de 18 descriptores,,,,Operational
@@ -206,14 +205,14 @@ Category,CategoryOfSequences_es,FXY1,Title_es,SubTitle_es,FXY2,ElementName_es,El
 16, Secuencias de las características sinópticas,316030,(Encabezamiento SIGMET),,008019,Calificador para el identificador del centro siguiente,= 6 MWO,,,Operational
 16, Secuencias de las características sinópticas,316030,(Encabezamiento SIGMET),,001062,Indicador de ubicación abreviado de la OACI,,,,Operational
 16, Secuencias de las características sinópticas,316030,(Encabezamiento SIGMET),,008019,Calificador para el identificador del centro siguiente,Fijar en faltante (anular),,,Operational
-16, Secuencias de las características sinópticas,316031,(SIGMET – Posición y desplazamiento observados o pronosticados),,008021,Significación temporal,"= 16 análisis, = 4 predicción",,,Operational
-16, Secuencias de las características sinópticas,316031,(SIGMET – Posición y desplazamiento observados o pronosticados),,301011,"Año, mes, día",,,,Operational
-16, Secuencias de las características sinópticas,316031,(SIGMET – Posición y desplazamiento observados o pronosticados),,301012,"Hora, minuto",,,,Operational
-16, Secuencias de las características sinópticas,316031,(SIGMET – Posición y desplazamiento observados o pronosticados),,301027,Descripción de un elemento en 3-D o 2-D,,,,Operational
-16, Secuencias de las características sinópticas,316031,(SIGMET – Posición y desplazamiento observados o pronosticados),,019005,Dirección del desplazamiento de la característica,,,,Operational
-16, Secuencias de las características sinópticas,316031,(SIGMET – Posición y desplazamiento observados o pronosticados),,019006,Velocidad del desplazamiento de la característica,,,,Operational
-16, Secuencias de las características sinópticas,316031,(SIGMET – Posición y desplazamiento observados o pronosticados),,020028,Cambio esperado en intensidad,,,,Operational
-16, Secuencias de las características sinópticas,316031,(SIGMET – Posición y desplazamiento observados o pronosticados),,008021,Significación temporal,Fijar en faltante (anular),,,Operational
+16, Secuencias de las características sinópticas,316031,(SIGMET – Posició y desplazamiento observados o pronosticados),,008021,Significación temporal,"= 16 análisis, = 4 predicción",,,Operational
+16, Secuencias de las características sinópticas,316031,(SIGMET – Posició y desplazamiento observados o pronosticados),,301011,"Año, mes, día",,,,Operational
+16, Secuencias de las características sinópticas,316031,(SIGMET – Posició y desplazamiento observados o pronosticados),,301012,"Hora, minuto",,,,Operational
+16, Secuencias de las características sinópticas,316031,(SIGMET – Posició y desplazamiento observados o pronosticados),,301027,Descripción de un elemento en 3-D o 2-D,,,,Operational
+16, Secuencias de las características sinópticas,316031,(SIGMET – Posició y desplazamiento observados o pronosticados),,019005,Dirección del desplazamiento de la característica,,,,Operational
+16, Secuencias de las características sinópticas,316031,(SIGMET – Posició y desplazamiento observados o pronosticados),,019006,Velocidad del desplazamiento de la característica,,,,Operational
+16, Secuencias de las características sinópticas,316031,(SIGMET – Posició y desplazamiento observados o pronosticados),,020028,Cambio esperado en intensidad,,,,Operational
+16, Secuencias de las características sinópticas,316031,(SIGMET – Posició y desplazamiento observados o pronosticados),,008021,Significación temporal,Fijar en faltante (anular),,,Operational
 16, Secuencias de las características sinópticas,316032,(SIGMET – Situación del pronóstico),,008021,Significación temporal,= 4 previsión,,,Operational
 16, Secuencias de las características sinópticas,316032,(SIGMET – Situación del pronóstico),,301011,"Año, mes, día",,,,Operational
 16, Secuencias de las características sinópticas,316032,(SIGMET – Situación del pronóstico),,301012,"Hora, minuto",,,,Operational
@@ -342,63 +341,71 @@ Category,CategoryOfSequences_es,FXY1,Title_es,SubTitle_es,FXY2,ElementName_es,El
 16, Secuencias de las características sinópticas,316052,(Modelo SAREP – parte A: información sobre ciclones tropicales),,019113,Tipo de características de las nubes del número DT,,,,Operational
 16, Secuencias de las características sinópticas,316052,(Modelo SAREP – parte A: información sobre ciclones tropicales),,019114,Número “tropical-predicción de modelo” (MET) del ciclón tropical,,,,Operational
 16, Secuencias de las características sinópticas,316052,(Modelo SAREP – parte A: información sobre ciclones tropicales),,019115,"Tendencia del cambio en las 24 horas anteriores (+: desarrollado, -: debilitado)",,,,Operational
-16, Secuencias de las características sinópticas,316052,(Modelo SAREP – parte A: información sobre ciclones tropicales),,019116,Número “tropical-patrón” (PT) del ciclón tropical,,,,Operational
+16, Secuencias de las características sinópticas,316052,(Modelo SAREP – parte A: información sobre ciclones tropicales),,019116,Número “tropical-patrón” tropical,,,,Operational
 16, Secuencias de las características sinópticas,316052,(Modelo SAREP – parte A: información sobre ciclones tropicales),,019117,Tipo de imagen de nube del número PT,,,,Operational
 16, Secuencias de las características sinópticas,316052,(Modelo SAREP – parte A: información sobre ciclones tropicales),,019118,Número final tropical (T) del ciclón tropical,,,,Operational
 16, Secuencias de las características sinópticas,316052,(Modelo SAREP – parte A: información sobre ciclones tropicales),,019119,Tipo del número final T,,,,Operational
-16, Secuencias de las características sinópticas,XXXXXX,Situación del centro de la línea de turbonada,,005002,Latitud (exactitud aproximada),,,,Operational
-16, Secuencias de las características sinópticas,XXXXXX,Situación del centro de la línea de turbonada,,006002,Longitud (exactitud aproximada),,,,Operational
-16, Secuencias de las características sinópticas,XXXXXX,Situación del centro de la línea de turbonada,,019005,Dirección del desplazamiento de la característica,,,,Operational
-16, Secuencias de las características sinópticas,XXXXXX,Situación del centro de la línea de turbonada,,019006,Velocidad del desplazamiento de la característica,,,,Operational
-16, Secuencias de las características sinópticas,XXXXXX,"Amplitud del elemento, desde el punto más exterior al punto central: lado norte",,005002,Latitud (exactitud aproximada),,,,Operational
-16, Secuencias de las características sinópticas,XXXXXX,"Amplitud del elemento, desde el punto más exterior al punto central: lado norte",,006002,Longitud (exactitud aproximada),,,,Operational
-16, Secuencias de las características sinópticas,XXXXXX,"Amplitud del elemento, desde el punto más exterior al punto central: lado sur",,005002,Latitud (exactitud aproximada),,,,Operational
-16, Secuencias de las características sinópticas,XXXXXX,"Amplitud del elemento, desde el punto más exterior al punto central: lado sur",,006002,Longitud (exactitud aproximada),,,,Operational
-16, Secuencias de las características sinópticas,XXXXXX,"Amplitud del elemento, desde el punto más exterior al punto central: lado sur",,005002,Latitud (precisión aproximada),,,,Operational
-16, Secuencias de las características sinópticas,XXXXXX,"Amplitud del elemento, desde el punto más exterior al punto central: lado sur",,006002,Longitud (precisión aproximada),,,,Operational
-16, Secuencias de las características sinópticas,XXXXXX,"Amplitud del elemento, desde el punto más exterior al punto central: lado sur",,019005,Dirección del desplazamiento de la característica,,,,Operational
-16, Secuencias de las características sinópticas,XXXXXX,"Amplitud del elemento, desde el punto más exterior al punto central: lado sur",,019006,Velocidad del desplazamiento de la característica,,,,Operational
-16, Secuencias de las características sinópticas,XXXXXX,"Amplitud del elemento, desde el punto más exterior al punto central: lado norte",,102000,Repetición diferida de 2 descriptores,,,,Operational
-16, Secuencias de las características sinópticas,XXXXXX,"Amplitud del elemento, desde el punto más exterior al punto central: lado norte",,031001,Factor de repetición diferida del descriptor,,,,Operational
-16, Secuencias de las características sinópticas,XXXXXX,"Amplitud del elemento, desde el punto más exterior al punto central: lado norte",,005002,Latitud (precisión aproximada),,,,Operational
-16, Secuencias de las características sinópticas,XXXXXX,"Amplitud del elemento, desde el punto más exterior al punto central: lado norte",,006002,Longitud (precisión aproximada),,,,Operational
-16, Secuencias de las características sinópticas,XXXXXX,"Amplitud del elemento, desde el punto más exterior al punto central: lado sur",,102000,Repetición diferida de 2 descriptores,,,,Operational
-16, Secuencias de las características sinópticas,XXXXXX,"Amplitud del elemento, desde el punto más exterior al punto central: lado sur",,031001,Factor de repetición diferida del descriptor,,,,Operational
-16, Secuencias de las características sinópticas,XXXXXX,"Amplitud del elemento, desde el punto más exterior al punto central: lado sur",,005002,Latitud (precisión aproximada),,,,Operational
-16, Secuencias de las características sinópticas,XXXXXX,"Amplitud del elemento, desde el punto más exterior al punto central: lado sur",,006002,Longitud (precisión aproximada),,,,Operational
-16, Secuencias de las características sinópticas,XXXXXX,"Amplitud del elemento, desde el punto más exterior al punto central: Evolución",,004074,Período o desplazamiento de tiempo abreviado,Período de validez,,,Operational
-16, Secuencias de las características sinópticas,XXXXXX,"Amplitud del elemento, desde el punto más exterior al punto central: Evolución",,020048,Evolución del elemento,,,,Operational
-16, Secuencias de las características sinópticas,XXXXXX,"Amplitud del elemento, desde el punto más exterior al punto central: Evolución",,011041,Velocidad máxima de las ráfagas de viento,Irrupción máxima esperada,,,Operational
-16, Secuencias de las características sinópticas,XXXXXX,"Amplitud del elemento, desde el punto más exterior al punto central: Evolución",,013055,Intensidad de la precipitación,Intensidad de la lluvia esperada,,,Operational
-16, Secuencias de las características sinópticas,316 071,(AIRMET Sierra gráficos),,301014,Período de tiempo,Durante el que AIRMET es válido,,,Operational
-16, Secuencias de las características sinópticas,316 071,(AIRMET Sierra gráficos),,101000,Repetición diferida de 1 descriptor,,,,Operational
-16, Secuencias de las características sinópticas,316 071,(AIRMET Sierra gráficos),,031002,Factor ampliado de repetición diferida del descriptor,,,,Operational
-16, Secuencias de las características sinópticas,316 071,(AIRMET Sierra gráficos),,316075,Techo de nubes y visibilidad IFR GFA,,,,Operational
-16, Secuencias de las características sinópticas,316 071,(AIRMET Sierra gráficos),,101000,Repetición diferida de 1 descriptor,,,,Operational
-16, Secuencias de las características sinópticas,316 071,(AIRMET Sierra gráficos),,031002,Factor ampliado de repetición diferida del descriptor,,,,Operational
-16, Secuencias de las características sinópticas,316 071,(AIRMET Sierra gráficos),,316076,Oscurecimiento de montaña GFA,,,,Operational
-16, Secuencias de las características sinópticas,316 072,(AIRMET Tango gráficos),,301014,Período de tiempo,Durante el que AIRMET es válido,,,Operational
-16, Secuencias de las características sinópticas,316 072,(AIRMET Tango gráficos),,101000,Repetición diferida de 1 descriptor,,,,Operational
-16, Secuencias de las características sinópticas,316 072,(AIRMET Tango gráficos),,031002,Factor ampliado de repetición diferida del descriptor,,,,Operational
-16, Secuencias de las características sinópticas,316 072,(AIRMET Tango gráficos),,316077,Turbulencia GFA,,,,Operational
-16, Secuencias de las características sinópticas,316 072,(AIRMET Tango gráficos),,101000,Repetición diferida de 1 descriptor,,,,Operational
-16, Secuencias de las características sinópticas,316 072,(AIRMET Tango gráficos),,031002,Factor ampliado de repetición diferida del descriptor,,,,Operational
-16, Secuencias de las características sinópticas,316 072,(AIRMET Tango gráficos),,316078,Viento fuerte en superficie GFA,,,,Operational
-16, Secuencias de las características sinópticas,316 072,(AIRMET Tango gráficos),,101000,Repetición diferida de 1 descriptor,,,,Operational
-16, Secuencias de las características sinópticas,316 072,(AIRMET Tango gráficos),,031002,Factor ampliado de repetición diferida del descriptor,,,,Operational
-16, Secuencias de las características sinópticas,316 072,(AIRMET Tango gráficos),,316079,Cizalladura del viento en niveles bajos GFA,,,,Operational
-16, Secuencias de las características sinópticas,316 073,(AIRMET Zulu gráficos),,301014,Período de tiempo,Durante el que AIRMET es válido,,,Operational
-16, Secuencias de las características sinópticas,316 073,(AIRMET Zulu gráficos),,101000,Repetición diferida de 1 descriptor,,,,Operational
-16, Secuencias de las características sinópticas,316 073,(AIRMET Zulu gráficos),,031002,Factor ampliado de repetición diferida del descriptor,,,,Operational
-16, Secuencias de las características sinópticas,316 073,(AIRMET Zulu gráficos),,316080,Engelamiento GFA,,,,Operational
-16, Secuencias de las características sinópticas,316 073,(AIRMET Zulu gráficos),,101000,Repetición diferida de 1 descriptor,,,,Operational
-16, Secuencias de las características sinópticas,316 073,(AIRMET Zulu gráficos),,031002,Factor ampliado de repetición diferida del descriptor,,,,Operational
-16, Secuencias de las características sinópticas,316 073,(AIRMET Zulu gráficos),,316081,Nivel de congelación GFA,,,,Operational
-16, Secuencias de las características sinópticas,316 074,(Identificador y ubicación observada o pronosticada GFA),,001039,Identificador de secuencia de predicción gráfica de área (GFA),,,,Operational
-16, Secuencias de las características sinópticas,316 074,(Identificador y ubicación observada o pronosticada GFA),,008021,Significación temporal,"= 4 predicción,= 16 análisis",,,Operational
-16, Secuencias de las características sinópticas,316 074,(Identificador y ubicación observada o pronosticada GFA),,301014,Período de tiempo,Respecto del que se observa o pronostica el fenómeno peligroso,,,Operational
-16, Secuencias de las características sinópticas,316 074,(Identificador y ubicación observada o pronosticada GFA),,301027,Descripción de un elemento en 3-D o 2-D,,,,Operational
-16, Secuencias de las características sinópticas,316 074,(Identificador y ubicación observada o pronosticada GFA),,008021,Significación temporal,Fijar en faltante (anular),,,Operational
+16, Secuencias de las características sinópticas,316060,"(Definición de línea de turbonada (con tres puntos: centro, norte y sur) y trayectoria y evolución previstas)",,301011,"Año, mes, día",,,,
+16, Secuencias de las características sinópticas,316060,"(Definición de línea de turbonada (con tres puntos: centro, norte y sur) y trayectoria y evolución previstas)",,301012,"Hora, minuto",,,,
+16, Secuencias de las características sinópticas,316060,"(Definición de línea de turbonada (con tres puntos: centro, norte y sur) y trayectoria y evolución previstas)",Situación del centro de la línea de turbonada,005002,Latitud (exactitud aproximada),,,,Operational
+16, Secuencias de las características sinópticas,316060,"(Definición de línea de turbonada (con tres puntos: centro, norte y sur) y trayectoria y evolución previstas)",Situación del centro de la línea de turbonada,006002,Longitud (exactitud aproximada),,,,Operational
+16, Secuencias de las características sinópticas,316060,"(Definición de línea de turbonada (con tres puntos: centro, norte y sur) y trayectoria y evolución previstas)",Situación del centro de la línea de turbonada,019005,Dirección del desplazamiento de la característica,,,,Operational
+16, Secuencias de las características sinópticas,316060,"(Definición de línea de turbonada (con tres puntos: centro, norte y sur) y trayectoria y evolución previstas)",Situación del centro de la línea de turbonada,019006,Velocidad del desplazamiento de la característica,,,,Operational
+16, Secuencias de las características sinópticas,316060,"(Definición de línea de turbonada (con tres puntos: centro, norte y sur) y trayectoria y evolución previstas)","Amplitud del elemento, desde el punto más exterior al punto central: lado norte",005002,Latitud (exactitud aproximada),,,,Operational
+16, Secuencias de las características sinópticas,316060,"(Definición de línea de turbonada (con tres puntos: centro, norte y sur) y trayectoria y evolución previstas)","Amplitud del elemento, desde el punto más exterior al punto central: lado norte",006002,Longitud (exactitud aproximada),,,,Operational
+16, Secuencias de las características sinópticas,316060,"(Definición de línea de turbonada (con tres puntos: centro, norte y sur) y trayectoria y evolución previstas)","Amplitud del elemento, desde el punto más exterior al punto central: lado sur",005002,Latitud (exactitud aproximada),,,,Operational
+16, Secuencias de las características sinópticas,316060,"(Definición de línea de turbonada (con tres puntos: centro, norte y sur) y trayectoria y evolución previstas)","Amplitud del elemento, desde el punto más exterior al punto central: lado sur",006002,Longitud (exactitud aproximada),,,,Operational
+16, Secuencias de las características sinópticas,316060,"(Definición de línea de turbonada (con tres puntos: centro, norte y sur) y trayectoria y evolución previstas)","Amplitud del elemento, desde el punto más exterior al punto central: Evolución",004074,Período o desplazamiento de tiempo abreviado,Período de validez,,,Operational
+16, Secuencias de las características sinópticas,316060,"(Definición de línea de turbonada (con tres puntos: centro, norte y sur) y trayectoria y evolución previstas)","Amplitud del elemento, desde el punto más exterior al punto central: Evolución",020048,Evolución del elemento,,,,Operational
+16, Secuencias de las características sinópticas,316060,"(Definición de línea de turbonada (con tres puntos: centro, norte y sur) y trayectoria y evolución previstas)","Amplitud del elemento, desde el punto más exterior al punto central: Evolución",011041,Velocidad máxima de las ráfagas de viento,Irrupción máxima esperada,,,Operational
+16, Secuencias de las características sinópticas,316060,"(Definición de línea de turbonada (con tres puntos: centro, norte y sur) y trayectoria y evolución previstas)","Amplitud del elemento, desde el punto más exterior al punto central: Evolución",013055,Intensidad de la precipitación,Intensidad de la lluvia esperada,,,Operational
+16, Secuencias de las características sinópticas,316061,(Definición de línea de turbonada (por el centro y otros puntos: lados norte y sur) y trayectoria y evolución prevista),,301011,"Año, mes, día",,,,
+16, Secuencias de las características sinópticas,316061,(Definición de línea de turbonada (por el centro y otros puntos: lados norte y sur) y trayectoria y evolución prevista),,301012,"Hora, minuto",,,,
+16, Secuencias de las características sinópticas,316061,(Definición de línea de turbonada (por el centro y otros puntos: lados norte y sur) y trayectoria y evolución prevista),Situación del centro de la línea de turbonada,005002,Latitud (exactitud aproximada),,,,Operational
+16, Secuencias de las características sinópticas,316061,(Definición de línea de turbonada (por el centro y otros puntos: lados norte y sur) y trayectoria y evolución prevista),Situación del centro de la línea de turbonada,006002,Longitud (exactitud aproximada),,,,Operational
+16, Secuencias de las características sinópticas,316061,(Definición de línea de turbonada (por el centro y otros puntos: lados norte y sur) y trayectoria y evolución prevista),Situación del centro de la línea de turbonada,019005,Dirección del desplazamiento de la característica,,,,Operational
+16, Secuencias de las características sinópticas,316061,(Definición de línea de turbonada (por el centro y otros puntos: lados norte y sur) y trayectoria y evolución prevista),Situación del centro de la línea de turbonada,019006,Velocidad del desplazamiento de la característica,,,,Operational
+16, Secuencias de las características sinópticas,316061,(Definición de línea de turbonada (por el centro y otros puntos: lados norte y sur) y trayectoria y evolución prevista),"Amplitud del elemento, desde el punto más exterior al punto central: lado norte",102000,Repetición diferida de 2 descriptores,,,,Operational
+16, Secuencias de las características sinópticas,316061,(Definición de línea de turbonada (por el centro y otros puntos: lados norte y sur) y trayectoria y evolución prevista),"Amplitud del elemento, desde el punto más exterior al punto central: lado norte",031001,Factor de repetición diferida del descriptor,,,,Operational
+16, Secuencias de las características sinópticas,316061,(Definición de línea de turbonada (por el centro y otros puntos: lados norte y sur) y trayectoria y evolución prevista),"Amplitud del elemento, desde el punto más exterior al punto central: lado norte",005002,Latitud (precisión aproximada),,,,Operational
+16, Secuencias de las características sinópticas,316061,(Definición de línea de turbonada (por el centro y otros puntos: lados norte y sur) y trayectoria y evolución prevista),"Amplitud del elemento, desde el punto más exterior al punto central: lado norte",006002,Longitud (precisión aproximada),,,,Operational
+16, Secuencias de las características sinópticas,316061,(Definición de línea de turbonada (por el centro y otros puntos: lados norte y sur) y trayectoria y evolución prevista),"Amplitud del elemento, desde el punto más exterior al punto central: lado sur",102000,Repetición diferida de 2 descriptores,,,,Operational
+16, Secuencias de las características sinópticas,316061,(Definición de línea de turbonada (por el centro y otros puntos: lados norte y sur) y trayectoria y evolución prevista),"Amplitud del elemento, desde el punto más exterior al punto central: lado sur",031001,Factor de repetición diferida del descriptor,,,,Operational
+16, Secuencias de las características sinópticas,316061,(Definición de línea de turbonada (por el centro y otros puntos: lados norte y sur) y trayectoria y evolución prevista),"Amplitud del elemento, desde el punto más exterior al punto central: lado sur",005002,Latitud (precisión aproximada),,,,Operational
+16, Secuencias de las características sinópticas,316061,(Definición de línea de turbonada (por el centro y otros puntos: lados norte y sur) y trayectoria y evolución prevista),"Amplitud del elemento, desde el punto más exterior al punto central: lado sur",006002,Longitud (precisión aproximada),,,,Operational
+16, Secuencias de las características sinópticas,316061,(Definición de línea de turbonada (por el centro y otros puntos: lados norte y sur) y trayectoria y evolución prevista),"Amplitud del elemento, desde el punto más exterior al punto central: Evolución",004074,Período o desplazamiento de tiempo abreviado,Período de validez,,,Operational
+16, Secuencias de las características sinópticas,316061,(Definición de línea de turbonada (por el centro y otros puntos: lados norte y sur) y trayectoria y evolución prevista),"Amplitud del elemento, desde el punto más exterior al punto central: Evolución",020048,Evolución del elemento,,,,Operational
+16, Secuencias de las características sinópticas,316061,(Definición de línea de turbonada (por el centro y otros puntos: lados norte y sur) y trayectoria y evolución prevista),"Amplitud del elemento, desde el punto más exterior al punto central: Evolución",011041,Velocidad máxima de las ráfagas de viento,Irrupción máxima esperada,,,Operational
+16, Secuencias de las características sinópticas,316061,(Definición de línea de turbonada (por el centro y otros puntos: lados norte y sur) y trayectoria y evolución prevista),"Amplitud del elemento, desde el punto más exterior al punto central: Evolución",013055,Intensidad de la precipitación,Intensidad de la lluvia esperada,,,Operational
+16, Secuencias de las características sinópticas,316071,(AIRMET Sierra gráficos),,301014,Período de tiempo,Durante el que AIRMET es válido,,,Operational
+16, Secuencias de las características sinópticas,316071,(AIRMET Sierra gráficos),,101000,Repetición diferida de 1 descriptor,,,,Operational
+16, Secuencias de las características sinópticas,316071,(AIRMET Sierra gráficos),,031002,Factor ampliado de repetición diferida del descriptor,,,,Operational
+16, Secuencias de las características sinópticas,316071,(AIRMET Sierra gráficos),,316075,Techo de nubes y visibilidad IFR GFA,,,,Operational
+16, Secuencias de las características sinópticas,316071,(AIRMET Sierra gráficos),,101000,Repetición diferida de 1 descriptor,,,,Operational
+16, Secuencias de las características sinópticas,316071,(AIRMET Sierra gráficos),,031002,Factor ampliado de repetición diferida del descriptor,,,,Operational
+16, Secuencias de las características sinópticas,316071,(AIRMET Sierra gráficos),,316076,Oscurecimiento de montaña GFA,,,,Operational
+16, Secuencias de las características sinópticas,316072,(AIRMET Tango gráficos),,301014,Período de tiempo,Durante el que AIRMET es válido,,,Operational
+16, Secuencias de las características sinópticas,316072,(AIRMET Tango gráficos),,101000,Repetición diferida de 1 descriptor,,,,Operational
+16, Secuencias de las características sinópticas,316072,(AIRMET Tango gráficos),,031002,Factor ampliado de repetición diferida del descriptor,,,,Operational
+16, Secuencias de las características sinópticas,316072,(AIRMET Tango gráficos),,316077,Turbulencia GFA,,,,Operational
+16, Secuencias de las características sinópticas,316072,(AIRMET Tango gráficos),,101000,Repetición diferida de 1 descriptor,,,,Operational
+16, Secuencias de las características sinópticas,316072,(AIRMET Tango gráficos),,031002,Factor ampliado de repetición diferida del descriptor,,,,Operational
+16, Secuencias de las características sinópticas,316072,(AIRMET Tango gráficos),,316078,Viento fuerte en superficie GFA,,,,Operational
+16, Secuencias de las características sinópticas,316072,(AIRMET Tango gráficos),,101000,Repetición diferida de 1 descriptor,,,,Operational
+16, Secuencias de las características sinópticas,316072,(AIRMET Tango gráficos),,031002,Factor ampliado de repetición diferida del descriptor,,,,Operational
+16, Secuencias de las características sinópticas,316072,(AIRMET Tango gráficos),,316079,Cizalladura del viento en niveles bajos GFA,,,,Operational
+16, Secuencias de las características sinópticas,316073,(AIRMET Zulu gráficos),,301014,Período de tiempo,Durante el que AIRMET es válido,,,Operational
+16, Secuencias de las características sinópticas,316073,(AIRMET Zulu gráficos),,101000,Repetición diferida de 1 descriptor,,,,Operational
+16, Secuencias de las características sinópticas,316073,(AIRMET Zulu gráficos),,031002,Factor ampliado de repetición diferida del descriptor,,,,Operational
+16, Secuencias de las características sinópticas,316073,(AIRMET Zulu gráficos),,316080,Engelamiento GFA,,,,Operational
+16, Secuencias de las características sinópticas,316073,(AIRMET Zulu gráficos),,101000,Repetición diferida de 1 descriptor,,,,Operational
+16, Secuencias de las características sinópticas,316073,(AIRMET Zulu gráficos),,031002,Factor ampliado de repetición diferida del descriptor,,,,Operational
+16, Secuencias de las características sinópticas,316073,(AIRMET Zulu gráficos),,316081,Nivel de congelación GFA,,,,Operational
+16, Secuencias de las características sinópticas,316074,(Identificador y ubicación observada o pronosticada GFA),,001039,Identificador de secuencia de predicción gráfica de área (GFA),,,,Operational
+16, Secuencias de las características sinópticas,316074,(Identificador y ubicación observada o pronosticada GFA),,008021,Significación temporal,"= 4 predicción,= 16 análisis",,,Operational
+16, Secuencias de las características sinópticas,316074,(Identificador y ubicación observada o pronosticada GFA),,301014,Período de tiempo,Respecto del que se observa o pronostica el fenómeno peligroso,,,Operational
+16, Secuencias de las características sinópticas,316074,(Identificador y ubicación observada o pronosticada GFA),,301027,Descripción de un elemento en 3-D o 2-D,,,,Operational
+16, Secuencias de las características sinópticas,316074,(Identificador y ubicación observada o pronosticada GFA),,008021,Significación temporal,Fijar en faltante (anular),,,Operational
 16, Secuencias de las características sinópticas,316075,(Techo de nubes y visibilidad IFR GFA),,008079,Estado del producto,"= 0 normal, = 1
 COR, = 2 AMD, = 3 COR AMD, = 4 CNL",,,Operational
 16, Secuencias de las características sinópticas,316075,(Techo de nubes y visibilidad IFR GFA),,008041,Significación de datos,= 8 techo de nubes y visibilidad IFR,,,Operational
