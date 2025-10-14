@@ -1,4 +1,4 @@
-Category,CategoryOfSequences_es,FXY1,Title_es,SubTitle_es,FXY2,ElementName_es,ElementDescription_es,Note_es,noteIDs,Status
+﻿Category,CategoryOfSequences_es,FXY1,Title_es,SubTitle_es,FXY2,ElementName_es,ElementDescription_es,Note_es,noteIDs,Status
 21,Secuencias de los informes de las observaciones de radar,321001,<NA>,,002101,Tipo de antena,,,,Operational
 21,Secuencias de los informes de las observaciones de radar,321001,<NA>,,002114,Superficie equivalente de la antena,,,,Operational
 21,Secuencias de los informes de las observaciones de radar,321001,<NA>,,002105,Ganancia máxima de la antena,,,,Operational
@@ -77,108 +77,78 @@ Category,CategoryOfSequences_es,FXY1,Title_es,SubTitle_es,FXY2,ElementName_es,El
 21,Secuencias de los informes de las observaciones de radar,321021,(Información básica (encabezamiento del sistema/sitio) sobre el perfilador de viento/sistema de sondeo radioacústico (RASS)),,025001,Distancia de la puerta de integración,,,,Operational
 21,Secuencias de los informes de las observaciones de radar,321021,(Información básica (encabezamiento del sistema/sitio) sobre el perfilador de viento/sistema de sondeo radioacústico (RASS)),,202000,Cambio de escala,Anular,,,Operational
 21,Secuencias de los informes de las observaciones de radar,321021,(Información básica (encabezamiento del sistema/sitio) sobre el perfilador de viento/sistema de sondeo radioacústico (RASS)),,201000,Cambio de anchura de datos,Anular,,,Operational
-21,Secuencias de los informes de las observaciones de radar,321 022,(Perfilador del viento: datos procesados sobre vientos),,010007,Altura,,,,Operational
-21,Secuencias de los informes de las observaciones de radar,321 022,(Perfilador del viento: datos procesados sobre vientos),,204001,Campo asociado añadido,1 bit,,,Operational
-21,Secuencias de los informes de las observaciones de radar,321 022,(Perfilador del viento: datos procesados sobre vientos),,031021,Significación del campo asociado,,,,Operational
-21,Secuencias de los informes de las observaciones de radar,321 022,(Perfilador del viento: datos procesados sobre vientos),,011001,Dirección del viento,,,,Operational
-21,Secuencias de los informes de las observaciones de radar,321 022,(Perfilador del viento: datos procesados sobre vientos),,204000,Campo asociado añadido,Anular,,,Operational
-21,Secuencias de los informes de las observaciones de radar,321 022,(Perfilador del viento: datos procesados sobre vientos),,011002,Velocidad del viento,,,,Operational
-21,Secuencias de los informes de las observaciones de radar,321 022,(Perfilador del viento: datos procesados sobre vientos),,204001,Campo asociado añadido,1 bit,,,Operational
-21,Secuencias de los informes de las observaciones de radar,321 022,(Perfilador del viento: datos procesados sobre vientos),,031021,Significación del campo asociado,,,,Operational
-21,Secuencias de los informes de las observaciones de radar,321 022,(Perfilador del viento: datos procesados sobre vientos),,011006,Componente w,,,,Operational
-21,Secuencias de los informes de las observaciones de radar,321 022,(Perfilador del viento: datos procesados sobre vientos),,204000,Campo asociado añadido,Anular,,,Operational
-21,Secuencias de los informes de las observaciones de radar,321 022,(Perfilador del viento: datos procesados sobre vientos),,021030,Relación señal-ruido,,,,Operational
-21,Secuencias de los informes de las observaciones de radar,321 023,(Perfilador del viento: datos sin procesar sobre vientos),,007007,Altura,,,,Operational
-21,Secuencias de los informes de las observaciones de radar,321 023,(Perfilador del viento: datos sin procesar sobre vientos),,021091,Momento 0 del espectro Doppler de la señal del radar,,,,Operational
-21,Secuencias de los informes de las observaciones de radar,321 023,(Perfilador del viento: datos sin procesar sobre vientos),,021030,Relación señal-ruido,,,,Operational
-21,Secuencias de los informes de las observaciones de radar,321 023,(Perfilador del viento: datos sin procesar sobre vientos),,202129,Cambio de escala,Escala: 2,,,Operational
-21,Secuencias de los informes de las observaciones de radar,321 023,(Perfilador del viento: datos sin procesar sobre vientos),,021014,Velocidad media Doppler (radial),,,,Operational
-21,Secuencias de los informes de las observaciones de radar,321 023,(Perfilador del viento: datos sin procesar sobre vientos),,201129,Cambio de anchura de datos,9 bits,,,Operational
-21,Secuencias de los informes de las observaciones de radar,321 023,(Perfilador del viento: datos sin procesar sobre vientos),,021017,Ancho espectral de la velocidad Doppler,,,,Operational
-21,Secuencias de los informes de las observaciones de radar,321 023,(Perfilador del viento: datos sin procesar sobre vientos),,202000,Cambio de escala,Anular,,,Operational
-21,Secuencias de los informes de las observaciones de radar,321 023,(Perfilador del viento: datos sin procesar sobre vientos),,201000,Cambio de anchura de datos,Anular,,,Operational
-21,Secuencias de los informes de las observaciones de radar,321 024,(Modo RASS: datos procesados RASS (sistema de sondeo radioacústico)),,007007,Altura,,,,Operational
-21,Secuencias de los informes de las observaciones de radar,321 024,(Modo RASS: datos procesados RASS (sistema de sondeo radioacústico)),,204001,Campo asociado añadido,1 bit,,,Operational
-21,Secuencias de los informes de las observaciones de radar,321 024,(Modo RASS: datos procesados RASS (sistema de sondeo radioacústico)),,031021,Significación del campo asociado,,,,Operational
-21,Secuencias de los informes de las observaciones de radar,321 024,(Modo RASS: datos procesados RASS (sistema de sondeo radioacústico)),,012007,Temperatura virtual,,,,Operational
-21,Secuencias de los informes de las observaciones de radar,321 024,(Modo RASS: datos procesados RASS (sistema de sondeo radioacústico)),,011006,Componente w,,,,Operational
-21,Secuencias de los informes de las observaciones de radar,321 024,(Modo RASS: datos procesados RASS (sistema de sondeo radioacústico)),,204000,Campo asociado añadido,Anular,,,Operational
-21,Secuencias de los informes de las observaciones de radar,321 024,(Modo RASS: datos procesados RASS (sistema de sondeo radioacústico)),,021030,Relación señal-ruido,,,,Operational
-21,Secuencias de los informes de las observaciones de radar,321 025,(Modo RASS: datos sin procesar RASS (sistema de sondeo radioacústico)),,007007,Altura,,,,Operational
-21,Secuencias de los informes de las observaciones de radar,321 025,(Modo RASS: datos sin procesar RASS (sistema de sondeo radioacústico)),,021091,Momento 0 del espectro Doppler de la señal del radar,,,,Operational
-21,Secuencias de los informes de las observaciones de radar,321 025,(Modo RASS: datos sin procesar RASS (sistema de sondeo radioacústico)),,021030,Relación señal-ruido,,,,Operational
-21,Secuencias de los informes de las observaciones de radar,321 025,(Modo RASS: datos sin procesar RASS (sistema de sondeo radioacústico)),,202129,Cambio de escala,Escala: 2,,,Operational
-21,Secuencias de los informes de las observaciones de radar,321 025,(Modo RASS: datos sin procesar RASS (sistema de sondeo radioacústico)),,021014,Velocidad media Doppler (radial),,,,Operational
-21,Secuencias de los informes de las observaciones de radar,321 025,(Modo RASS: datos sin procesar RASS (sistema de sondeo radioacústico)),,201129,Cambio de anchura de datos,9 bits,,,Operational
-21,Secuencias de los informes de las observaciones de radar,321 025,(Modo RASS: datos sin procesar RASS (sistema de sondeo radioacústico)),,021017,Ancho espectral de la velocidad Doppler,,,,Operational
-21,Secuencias de los informes de las observaciones de radar,321 025,(Modo RASS: datos sin procesar RASS (sistema de sondeo radioacústico)),,202000,Cambio de escala,Anular,,,Operational
-21,Secuencias de los informes de las observaciones de radar,321 025,(Modo RASS: datos sin procesar RASS (sistema de sondeo radioacústico)),,201000,Cambio de anchura de datos,Anular,,,Operational
-21,Secuencias de los informes de las observaciones de radar,321 025,(Modo RASS: datos sin procesar RASS (sistema de sondeo radioacústico)),,021092,"Momento 0 del espectro Doppler de la señal RASS (sistema de sondeo radioacústico), con referencia a la señal RASS",,,,Operational
-21,Secuencias de los informes de las observaciones de radar,321 025,(Modo RASS: datos sin procesar RASS (sistema de sondeo radioacústico)),,021030,Relación señal-ruido,Con referencia a la señal RASS,,,Operational
-21,Secuencias de los informes de las observaciones de radar,321 025,(Modo RASS: datos sin procesar RASS (sistema de sondeo radioacústico)),,025092,Velocidad de propagación acústica,,,,Operational
-21,Secuencias de los informes de las observaciones de radar,321 025,(Modo RASS: datos sin procesar RASS (sistema de sondeo radioacústico)),,201129,Cambio de anchura de datos,9 bits,,,Operational
-21,Secuencias de los informes de las observaciones de radar,321 025,(Modo RASS: datos sin procesar RASS (sistema de sondeo radioacústico)),,202129,Cambio de escala,Escala: 2,,,Operational
-21,Secuencias de los informes de las observaciones de radar,321 025,(Modo RASS: datos sin procesar RASS (sistema de sondeo radioacústico)),,021017,Ancho espectral de la velocidad Doppler,Con referencia a la señal RASS,,,Operational
-21,Secuencias de los informes de las observaciones de radar,321 025,(Modo RASS: datos sin procesar RASS (sistema de sondeo radioacústico)),,202000,Cambio de escala,Anular,,,Operational
-21,Secuencias de los informes de las observaciones de radar,321 025,(Modo RASS: datos sin procesar RASS (sistema de sondeo radioacústico)),,201000,Cambio de anchura de datos,Anular,,,Operational
-21,Secuencias de los informes de las observaciones de radar,321026,"(Datos RASS (sistema de sondeo radioacústico) –
-flujos)",,010007,Altura,,,,Operational
-21,Secuencias de los informes de las observaciones de radar,321026,"(Datos RASS (sistema de sondeo radioacústico) –
-flujos)",,204001,Campo asociado añadido,1 bit,,,Operational
-21,Secuencias de los informes de las observaciones de radar,321026,"(Datos RASS (sistema de sondeo radioacústico) –
-flujos)",,031021,Significación del campo asociado,,,,Operational
-21,Secuencias de los informes de las observaciones de radar,321026,"(Datos RASS (sistema de sondeo radioacústico) –
-flujos)",,012007,Temperatura virtual,,,,Operational
-21,Secuencias de los informes de las observaciones de radar,321026,"(Datos RASS (sistema de sondeo radioacústico) –
-flujos)",,025091,Constante estructural del índice de refracción (Cn2),,,,Operational
-21,Secuencias de los informes de las observaciones de radar,321026,"(Datos RASS (sistema de sondeo radioacústico) –
-flujos)",,011071,Flujo del momento vertical de la turbulencia,,,,Operational
-21,Secuencias de los informes de las observaciones de radar,321026,"(Datos RASS (sistema de sondeo radioacústico) –
-flujos)",,011072,Flujo de la fuerza ascensional vertical de la turbulencia,,,,Operational
-21,Secuencias de los informes de las observaciones de radar,321026,"(Datos RASS (sistema de sondeo radioacústico) –
-flujos)",,011073,Energía cinética de la turbulencia,,,,Operational
-21,Secuencias de los informes de las observaciones de radar,321026,"(Datos RASS (sistema de sondeo radioacústico) –
-flujos)",,011074,Energía de disipación,,,,Operational
-21,Secuencias de los informes de las observaciones de radar,321026,"(Datos RASS (sistema de sondeo radioacústico) –
-flujos)",,204000,Campo asociado añadido,Anular,,,Operational
-21,Secuencias de los informes de las observaciones de radar,321027,"(Especificación de radar, sección representativa normalizada del radar, coeficiente de
-variancia Kp)",,021118,Corrección de atenuación aplicada a sigma-0,,,,Operational
-21,Secuencias de los informes de las observaciones de radar,321027,"(Especificación de radar, sección representativa normalizada del radar, coeficiente de
-variancia Kp)",,202129,Cambio de escala,,,,Operational
-21,Secuencias de los informes de las observaciones de radar,321027,"(Especificación de radar, sección representativa normalizada del radar, coeficiente de
-variancia Kp)",,201132,Cambio de anchura de datos,,,,Operational
-21,Secuencias de los informes de las observaciones de radar,321027,"(Especificación de radar, sección representativa normalizada del radar, coeficiente de
-variancia Kp)",,002112,Ángulo de abertura del haz radar,,,,Operational
-21,Secuencias de los informes de las observaciones de radar,321027,"(Especificación de radar, sección representativa normalizada del radar, coeficiente de
-variancia Kp)",,201000,Cambio de anchura de datos,Anular,,,Operational
-21,Secuencias de los informes de las observaciones de radar,321027,"(Especificación de radar, sección representativa normalizada del radar, coeficiente de
-variancia Kp)",,201131,Cambio de anchura de datos,,,,Operational
-21,Secuencias de los informes de las observaciones de radar,321027,"(Especificación de radar, sección representativa normalizada del radar, coeficiente de
-variancia Kp)",,002111,Ángulo de incidencia del radar,,,,Operational
-21,Secuencias de los informes de las observaciones de radar,321027,"(Especificación de radar, sección representativa normalizada del radar, coeficiente de
-variancia Kp)",,201000,Cambio de anchura de datos,Anular,,,Operational
-21,Secuencias de los informes de las observaciones de radar,321027,"(Especificación de radar, sección representativa normalizada del radar, coeficiente de
-variancia Kp)",,202000,Cambio de escala,Anular,,,Operational
-21,Secuencias de los informes de las observaciones de radar,321027,"(Especificación de radar, sección representativa normalizada del radar, coeficiente de
-variancia Kp)",,002104,Polarización de la antena,,,,Operational
-21,Secuencias de los informes de las observaciones de radar,321027,"(Especificación de radar, sección representativa normalizada del radar, coeficiente de
-variancia Kp)",,021105,Sección representativa normalizada del radar,,,,Operational
-21,Secuencias de los informes de las observaciones de radar,321027,"(Especificación de radar, sección representativa normalizada del radar, coeficiente de
-variancia Kp)",,021106,Coeficiente de variancia Kp (alfa),,,,Operational
-21,Secuencias de los informes de las observaciones de radar,321027,"(Especificación de radar, sección representativa normalizada del radar, coeficiente de
-variancia Kp)",,021107,Coeficiente de variancia Kp (beta),,,,Operational
-21,Secuencias de los informes de las observaciones de radar,321027,"(Especificación de radar, sección representativa normalizada del radar, coeficiente de
-variancia Kp)",,021114,Coeficiente de variancia Kp (gamma),,,,Operational
-21,Secuencias de los informes de las observaciones de radar,321027,"(Especificación de radar, sección representativa normalizada del radar, coeficiente de
-variancia Kp)",,021115,Calidad de sigma-0 determinada por SeaWinds,,,,Operational
-21,Secuencias de los informes de las observaciones de radar,321027,"(Especificación de radar, sección representativa normalizada del radar, coeficiente de
-variancia Kp)",,021116,Modo de sigma-0 determinado por SeaWinds,,,,Operational
-21,Secuencias de los informes de las observaciones de radar,321027,"(Especificación de radar, sección representativa normalizada del radar, coeficiente de
-variancia Kp)",,"0
-008
-21018
-117","Tipo de superficie tierra/hielo medida por SeaWinds
-Control de calidad de la variancia de sigma-0",,,,Operational
+21,Secuencias de los informes de las observaciones de radar,321022,(Perfilador del viento: datos procesados sobre vientos),,007007,Altura,,,,Operational
+21,Secuencias de los informes de las observaciones de radar,321022,(Perfilador del viento: datos procesados sobre vientos),,204001,Campo asociado añadido,1 bit,,,Operational
+21,Secuencias de los informes de las observaciones de radar,321022,(Perfilador del viento: datos procesados sobre vientos),,031021,Significación del campo asociado,,,,Operational
+21,Secuencias de los informes de las observaciones de radar,321022,(Perfilador del viento: datos procesados sobre vientos),,011001,Dirección del viento,,,,Operational
+21,Secuencias de los informes de las observaciones de radar,321022,(Perfilador del viento: datos procesados sobre vientos),,204000,Campo asociado añadido,Anular,,,Operational
+21,Secuencias de los informes de las observaciones de radar,321022,(Perfilador del viento: datos procesados sobre vientos),,011002,Velocidad del viento,,,,Operational
+21,Secuencias de los informes de las observaciones de radar,321022,(Perfilador del viento: datos procesados sobre vientos),,204001,Campo asociado añadido,1 bit,,,Operational
+21,Secuencias de los informes de las observaciones de radar,321022,(Perfilador del viento: datos procesados sobre vientos),,031021,Significación del campo asociado,,,,Operational
+21,Secuencias de los informes de las observaciones de radar,321022,(Perfilador del viento: datos procesados sobre vientos),,011006,Componente w,,,,Operational
+21,Secuencias de los informes de las observaciones de radar,321022,(Perfilador del viento: datos procesados sobre vientos),,204000,Campo asociado añadido,Anular,,,Operational
+21,Secuencias de los informes de las observaciones de radar,321022,(Perfilador del viento: datos procesados sobre vientos),,021030,Relación señal-ruido,,,,Operational
+21,Secuencias de los informes de las observaciones de radar,321023,(Perfilador del viento: datos sin procesar sobre vientos),,007007,Altura,,,,Operational
+21,Secuencias de los informes de las observaciones de radar,321023,(Perfilador del viento: datos sin procesar sobre vientos),,021091,Momento 0 del espectro Doppler de la señal del radar,,,,Operational
+21,Secuencias de los informes de las observaciones de radar,321023,(Perfilador del viento: datos sin procesar sobre vientos),,021030,Relación señal-ruido,,,,Operational
+21,Secuencias de los informes de las observaciones de radar,321023,(Perfilador del viento: datos sin procesar sobre vientos),,202129,Cambio de escala,Escala: 2,,,Operational
+21,Secuencias de los informes de las observaciones de radar,321023,(Perfilador del viento: datos sin procesar sobre vientos),,021014,Velocidad media Doppler (radial),,,,Operational
+21,Secuencias de los informes de las observaciones de radar,321023,(Perfilador del viento: datos sin procesar sobre vientos),,201129,Cambio de anchura de datos,9 bits,,,Operational
+21,Secuencias de los informes de las observaciones de radar,321023,(Perfilador del viento: datos sin procesar sobre vientos),,021017,Ancho espectral de la velocidad Doppler,,,,Operational
+21,Secuencias de los informes de las observaciones de radar,321023,(Perfilador del viento: datos sin procesar sobre vientos),,202000,Cambio de escala,Anular,,,Operational
+21,Secuencias de los informes de las observaciones de radar,321023,(Perfilador del viento: datos sin procesar sobre vientos),,201000,Cambio de anchura de datos,Anular,,,Operational
+21,Secuencias de los informes de las observaciones de radar,321024,(Modo RASS: datos procesados RASS (sistema de sondeo radioacústico)),,007007,Altura,,,,Operational
+21,Secuencias de los informes de las observaciones de radar,321024,(Modo RASS: datos procesados RASS (sistema de sondeo radioacústico)),,204001,Campo asociado añadido,1 bit,,,Operational
+21,Secuencias de los informes de las observaciones de radar,321024,(Modo RASS: datos procesados RASS (sistema de sondeo radioacústico)),,031021,Significación del campo asociado,,,,Operational
+21,Secuencias de los informes de las observaciones de radar,321024,(Modo RASS: datos procesados RASS (sistema de sondeo radioacústico)),,012007,Temperatura virtual,,,,Operational
+21,Secuencias de los informes de las observaciones de radar,321024,(Modo RASS: datos procesados RASS (sistema de sondeo radioacústico)),,011006,Componente w,,,,Operational
+21,Secuencias de los informes de las observaciones de radar,321024,(Modo RASS: datos procesados RASS (sistema de sondeo radioacústico)),,204000,Campo asociado añadido,Anular,,,Operational
+21,Secuencias de los informes de las observaciones de radar,321024,(Modo RASS: datos procesados RASS (sistema de sondeo radioacústico)),,021030,Relación señal-ruido,,,,Operational
+21,Secuencias de los informes de las observaciones de radar,321025,(Modo RASS: datos sin procesar RASS (sistema de sondeo radioacústico)),,007007,Altura,,,,Operational
+21,Secuencias de los informes de las observaciones de radar,321025,(Modo RASS: datos sin procesar RASS (sistema de sondeo radioacústico)),,021091,Momento 0 del espectro Doppler de la señal del radar,,,,Operational
+21,Secuencias de los informes de las observaciones de radar,321025,(Modo RASS: datos sin procesar RASS (sistema de sondeo radioacústico)),,021030,Relación señal-ruido,,,,Operational
+21,Secuencias de los informes de las observaciones de radar,321025,(Modo RASS: datos sin procesar RASS (sistema de sondeo radioacústico)),,202129,Cambio de escala,Escala: 2,,,Operational
+21,Secuencias de los informes de las observaciones de radar,321025,(Modo RASS: datos sin procesar RASS (sistema de sondeo radioacústico)),,021014,Velocidad media Doppler (radial),,,,Operational
+21,Secuencias de los informes de las observaciones de radar,321025,(Modo RASS: datos sin procesar RASS (sistema de sondeo radioacústico)),,201129,Cambio de anchura de datos,9 bits,,,Operational
+21,Secuencias de los informes de las observaciones de radar,321025,(Modo RASS: datos sin procesar RASS (sistema de sondeo radioacústico)),,021017,Ancho espectral de la velocidad Doppler,,,,Operational
+21,Secuencias de los informes de las observaciones de radar,321025,(Modo RASS: datos sin procesar RASS (sistema de sondeo radioacústico)),,202000,Cambio de escala,Anular,,,Operational
+21,Secuencias de los informes de las observaciones de radar,321025,(Modo RASS: datos sin procesar RASS (sistema de sondeo radioacústico)),,201000,Cambio de anchura de datos,Anular,,,Operational
+21,Secuencias de los informes de las observaciones de radar,321025,(Modo RASS: datos sin procesar RASS (sistema de sondeo radioacústico)),,021092,"Momento 0 del espectro Doppler de la señal RASS (sistema de sondeo radioacústico), con referencia a la señal RASS",,,,Operational
+21,Secuencias de los informes de las observaciones de radar,321025,(Modo RASS: datos sin procesar RASS (sistema de sondeo radioacústico)),,021030,Relación señal-ruido,Con referencia a la señal RASS,,,Operational
+21,Secuencias de los informes de las observaciones de radar,321025,(Modo RASS: datos sin procesar RASS (sistema de sondeo radioacústico)),,025092,Velocidad de propagación acústica,,,,Operational
+21,Secuencias de los informes de las observaciones de radar,321025,(Modo RASS: datos sin procesar RASS (sistema de sondeo radioacústico)),,201129,Cambio de anchura de datos,9 bits,,,Operational
+21,Secuencias de los informes de las observaciones de radar,321025,(Modo RASS: datos sin procesar RASS (sistema de sondeo radioacústico)),,202129,Cambio de escala,Escala: 2,,,Operational
+21,Secuencias de los informes de las observaciones de radar,321025,(Modo RASS: datos sin procesar RASS (sistema de sondeo radioacústico)),,021017,Ancho espectral de la velocidad Doppler,Con referencia a la señal RASS,,,Operational
+21,Secuencias de los informes de las observaciones de radar,321025,(Modo RASS: datos sin procesar RASS (sistema de sondeo radioacústico)),,202000,Cambio de escala,Anular,,,Operational
+21,Secuencias de los informes de las observaciones de radar,321025,(Modo RASS: datos sin procesar RASS (sistema de sondeo radioacústico)),,201000,Cambio de anchura de datos,Anular,,,Operational
+21,Secuencias de los informes de las observaciones de radar,321026,(Datos RASS (sistema de sondeo radioacústico) – flujos),,007007,Altura,,,,Operational
+21,Secuencias de los informes de las observaciones de radar,321026,(Datos RASS (sistema de sondeo radioacústico) – flujos),,204001,Campo asociado añadido,1 bit,,,Operational
+21,Secuencias de los informes de las observaciones de radar,321026,(Datos RASS (sistema de sondeo radioacústico) – flujos),,031021,Significación del campo asociado,,,,Operational
+21,Secuencias de los informes de las observaciones de radar,321026,(Datos RASS (sistema de sondeo radioacústico) – flujos),,012007,Temperatura virtual,,,,Operational
+21,Secuencias de los informes de las observaciones de radar,321026,(Datos RASS (sistema de sondeo radioacústico) – flujos),,025091,Constante estructural del índice de refracción (Cn2),,,,Operational
+21,Secuencias de los informes de las observaciones de radar,321026,(Datos RASS (sistema de sondeo radioacústico) – flujos),,011071,Flujo del momento vertical de la turbulencia,,,,Operational
+21,Secuencias de los informes de las observaciones de radar,321026,(Datos RASS (sistema de sondeo radioacústico) – flujos),,011072,Flujo de la fuerza ascensional vertical de la turbulencia,,,,Operational
+21,Secuencias de los informes de las observaciones de radar,321026,(Datos RASS (sistema de sondeo radioacústico) – flujos),,011073,Energía cinética de la turbulencia,,,,Operational
+21,Secuencias de los informes de las observaciones de radar,321026,(Datos RASS (sistema de sondeo radioacústico) – flujos),,011074,Energía de disipación,,,,Operational
+21,Secuencias de los informes de las observaciones de radar,321026,(Datos RASS (sistema de sondeo radioacústico) – flujos),,204000,Campo asociado añadido,Anular,,,Operational
+21,Secuencias de los informes de las observaciones de radar,321027,"(Especificación de radar, sección representativa normalizada del radar, coeficiente de variancia Kp)",,021118,Corrección de atenuación aplicada a sigma-0,,,,Operational
+21,Secuencias de los informes de las observaciones de radar,321027,"(Especificación de radar, sección representativa normalizada del radar, coeficiente de variancia Kp)",,202129,Cambio de escala,,,,Operational
+21,Secuencias de los informes de las observaciones de radar,321027,"(Especificación de radar, sección representativa normalizada del radar, coeficiente de variancia Kp)",,201132,Cambio de anchura de datos,,,,Operational
+21,Secuencias de los informes de las observaciones de radar,321027,"(Especificación de radar, sección representativa normalizada del radar, coeficiente de variancia Kp)",,002112,Ángulo de abertura del haz radar,,,,Operational
+21,Secuencias de los informes de las observaciones de radar,321027,"(Especificación de radar, sección representativa normalizada del radar, coeficiente de variancia Kp)",,201000,Cambio de anchura de datos,Anular,,,Operational
+21,Secuencias de los informes de las observaciones de radar,321027,"(Especificación de radar, sección representativa normalizada del radar, coeficiente de variancia Kp)",,201131,Cambio de anchura de datos,,,,Operational
+21,Secuencias de los informes de las observaciones de radar,321027,"(Especificación de radar, sección representativa normalizada del radar, coeficiente de variancia Kp)",,002111,Ángulo de incidencia del radar,,,,Operational
+21,Secuencias de los informes de las observaciones de radar,321027,"(Especificación de radar, sección representativa normalizada del radar, coeficiente de variancia Kp)",,201000,Cambio de anchura de datos,Anular,,,Operational
+21,Secuencias de los informes de las observaciones de radar,321027,"(Especificación de radar, sección representativa normalizada del radar, coeficiente de variancia Kp)",,202000,Cambio de escala,Anular,,,Operational
+21,Secuencias de los informes de las observaciones de radar,321027,"(Especificación de radar, sección representativa normalizada del radar, coeficiente de variancia Kp)",,002104,Polarización de la antena,,,,Operational
+21,Secuencias de los informes de las observaciones de radar,321027,"(Especificación de radar, sección representativa normalizada del radar, coeficiente de variancia Kp)",,021105,Sección representativa normalizada del radar,,,,Operational
+21,Secuencias de los informes de las observaciones de radar,321027,"(Especificación de radar, sección representativa normalizada del radar, coeficiente de variancia Kp)",,021106,Coeficiente de variancia Kp (alfa),,,,Operational
+21,Secuencias de los informes de las observaciones de radar,321027,"(Especificación de radar, sección representativa normalizada del radar, coeficiente de variancia Kp)",,021107,Coeficiente de variancia Kp (beta),,,,Operational
+21,Secuencias de los informes de las observaciones de radar,321027,"(Especificación de radar, sección representativa normalizada del radar, coeficiente de variancia Kp)",,021114,Coeficiente de variancia Kp (gamma),,,,Operational
+21,Secuencias de los informes de las observaciones de radar,321027,"(Especificación de radar, sección representativa normalizada del radar, coeficiente de variancia Kp)",,021115,Calidad de sigma-0 determinada por SeaWinds,,,,Operational
+21,Secuencias de los informes de las observaciones de radar,321027,"(Especificación de radar, sección representativa normalizada del radar, coeficiente de variancia Kp)",,021116,Modo de sigma-0 determinado por SeaWinds,,,,Operational
+21,Secuencias de los informes de las observaciones de radar,321027,"(Especificación de radar, sección representativa normalizada del radar, coeficiente de variancia Kp)",,008018,Tipo de superficie tierra/hielo medida por SeaWinds,,,,Operational
+21,Secuencias de los informes de las observaciones de radar,321027,"(Especificación de radar, sección representativa normalizada del radar, coeficiente de variancia Kp)",,021117,Control de calidad de la variancia de sigma-0,,,,Operational
 21,Secuencias de los informes de las observaciones de radar,321028,"(Especificación de radar, sección representativa normalizada del radar SEAWINDS, coeficiente de variancia Kp)",,021118,Corrección de atenuación aplicada a sigma-0,,,,Operational
 21,Secuencias de los informes de las observaciones de radar,321028,"(Especificación de radar, sección representativa normalizada del radar SEAWINDS, coeficiente de variancia Kp)",,202129,Cambio de escala,,,,Operational
 21,Secuencias de los informes de las observaciones de radar,321028,"(Especificación de radar, sección representativa normalizada del radar SEAWINDS, coeficiente de variancia Kp)",,201132,Cambio de anchura de datos,,,,Operational
