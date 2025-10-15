@@ -1,111 +1,111 @@
 FXY,ElementName_es,CodeFigure,EntryName_es,EntryName_sub1_es,EntryName_sub2_es,Note_es,noteIDs,Status
-0 11 030,Grado de turbulencia ampliado,0,Nada,,,,,
-0 11 030,Grado de turbulencia ampliado,1,Ligera,,,,,
-0 11 030,Grado de turbulencia ampliado,2,Moderada,,,,,
-0 11 030,Grado de turbulencia ampliado,3,Fuerte,,,,,
-0 11 030,Grado de turbulencia ampliado,4,Nada,,,,,
-0 11 030,Grado de turbulencia ampliado,5,Ligera,,,,,
-0 11 030,Grado de turbulencia ampliado,6,Moderada,,,,,
-0 11 030,Grado de turbulencia ampliado,7,Fuerte,,,,,
-0 11 030,Grado de turbulencia ampliado,8,Nada,,,,,
-0 11 030,Grado de turbulencia ampliado,9,Ligera,,,,,
-0 11 030,Grado de turbulencia ampliado,10,Moderada,,,,,
-0 11 030,Grado de turbulencia ampliado,11,Fuerte,,,,,
-0 11 030,Grado de turbulencia ampliado,12,"Extrema, en aire claro",,,,,
-0 11 030,Grado de turbulencia ampliado,13,"Extrema, en nubes",,,,,
-0 11 030,Grado de turbulencia ampliado,14,"Extrema, nubes/aire claro no especificado",,,,,
-0 11 030,Grado de turbulencia ampliado,15,"Ligera, moderada aislada",,,,,
-0 11 030,Grado de turbulencia ampliado,16,"Ligera, moderada ocasional",,,,,
-0 11 030,Grado de turbulencia ampliado,17,"Ligera, moderada frecuente",,,,,
-0 11 030,Grado de turbulencia ampliado,18,"Moderada, fuerte aislada",,,,,
-0 11 030,Grado de turbulencia ampliado,19,"Moderada, fuerte ocasional",,,,,
-0 11 030,Grado de turbulencia ampliado,20,"Moderada, fuerte frecuente",,,,,
-0 11 030,Grado de turbulencia ampliado,21,"Severa, extrema aislada",,,,,
-0 11 030,Grado de turbulencia ampliado,22,"Severa, extrema ocasional",,,,,
-0 11 030,Grado de turbulencia ampliado,23,"Severa, extrema frecuente",,,,,
-0 11 030,Grado de turbulencia ampliado,24-62,Reservadas,,,,,
-0 11 030,Grado de turbulencia ampliado,63,Valor faltante,,,,,
-0 11 031,Grado de turbulencia,0,Ninguna,,,,,
-0 11 031,Grado de turbulencia,1,Leve,,,,,
-0 11 031,Grado de turbulencia,2,Moderada,,,,,
-0 11 031,Grado de turbulencia,3,Fuerte,,,,,
-0 11 031,Grado de turbulencia,4,Ninguna,,,,,
-0 11 031,Grado de turbulencia,5,Leve,,,,,
-0 11 031,Grado de turbulencia,6,Moderada,,,,,
-0 11 031,Grado de turbulencia,7,Fuerte,,,,,
-0 11 031,Grado de turbulencia,8,Ninguna,,,,,
-0 11 031,Grado de turbulencia,9,Leve,,,,,
-0 11 031,Grado de turbulencia,10,Moderada,,,,,
-0 11 031,Grado de turbulencia,11,Fuerte,,,,,
-0 11 031,Grado de turbulencia,12,"Extrema, en cielo despejado",,,,,
-0 11 031,Grado de turbulencia,13,"Extrema, en cielo nuboso",,,,,
-0 11 031,Grado de turbulencia,14,"Extrema, en cielo nuboso/despejado no especificado",,,,,
-0 11 031,Grado de turbulencia,15,Valor faltante,,,,,
-0 11 037,Índice de turbulencia,0,,,,,,
-0 11 037,Índice de turbulencia,1,,,,,,
-0 11 037,Índice de turbulencia,2,,,,,,
-0 11 037,Índice de turbulencia,3,,,,,,
-0 11 037,Índice de turbulencia,4,,,,,,
-0 11 037,Índice de turbulencia,5,,,,,,
-0 11 037,Índice de turbulencia,6,,,,,,
-0 11 037,Índice de turbulencia,7,,,,,,
-0 11 037,Índice de turbulencia,8,,,,,,
-0 11 037,Índice de turbulencia,9,,,,,,
-0 11 037,Índice de turbulencia,10,,,,,,
-0 11 037,Índice de turbulencia,11,,,,,,
-0 11 037,Índice de turbulencia,12,,,,,,
-0 11 037,Índice de turbulencia,13,,,,,,
-0 11 037,Índice de turbulencia,14,,,,,,
-0 11 037,Índice de turbulencia,15,,,,,,
-0 11 037,Índice de turbulencia,16,,,,,,
-0 11 037,Índice de turbulencia,17,,,,,,
-0 11 037,Índice de turbulencia,18,,,,,,
-0 11 037,Índice de turbulencia,19,,,,,,
-0 11 037,Índice de turbulencia,20,,,,,,
-0 11 037,Índice de turbulencia,21,,,,,,
-0 11 037,Índice de turbulencia,22,,,,,,
-0 11 037,Índice de turbulencia,23,,,,,,
-0 11 037,Índice de turbulencia,24,,,,,,
-0 11 037,Índice de turbulencia,25,,,,,,
-0 11 037,Índice de turbulencia,26,,,,,,
-0 11 037,Índice de turbulencia,27,,,,,,
-0 11 037,Índice de turbulencia,28,,,,,,
-0 11 037,Índice de turbulencia,29-62,,,,,,
-0 11 037,Índice de turbulencia,63,,,,,,
-0 11 038,Hora a la que se produce la máxima tasa de disipación de los remolinos,0,,,,,,
-0 11 038,Hora a la que se produce la máxima tasa de disipación de los remolinos,1,,,,,,
-0 11 038,Hora a la que se produce la máxima tasa de disipación de los remolinos,2,,,,,,
-0 11 038,Hora a la que se produce la máxima tasa de disipación de los remolinos,3,,,,,,
-0 11 038,Hora a la que se produce la máxima tasa de disipación de los remolinos,4,,,,,,
-0 11 038,Hora a la que se produce la máxima tasa de disipación de los remolinos,5,,,,,,
-0 11 038,Hora a la que se produce la máxima tasa de disipación de los remolinos,6,,,,,,
-0 11 038,Hora a la que se produce la máxima tasa de disipación de los remolinos,7,,,,,,
-0 11 038,Hora a la que se produce la máxima tasa de disipación de los remolinos,8,,,,,,
-0 11 038,Hora a la que se produce la máxima tasa de disipación de los remolinos,9,,,,,,
-0 11 038,Hora a la que se produce la máxima tasa de disipación de los remolinos,10,,,,,,
-0 11 038,Hora a la que se produce la máxima tasa de disipación de los remolinos,11,,,,,,
-0 11 038,Hora a la que se produce la máxima tasa de disipación de los remolinos,12,,,,,,
-0 11 038,Hora a la que se produce la máxima tasa de disipación de los remolinos,13,,,,,,
-0 11 038,Hora a la que se produce la máxima tasa de disipación de los remolinos,14,,,,,,
-0 11 038,Hora a la que se produce la máxima tasa de disipación de los remolinos,15,,,,,,
-0 11 038,Hora a la que se produce la máxima tasa de disipación de los remolinos,16-30,,,,,,
-0 11 038,Hora a la que se produce la máxima tasa de disipación de los remolinos,31,,,,,,
-0 11 039,Hora ampliada a la que se produce la máxima tasa de disipación de los remolinos,0,,,,,,
-0 11 039,Hora ampliada a la que se produce la máxima tasa de disipación de los remolinos,1,,,,,,
-0 11 039,Hora ampliada a la que se produce la máxima tasa de disipación de los remolinos,2,,,,,,
-0 11 039,Hora ampliada a la que se produce la máxima tasa de disipación de los remolinos,3,,,,,,
-0 11 039,Hora ampliada a la que se produce la máxima tasa de disipación de los remolinos,4,,,,,,
-0 11 039,Hora ampliada a la que se produce la máxima tasa de disipación de los remolinos,5,,,,,,
-0 11 039,Hora ampliada a la que se produce la máxima tasa de disipación de los remolinos,6,,,,,,
-0 11 039,Hora ampliada a la que se produce la máxima tasa de disipación de los remolinos,7,,,,,,
-0 11 039,Hora ampliada a la que se produce la máxima tasa de disipación de los remolinos,8,,,,,,
-0 11 039,Hora ampliada a la que se produce la máxima tasa de disipación de los remolinos,9,,,,,,
-0 11 039,Hora ampliada a la que se produce la máxima tasa de disipación de los remolinos,10,,,,,,
-0 11 039,Hora ampliada a la que se produce la máxima tasa de disipación de los remolinos,11,,,,,,
-0 11 039,Hora ampliada a la que se produce la máxima tasa de disipación de los remolinos,12,,,,,,
-0 11 039,Hora ampliada a la que se produce la máxima tasa de disipación de los remolinos,13,,,,,,
-0 11 039,Hora ampliada a la que se produce la máxima tasa de disipación de los remolinos,14,,,,,,
-0 11 039,Hora ampliada a la que se produce la máxima tasa de disipación de los remolinos,15-59,,,,,,
-0 11 039,Hora ampliada a la que se produce la máxima tasa de disipación de los remolinos,60,,,,,,
-0 11 039,Hora ampliada a la que se produce la máxima tasa de disipación de los remolinos,61-62,,,,,,
-0 11 039,Hora ampliada a la que se produce la máxima tasa de disipación de los remolinos,63,,,,,,
+011030,Grado de turbulencia ampliado,0,Nada,,,,,Operational
+011030,Grado de turbulencia ampliado,1,Ligera,,,,,Operational
+011030,Grado de turbulencia ampliado,2,Moderada,,,,,Operational
+011030,Grado de turbulencia ampliado,3,Fuerte,,,,,Operational
+011030,Grado de turbulencia ampliado,4,Nada,,,,,Operational
+011030,Grado de turbulencia ampliado,5,Ligera,,,,,Operational
+011030,Grado de turbulencia ampliado,6,Moderada,,,,,Operational
+011030,Grado de turbulencia ampliado,7,Fuerte,,,,,Operational
+011030,Grado de turbulencia ampliado,8,Nada,,,,,Operational
+011030,Grado de turbulencia ampliado,9,Ligera,,,,,Operational
+011030,Grado de turbulencia ampliado,10,Moderada,,,,,Operational
+011030,Grado de turbulencia ampliado,11,Fuerte,,,,,Operational
+011030,Grado de turbulencia ampliado,12,"Extrema, en aire claro",,,,,Operational
+011030,Grado de turbulencia ampliado,13,"Extrema, en nubes",,,,,Operational
+011030,Grado de turbulencia ampliado,14,"Extrema, nubes/aire claro no especificado",,,,,Operational
+011030,Grado de turbulencia ampliado,15,"Ligera, moderada aislada",,,,,Operational
+011030,Grado de turbulencia ampliado,16,"Ligera, moderada ocasional",,,,,Operational
+011030,Grado de turbulencia ampliado,17,"Ligera, moderada frecuente",,,,,Operational
+011030,Grado de turbulencia ampliado,18,"Moderada, fuerte aislada",,,,,Operational
+011030,Grado de turbulencia ampliado,19,"Moderada, fuerte ocasional",,,,,Operational
+011030,Grado de turbulencia ampliado,20,"Moderada, fuerte frecuente",,,,,Operational
+011030,Grado de turbulencia ampliado,21,"Severa, extrema aislada",,,,,Operational
+011030,Grado de turbulencia ampliado,22,"Severa, extrema ocasional",,,,,Operational
+011030,Grado de turbulencia ampliado,23,"Severa, extrema frecuente",,,,,Operational
+011030,Grado de turbulencia ampliado,24-62,Reservadas,,,,,Operational
+011030,Grado de turbulencia ampliado,63,Valor faltante,,,,,Operational
+011031,Grado de turbulencia,0,Ninguna,,,,,Operational
+011031,Grado de turbulencia,1,Leve,,,,,Operational
+011031,Grado de turbulencia,2,Moderada,,,,,Operational
+011031,Grado de turbulencia,3,Fuerte,,,,,Operational
+011031,Grado de turbulencia,4,Ninguna,,,,,Operational
+011031,Grado de turbulencia,5,Leve,,,,,Operational
+011031,Grado de turbulencia,6,Moderada,,,,,Operational
+011031,Grado de turbulencia,7,Fuerte,,,,,Operational
+011031,Grado de turbulencia,8,Ninguna,,,,,Operational
+011031,Grado de turbulencia,9,Leve,,,,,Operational
+011031,Grado de turbulencia,10,Moderada,,,,,Operational
+011031,Grado de turbulencia,11,Fuerte,,,,,Operational
+011031,Grado de turbulencia,12,"Extrema, en cielo despejado",,,,,Operational
+011031,Grado de turbulencia,13,"Extrema, en cielo nuboso",,,,,Operational
+011031,Grado de turbulencia,14,"Extrema, en cielo nuboso/despejado no especificado",,,,,Operational
+011031,Grado de turbulencia,15,Valor faltante,,,,,Operational
+011037,Índice de turbulencia,0,,,,,,Operational
+011037,Índice de turbulencia,1,,,,,,Operational
+011037,Índice de turbulencia,2,,,,,,Operational
+011037,Índice de turbulencia,3,,,,,,Operational
+011037,Índice de turbulencia,4,,,,,,Operational
+011037,Índice de turbulencia,5,,,,,,Operational
+011037,Índice de turbulencia,6,,,,,,Operational
+011037,Índice de turbulencia,7,,,,,,Operational
+011037,Índice de turbulencia,8,,,,,,Operational
+011037,Índice de turbulencia,9,,,,,,Operational
+011037,Índice de turbulencia,10,,,,,,Operational
+011037,Índice de turbulencia,11,,,,,,Operational
+011037,Índice de turbulencia,12,,,,,,Operational
+011037,Índice de turbulencia,13,,,,,,Operational
+011037,Índice de turbulencia,14,,,,,,Operational
+011037,Índice de turbulencia,15,,,,,,Operational
+011037,Índice de turbulencia,16,,,,,,Operational
+011037,Índice de turbulencia,17,,,,,,Operational
+011037,Índice de turbulencia,18,,,,,,Operational
+011037,Índice de turbulencia,19,,,,,,Operational
+011037,Índice de turbulencia,20,,,,,,Operational
+011037,Índice de turbulencia,21,,,,,,Operational
+011037,Índice de turbulencia,22,,,,,,Operational
+011037,Índice de turbulencia,23,,,,,,Operational
+011037,Índice de turbulencia,24,,,,,,Operational
+011037,Índice de turbulencia,25,,,,,,Operational
+011037,Índice de turbulencia,26,,,,,,Operational
+011037,Índice de turbulencia,27,,,,,,Operational
+011037,Índice de turbulencia,28,,,,,,Operational
+011037,Índice de turbulencia,29-62,,,,,,Operational
+011037,Índice de turbulencia,63,,,,,,Operational
+011038,Hora a la que se produce la máxima tasa de disipación de los remolinos,0,,,,,,Operational
+011038,Hora a la que se produce la máxima tasa de disipación de los remolinos,1,,,,,,Operational
+011038,Hora a la que se produce la máxima tasa de disipación de los remolinos,2,,,,,,Operational
+011038,Hora a la que se produce la máxima tasa de disipación de los remolinos,3,,,,,,Operational
+011038,Hora a la que se produce la máxima tasa de disipación de los remolinos,4,,,,,,Operational
+011038,Hora a la que se produce la máxima tasa de disipación de los remolinos,5,,,,,,Operational
+011038,Hora a la que se produce la máxima tasa de disipación de los remolinos,6,,,,,,Operational
+011038,Hora a la que se produce la máxima tasa de disipación de los remolinos,7,,,,,,Operational
+011038,Hora a la que se produce la máxima tasa de disipación de los remolinos,8,,,,,,Operational
+011038,Hora a la que se produce la máxima tasa de disipación de los remolinos,9,,,,,,Operational
+011038,Hora a la que se produce la máxima tasa de disipación de los remolinos,10,,,,,,Operational
+011038,Hora a la que se produce la máxima tasa de disipación de los remolinos,11,,,,,,Operational
+011038,Hora a la que se produce la máxima tasa de disipación de los remolinos,12,,,,,,Operational
+011038,Hora a la que se produce la máxima tasa de disipación de los remolinos,13,,,,,,Operational
+011038,Hora a la que se produce la máxima tasa de disipación de los remolinos,14,,,,,,Operational
+011038,Hora a la que se produce la máxima tasa de disipación de los remolinos,15,,,,,,Operational
+011038,Hora a la que se produce la máxima tasa de disipación de los remolinos,16-30,,,,,,Operational
+011038,Hora a la que se produce la máxima tasa de disipación de los remolinos,31,,,,,,Operational
+011039,Hora ampliada a la que se produce la máxima tasa de disipación de los remolinos,0,,,,,,Operational
+011039,Hora ampliada a la que se produce la máxima tasa de disipación de los remolinos,1,,,,,,Operational
+011039,Hora ampliada a la que se produce la máxima tasa de disipación de los remolinos,2,,,,,,Operational
+011039,Hora ampliada a la que se produce la máxima tasa de disipación de los remolinos,3,,,,,,Operational
+011039,Hora ampliada a la que se produce la máxima tasa de disipación de los remolinos,4,,,,,,Operational
+011039,Hora ampliada a la que se produce la máxima tasa de disipación de los remolinos,5,,,,,,Operational
+011039,Hora ampliada a la que se produce la máxima tasa de disipación de los remolinos,6,,,,,,Operational
+011039,Hora ampliada a la que se produce la máxima tasa de disipación de los remolinos,7,,,,,,Operational
+011039,Hora ampliada a la que se produce la máxima tasa de disipación de los remolinos,8,,,,,,Operational
+011039,Hora ampliada a la que se produce la máxima tasa de disipación de los remolinos,9,,,,,,Operational
+011039,Hora ampliada a la que se produce la máxima tasa de disipación de los remolinos,10,,,,,,Operational
+011039,Hora ampliada a la que se produce la máxima tasa de disipación de los remolinos,11,,,,,,Operational
+011039,Hora ampliada a la que se produce la máxima tasa de disipación de los remolinos,12,,,,,,Operational
+011039,Hora ampliada a la que se produce la máxima tasa de disipación de los remolinos,13,,,,,,Operational
+011039,Hora ampliada a la que se produce la máxima tasa de disipación de los remolinos,14,,,,,,Operational
+011039,Hora ampliada a la que se produce la máxima tasa de disipación de los remolinos,15-59,,,,,,Operational
+011039,Hora ampliada a la que se produce la máxima tasa de disipación de los remolinos,60,,,,,,Operational
+011039,Hora ampliada a la que se produce la máxima tasa de disipación de los remolinos,61-62,,,,,,Operational
+011039,Hora ampliada a la que se produce la máxima tasa de disipación de los remolinos,63,,,,,,Operational
