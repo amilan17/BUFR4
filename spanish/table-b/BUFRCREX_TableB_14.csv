@@ -1,46 +1,46 @@
 ClassNo,ClassName_es,FXY,ElementName_es,BUFR_Unit_es,BUFR_Scale,BUFR_ReferenceValue,BUFR_DataWidth_Bits,CREX_Unit_es,CREX_Scale,CREX_DataWidth_Char,Note_es,noteIDs,Status
-,,014001,"Radiación de onda larga, integrada durante 24 horas",Jm-2,-3,-65536,17,Jm-2,-3,5,,,
-,,014002,"Radiación de onda larga, integrada en un período determinado",Jm-2,-3,-65536,17,Jm-2,-3,5,,,
-,,014003,"Radiación de onda corta, integrada durante 24 horas",Jm-2,-3,-65536,17,Jm-2,-3,5,,,
-,,014004,"Radiación de onda corta, integrada en un período determinado",Jm-2,-3,-65536,17,Jm-2,-3,5,,,
-,,014011,"Radiación neta de onda larga, integrada durante 24 horas",Jm-2,-3,-65536,17,Jm-2,-3,5,,,
-,,014012,"Radiación neta de onda larga, integrada durante un período determinado",Jm-2,-3,-65536,17,Jm-2,-3,5,,,
-,,014013,"Radiación neta de onda corta, integrada durante 24 horas",Jm-2,-3,-65536,17,Jm-2,-3,5,,,
-,,014014,"Radiación neta de onda corta, integrada durante un período determinado",Jm-2,-3,-65536,17,Jm-2,-3,5,,,
-,,014015,Radiación neta integrada durante 24 horas,Jm-2,-4,-16384,15,Jm-2,-4,5,,,
-,,014016,"Radiación neta, integrada en un período determinado",Jm-2,-4,-16384,15,Jm-2,-4,5,,,
-,,014017,Radiación instantánea de onda larga,W m-2,0,-512,10,W m-2,0,4,,,
-,,014018,Radiación instantánea de onda corta,W m-2,0,-2048,12,W m-2,0,4,,,
-,,014019,Albedo en superficie,%,0,0,7,%,0,3,,,
-,,014020,Radiación solar global integrada durante 24 horas,J m-2,-4,0,15,Jm-2,-4,5,,,
-,,014021,Radiación solar global integrada en un período determinado,Jm-2,-4,0,15,Jm-2,-4,5,,,
-,,014022,Radiación solar difusa integrada durante 24 horas,J m-2,-4,0,15,Jm-2,-4,5,,,
-,,014023,Radiación solar difusa integrada en un período determinado,Jm-2,-4,0,15,Jm-2,-4,5,,,
-,,014024,Radiación solar directa integrada durante 24 horas,Jm-2,-4,0,15,Jm-2,-4,5,,,
-,,014025,Radiación solar directa integrada en un período determinado,Jm-2,-4,0,15,Jm-2,-4,5,,,
-,,014026,Albedo en la cima de las nubes,%,0,0,7,%,0,3,,,
-,,014027,Albedo,%,0,0,7,%,0,3,,,
-,,014028,Radiación solar global (gran precisión) integrada en un período determinado,Jm-2,-2,0,20,Jm-2,-2,6,,,
-,,014029,Radiación solar difusa (gran precisión) integrada en un período determinado,Jm-2,-2,0,20,Jm-2,-2,6,,,
-,,014030,Radiación solar directa (gran precisión) integrada en un período determinado,Jm-2,-2,0,20,Jm-2,-2,6,,,
-,,014031,Insolación total,min,0,0,11,min,0,4,,,
-,,014032,Insolación total,h,0,0,10,h,0,4,,,
-,,014033,Insolación total,%,0,0,9,%,0,3,,,
-,,014034,Insolación integrada en un período determinado,min,0,0,11,min,0,4,,,
-,,014035,Flujo de radiación solar,W m-2,1,0,14,W m-2,1,5,,,
-,,014042,Reflexión bidireccional,%,0,0,7,%,0,3,,,
-,,014043,Radiancia del canal,W m-2 sr-1 µm-1,4,0,23,W m-2 sr-1 µm-1,4,7,,,
-,,014044,Radiancia del canal,W m-2 sr-1 cm,7,-100000,22,W m-2 sr-1 cm,7,7,,,
-,,014045,Radiancia del canal,W m-2 sr-1 cm,0,0,11,W m-2 sr-1 cm,0,4,(véase la nota 4),4,
-,,014046,Radiancia IASI ajustada,W m-2 sr-1 cm,0,-5000,16,W m-2 sr-1 cm,0,5,(véase la nota 6),6,
-,,014047,Radiancia media ajustada AVHRR,W m-2 sr-1 cm,0,0,31,W m-2 sr-1 cm,0,10,,,
-,,014048,Radiancia de la desviación estándar ajustada AVHRR,W m-2 sr-1 cm,0,0,31,W m-2 sr-1 cm,0,10,,,
-,,014050,Emisividad,%,1,0,10,%,1,4,(véase la nota 5),5,
-,,014051,Radiación solar directa integrada durante la última hora,Jm-2,-3,0,14,Jm-2,-3,4,,,
-,,014052,"Radiación solar ascendente mundial, integrada en un período especificado",Jm-2,-2,-1048574,20,Jm-2,-2,7,,,
-,,014053,"Radiación neta (gran precisión), integrada en un período especificado",Jm-2,-2,-1048574,21,Jm-2,-2,7,,,
-,,014054,"Radiación fotosintéticamente activa, integrada en un período especificado",J m-2,-3,0,16,Jm-2,-3,5,,,
-,,014055,Índice de actividad solar,Numérica,0,-32768,16,Numérica,0,5,,,
-,,014056,Lumicia de fondo,Cd m-2,0,0,18,Cd m-2,0,6,,,
-,,014057,Flujo de calor del suelo,Jm-2,-2,-1048574,21,Jm-2,-2,7,,,
-,,014072,Irradiación UV mundial,Jm-2,0,-4000000,23,Jm-2,0,7,(véase la nota 8),8,
+14,Radiación y radiancia BUFR/CREX,014001,"Radiación de onda larga, integrada durante 24 horas",Jm-2,-3,-65536,17,Jm-2,-3,5,,,Published
+14,Radiación y radiancia BUFR/CREX,014002,"Radiación de onda larga, integrada en un período determinado",Jm-2,-3,-65536,17,Jm-2,-3,5,,,Published
+14,Radiación y radiancia BUFR/CREX,014003,"Radiación de onda corta, integrada durante 24 horas",Jm-2,-3,-65536,17,Jm-2,-3,5,,,Published
+14,Radiación y radiancia BUFR/CREX,014004,"Radiación de onda corta, integrada en un período determinado",Jm-2,-3,-65536,17,Jm-2,-3,5,,,Published
+14,Radiación y radiancia BUFR/CREX,014011,"Radiación neta de onda larga, integrada durante 24 horas",Jm-2,-3,-65536,17,Jm-2,-3,5,,,Published
+14,Radiación y radiancia BUFR/CREX,014012,"Radiación neta de onda larga, integrada durante un período determinado",Jm-2,-3,-65536,17,Jm-2,-3,5,,,Published
+14,Radiación y radiancia BUFR/CREX,014013,"Radiación neta de onda corta, integrada durante 24 horas",Jm-2,-3,-65536,17,Jm-2,-3,5,,,Published
+14,Radiación y radiancia BUFR/CREX,014014,"Radiación neta de onda corta, integrada durante un período determinado",Jm-2,-3,-65536,17,Jm-2,-3,5,,,Published
+14,Radiación y radiancia BUFR/CREX,014015,Radiación neta integrada durante 24 horas,Jm-2,-4,-16384,15,Jm-2,-4,5,,,Published
+14,Radiación y radiancia BUFR/CREX,014016,"Radiación neta, integrada en un período determinado",Jm-2,-4,-16384,15,Jm-2,-4,5,,,Published
+14,Radiación y radiancia BUFR/CREX,014017,Radiación instantánea de onda larga,W m-2,0,-512,10,W m-2,0,4,,,Published
+14,Radiación y radiancia BUFR/CREX,014018,Radiación instantánea de onda corta,W m-2,0,-2048,12,W m-2,0,4,,,Published
+14,Radiación y radiancia BUFR/CREX,014019,Albedo en superficie,%,0,0,7,%,0,3,,,Published
+14,Radiación y radiancia BUFR/CREX,014020,Radiación solar global integrada durante 24 horas,J m-2,-4,0,15,Jm-2,-4,5,,,Published
+14,Radiación y radiancia BUFR/CREX,014021,Radiación solar global integrada en un período determinado,Jm-2,-4,0,15,Jm-2,-4,5,,,Published
+14,Radiación y radiancia BUFR/CREX,014022,Radiación solar difusa integrada durante 24 horas,J m-2,-4,0,15,Jm-2,-4,5,,,Published
+14,Radiación y radiancia BUFR/CREX,014023,Radiación solar difusa integrada en un período determinado,Jm-2,-4,0,15,Jm-2,-4,5,,,Published
+14,Radiación y radiancia BUFR/CREX,014024,Radiación solar directa integrada durante 24 horas,Jm-2,-4,0,15,Jm-2,-4,5,,,Published
+14,Radiación y radiancia BUFR/CREX,014025,Radiación solar directa integrada en un período determinado,Jm-2,-4,0,15,Jm-2,-4,5,,,Published
+14,Radiación y radiancia BUFR/CREX,014026,Albedo en la cima de las nubes,%,0,0,7,%,0,3,,,Published
+14,Radiación y radiancia BUFR/CREX,014027,Albedo,%,0,0,7,%,0,3,,,Published
+14,Radiación y radiancia BUFR/CREX,014028,Radiación solar global (gran precisión) integrada en un período determinado,Jm-2,-2,0,20,Jm-2,-2,6,,,Published
+14,Radiación y radiancia BUFR/CREX,014029,Radiación solar difusa (gran precisión) integrada en un período determinado,Jm-2,-2,0,20,Jm-2,-2,6,,,Published
+14,Radiación y radiancia BUFR/CREX,014030,Radiación solar directa (gran precisión) integrada en un período determinado,Jm-2,-2,0,20,Jm-2,-2,6,,,Published
+14,Radiación y radiancia BUFR/CREX,014031,Insolación total,min,0,0,11,min,0,4,,,Published
+14,Radiación y radiancia BUFR/CREX,014032,Insolación total,h,0,0,10,h,0,4,,,Published
+14,Radiación y radiancia BUFR/CREX,014033,Insolación total,%,0,0,9,%,0,3,,,Published
+14,Radiación y radiancia BUFR/CREX,014034,Insolación integrada en un período determinado,min,0,0,11,min,0,4,,,Published
+14,Radiación y radiancia BUFR/CREX,014035,Flujo de radiación solar,W m-2,1,0,14,W m-2,1,5,,,Published
+14,Radiación y radiancia BUFR/CREX,014042,Reflexión bidireccional,%,0,0,7,%,0,3,,,Published
+14,Radiación y radiancia BUFR/CREX,014043,Radiancia del canal,W m-2 sr-1 µm-1,4,0,23,W m-2 sr-1 µm-1,4,7,,,Published
+14,Radiación y radiancia BUFR/CREX,014044,Radiancia del canal,W m-2 sr-1 cm,7,-100000,22,W m-2 sr-1 cm,7,7,,,Published
+14,Radiación y radiancia BUFR/CREX,014045,Radiancia del canal,W m-2 sr-1 cm,0,0,11,W m-2 sr-1 cm,0,4,(véase la nota 4),4,Published
+14,Radiación y radiancia BUFR/CREX,014046,Radiancia IASI ajustada,W m-2 sr-1 cm,0,-5000,16,W m-2 sr-1 cm,0,5,(véase la nota 6),6,Published
+14,Radiación y radiancia BUFR/CREX,014047,Radiancia media ajustada AVHRR,W m-2 sr-1 cm,0,0,31,W m-2 sr-1 cm,0,10,,,Published
+14,Radiación y radiancia BUFR/CREX,014048,Radiancia de la desviación estándar ajustada AVHRR,W m-2 sr-1 cm,0,0,31,W m-2 sr-1 cm,0,10,,,Published
+14,Radiación y radiancia BUFR/CREX,014050,Emisividad,%,1,0,10,%,1,4,(véase la nota 5),5,Published
+14,Radiación y radiancia BUFR/CREX,014051,Radiación solar directa integrada durante la última hora,Jm-2,-3,0,14,Jm-2,-3,4,,,Published
+14,Radiación y radiancia BUFR/CREX,014052,"Radiación solar ascendente mundial, integrada en un período especificado",Jm-2,-2,-1048574,20,Jm-2,-2,7,,,Published
+14,Radiación y radiancia BUFR/CREX,014053,"Radiación neta (gran precisión), integrada en un período especificado",Jm-2,-2,-1048574,21,Jm-2,-2,7,,,Published
+14,Radiación y radiancia BUFR/CREX,014054,"Radiación fotosintéticamente activa, integrada en un período especificado",J m-2,-3,0,16,Jm-2,-3,5,,,Published
+14,Radiación y radiancia BUFR/CREX,014055,Índice de actividad solar,Numérica,0,-32768,16,Numérica,0,5,,,Published
+14,Radiación y radiancia BUFR/CREX,014056,Lumicia de fondo,Cd m-2,0,0,18,Cd m-2,0,6,,,Published
+14,Radiación y radiancia BUFR/CREX,014057,Flujo de calor del suelo,Jm-2,-2,-1048574,21,Jm-2,-2,7,,,Published
+14,Radiación y radiancia BUFR/CREX,014072,Irradiación UV mundial,Jm-2,0,-4000000,23,Jm-2,0,7,(véase la nota 8),8,Published
