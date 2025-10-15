@@ -1,174 +1,174 @@
 ClassNo,ClassName_es,FXY,ElementName_es,BUFR_Unit_es,BUFR_Scale,BUFR_ReferenceValue,BUFR_DataWidth_Bits,CREX_Unit_es,CREX_Scale,CREX_DataWidth_Char,Note_es,noteIDs,Status
-02,Instrumentos,021,Tipo de estación,Tabla de cifrado,0,0,2,Tabla de cifrado,0,1,,,
-02,Instrumentos,022,Tipo de instrumentos para la medición del viento,Tabla de banderines,0,0,4,Tabla de banderines,0,2,,,
-02,Instrumentos,023,Tipo de instrumentos de medición utilizados,Tabla de cifrado,0,0,4,Tabla de cifrado,0,2,,,
-02,Instrumentos,024,Tipo de instrumento utilizado para medir la evaporación o tipo de cultivo para el que se informa la evapotranspiración,Tabla de cifrado,0,0,4,Tabla de cifrado,0,2,,,
-02,Instrumentos,025,Precisión de las observaciones de la temperatura,K,2,0,7,K,2,3,,,
-02,Instrumentos,026,Tipo de instrumento de teledetección en altitud,Tabla de cifrado,0,0,6,Tabla de cifrado,0,0,,,
-02,Instrumentos,027,Tipo de sensor del instrumento de medición del nivel de agua,Tabla de cifrado,0,0,6,Tabla de cifrado,0,2,,,
-02,Instrumentos,028,Tipo de plataforma marina,Tabla de cifrado,0,0,4,Tabla de cifrado,0,2,,,
-02,Instrumentos,0211,Tipo de radiosonda,Tabla de cifrado,0,0,8,Tabla de cifrado,0,3,,,
-02,Instrumentos,0212,Método de cálculo de la radiosonda,Tabla de cifrado,0,0,4,Tabla de cifrado,0,2,,,
-02,Instrumentos,0213,Corrección de la radiación solar y de infrarrojo,Tabla de cifrado,0,0,4,Tabla de cifrado,0,2,,,
-02,Instrumentos,0214,Técnica de seguimiento de trayectoria/situación del sistema,Tabla de cifrado,0,0,7,Tabla de cifrado,0,3,,,
-02,Instrumentos,0215,Integralidad de la radiosonda,Tabla de cifrado,0,0,4,Tabla de cifrado,0,2,,,
-02,Instrumentos,0216,Configuración de la radiosonda,Tabla de banderines,0,0,5,Tabla de banderines,0,2,,,
-02,Instrumentos,0217,Algoritmos de corrección de las mediciones de humedad,Tabla de cifrado,0,0,5,Tabla de cifrado,0,2,,,
-02,Instrumentos,0219,Instrumentos de satélite,Tabla de cifrado,0,0,11,Tabla de cifrado,0,4,,,
-02,Instrumentos,0220,Clasificación de los satélites,Tabla de cifrado,0,0,9,Tabla de cifrado,0,3,,,
-02,Instrumentos,0221,Datos de instrumentos satelitales utilizados en el proceso*,Tabla de banderines,0,0,9,Tabla de banderines,0,3,,,
-02,Instrumentos,0222,Técnica utilizada en el proceso de datos satelitales,Tabla de banderines,0,0,8,Tabla de banderines,0,3,,,
-02,Instrumentos,0223,Método de cálculo del viento a partir de datos satelitales,Tabla de cifrado,0,0,4,Tabla de cifrado,0,2,,,
-02,Instrumentos,0224,Método de cálculo de la humedad media integrada,Tabla de cifrado,0,0,4,Tabla de cifrado,0,2,,,
-02,Instrumentos,0225,Canal(es) satelital(es) utilizado(s) en el cálculo,Tabla de banderines,0,0,25,Tabla de banderines,0,9,,,
-02,Instrumentos,0226,Resolución transversal a la trayectoria,m,2,0,12,m,2,4,,,
-02,Instrumentos,0227,Resolución en el sentido de la trayectoria,m,2,0,12,m,2,4,,,
-02,Instrumentos,0228,Dimensión del segmento en el nadir en la dirección X,m,0,0,18,m,0,6,,,
-02,Instrumentos,0229,Dimensión del segmento en el nadir en la dirección Y,m,0,0,18,m,0,6,,,
-02,Instrumentos,0230,Método de medición de la corriente,Tabla de cifrado,0,0,3,Tabla de cifrado,0,1,,,
-02,Instrumentos,0231,Duración y hora de medición de la corriente,Tabla de cifrado,0,0,5,Tabla de cifrado,0,2,,,
-02,Instrumentos,0232,Indicador de digitalización,Tabla de cifrado,0,0,2,Tabla de cifrado,0,1,,,
-02,Instrumentos,0233,Método de medición de la salinidad/profundidad,Tabla de cifrado,0,0,3,Tabla de cifrado,0,1,,,
-02,Instrumentos,0234,Tipo de ancla flotante,Tabla de cifrado,0,0,5,Tabla de cifrado,0,2,,,
-02,Instrumentos,0235,Longitud del cable,m,0,0,9,m,0,3,,,
-02,Instrumentos,0236,Tipo de boya,Tabla de cifrado,0,0,2,Tabla de cifrado,0,1,,,
-02,Instrumentos,0237,Método de observación de las mareas,Tabla de cifrado,0,0,3,Tabla de cifrado,0,1,,,
-02,Instrumentos,0238,Método de medición de la temperatura y/o la salinidad del agua,Tabla de cifrado,0,0,4,Tabla de cifrado,0,2,,,
-02,Instrumentos,0239,Método de medición de la temperatura con bulbo húmedo,Tabla de cifrado,0,0,3,Tabla de cifrado,0,1,,,
-02,Instrumentos,0240,Método para eliminar los efectos de la velocidad y del movimiento de la plataforma en la medición de la corriente,Tabla de cifrado,0,0,4,Tabla de cifrado,0,2,,,
-02,Instrumentos,0241,Método de estimación utilizado en los informes relativos a la configuración sinóptica,Tabla de cifrado,0,0,6,Tabla de cifrado,0,2,,,
-02,Instrumentos,0242,Indicador de la velocidad de la corriente en la superficie del mar,Tabla de cifrado,0,0,2,Tabla de cifrado,0,1,,,
-02,Instrumentos,0244,Indicador del método de cálculo de los datos espectrales de las olas,Tabla de cifrado,0,0,4,Tabla de cifrado,0,2,,,
-02,Instrumentos,0245,Indicador del tipo de plataforma,Tabla de cifrado,0,0,4,Tabla de cifrado,0,2,,,
-02,Instrumentos,0246,Instrumentos de medición de las olas,Tabla de cifrado,0,0,4,Tabla de cifrado,0,2,,,
-02,Instrumentos,0247,Tipo de tsunámetro para niveles profundos del océano,Tabla de cifrado,0,0,7,Tabla de cifrado,0,2,,,
-02,Instrumentos,0248,Indicador del sensor del satélite,Tabla de cifrado,0,0,4,Tabla de cifrado,0,2,,,
-02,Instrumentos,0249,Técnica utilizada para el proceso de datos de satélites geoestacionarios,Tabla de banderines,0,0,8,Tabla de banderines,0,3,,,
-02,Instrumentos,0250,Canales utilizados por un satélite geoestacionario de sondeo,Tabla de banderines,0,0,20,Tabla de banderines,0,7,,,
-02,Instrumentos,0251,Indicador que determina el método de observación de las temperaturas extremas,Tabla de cifrado,0,0,4,Tabla de cifrado,0,2,,,
-02,Instrumentos,0252,Canales utilizados por un satélite geoestacionario productor de imágenes,Tabla de banderines,0,0,6,Tabla de banderines,0,2,,,
-02,Instrumentos,0253,Características de la temperatura de lumicia obtenida mediante un satélite GOES-I/M,Tabla de cifrado,0,0,4,Tabla de cifrado,0,2,,,
-02,Instrumentos,0254,Características de los parámetros de sondeo efectuados por un satélite GOES-I/M,Tabla de cifrado,0,0,4,Tabla de cifrado,0,2,,,
-02,Instrumentos,0255,Parámetros estadísticos de los sondeos de satélites geoestacionarios,Tabla de cifrado,0,0,4,Tabla de cifrado,0,2,,,
-02,Instrumentos,0256,Estadísticas de la precisión de los sondeos de satélites geoestacionarios,Tabla de cifrado,0,0,4,Tabla de cifrado,0,2,,,
-02,Instrumentos,0257,Origen de la información de primera aproximación para sondeos de satélites GOES-I/M,Tabla de cifrado,0,0,4,Tabla de cifrado,0,2,,,
-02,Instrumentos,0258,Tiempo de validez de la información de primera aproximación para sondeos de satélites GOES-I/M,Tabla de cifrado,0,0,4,Tabla de cifrado,0,2,,,
-02,Instrumentos,0259,Origen de la información de análisis para sondeos de satélites GOES-I/M,Tabla de cifrado,0,0,4,Tabla de cifrado,0,2,,,
-02,Instrumentos,0260,Origen de la información de superficie para sondeos de satélites GOES-I/M,Tabla de cifrado,0,0,4,Tabla de cifrado,0,2,,,
-02,Instrumentos,0261,Sistema de navegación de la aeronave,Tabla de cifrado,0,0,3,Tabla de cifrado,0,1,,,
-02,Instrumentos,0262,Tipo de sistema de retransmisión de datos procedentes de aeronaves,Tabla de cifrado,0,0,4,Tabla de cifrado,0,2,,,
-02,Instrumentos,0263,Ángulo de balanceo de la aeronave,°,2,-18000,16,°,2,5,,,
-02,Instrumentos,0264,Calidad del ángulo de balanceo de la aeronave,Tabla de cifrado,0,0,2,Tabla de cifrado,0,1,,,
-02,Instrumentos,0265,Estación ACARS de recepción en tierra,CCITT IA5,0,0,40,Carácter,0,5,,,
-02,Instrumentos,0266,Sistema de recepción en tierra de la radiosonda,Tabla de cifrado,0,0,6,Tabla de cifrado,0,2,,,
-02,Instrumentos,0267,Frecuencia de funcionamiento de la radiosonda,Hz,-5,0,15,Hz,-5,5,,,
-02,Instrumentos,0270,Especificación original de latitud/longitud,Tabla de cifrado,0,0,4,Tabla de cifrado,0,2,,,
-02,Instrumentos,0271,Longitud de onda espectrográfica,m,13,0,30,m,13,10,,,
-02,Instrumentos,0272,Anchura espectrográfica,m,13,0,30,m,13,10,,,
-02,Instrumentos,0280,Fabricante del globo,Tabla de cifrado,0,0,6,Tabla de cifrado,0,2,,,
-02,Instrumentos,0281,Tipo de globo,Tabla de cifrado,0,0,5,Tabla de cifrado,0,2,,,
-02,Instrumentos,0282,Peso del globo,kg,3,0,12,kg,3,4,,,
-02,Instrumentos,0283,Tipo de refugio para globos,Tabla de cifrado,0,0,4,Tabla de cifrado,0,2,,,
-02,Instrumentos,0284,Tipo de gas utilizado en el globo,Tabla de cifrado,0,0,4,Tabla de cifrado,0,2,,,
-02,Instrumentos,0285,Cantidad de gas utilizada en el globo,kg,3,0,13,kg,3,4,,,
-02,Instrumentos,0286,Longitud de arrastre de vuelo del globo,m,1,0,10,m,1,4,,,
-02,Instrumentos,0287,Superficie del paracaídas,m^2,4,0,15,m^2,4,5,,,
-02,Instrumentos,0288,Volumen de gas utilizado en el globo,m^3,3,0,13,m^3,3,4,,,
-02,Instrumentos,0291,Sensor de entrada 4/20 mA,A,4,0,10,A,4,3,,,
-02,Instrumentos,0292,Método de cálculo del perfil de ozono,Tabla de cifrado,0,0,3,Tabla de cifrado,0,1,,,
-02,Instrumentos,0295,Tipo de sensor de presión,Tabla de cifrado,0,0,5,Tabla de cifrado,0,2,,,
-02,Instrumentos,0296,Tipo de sensor de temperatura,Tabla de cifrado,0,0,5,Tabla de cifrado,0,2,,,
-02,Instrumentos,0297,Tipo de sensor de humedad,Tabla de cifrado,0,0,5,Tabla de cifrado,0,2,,,
-02,Instrumentos,0299,Polarización,Tabla de cifrado,0,0,3,Tabla de cifrado,0,1,,,
-02,Instrumentos,02100,Constante de radar+,dB,1,0,12,dB,1,4,,,
-02,Instrumentos,02101,Tipo de antena,Tabla de cifrado,0,0,4,Tabla de cifrado,0,2,,,
-02,Instrumentos,02102,Altura de la antena sobre la base de la torre,m,0,0,8,m,0,3,,,
-02,Instrumentos,02103,Radomo,Tabla de banderines,0,0,2,Tabla de banderines,0,1,,,
-02,Instrumentos,02104,Polarización de la antena,Tabla de cifrado,0,0,4,Tabla de cifrado,0,2,,,
-02,Instrumentos,02105,Gacia máxima de la antena,dB,0,0,6,dB,0,2,,,
-02,Instrumentos,02106,Anchura del haz a 3 dB,°,1,0,6,°,1,2,,,
-02,Instrumentos,02107,Supresión de los lóbulos laterales,dB,0,0,6,dB,0,2,,,
-02,Instrumentos,02108,Discriminación de la polarización cruzada (en el eje),dB,0,0,6,dB,0,2,,,
-02,Instrumentos,02109,Velocidad angular de la antena (en azimut),grado/s,2,0,12,grado/s,2,4,,,
-02,Instrumentos,02110,Velocidad angular de la antena (en elevación),grado/s,2,0,12,grado/s,2,4,,,
-02,Instrumentos,02111,Ángulo de incidencia del radar,°,1,0,10,°,1,4,,,
-02,Instrumentos,02112,Ángulo de abertura del haz radar,°,1,0,12,°,1,4,,,
-02,Instrumentos,02113,Número de visiones azimutales,Numérica,0,0,4,Numérica,0,2,,,
-02,Instrumentos,02114,Superficie equivalente de la antena,m^2,0,0,15,m^2,0,5,,,
-02,Instrumentos,02115,Tipo de equipo de observación en superficie,Tabla de cifrado,0,0,5,Tabla de cifrado,0,2,,,
-02,Instrumentos,02116,Porcentaje procesado de banda de 320 MHz,%,0,0,7,%,0,3,,,
-02,Instrumentos,02117,Porcentaje procesado de banda de 80 MHz,%,0,0,7,%,0,3,,,
-02,Instrumentos,02118,Porcentaje procesado de banda de 20 MHz,%,0,0,7,%,0,3,,,
-02,Instrumentos,02119,Operaciones de instrumento RA-2,Tabla de cifrado,0,0,3,Tabla de cifrado,0,1,,,
-02,Instrumentos,02120,Frecuencia de ola oceánica,Hz,3,0,10,Hz,3,4,,,
-02,Instrumentos,02121,Frecuencia media,Hz,-8,0,7,Hz,-8,3,,,
-02,Instrumentos,02122,Alcance de la agilidad de la frecuencia,Hz,-6,-128,8,Hz,-6,3,,,
-02,Instrumentos,02123,Potencia de cresta,W,-4,0,7,W,-4,3,,,
-02,Instrumentos,02124,Potencia media,W,-1,0,7,W,-1,3,,,
-02,Instrumentos,02125,Frecuencia de repetición de los impulsos,Hz,-1,0,8,Hz,-1,3,,,
-02,Instrumentos,02126,Anchura de impulso,s,7,0,6,s,7,2,,,
-02,Instrumentos,02127,Frecuencia intermedia del receptor,Hz,-6,0,7,Hz,-6,3,,,
-02,Instrumentos,02128,Anchura de banda de las frecuencias intermedias,Hz,-5,0,6,Hz,-5,2,,,
-02,Instrumentos,02129,Señal mínima detectable,dB,0,-150,5,dB,0,3,,,
-02,Instrumentos,02130,Alcance dinámico,dB,0,0,7,dB,0,3,,,
-02,Instrumentos,02131,Control de sensibilidad en función del tiempo (STC),Tabla de banderines,0,0,2,Tabla de banderines,0,1,,,
-02,Instrumentos,02132,Precisión de puntería en azimut,°,2,0,6,°,2,2,,,
-02,Instrumentos,02133,Precisión de puntería en elevación,°,2,0,6,°,2,2,,,
-02,Instrumentos,02134,Azimut del haz de la antena,°,2,0,16,°,2,5,,,
-02,Instrumentos,02135,Elevación de la antena,°,2,-9000,15,°,2,5,,,
-02,Instrumentos,02136,Alcance procesado por la corrección de atenuación de alcance,m,-3,0,16,m,-3,5,,,
-02,Instrumentos,02137,Relación de frecuencia de repetición de impulsos dual del radar,Tabla de cifrado,0,0,4,Tabla de cifrado,0,2,,,
-02,Instrumentos,02138,Dirección de rotación de la antena,Tabla de cifrado,0,0,2,Tabla de cifrado,0,1,,,
-02,Instrumentos,02139,Configuración del instrumento SIRAL,Tabla de cifrado,0,0,2,Tabla de cifrado,0,1,,,
-02,Instrumentos,02140,Ángulo azimutal del haz del radar del satélite,°,0,0,9,°,0,3,(véase la nota 4),,
-02,Instrumentos,02141,Tipo de medición,CCITT IA5,0,0,24,Carácter,0,3,,,
-02,Instrumentos,02142,Número de serie/indicador del tipo de instrumento de medición del ozono,CCITT IA5,0,0,32,Carácter,0,4,(véase la nota 5),,
-02,Instrumentos,02143,Tipo de instrumento de medición del ozono,Tabla de cifrado,0,0,7,Tabla de cifrado,0,3,,,
-02,Instrumentos,02144,Tipo de fuente luminosa para el espectrofotómetro de Brewer,Tabla de cifrado,0,0,4,Tabla de cifrado,0,2,,,
-02,Instrumentos,02145,Ajuste de la longitud de onda para los instrumentos Dobson,Tabla de cifrado,0,0,4,Tabla de cifrado,0,2,,,
-02,Instrumentos,02146,Condiciones de la fuente para los instrumentos Dobson,Tabla de cifrado,0,0,4,Tabla de cifrado,0,2,,,
-02,Instrumentos,02147,Método de transmisión al centro de recopilación,Tabla de cifrado,0,0,6,Tabla de cifrado,0,2,,,
-02,Instrumentos,02148,Sistema de recopilación de datos y/o ubicación,Tabla de cifrado,0,0,5,Tabla de cifrado,0,2,,,
-02,Instrumentos,02149,Tipo de boya de datos,Tabla de cifrado,0,0,6,Tabla de cifrado,0,2,,,
-02,Instrumentos,02150,Número de canal de los instrumentos TOVS/ATOVS/AVHRR,Tabla de cifrado,0,0,6,Tabla de cifrado,0,2,,,
-02,Instrumentos,02151,Identificador del radiómetro,Tabla de cifrado,0,0,11,Tabla de cifrado,0,4,,,
-02,Instrumentos,02152,Instrumento de satélite utilizado en el proceso de los datos,Tabla de banderines,0,0,31,Tabla de banderines,0,10,(véase la nota 6),,
-02,Instrumentos,02153,Frecuencia central del canal del satélite,Hz,-8,0,26,Hz,-8,8,,,
-02,Instrumentos,02154,Anchura de banda del canal del satélite,Hz,-8,0,26,Hz,-8,8,,,
-02,Instrumentos,02155,Longitud de onda del canal satelital,m,9,0,16,m,9,5,,,
-02,Instrumentos,02156,Porcentaje de mediciones válidas de reseguimiento de océano en banda Ku,%,0,0,7,%,0,3,,,
-02,Instrumentos,02157,Porcentaje de mediciones válidas de reseguimiento de océano en banda S,%,0,0,7,%,0,3,,,
-02,Instrumentos,02158,Instrumento RA-2,Tabla de banderines,0,0,9,Tabla de banderines,0,3,,,
-02,Instrumentos,02159,Instrumento MWR,Tabla de banderines,0,0,8,Tabla de banderines,0,3,,,
-02,Instrumentos,02160,Longitud de onda del radar,Tabla de cifrado,0,0,4,Tabla de cifrado,0,2,,,
-02,Instrumentos,02161,Método de procesamiento del viento,Tabla de banderines,0,0,16,Tabla de banderines,0,6,,,
-02,Instrumentos,02162,Método ampliado de asignación de la altura,Tabla de cifrado,0,0,6,Tabla de cifrado,0,2,,,
-02,Instrumentos,02163,Método de asignación de la altura,Tabla de cifrado,0,0,4,Tabla de cifrado,0,2,,,
-02,Instrumentos,02164,Método de correlación del trazador,Tabla de cifrado,0,0,3,Tabla de cifrado,0,1,,,
-02,Instrumentos,02165,Banderines del tipo de radiancia,Tabla de banderines,0,0,15,Tabla de banderines,0,5,,,
-02,Instrumentos,02166,Tipo de radiancia,Tabla de cifrado,0,0,4,Tabla de cifrado,0,2,,,
-02,Instrumentos,02167,Método de cálculo de la radiancia,Tabla de cifrado,0,0,4,Tabla de cifrado,0,2,,,
-02,Instrumentos,02168,Presión hidrostática en el extremo inferior del cable (cadena de termistores),Pa,-3,0,16,KPa,0,5,,,
-02,Instrumentos,02169,Tipo de anemómetro,Tabla de cifrado,0,0,4,Tabla de cifrado,0,2,,,
-02,Instrumentos,02170,Sensores de humedad de la aeronave,Tabla de cifrado,0,0,6,Tabla de cifrado,0,2,,,
-02,Instrumentos,02171,Número de serie del instrumento para mediciones del perfil de temperatura del agua,CCITT IA5,0,0,64,Carácter,0,8,,,
-02,Instrumentos,02172,Tipo de producto para la recuperación de datos sobre gases atmosféricos,Tabla de cifrado,0,0,8,Tabla de cifrado,0,3,,,
-02,Instrumentos,02173,Cuadrado del ángulo de desviación del nadir,grado^2,4,0,10,grado^2,4,4,(véase la nota 7),,
-02,Instrumentos,02174,Número medio de píxeles transversales por pista,Numérica,0,0,9,Numérica,0,3,,,
-02,Instrumentos,02175,Método de medición de la precipitación,Tabla de cifrado,0,0,4,Tabla de cifrado,0,2,,,
-02,Instrumentos,02176,Método de medición del estado del suelo,Tabla de cifrado,0,0,4,Tabla de cifrado,0,2,,,
-02,Instrumentos,02177,Método de medición del espesor de la nieve,Tabla de cifrado,0,0,4,Tabla de cifrado,0,2,,,
-02,Instrumentos,02178,Método de medición del contenido líquido de la precipitación,Tabla de cifrado,0,0,4,Tabla de cifrado,0,2,,,
-02,Instrumentos,02179,Tipo de algoritmo de la condición del cielo,Tabla de cifrado,0,0,4,Tabla de cifrado,0,2,,,
-02,Instrumentos,02180,Principal sistema de detección de tiempo presente,Tabla de cifrado,0,0,4,Tabla de cifrado,0,2,,,
-02,Instrumentos,02181,Sensor suplementario de tiempo presente,Tabla de banderines,0,0,21,Tabla de banderines,0,7,,,
-02,Instrumentos,02182,Sistema de medición de la visibilidad,Tabla de cifrado,0,0,4,Tabla de cifrado,0,2,,,
-02,Instrumentos,02183,Sistema de detección de nubes,Tabla de cifrado,0,0,4,Tabla de cifrado,0,2,,,
-02,Instrumentos,02184,Tipo de sensor de detección del rayo,Tabla de cifrado,0,0,4,Tabla de cifrado,0,2,,,
-02,Instrumentos,02185,Método de medición de la evaporación,Tabla de cifrado,0,0,4,Tabla de cifrado,0,2,,,
-02,Instrumentos,02186,Capacidad para detectar fenómenos de precipitación,Tabla de banderines,0,0,30,Tabla de banderines,0,10,,,
-02,Instrumentos,02187,Capacidad para detectar otros fenómenos meteorológicos,Tabla de banderines,0,0,18,Tabla de banderines,0,6,,,
-02,Instrumentos,02188,Capacidad para detectar el oscurecimiento,Tabla de banderines,0,0,21,Tabla de banderines,0,7,,,
-02,Instrumentos,02189,Capacidad para distinguir entre descargas eléctricas,Tabla de banderines,0,0,12,Tabla de banderines,0,4,,,
-02,Instrumentos,02190,Inmersión de una boya lagrangiana a la deriva (% de tiempo en que permanece sumergida),%,0,0,7,%,0,3,,,
-02,Instrumentos,02191,Cálculo de la altura geopotencial,Tabla de cifrado,0,0,4,Tabla de cifrado,0,2,,,
+02,Instrumentos,021,Tipo de estación,Tabla de cifrado,0,0,2,Tabla de cifrado,0,1,,,Operational
+02,Instrumentos,022,Tipo de instrumentos para la medición del viento,Tabla de banderines,0,0,4,Tabla de banderines,0,2,,,Operational
+02,Instrumentos,023,Tipo de instrumentos de medición utilizados,Tabla de cifrado,0,0,4,Tabla de cifrado,0,2,,,Operational
+02,Instrumentos,024,Tipo de instrumento utilizado para medir la evaporación o tipo de cultivo para el que se informa la evapotranspiración,Tabla de cifrado,0,0,4,Tabla de cifrado,0,2,,,Operational
+02,Instrumentos,025,Precisión de las observaciones de la temperatura,K,2,0,7,K,2,3,,,Operational
+02,Instrumentos,026,Tipo de instrumento de teledetección en altitud,Tabla de cifrado,0,0,6,Tabla de cifrado,0,0,,,Operational
+02,Instrumentos,027,Tipo de sensor del instrumento de medición del nivel de agua,Tabla de cifrado,0,0,6,Tabla de cifrado,0,2,,,Operational
+02,Instrumentos,028,Tipo de plataforma marina,Tabla de cifrado,0,0,4,Tabla de cifrado,0,2,,,Operational
+02,Instrumentos,0211,Tipo de radiosonda,Tabla de cifrado,0,0,8,Tabla de cifrado,0,3,,,Operational
+02,Instrumentos,0212,Método de cálculo de la radiosonda,Tabla de cifrado,0,0,4,Tabla de cifrado,0,2,,,Operational
+02,Instrumentos,0213,Corrección de la radiación solar y de infrarrojo,Tabla de cifrado,0,0,4,Tabla de cifrado,0,2,,,Operational
+02,Instrumentos,0214,Técnica de seguimiento de trayectoria/situación del sistema,Tabla de cifrado,0,0,7,Tabla de cifrado,0,3,,,Operational
+02,Instrumentos,0215,Integralidad de la radiosonda,Tabla de cifrado,0,0,4,Tabla de cifrado,0,2,,,Operational
+02,Instrumentos,0216,Configuración de la radiosonda,Tabla de banderines,0,0,5,Tabla de banderines,0,2,,,Operational
+02,Instrumentos,0217,Algoritmos de corrección de las mediciones de humedad,Tabla de cifrado,0,0,5,Tabla de cifrado,0,2,,,Operational
+02,Instrumentos,0219,Instrumentos de satélite,Tabla de cifrado,0,0,11,Tabla de cifrado,0,4,,,Operational
+02,Instrumentos,0220,Clasificación de los satélites,Tabla de cifrado,0,0,9,Tabla de cifrado,0,3,,,Operational
+02,Instrumentos,0221,Datos de instrumentos satelitales utilizados en el proceso*,Tabla de banderines,0,0,9,Tabla de banderines,0,3,,,Operational
+02,Instrumentos,0222,Técnica utilizada en el proceso de datos satelitales,Tabla de banderines,0,0,8,Tabla de banderines,0,3,,,Operational
+02,Instrumentos,0223,Método de cálculo del viento a partir de datos satelitales,Tabla de cifrado,0,0,4,Tabla de cifrado,0,2,,,Operational
+02,Instrumentos,0224,Método de cálculo de la humedad media integrada,Tabla de cifrado,0,0,4,Tabla de cifrado,0,2,,,Operational
+02,Instrumentos,0225,Canal(es) satelital(es) utilizado(s) en el cálculo,Tabla de banderines,0,0,25,Tabla de banderines,0,9,,,Operational
+02,Instrumentos,0226,Resolución transversal a la trayectoria,m,2,0,12,m,2,4,,,Operational
+02,Instrumentos,0227,Resolución en el sentido de la trayectoria,m,2,0,12,m,2,4,,,Operational
+02,Instrumentos,0228,Dimensión del segmento en el nadir en la dirección X,m,0,0,18,m,0,6,,,Operational
+02,Instrumentos,0229,Dimensión del segmento en el nadir en la dirección Y,m,0,0,18,m,0,6,,,Operational
+02,Instrumentos,0230,Método de medición de la corriente,Tabla de cifrado,0,0,3,Tabla de cifrado,0,1,,,Operational
+02,Instrumentos,0231,Duración y hora de medición de la corriente,Tabla de cifrado,0,0,5,Tabla de cifrado,0,2,,,Operational
+02,Instrumentos,0232,Indicador de digitalización,Tabla de cifrado,0,0,2,Tabla de cifrado,0,1,,,Operational
+02,Instrumentos,0233,Método de medición de la salinidad/profundidad,Tabla de cifrado,0,0,3,Tabla de cifrado,0,1,,,Operational
+02,Instrumentos,0234,Tipo de ancla flotante,Tabla de cifrado,0,0,5,Tabla de cifrado,0,2,,,Operational
+02,Instrumentos,0235,Longitud del cable,m,0,0,9,m,0,3,,,Operational
+02,Instrumentos,0236,Tipo de boya,Tabla de cifrado,0,0,2,Tabla de cifrado,0,1,,,Operational
+02,Instrumentos,0237,Método de observación de las mareas,Tabla de cifrado,0,0,3,Tabla de cifrado,0,1,,,Operational
+02,Instrumentos,0238,Método de medición de la temperatura y/o la salinidad del agua,Tabla de cifrado,0,0,4,Tabla de cifrado,0,2,,,Operational
+02,Instrumentos,0239,Método de medición de la temperatura con bulbo húmedo,Tabla de cifrado,0,0,3,Tabla de cifrado,0,1,,,Operational
+02,Instrumentos,0240,Método para eliminar los efectos de la velocidad y del movimiento de la plataforma en la medición de la corriente,Tabla de cifrado,0,0,4,Tabla de cifrado,0,2,,,Operational
+02,Instrumentos,0241,Método de estimación utilizado en los informes relativos a la configuración sinóptica,Tabla de cifrado,0,0,6,Tabla de cifrado,0,2,,,Operational
+02,Instrumentos,0242,Indicador de la velocidad de la corriente en la superficie del mar,Tabla de cifrado,0,0,2,Tabla de cifrado,0,1,,,Operational
+02,Instrumentos,0244,Indicador del método de cálculo de los datos espectrales de las olas,Tabla de cifrado,0,0,4,Tabla de cifrado,0,2,,,Operational
+02,Instrumentos,0245,Indicador del tipo de plataforma,Tabla de cifrado,0,0,4,Tabla de cifrado,0,2,,,Operational
+02,Instrumentos,0246,Instrumentos de medición de las olas,Tabla de cifrado,0,0,4,Tabla de cifrado,0,2,,,Operational
+02,Instrumentos,0247,Tipo de tsunámetro para niveles profundos del océano,Tabla de cifrado,0,0,7,Tabla de cifrado,0,2,,,Operational
+02,Instrumentos,0248,Indicador del sensor del satélite,Tabla de cifrado,0,0,4,Tabla de cifrado,0,2,,,Operational
+02,Instrumentos,0249,Técnica utilizada para el proceso de datos de satélites geoestacionarios,Tabla de banderines,0,0,8,Tabla de banderines,0,3,,,Operational
+02,Instrumentos,0250,Canales utilizados por un satélite geoestacionario de sondeo,Tabla de banderines,0,0,20,Tabla de banderines,0,7,,,Operational
+02,Instrumentos,0251,Indicador que determina el método de observación de las temperaturas extremas,Tabla de cifrado,0,0,4,Tabla de cifrado,0,2,,,Operational
+02,Instrumentos,0252,Canales utilizados por un satélite geoestacionario productor de imágenes,Tabla de banderines,0,0,6,Tabla de banderines,0,2,,,Operational
+02,Instrumentos,0253,Características de la temperatura de lumicia obtenida mediante un satélite GOES-I/M,Tabla de cifrado,0,0,4,Tabla de cifrado,0,2,,,Operational
+02,Instrumentos,0254,Características de los parámetros de sondeo efectuados por un satélite GOES-I/M,Tabla de cifrado,0,0,4,Tabla de cifrado,0,2,,,Operational
+02,Instrumentos,0255,Parámetros estadísticos de los sondeos de satélites geoestacionarios,Tabla de cifrado,0,0,4,Tabla de cifrado,0,2,,,Operational
+02,Instrumentos,0256,Estadísticas de la precisión de los sondeos de satélites geoestacionarios,Tabla de cifrado,0,0,4,Tabla de cifrado,0,2,,,Operational
+02,Instrumentos,0257,Origen de la información de primera aproximación para sondeos de satélites GOES-I/M,Tabla de cifrado,0,0,4,Tabla de cifrado,0,2,,,Operational
+02,Instrumentos,0258,Tiempo de validez de la información de primera aproximación para sondeos de satélites GOES-I/M,Tabla de cifrado,0,0,4,Tabla de cifrado,0,2,,,Operational
+02,Instrumentos,0259,Origen de la información de análisis para sondeos de satélites GOES-I/M,Tabla de cifrado,0,0,4,Tabla de cifrado,0,2,,,Operational
+02,Instrumentos,0260,Origen de la información de superficie para sondeos de satélites GOES-I/M,Tabla de cifrado,0,0,4,Tabla de cifrado,0,2,,,Operational
+02,Instrumentos,0261,Sistema de navegación de la aeronave,Tabla de cifrado,0,0,3,Tabla de cifrado,0,1,,,Operational
+02,Instrumentos,0262,Tipo de sistema de retransmisión de datos procedentes de aeronaves,Tabla de cifrado,0,0,4,Tabla de cifrado,0,2,,,Operational
+02,Instrumentos,0263,Ángulo de balanceo de la aeronave,°,2,-18000,16,°,2,5,,,Operational
+02,Instrumentos,0264,Calidad del ángulo de balanceo de la aeronave,Tabla de cifrado,0,0,2,Tabla de cifrado,0,1,,,Operational
+02,Instrumentos,0265,Estación ACARS de recepción en tierra,CCITT IA5,0,0,40,Carácter,0,5,,,Operational
+02,Instrumentos,0266,Sistema de recepción en tierra de la radiosonda,Tabla de cifrado,0,0,6,Tabla de cifrado,0,2,,,Operational
+02,Instrumentos,0267,Frecuencia de funcionamiento de la radiosonda,Hz,-5,0,15,Hz,-5,5,,,Operational
+02,Instrumentos,0270,Especificación original de latitud/longitud,Tabla de cifrado,0,0,4,Tabla de cifrado,0,2,,,Operational
+02,Instrumentos,0271,Longitud de onda espectrográfica,m,13,0,30,m,13,10,,,Operational
+02,Instrumentos,0272,Anchura espectrográfica,m,13,0,30,m,13,10,,,Operational
+02,Instrumentos,0280,Fabricante del globo,Tabla de cifrado,0,0,6,Tabla de cifrado,0,2,,,Operational
+02,Instrumentos,0281,Tipo de globo,Tabla de cifrado,0,0,5,Tabla de cifrado,0,2,,,Operational
+02,Instrumentos,0282,Peso del globo,kg,3,0,12,kg,3,4,,,Operational
+02,Instrumentos,0283,Tipo de refugio para globos,Tabla de cifrado,0,0,4,Tabla de cifrado,0,2,,,Operational
+02,Instrumentos,0284,Tipo de gas utilizado en el globo,Tabla de cifrado,0,0,4,Tabla de cifrado,0,2,,,Operational
+02,Instrumentos,0285,Cantidad de gas utilizada en el globo,kg,3,0,13,kg,3,4,,,Operational
+02,Instrumentos,0286,Longitud de arrastre de vuelo del globo,m,1,0,10,m,1,4,,,Operational
+02,Instrumentos,0287,Superficie del paracaídas,m^2,4,0,15,m^2,4,5,,,Operational
+02,Instrumentos,0288,Volumen de gas utilizado en el globo,m^3,3,0,13,m^3,3,4,,,Operational
+02,Instrumentos,0291,Sensor de entrada 4/20 mA,A,4,0,10,A,4,3,,,Operational
+02,Instrumentos,0292,Método de cálculo del perfil de ozono,Tabla de cifrado,0,0,3,Tabla de cifrado,0,1,,,Operational
+02,Instrumentos,0295,Tipo de sensor de presión,Tabla de cifrado,0,0,5,Tabla de cifrado,0,2,,,Operational
+02,Instrumentos,0296,Tipo de sensor de temperatura,Tabla de cifrado,0,0,5,Tabla de cifrado,0,2,,,Operational
+02,Instrumentos,0297,Tipo de sensor de humedad,Tabla de cifrado,0,0,5,Tabla de cifrado,0,2,,,Operational
+02,Instrumentos,0299,Polarización,Tabla de cifrado,0,0,3,Tabla de cifrado,0,1,,,Operational
+02,Instrumentos,02100,Constante de radar+,dB,1,0,12,dB,1,4,,,Operational
+02,Instrumentos,02101,Tipo de antena,Tabla de cifrado,0,0,4,Tabla de cifrado,0,2,,,Operational
+02,Instrumentos,02102,Altura de la antena sobre la base de la torre,m,0,0,8,m,0,3,,,Operational
+02,Instrumentos,02103,Radomo,Tabla de banderines,0,0,2,Tabla de banderines,0,1,,,Operational
+02,Instrumentos,02104,Polarización de la antena,Tabla de cifrado,0,0,4,Tabla de cifrado,0,2,,,Operational
+02,Instrumentos,02105,Gacia máxima de la antena,dB,0,0,6,dB,0,2,,,Operational
+02,Instrumentos,02106,Anchura del haz a 3 dB,°,1,0,6,°,1,2,,,Operational
+02,Instrumentos,02107,Supresión de los lóbulos laterales,dB,0,0,6,dB,0,2,,,Operational
+02,Instrumentos,02108,Discriminación de la polarización cruzada (en el eje),dB,0,0,6,dB,0,2,,,Operational
+02,Instrumentos,02109,Velocidad angular de la antena (en azimut),grado/s,2,0,12,grado/s,2,4,,,Operational
+02,Instrumentos,02110,Velocidad angular de la antena (en elevación),grado/s,2,0,12,grado/s,2,4,,,Operational
+02,Instrumentos,02111,Ángulo de incidencia del radar,°,1,0,10,°,1,4,,,Operational
+02,Instrumentos,02112,Ángulo de abertura del haz radar,°,1,0,12,°,1,4,,,Operational
+02,Instrumentos,02113,Número de visiones azimutales,Numérica,0,0,4,Numérica,0,2,,,Operational
+02,Instrumentos,02114,Superficie equivalente de la antena,m^2,0,0,15,m^2,0,5,,,Operational
+02,Instrumentos,02115,Tipo de equipo de observación en superficie,Tabla de cifrado,0,0,5,Tabla de cifrado,0,2,,,Operational
+02,Instrumentos,02116,Porcentaje procesado de banda de 320 MHz,%,0,0,7,%,0,3,,,Operational
+02,Instrumentos,02117,Porcentaje procesado de banda de 80 MHz,%,0,0,7,%,0,3,,,Operational
+02,Instrumentos,02118,Porcentaje procesado de banda de 20 MHz,%,0,0,7,%,0,3,,,Operational
+02,Instrumentos,02119,Operaciones de instrumento RA-2,Tabla de cifrado,0,0,3,Tabla de cifrado,0,1,,,Operational
+02,Instrumentos,02120,Frecuencia de ola oceánica,Hz,3,0,10,Hz,3,4,,,Operational
+02,Instrumentos,02121,Frecuencia media,Hz,-8,0,7,Hz,-8,3,,,Operational
+02,Instrumentos,02122,Alcance de la agilidad de la frecuencia,Hz,-6,-128,8,Hz,-6,3,,,Operational
+02,Instrumentos,02123,Potencia de cresta,W,-4,0,7,W,-4,3,,,Operational
+02,Instrumentos,02124,Potencia media,W,-1,0,7,W,-1,3,,,Operational
+02,Instrumentos,02125,Frecuencia de repetición de los impulsos,Hz,-1,0,8,Hz,-1,3,,,Operational
+02,Instrumentos,02126,Anchura de impulso,s,7,0,6,s,7,2,,,Operational
+02,Instrumentos,02127,Frecuencia intermedia del receptor,Hz,-6,0,7,Hz,-6,3,,,Operational
+02,Instrumentos,02128,Anchura de banda de las frecuencias intermedias,Hz,-5,0,6,Hz,-5,2,,,Operational
+02,Instrumentos,02129,Señal mínima detectable,dB,0,-150,5,dB,0,3,,,Operational
+02,Instrumentos,02130,Alcance dinámico,dB,0,0,7,dB,0,3,,,Operational
+02,Instrumentos,02131,Control de sensibilidad en función del tiempo (STC),Tabla de banderines,0,0,2,Tabla de banderines,0,1,,,Operational
+02,Instrumentos,02132,Precisión de puntería en azimut,°,2,0,6,°,2,2,,,Operational
+02,Instrumentos,02133,Precisión de puntería en elevación,°,2,0,6,°,2,2,,,Operational
+02,Instrumentos,02134,Azimut del haz de la antena,°,2,0,16,°,2,5,,,Operational
+02,Instrumentos,02135,Elevación de la antena,°,2,-9000,15,°,2,5,,,Operational
+02,Instrumentos,02136,Alcance procesado por la corrección de atenuación de alcance,m,-3,0,16,m,-3,5,,,Operational
+02,Instrumentos,02137,Relación de frecuencia de repetición de impulsos dual del radar,Tabla de cifrado,0,0,4,Tabla de cifrado,0,2,,,Operational
+02,Instrumentos,02138,Dirección de rotación de la antena,Tabla de cifrado,0,0,2,Tabla de cifrado,0,1,,,Operational
+02,Instrumentos,02139,Configuración del instrumento SIRAL,Tabla de cifrado,0,0,2,Tabla de cifrado,0,1,,,Operational
+02,Instrumentos,02140,Ángulo azimutal del haz del radar del satélite,°,0,0,9,°,0,3,(véase la nota 4),,Operational
+02,Instrumentos,02141,Tipo de medición,CCITT IA5,0,0,24,Carácter,0,3,,,Operational
+02,Instrumentos,02142,Número de serie/indicador del tipo de instrumento de medición del ozono,CCITT IA5,0,0,32,Carácter,0,4,(véase la nota 5),,Operational
+02,Instrumentos,02143,Tipo de instrumento de medición del ozono,Tabla de cifrado,0,0,7,Tabla de cifrado,0,3,,,Operational
+02,Instrumentos,02144,Tipo de fuente luminosa para el espectrofotómetro de Brewer,Tabla de cifrado,0,0,4,Tabla de cifrado,0,2,,,Operational
+02,Instrumentos,02145,Ajuste de la longitud de onda para los instrumentos Dobson,Tabla de cifrado,0,0,4,Tabla de cifrado,0,2,,,Operational
+02,Instrumentos,02146,Condiciones de la fuente para los instrumentos Dobson,Tabla de cifrado,0,0,4,Tabla de cifrado,0,2,,,Operational
+02,Instrumentos,02147,Método de transmisión al centro de recopilación,Tabla de cifrado,0,0,6,Tabla de cifrado,0,2,,,Operational
+02,Instrumentos,02148,Sistema de recopilación de datos y/o ubicación,Tabla de cifrado,0,0,5,Tabla de cifrado,0,2,,,Operational
+02,Instrumentos,02149,Tipo de boya de datos,Tabla de cifrado,0,0,6,Tabla de cifrado,0,2,,,Operational
+02,Instrumentos,02150,Número de canal de los instrumentos TOVS/ATOVS/AVHRR,Tabla de cifrado,0,0,6,Tabla de cifrado,0,2,,,Operational
+02,Instrumentos,02151,Identificador del radiómetro,Tabla de cifrado,0,0,11,Tabla de cifrado,0,4,,,Operational
+02,Instrumentos,02152,Instrumento de satélite utilizado en el proceso de los datos,Tabla de banderines,0,0,31,Tabla de banderines,0,10,(véase la nota 6),,Operational
+02,Instrumentos,02153,Frecuencia central del canal del satélite,Hz,-8,0,26,Hz,-8,8,,,Operational
+02,Instrumentos,02154,Anchura de banda del canal del satélite,Hz,-8,0,26,Hz,-8,8,,,Operational
+02,Instrumentos,02155,Longitud de onda del canal satelital,m,9,0,16,m,9,5,,,Operational
+02,Instrumentos,02156,Porcentaje de mediciones válidas de reseguimiento de océano en banda Ku,%,0,0,7,%,0,3,,,Operational
+02,Instrumentos,02157,Porcentaje de mediciones válidas de reseguimiento de océano en banda S,%,0,0,7,%,0,3,,,Operational
+02,Instrumentos,02158,Instrumento RA-2,Tabla de banderines,0,0,9,Tabla de banderines,0,3,,,Operational
+02,Instrumentos,02159,Instrumento MWR,Tabla de banderines,0,0,8,Tabla de banderines,0,3,,,Operational
+02,Instrumentos,02160,Longitud de onda del radar,Tabla de cifrado,0,0,4,Tabla de cifrado,0,2,,,Operational
+02,Instrumentos,02161,Método de procesamiento del viento,Tabla de banderines,0,0,16,Tabla de banderines,0,6,,,Operational
+02,Instrumentos,02162,Método ampliado de asignación de la altura,Tabla de cifrado,0,0,6,Tabla de cifrado,0,2,,,Operational
+02,Instrumentos,02163,Método de asignación de la altura,Tabla de cifrado,0,0,4,Tabla de cifrado,0,2,,,Operational
+02,Instrumentos,02164,Método de correlación del trazador,Tabla de cifrado,0,0,3,Tabla de cifrado,0,1,,,Operational
+02,Instrumentos,02165,Banderines del tipo de radiancia,Tabla de banderines,0,0,15,Tabla de banderines,0,5,,,Operational
+02,Instrumentos,02166,Tipo de radiancia,Tabla de cifrado,0,0,4,Tabla de cifrado,0,2,,,Operational
+02,Instrumentos,02167,Método de cálculo de la radiancia,Tabla de cifrado,0,0,4,Tabla de cifrado,0,2,,,Operational
+02,Instrumentos,02168,Presión hidrostática en el extremo inferior del cable (cadena de termistores),Pa,-3,0,16,KPa,0,5,,,Operational
+02,Instrumentos,02169,Tipo de anemómetro,Tabla de cifrado,0,0,4,Tabla de cifrado,0,2,,,Operational
+02,Instrumentos,02170,Sensores de humedad de la aeronave,Tabla de cifrado,0,0,6,Tabla de cifrado,0,2,,,Operational
+02,Instrumentos,02171,Número de serie del instrumento para mediciones del perfil de temperatura del agua,CCITT IA5,0,0,64,Carácter,0,8,,,Operational
+02,Instrumentos,02172,Tipo de producto para la recuperación de datos sobre gases atmosféricos,Tabla de cifrado,0,0,8,Tabla de cifrado,0,3,,,Operational
+02,Instrumentos,02173,Cuadrado del ángulo de desviación del nadir,grado^2,4,0,10,grado^2,4,4,(véase la nota 7),,Operational
+02,Instrumentos,02174,Número medio de píxeles transversales por pista,Numérica,0,0,9,Numérica,0,3,,,Operational
+02,Instrumentos,02175,Método de medición de la precipitación,Tabla de cifrado,0,0,4,Tabla de cifrado,0,2,,,Operational
+02,Instrumentos,02176,Método de medición del estado del suelo,Tabla de cifrado,0,0,4,Tabla de cifrado,0,2,,,Operational
+02,Instrumentos,02177,Método de medición del espesor de la nieve,Tabla de cifrado,0,0,4,Tabla de cifrado,0,2,,,Operational
+02,Instrumentos,02178,Método de medición del contenido líquido de la precipitación,Tabla de cifrado,0,0,4,Tabla de cifrado,0,2,,,Operational
+02,Instrumentos,02179,Tipo de algoritmo de la condición del cielo,Tabla de cifrado,0,0,4,Tabla de cifrado,0,2,,,Operational
+02,Instrumentos,02180,Principal sistema de detección de tiempo presente,Tabla de cifrado,0,0,4,Tabla de cifrado,0,2,,,Operational
+02,Instrumentos,02181,Sensor suplementario de tiempo presente,Tabla de banderines,0,0,21,Tabla de banderines,0,7,,,Operational
+02,Instrumentos,02182,Sistema de medición de la visibilidad,Tabla de cifrado,0,0,4,Tabla de cifrado,0,2,,,Operational
+02,Instrumentos,02183,Sistema de detección de nubes,Tabla de cifrado,0,0,4,Tabla de cifrado,0,2,,,Operational
+02,Instrumentos,02184,Tipo de sensor de detección del rayo,Tabla de cifrado,0,0,4,Tabla de cifrado,0,2,,,Operational
+02,Instrumentos,02185,Método de medición de la evaporación,Tabla de cifrado,0,0,4,Tabla de cifrado,0,2,,,Operational
+02,Instrumentos,02186,Capacidad para detectar fenómenos de precipitación,Tabla de banderines,0,0,30,Tabla de banderines,0,10,,,Operational
+02,Instrumentos,02187,Capacidad para detectar otros fenómenos meteorológicos,Tabla de banderines,0,0,18,Tabla de banderines,0,6,,,Operational
+02,Instrumentos,02188,Capacidad para detectar el oscurecimiento,Tabla de banderines,0,0,21,Tabla de banderines,0,7,,,Operational
+02,Instrumentos,02189,Capacidad para distinguir entre descargas eléctricas,Tabla de banderines,0,0,12,Tabla de banderines,0,4,,,Operational
+02,Instrumentos,02190,Inmersión de una boya lagrangiana a la deriva (% de tiempo en que permanece sumergida),%,0,0,7,%,0,3,,,Operational
+02,Instrumentos,02191,Cálculo de la altura geopotencial,Tabla de cifrado,0,0,4,Tabla de cifrado,0,2,,,Operational
