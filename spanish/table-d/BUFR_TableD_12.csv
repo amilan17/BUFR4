@@ -611,15 +611,6 @@
 12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312061,(Datos de nivel 1b y de nivel 2 de ASCAT),,312058,Datos de nivel 1b de ASCAT,,,,Operational
 12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312061,(Datos de nivel 1b y de nivel 2 de ASCAT),,312060,Datos del dispersómetro sobre humedad del suelo,,,,Operational
 12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312061,(Datos de nivel 1b y de nivel 2 de ASCAT),,312059,Datos del dispersómetro sobre viento,,,,Operational
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
 12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312070,(Datos SMOS),,001007,Identificador del satélite,,,,Operational
 12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312070,(Datos SMOS),,002019,Instrumentos de satélite,,,,Operational
 12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312070,(Datos SMOS),,001144,Identificador de instantánea,,,,Operational
@@ -711,3 +702,4 @@
 12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312071,(Altímetro CryoSat-2 SIRAL),,025184,Estado del producto de nivel 2,,,,Operational
 12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312071,(Altímetro CryoSat-2 SIRAL),,025181,Banderín de procesamiento de nivel 2,,,,Operational
 12,Secuencias de los informes de las observaciones de nivel único (datos satelitales),312071,(Altímetro CryoSat-2 SIRAL),,033080,Banderines de calidad del nivel de exploración,Calidad de procesamiento de nivel 2,,,Operational
+
