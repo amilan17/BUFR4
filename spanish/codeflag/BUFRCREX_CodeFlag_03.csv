@@ -28,124 +28,124 @@ FXY,ElementName_es,CodeFigure,EntryName_es,EntryName_sub1_es,EntryName_sub2_es,N
 003004,Tipo de garita/abrigo/protección contra la radiación,4,Protección de sección rectangular,,,,,Operational
 003004,Tipo de garita/abrigo/protección contra la radiación,5,Protección de sección cuadrada,,,,,Operational
 003004,Tipo de garita/abrigo/protección contra la radiación,6,Protección de sección triangular,,,,,Operational
-003004,Tipo de garita/abrigo/protección contra la radiación,7,Tejado abierto a simple vertiente,,,,,
-003004,Tipo de garita/abrigo/protección contra la radiación,8,Tejado abierto en forma de V invertida,,,,,
-003004,Tipo de garita/abrigo/protección contra la radiación,9,"Integrado (p. ej., espejo enfriado)",,,,,
-003004,Tipo de garita/abrigo/protección contra la radiación,10-14,Reservadas para uso futuro,,,,,
-003004,Tipo de garita/abrigo/protección contra la radiación,15,Valor faltante,,,,,
-003008,Garita o protección ventilada artificialmente,0,Ventilación natural en uso,,,,,
-003008,Garita o protección ventilada artificialmente,1,Aspiración artificial en uso: flujo constante en el momento de la lectura,,,,,
-003008,Garita o protección ventilada artificialmente,2,Aspiración artificial en uso: flujo variable en el momento de la lectura,,,,,
-003008,Garita o protección ventilada artificialmente,3-6,Reservadas,,,,,
-003008,Garita o protección ventilada artificialmente,7,Valor faltante,,,,,
-003010,Método de medición de la corriente del mar/agua,0,Reservada,,,,,
-003010,Método de medición de la corriente del mar/agua,1*,ADCP**,,,,,
-003010,Método de medición de la corriente del mar/agua,2,GEK (Electrocinetógrafo geomagnético),,,,,
-003010,Método de medición de la corriente del mar/agua,3,Dirección y deriva del buque determinadas mediante marcaciones efectuadas a intervalos de 3 a 6 horas,,,,,
-003010,Método de medición de la corriente del mar/agua,4,"Dirección y deriva del buque determinadas mediante marcaciones efectuadas a intervalos superiores a 6 horas, pero inferiores a 12 horas",,,,,
-003010,Método de medición de la corriente del mar/agua,5,Deriva de la boya,,,,,
-003010,Método de medición de la corriente del mar/agua,6,ADCP,,,,,
-003010,Método de medición de la corriente del mar/agua,7,Modo de localización del fondo del océano del ADCP,,,,,
-003010,Método de medición de la corriente del mar/agua,8,Sensor electromagnético,,,,,
-003010,Método de medición de la corriente del mar/agua,9,Rotor y paleta,,,,,
-003010,Método de medición de la corriente del mar/agua,10,ADCP descendido,,,,,
-003010,Método de medición de la corriente del mar/agua,11-14,Reservadas,,,,,
-003010,Método de medición de la corriente del mar/agua,15,Valor faltante,,,,,
-003011,Método de cálculo de la profundidad,0,Profundidad calculada mediante la ecuación de velocidad de caída,,,,,
-003011,Método de cálculo de la profundidad,1,Profundidad calculada mediante la presión de agua/ecuación de estado,,,,,
-003011,Método de cálculo de la profundidad,2,Reservada,,,,,
-003011,Método de cálculo de la profundidad,3,Valor faltante,,,,,
-003012,Tipo de instrumento/sensor para la medición del oxígeno disuelto,0,Optodo de oxígeno de Aanderaa,,,,,
-003012,Tipo de instrumento/sensor para la medición del oxígeno disuelto,1,Botella de Winkler,,,,,
-003012,Tipo de instrumento/sensor para la medición del oxígeno disuelto,2-14,Reservadas,,,,,
-003012,Tipo de instrumento/sensor para la medición del oxígeno disuelto,15,Valor faltante,,,,,
-003016,Posición de los sensores de carretera,0,Vía rápida entre las huellas de rodada,,,,,
-003016,Posición de los sensores de carretera,1,Vía rápida entre las huellas de rodada en el sentido opuestor,,,,,
-003016,Posición de los sensores de carretera,2,Vía rápida en las huellas de rodada,,,,,
-003016,Posición de los sensores de carretera,3,Vía rápida en las huellas de rodada en el sentido opuesto,,,,,
-003016,Posición de los sensores de carretera,4,Vía lenta entre las huellas de rodada,,,,,
-003016,Posición de los sensores de carretera,5,Vía lenta entre las huellas de rodada en el sentido opuesto,,,,,
-003016,Posición de los sensores de carretera,6,Vía lenta en las huellas de rodada,,,,,
-003016,Posición de los sensores de carretera,7,Vía lenta en las huellas de rodada en el sentido opuesto,,,,,
-003016,Posición de los sensores de carretera,8-14,Reservadas,,,,,
-003016,Posición de los sensores de carretera,15,Valor faltante,,,,,
-003017,Tipo de estación ampliado,,Automática,,,,,
-003017,Tipo de estación ampliado,,Dotada de personal,,,,,
-003017,Tipo de estación ampliado,,Activada por eventos,,,,,
-003017,Tipo de estación ampliado,,Período de tiempo más largo que la norma,,,,,
-003017,Tipo de estación ampliado,,Reservado,,,,,
-003017,Tipo de estación ampliado,,Valor faltante,,,,,
-003018,Tipo de carretera,0,Carril libre sin otra información,,,,,
-003018,Tipo de carretera,1,"Carril libre, terraplén",,,,,
-003018,Tipo de carretera,2,"Carril libre, llano en relación con los alrededores",,,,,
-003018,Tipo de carretera,3,"Carril libre, cueca(s) fluvial(es) en las inmediaciones",,,,,
-003018,Tipo de carretera,4,"Carril libre, bosque",,,,,
-003018,Tipo de carretera,5,"Carril libre, grieta",,,,,
-003018,Tipo de carretera,6,"Carril libre, en lo alto de la colina",,,,,
-003018,Tipo de carretera,7,"Carril libre, en lo alto de la colina, bosque",,,,,
-003018,Tipo de carretera,8,"Carril libre, en el valle",,,,,
-003018,Tipo de carretera,9,"Carril libre, en el valle, bosque",,,,,
-003018,Tipo de carretera,10,"Carril libre, inclinación hacia el norte",,,,,
-003018,Tipo de carretera,11,"Carril libre, inclinación hacia el norte, bosque",,,,,
-003018,Tipo de carretera,12,"Carril libre, inclinación hacia el sur",,,,,
-003018,Tipo de carretera,13,"Carril libre, inclinación hacia el sur, bosque",,,,,
-003018,Tipo de carretera,14-19,Reservadas,,,,,
-003018,Tipo de carretera,20,"Puente, sin otra información",,,,,
-003018,Tipo de carretera,21,Puente a través de un valle en una zona urbana,,,,,
-003018,Tipo de carretera,22,Puente a través de un valle con bosque/praderas/campos,,,,,
-003018,Tipo de carretera,23,Puente a través de una calle/un carril,,,,,
-003018,Tipo de carretera,24,Puente a través de un río/canal de tamaño grande,,,,,
-003018,Tipo de carretera,25,Puente a través de un río/canal de tamaño medio,,,,,
-003018,Tipo de carretera,26,Puente a través de un arroyo/canal de carga de tamaño pequeño,,,,,
-003018,Tipo de carretera,27-30,Reservadas,,,,,
-003018,Tipo de carretera,31,Valor faltante,,,,,
-003019,Tipo de construcción,0,Asfalto,,,,,
-003019,Tipo de construcción,1,Hormigón,,,,,
-003019,Tipo de construcción,2,Construcción de hormigón,,,,,
-003019,Tipo de construcción,3,Construcción con vigas de acero,,,,,
-003019,Tipo de construcción,4,Puente con vigas cajón,,,,,
-003019,Tipo de construcción,5,Tablero ortotrópico,,,,,
-003019,Tipo de construcción,6,Asfalto drete,,,,,
-003019,Tipo de construcción,7-14,Reservadas,,,,,
-003019,Tipo de construcción,15,Valor faltante,,,,,
-003020,Material del abrigo del termómetro/higrómetro,0,Madera,,,,,
-003020,Material del abrigo del termómetro/higrómetro,1,Aleación metálica,,,,,
-003020,Material del abrigo del termómetro/higrómetro,2,Plástico/plástico reforzado con fibra de vidrio,,,,,
-003020,Material del abrigo del termómetro/higrómetro,3,Caña/hierba/hoja,,,,,
-003020,Material del abrigo del termómetro/higrómetro,4-6,Reservadas para uso futuro,,,,,
-003020,Material del abrigo del termómetro/higrómetro,7,Valor faltante,,,,,
-003021,Calefacción del higrómetro,0,Sin calefacción,,,,,
-003021,Calefacción del higrómetro,1,Con calefacción,,,,,
-003021,Calefacción del higrómetro,2,No aplicable,,,,,
-003021,Calefacción del higrómetro,3,Valor faltante,,,,,
-003022,Propietario del instrumento,0,Servicio Meteorológico o Hidrometeorológico Nacional,,,,,
-003022,Propietario del instrumento,1,Otro,,,,,
-003022,Propietario del instrumento,2,Instituto de normalización,,,,,
-003022,Propietario del instrumento,3-6,Reservadas para uso futuro,,,,,
-003022,Propietario del instrumento,7,Valor faltante,,,,,
-003023,Configuración de las persianas del abrigo del termómetro/higrómetro,0,Persianas en sección v simple,,,,,
-003023,Configuración de las persianas del abrigo del termómetro/higrómetro,1,Persianas superpuestas,,,,,
-003023,Configuración de las persianas del abrigo del termómetro/higrómetro,2,Persianas en sección v doble,,,,,
-003023,Configuración de las persianas del abrigo del termómetro/higrómetro,3,Persianas no superpuestas,,,,,
-003023,Configuración de las persianas del abrigo del termómetro/higrómetro,4,"Ventilado, sin persianas",,,,,
-003023,Configuración de las persianas del abrigo del termómetro/higrómetro,5,No aplicable,,,,,
-003023,Configuración de las persianas del abrigo del termómetro/higrómetro,6,Reservadas para uso futuro,,,,,
-003023,Configuración de las persianas del abrigo del termómetro/higrómetro,7,Valor faltante,,,,,
-003027,Tipo de mecanismo de vuelo,,Solo (radiosonda individual),,,,,
-003027,Tipo de mecanismo de vuelo,,Bloque,,,,,
-003027,Tipo de mecanismo de vuelo,,Barra,,,,,
-003027,Tipo de mecanismo de vuelo,,Cruz,,,,,
-003027,Tipo de mecanismo de vuelo,,Mecanismo en T,,,,,
-003027,Tipo de mecanismo de vuelo,,Mecanismo en doble T,,,,,
-003027,Tipo de mecanismo de vuelo,,Complejo,,,,,
-003027,Tipo de mecanismo de vuelo,,Reservadas,,,,,
-003027,Tipo de mecanismo de vuelo,,Valor faltante,,,,,
-003028,Método de medición del equivalente en agua de la nieve,,Examen manual multipunto de la nieve,,,,,
-003028,Método de medición del equivalente en agua de la nieve,,Medición manual del equivalente en agua de la nieve en un solo punto,,,,,
-003028,Método de medición del equivalente en agua de la nieve,,Colchón de nieve o escala de nieve,,,,,
-003028,Método de medición del equivalente en agua de la nieve,,Gamma pasiva,,,,,
-003028,Método de medición del equivalente en agua de la nieve,,Métodos GNSS/GPS,,,,,
-003028,Método de medición del equivalente en agua de la nieve,,Atenuación de rayos cósmicos,,,,,
-003028,Método de medición del equivalente en agua de la nieve,,Reflectometría de dominio temporal,,,,,
-003028,Método de medición del equivalente en agua de la nieve,,Reservadas,,,,,
-003028,Método de medición del equivalente en agua de la nieve,,Valor faltante,,,,,
+003004,Tipo de garita/abrigo/protección contra la radiación,7,Tejado abierto a simple vertiente,,,,,Operational
+003004,Tipo de garita/abrigo/protección contra la radiación,8,Tejado abierto en forma de V invertida,,,,,Operational
+003004,Tipo de garita/abrigo/protección contra la radiación,9,"Integrado (p. ej., espejo enfriado)",,,,,Operational
+003004,Tipo de garita/abrigo/protección contra la radiación,10-14,Reservadas para uso futuro,,,,,Operational
+003004,Tipo de garita/abrigo/protección contra la radiación,15,Valor faltante,,,,,Operational
+003008,Garita o protección ventilada artificialmente,0,Ventilación natural en uso,,,,,Operational
+003008,Garita o protección ventilada artificialmente,1,Aspiración artificial en uso: flujo constante en el momento de la lectura,,,,,Operational
+003008,Garita o protección ventilada artificialmente,2,Aspiración artificial en uso: flujo variable en el momento de la lectura,,,,,Operational
+003008,Garita o protección ventilada artificialmente,3-6,Reservadas,,,,,Operational
+003008,Garita o protección ventilada artificialmente,7,Valor faltante,,,,,Operational
+003010,Método de medición de la corriente del mar/agua,0,Reservada,,,,,Operational
+003010,Método de medición de la corriente del mar/agua,1,ADCP,,"*,**",,,Operational
+003010,Método de medición de la corriente del mar/agua,2,GEK (Electrocinetógrafo geomagnético),,,,,Operational
+003010,Método de medición de la corriente del mar/agua,3,Dirección y deriva del buque determinadas mediante marcaciones efectuadas a intervalos de 3 a 6 horas,,,,,Operational
+003010,Método de medición de la corriente del mar/agua,4,"Dirección y deriva del buque determinadas mediante marcaciones efectuadas a intervalos superiores a 6 horas, pero inferiores a 12 horas",,,,,Operational
+003010,Método de medición de la corriente del mar/agua,5,Deriva de la boya,,,,,Operational
+003010,Método de medición de la corriente del mar/agua,6,ADCP,,,,,Operational
+003010,Método de medición de la corriente del mar/agua,7,Modo de localización del fondo del océano del ADCP,,,,,Operational
+003010,Método de medición de la corriente del mar/agua,8,Sensor electromagnético,,,,,Operational
+003010,Método de medición de la corriente del mar/agua,9,Rotor y paleta,,,,,Operational
+003010,Método de medición de la corriente del mar/agua,10,ADCP descendido,,,,,Operational
+003010,Método de medición de la corriente del mar/agua,11-14,Reservadas,,,,,Operational
+003010,Método de medición de la corriente del mar/agua,15,Valor faltante,,,,,Operational
+003011,Método de cálculo de la profundidad,0,Profundidad calculada mediante la ecuación de velocidad de caída,,,,,Operational
+003011,Método de cálculo de la profundidad,1,Profundidad calculada mediante la presión de agua/ecuación de estado,,,,,Operational
+003011,Método de cálculo de la profundidad,2,Reservada,,,,,Operational
+003011,Método de cálculo de la profundidad,3,Valor faltante,,,,,Operational
+003012,Tipo de instrumento/sensor para la medición del oxígeno disuelto,0,Optodo de oxígeno de Aanderaa,,,,,Operational
+003012,Tipo de instrumento/sensor para la medición del oxígeno disuelto,1,Botella de Winkler,,,,,Operational
+003012,Tipo de instrumento/sensor para la medición del oxígeno disuelto,2-14,Reservadas,,,,,Operational
+003012,Tipo de instrumento/sensor para la medición del oxígeno disuelto,15,Valor faltante,,,,,Operational
+003016,Posición de los sensores de carretera,0,Vía rápida entre las huellas de rodada,,,,,Operational
+003016,Posición de los sensores de carretera,1,Vía rápida entre las huellas de rodada en el sentido opuestor,,,,,Operational
+003016,Posición de los sensores de carretera,2,Vía rápida en las huellas de rodada,,,,,Operational
+003016,Posición de los sensores de carretera,3,Vía rápida en las huellas de rodada en el sentido opuesto,,,,,Operational
+003016,Posición de los sensores de carretera,4,Vía lenta entre las huellas de rodada,,,,,Operational
+003016,Posición de los sensores de carretera,5,Vía lenta entre las huellas de rodada en el sentido opuesto,,,,,Operational
+003016,Posición de los sensores de carretera,6,Vía lenta en las huellas de rodada,,,,,Operational
+003016,Posición de los sensores de carretera,7,Vía lenta en las huellas de rodada en el sentido opuesto,,,,,Operational
+003016,Posición de los sensores de carretera,8-14,Reservadas,,,,,Operational
+003016,Posición de los sensores de carretera,15,Valor faltante,,,,,Operational
+003017,Tipo de estación ampliado,1,Automática,,,,,Operational
+003017,Tipo de estación ampliado,2,Dotada de personal,,,,,Operational
+003017,Tipo de estación ampliado,3,Activada por eventos,,,,,Operational
+003017,Tipo de estación ampliado,4,Período de tiempo más largo que la norma,,,,,Operational
+003017,Tipo de estación ampliado,5,Reservado,,,,,Operational
+003017,Tipo de estación ampliado,Todos los 6,Valor faltante,,,,,Operational
+003018,Tipo de carretera,0,Carril libre sin otra información,,,,,Operational
+003018,Tipo de carretera,1,"Carril libre, terraplén",,,,,Operational
+003018,Tipo de carretera,2,"Carril libre, llano en relación con los alrededores",,,,,Operational
+003018,Tipo de carretera,3,"Carril libre, cueca(s) fluvial(es) en las inmediaciones",,,,,Operational
+003018,Tipo de carretera,4,"Carril libre, bosque",,,,,Operational
+003018,Tipo de carretera,5,"Carril libre, grieta",,,,,Operational
+003018,Tipo de carretera,6,"Carril libre, en lo alto de la colina",,,,,Operational
+003018,Tipo de carretera,7,"Carril libre, en lo alto de la colina, bosque",,,,,Operational
+003018,Tipo de carretera,8,"Carril libre, en el valle",,,,,Operational
+003018,Tipo de carretera,9,"Carril libre, en el valle, bosque",,,,,Operational
+003018,Tipo de carretera,10,"Carril libre, inclinación hacia el norte",,,,,Operational
+003018,Tipo de carretera,11,"Carril libre, inclinación hacia el norte, bosque",,,,,Operational
+003018,Tipo de carretera,12,"Carril libre, inclinación hacia el sur",,,,,Operational
+003018,Tipo de carretera,13,"Carril libre, inclinación hacia el sur, bosque",,,,,Operational
+003018,Tipo de carretera,14-19,Reservadas,,,,,Operational
+003018,Tipo de carretera,20,"Puente, sin otra información",,,,,Operational
+003018,Tipo de carretera,21,Puente a través de un valle en una zona urbana,,,,,Operational
+003018,Tipo de carretera,22,Puente a través de un valle con bosque/praderas/campos,,,,,Operational
+003018,Tipo de carretera,23,Puente a través de una calle/un carril,,,,,Operational
+003018,Tipo de carretera,24,Puente a través de un río/canal de tamaño grande,,,,,Operational
+003018,Tipo de carretera,25,Puente a través de un río/canal de tamaño medio,,,,,Operational
+003018,Tipo de carretera,26,Puente a través de un arroyo/canal de carga de tamaño pequeño,,,,,Operational
+003018,Tipo de carretera,27-30,Reservadas,,,,,Operational
+003018,Tipo de carretera,31,Valor faltante,,,,,Operational
+003019,Tipo de construcción,0,Asfalto,,,,,Operational
+003019,Tipo de construcción,1,Hormigón,,,,,Operational
+003019,Tipo de construcción,2,Construcción de hormigón,,,,,Operational
+003019,Tipo de construcción,3,Construcción con vigas de acero,,,,,Operational
+003019,Tipo de construcción,4,Puente con vigas cajón,,,,,Operational
+003019,Tipo de construcción,5,Tablero ortotrópico,,,,,Operational
+003019,Tipo de construcción,6,Asfalto drete,,,,,Operational
+003019,Tipo de construcción,7-14,Reservadas,,,,,Operational
+003019,Tipo de construcción,15,Valor faltante,,,,,Operational
+003020,Material del abrigo del termómetro/higrómetro,0,Madera,,,,,Operational
+003020,Material del abrigo del termómetro/higrómetro,1,Aleación metálica,,,,,Operational
+003020,Material del abrigo del termómetro/higrómetro,2,Plástico/plástico reforzado con fibra de vidrio,,,,,Operational
+003020,Material del abrigo del termómetro/higrómetro,3,Caña/hierba/hoja,,,,,Operational
+003020,Material del abrigo del termómetro/higrómetro,4-6,Reservadas para uso futuro,,,,,Operational
+003020,Material del abrigo del termómetro/higrómetro,7,Valor faltante,,,,,Operational
+003021,Calefacción del higrómetro,0,Sin calefacción,,,,,Operational
+003021,Calefacción del higrómetro,1,Con calefacción,,,,,Operational
+003021,Calefacción del higrómetro,2,No aplicable,,,,,Operational
+003021,Calefacción del higrómetro,3,Valor faltante,,,,,Operational
+003022,Propietario del instrumento,0,Servicio Meteorológico o Hidrometeorológico Nacional,,,,,Operational
+003022,Propietario del instrumento,1,Otro,,,,,Operational
+003022,Propietario del instrumento,2,Instituto de normalización,,,,,Operational
+003022,Propietario del instrumento,3-6,Reservadas para uso futuro,,,,,Operational
+003022,Propietario del instrumento,7,Valor faltante,,,,,Operational
+003023,Configuración de las persianas del abrigo del termómetro/higrómetro,0,Persianas en sección v simple,,,,,Operational
+003023,Configuración de las persianas del abrigo del termómetro/higrómetro,1,Persianas superpuestas,,,,,Operational
+003023,Configuración de las persianas del abrigo del termómetro/higrómetro,2,Persianas en sección v doble,,,,,Operational
+003023,Configuración de las persianas del abrigo del termómetro/higrómetro,3,Persianas no superpuestas,,,,,Operational
+003023,Configuración de las persianas del abrigo del termómetro/higrómetro,4,"Ventilado, sin persianas",,,,,Operational
+003023,Configuración de las persianas del abrigo del termómetro/higrómetro,5,No aplicable,,,,,Operational
+003023,Configuración de las persianas del abrigo del termómetro/higrómetro,6,Reservadas para uso futuro,,,,,Operational
+003023,Configuración de las persianas del abrigo del termómetro/higrómetro,7,Valor faltante,,,,,Operational
+003027,Tipo de mecanismo de vuelo,0,Solo (radiosonda individual),,,,,Operational
+003027,Tipo de mecanismo de vuelo,1,Bloque,,,,,Operational
+003027,Tipo de mecanismo de vuelo,2,Barra,,,,,Operational
+003027,Tipo de mecanismo de vuelo,3,Cruz,,,,,Operational
+003027,Tipo de mecanismo de vuelo,4,Mecanismo en T,,,,,Operational
+003027,Tipo de mecanismo de vuelo,5,Mecanismo en doble T,,,,,Operational
+003027,Tipo de mecanismo de vuelo,6,Complejo,,,,,Operational
+003027,Tipo de mecanismo de vuelo,7-14,Reservadas,,,,,Operational
+003027,Tipo de mecanismo de vuelo,15,Valor faltante,,,,,Operational
+003028,Método de medición del equivalente en agua de la nieve,0,Examen manual multipunto de la nieve,,,,,Operational
+003028,Método de medición del equivalente en agua de la nieve,1,Medición manual del equivalente en agua de la nieve en un solo punto,,,,,Operational
+003028,Método de medición del equivalente en agua de la nieve,2,Colchón de nieve o escala de nieve,,,,,Operational
+003028,Método de medición del equivalente en agua de la nieve,3,Gamma pasiva,,,,,Operational
+003028,Método de medición del equivalente en agua de la nieve,4,Métodos GNSS/GPS,,,,,Operational
+003028,Método de medición del equivalente en agua de la nieve,5,Atenuación de rayos cósmicos,,,,,Operational
+003028,Método de medición del equivalente en agua de la nieve,6,Reflectometría de dominio temporal,,,,,Operational
+003028,Método de medición del equivalente en agua de la nieve,7-62,Reservadas,,,,,Operational
+003028,Método de medición del equivalente en agua de la nieve,63,Valor faltante,,,,,Operational

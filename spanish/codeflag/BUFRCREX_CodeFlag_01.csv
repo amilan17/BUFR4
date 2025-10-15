@@ -7,6 +7,7 @@ FXY,ElementName_es,CodeFigure,EntryName_es,EntryName_sub1_es,EntryName_sub2_es,N
 001003,Número de Región de la OMM/zona geográfica,5,Región V,,,,,Operational
 001003,Número de Región de la OMM/zona geográfica,6,Región VI,,,,,Operational
 001003,Número de Región de la OMM/zona geográfica,7,Valor faltante,,,,,Operational
+001007,Identificador del satélite,,,,,,,Operational
 001024,Fuente de la velocidad del viento,0,Sin datos de velocidad de viento disponibles,,,,,Operational
 001024,Fuente de la velocidad del viento,1,Datos AMSR-E,,,,,Operational
 001024,Fuente de la velocidad del viento,2,Datos TMI,,,,,Operational
@@ -34,6 +35,10 @@ FXY,ElementName_es,CodeFigure,EntryName_es,EntryName_sub1_es,EntryName_sub2_es,N
 001029,Fuente de la ISS*,6,Oficina Meteorológica del Reino Unido,,,,,Operational
 001029,Fuente de la ISS*,7-30,Reservadas para uso futuro,,,,,Operational
 001029,Fuente de la ISS*,31,Valor faltante,,,,,Operational
+001031,Identificación del centro de origen/generación,,,,,,,Operational
+001033,Identificación del centro de origen/generación,,,,,,,Operational
+001034,Identificación del centro secundario de origen/generación,,,,,,,Operational
+
 001036,Organismo encargado de operar la plataforma de observación,0-36000,Reservadas,,,,,Operational
 001036,Organismo encargado de operar la plataforma de observación,36001,"Australia, Bureau of Meteorology (BoM)",,,,,Operational
 001036,Organismo encargado de operar la plataforma de observación,36002,"Australia, Joint Australian Facility for Ocean Observing Systems (JAFOOS)",,,,,Operational
@@ -119,8 +124,8 @@ FXY,ElementName_es,CodeFigure,EntryName_es,EntryName_sub1_es,EntryName_sub2_es,N
 001092,Tipo de predicción por conjuntos,0,Predicción de control de alta resolución sin perturbación,,,,,Operational
 001092,Tipo de predicción por conjuntos,1,Predicción de control de baja resolución sin perturbación,,,,,Operational
 001092,Tipo de predicción por conjuntos,2,Predicción con perturbación negativa,,,,,Operational
-001092,Tipo de predicción por conjuntos,4,Predicción perturbada,,,,,Operational
 001092,Tipo de predicción por conjuntos,3,Predicción con perturbación positiva,,,,,Operational
+001092,Tipo de predicción por conjuntos,4,Predicción perturbada,,,,,Operational
 001092,Tipo de predicción por conjuntos,5-191,Reservadas,,,,,Operational
 001092,Tipo de predicción por conjuntos,192-254,Reservadas para uso local,,,,,Operational
 001092,Tipo de predicción por conjuntos,255,Valor faltante,,,,,Operational
@@ -342,7 +347,7 @@ FXY,ElementName_es,CodeFigure,EntryName_es,EntryName_sub1_es,EntryName_sub2_es,N
 001150,Sistema de coordenadas de referencia,4,"Dato elipsoide que utiliza el Meridiano de Referencia Internacional y el Polo de Referencia Internacional como el meridiano principal y polo principal respectivamente, y el origen del Sistema de Referencia Terrestre Internacional (ITRS) (véase la nota 2). El Servicio Internacional de Rotación de la Tierra y Sistemas de Referencia (IERS) se ocupa de mantener el Meridiano de Referencia Internacional, el Polo de Referencia Internacional y el ITRS.",,,,,Operational
 001150,Sistema de coordenadas de referencia,5,"Sistema de coordenadas centradas en la Tierra, fijas en la Tierra (ECEF) o sistema de rotación geocéntrico (ECR). Este es un sistema de mano derecha, de coordenadas cartesianas (X, Y, Z) que rota con la Tierra. El origen coincide con el centro de masas terrestre. (La nota 5 de la Clase 27 no se aplica si las coordenadas ECEF están especificadas.)",,,,,Operational
 001150,Sistema de coordenadas de referencia,6-65534,Reservadas,,,,,Operational
-001150,Sistema de coordenadas de referencia,255,Valor faltante,,,,,Operational
+001150,Sistema de coordenadas de referencia,65535,Valor faltante,,,,,Operational
 001151,Dato de referencia del nivel medio del mar obtenido respecto a una referencia fija,0,Modelo gravitacional de la Tierra de 1996,,,,,Operational
 001151,Dato de referencia del nivel medio del mar obtenido respecto a una referencia fija,1,Sistema báltico de altura 1977,,,,,Operational
 001151,Dato de referencia del nivel medio del mar obtenido respecto a una referencia fija,2-4094,Reservadas,,,,,Operational

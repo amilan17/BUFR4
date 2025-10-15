@@ -1,4 +1,4 @@
-FXY,ElementName_es,CodeFigure,EntryName_es,EntryName_sub1_es,EntryName_sub2_es,Note_es,noteIDs,Status
+﻿FXY,ElementName_es,CodeFigure,EntryName_es,EntryName_sub1_es,EntryName_sub2_es,Note_es,noteIDs,Status
 019001,Tipo de característica sinóptica,0,Depresión o mínimo barométrico (extratropical),,,,,Operational
 019001,Tipo de característica sinóptica,1,Depresión tropical,,,,,Operational
 019001,Tipo de característica sinóptica,2,Tormenta tropical,,,,,Operational
@@ -119,18 +119,16 @@ FXY,ElementName_es,CodeFigure,EntryName_es,EntryName_sub1_es,EntryName_sub2_es,N
 019109,Diámetro medio de la cobertura nubosa del cicló tropical,10,Indeterminada,,,,,Operational
 019109,Diámetro medio de la cobertura nubosa del cicló tropical,11-14,No utilizadas,,,,,Operational
 019109,Diámetro medio de la cobertura nubosa del cicló tropical,15,Valor faltante,,,,,Operational
-019110,Cambio aparente en 24 horas de la intensidad del clicón tropical,0,Tipo,,,,,Operational
-019110,Cambio aparente en 24 horas de la intensidad del clicón tropical,1,Debilitándose mucho,,,,,Operational
-019110,Cambio aparente en 24 horas de la intensidad del clicón tropical,2,Debilitándose,,,,,Operational
-019110,Cambio aparente en 24 horas de la intensidad del clicón tropical,3,Ningún cambio,,,,,Operational
-019110,Cambio aparente en 24 horas de la intensidad del clicón tropical,4,Intensificación,,,,,Operational
-019110,Cambio aparente en 24 horas de la intensidad del clicón tropical,5,Fuerte intensificación,,,,,Operational
+019110,Cambio aparente en 24 horas de la intensidad del clicón tropical,0,Debilitándose mucho,,,,,Operational
+019110,Cambio aparente en 24 horas de la intensidad del clicón tropical,1,Debilitándose,,,,,Operational
+019110,Cambio aparente en 24 horas de la intensidad del clicón tropical,2,Ningún cambio,,,,,Operational
+019110,Cambio aparente en 24 horas de la intensidad del clicón tropical,3,Intensificación,,,,,Operational
+019110,Cambio aparente en 24 horas de la intensidad del clicón tropical,4,Fuerte intensificación,,,,,Operational
 019110,Cambio aparente en 24 horas de la intensidad del clicón tropical,5-8,Reservadas,,,,,Operational
 019110,Cambio aparente en 24 horas de la intensidad del clicón tropical,9,No observado anteriormente,,,,,Operational
 019110,Cambio aparente en 24 horas de la intensidad del clicón tropical,10,Indeterminada,,,,,Operational
 019110,Cambio aparente en 24 horas de la intensidad del clicón tropical,11-14,No utilizadas,,,,,Operational
 019110,Cambio aparente en 24 horas de la intensidad del clicón tropical,15,Valor faltante,,,,,Operational
-019113,Tipo de configuración nubosa del número de DT,Tipo,,,,,,Operational
 019113,Tipo de configuración nubosa del número de DT,1,Banda curvada,,,,,Operational
 019113,Tipo de configuración nubosa del número de DT,2,Cortante,,,,,Operational
 019113,Tipo de configuración nubosa del número de DT,3,Ojo,,,,,Operational
@@ -140,13 +138,11 @@ FXY,ElementName_es,CodeFigure,EntryName_es,EntryName_sub1_es,EntryName_sub2_es,N
 019113,Tipo de configuración nubosa del número de DT,7,Cubierta fría central (CCC),,,,,Operational
 019113,Tipo de configuración nubosa del número de DT,8-14,Reservadas,,,,,Operational
 019113,Tipo de configuración nubosa del número de DT,15,Valor faltante,,,,,Operational
-019117,Tipo de imagen de la nube del número de PT,Tipo,,,,,,Operational
 019117,Tipo de imagen de la nube del número de PT,1,A (bandada curvada),,,,,Operational
 019117,Tipo de imagen de la nube del número de PT,2,B (CDO),,,,,Operational
 019117,Tipo de imagen de la nube del número de PT,3,C (cortante),,,,,Operational
 019117,Tipo de imagen de la nube del número de PT,4-6,Reservadas,,,,,Operational
 019117,Tipo de imagen de la nube del número de PT,7,Valor faltante,,,,,Operational
-019119,Tipo del número T final,Tipo,,,,,,Operational
 019119,Tipo del número T final,1,Número DT,,,,,Operational
 019119,Tipo del número T final,2,Número PT,,,,,Operational
 019119,Tipo del número T final,3,Número MET,,,,,Operational

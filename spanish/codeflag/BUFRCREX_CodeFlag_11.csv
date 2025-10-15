@@ -1,16 +1,16 @@
 FXY,ElementName_es,CodeFigure,EntryName_es,EntryName_sub1_es,EntryName_sub2_es,Note_es,noteIDs,Status
-011030,Grado de turbulencia ampliado,0,Nada,,,,,Operational
-011030,Grado de turbulencia ampliado,1,Ligera,,,,,Operational
-011030,Grado de turbulencia ampliado,2,Moderada,,,,,Operational
-011030,Grado de turbulencia ampliado,3,Fuerte,,,,,Operational
-011030,Grado de turbulencia ampliado,4,Nada,,,,,Operational
-011030,Grado de turbulencia ampliado,5,Ligera,,,,,Operational
-011030,Grado de turbulencia ampliado,6,Moderada,,,,,Operational
-011030,Grado de turbulencia ampliado,7,Fuerte,,,,,Operational
-011030,Grado de turbulencia ampliado,8,Nada,,,,,Operational
-011030,Grado de turbulencia ampliado,9,Ligera,,,,,Operational
-011030,Grado de turbulencia ampliado,10,Moderada,,,,,Operational
-011030,Grado de turbulencia ampliado,11,Fuerte,,,,,Operational
+011030,Grado de turbulencia ampliado,0,Nada,En nubes,,,,Operational
+011030,Grado de turbulencia ampliado,1,Ligera,En nubes,,,,Operational
+011030,Grado de turbulencia ampliado,2,Moderada,En nubes,,,,Operational
+011030,Grado de turbulencia ampliado,3,Fuerte,En nubes,,,,Operational
+011030,Grado de turbulencia ampliado,4,Nada,En aire claro,,,,Operational
+011030,Grado de turbulencia ampliado,5,Ligera,En aire claro,,,,Operational
+011030,Grado de turbulencia ampliado,6,Moderada,En aire claro,,,,Operational
+011030,Grado de turbulencia ampliado,7,Fuerte,En aire claro,,,,Operational
+011030,Grado de turbulencia ampliado,8,Nada,Nubes/aire claro no especificado,,,,Operational
+011030,Grado de turbulencia ampliado,9,Ligera,Nubes/aire claro no especificado,,,,Operational
+011030,Grado de turbulencia ampliado,10,Moderada,Nubes/aire claro no especificado,,,,Operational
+011030,Grado de turbulencia ampliado,11,Fuerte,Nubes/aire claro no especificado,,,,Operational
 011030,Grado de turbulencia ampliado,12,"Extrema, en aire claro",,,,,Operational
 011030,Grado de turbulencia ampliado,13,"Extrema, en nubes",,,,,Operational
 011030,Grado de turbulencia ampliado,14,"Extrema, nubes/aire claro no especificado",,,,,Operational
@@ -25,18 +25,18 @@ FXY,ElementName_es,CodeFigure,EntryName_es,EntryName_sub1_es,EntryName_sub2_es,N
 011030,Grado de turbulencia ampliado,23,"Severa, extrema frecuente",,,,,Operational
 011030,Grado de turbulencia ampliado,24-62,Reservadas,,,,,Operational
 011030,Grado de turbulencia ampliado,63,Valor faltante,,,,,Operational
-011031,Grado de turbulencia,0,Ninguna,,,,,Operational
-011031,Grado de turbulencia,1,Leve,,,,,Operational
-011031,Grado de turbulencia,2,Moderada,,,,,Operational
-011031,Grado de turbulencia,3,Fuerte,,,,,Operational
-011031,Grado de turbulencia,4,Ninguna,,,,,Operational
-011031,Grado de turbulencia,5,Leve,,,,,Operational
-011031,Grado de turbulencia,6,Moderada,,,,,Operational
-011031,Grado de turbulencia,7,Fuerte,,,,,Operational
-011031,Grado de turbulencia,8,Ninguna,,,,,Operational
-011031,Grado de turbulencia,9,Leve,,,,,Operational
-011031,Grado de turbulencia,10,Moderada,,,,,Operational
-011031,Grado de turbulencia,11,Fuerte,,,,,Operational
+011031,Grado de turbulencia,0,Ninguna,En nubes,,,,Operational
+011031,Grado de turbulencia,1,Leve,En nubes,,,,Operational
+011031,Grado de turbulencia,2,Moderada,En nubes,,,,Operational
+011031,Grado de turbulencia,3,Fuerte,En nubes,,,,Operational
+011031,Grado de turbulencia,4,Ninguna,En aire claro,,,,Operational
+011031,Grado de turbulencia,5,Leve,En aire claro,,,,Operational
+011031,Grado de turbulencia,6,Moderada,En aire claro,,,,Operational
+011031,Grado de turbulencia,7,Fuerte,En aire claro,,,,Operational
+011031,Grado de turbulencia,8,Ninguna,Nubes/aire claro no especificado,,,,Operational
+011031,Grado de turbulencia,9,Leve,Nubes/aire claro no especificado,,,,Operational
+011031,Grado de turbulencia,10,Moderada,Nubes/aire claro no especificado,,,,Operational
+011031,Grado de turbulencia,11,Fuerte,Nubes/aire claro no especificado,,,,Operational
 011031,Grado de turbulencia,12,"Extrema, en cielo despejado",,,,,Operational
 011031,Grado de turbulencia,13,"Extrema, en cielo nuboso",,,,,Operational
 011031,Grado de turbulencia,14,"Extrema, en cielo nuboso/despejado no especificado",,,,,Operational

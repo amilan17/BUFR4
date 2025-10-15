@@ -16,7 +16,8 @@ FXY,ElementName_es,CodeFigure,EntryName_es,EntryName_sub1_es,EntryName_sub2_es,N
 025009,Método de calibración,1,Ninguno,,,,,Operational
 025009,Método de calibración,2,Blanco o señal de calibración,,,,,Operational
 025009,Método de calibración,3,Con relación a los pluviómetros,,,,,Operational
-025009,Método de calibración,4,Valor faltante,,,,,Operational
+025009,Método de calibración,4,Con relación a otros instrumentos (distrómetro, atenuación),,,,,Operational
+025009,Método de calibración,Los 4,Valor faltante,,,,,Operational
 025010,Tratamiento de los ecos parásitos,0,Ninguno,,,,,Operational
 025010,Tratamiento de los ecos parásitos,1,Mapa,,,,,Operational
 025010,Tratamiento de los ecos parásitos,2,Inserción de datos para un ángulo del lugar más elevado y mapa,,,,,Operational
@@ -35,11 +36,11 @@ FXY,ElementName_es,CodeFigure,EntryName_es,EntryName_sub1_es,EntryName_sub2_es,N
 025012,Corrección de la atenuación del alcance,2,Equipo de computación y programación,,,,,Operational
 025012,Corrección de la atenuación del alcance,3,Valor faltante,,,,,Operational
 025013,Corrección de la banda brillante,1,Corrección de la banda brillante,,,,,Operational
-025013,Corrección de la banda brillante,2,Valor faltante,,,,,Operational
+025013,Corrección de la banda brillante,Los 2,Valor faltante,,,,,Operational
 025015,Corrección de la atenuación por el radomo,1,Corrección de la atenuación por el radomo,,,,,Operational
-025015,Corrección de la atenuación por el radomo,2,Valor faltante,,,,,Operational
+025015,Corrección de la atenuación por el radomo,Los 2,Valor faltante,,,,,Operational
 025017,Corrección de la atenuación por las precipitaciones,1,Corrección de la atenuación por las precipitaciones,,,,,Operational
-025017,Corrección de la atenuación por las precipitaciones,2,Valor faltante,,,,,Operational
+025017,Corrección de la atenuación por las precipitaciones,Los 2,Valor faltante,,,,,Operational
 025020,Estimación de la velocidad media,0,FFT (transformación rápida de Fourier),,,,,Operational
 025020,Estimación de la velocidad media,1,PPP (par de impulsos),,,,,Operational
 025020,Estimación de la velocidad media,2,VPC (cambio de fase vectorial),,,,,Operational
@@ -50,16 +51,16 @@ FXY,ElementName_es,CodeFigure,EntryName_es,EntryName_sub1_es,EntryName_sub2_es,N
 025021,Refuerzo del cálculo del viento,4,Verificación de la coherencia vertical,,,,,Operational
 025021,Refuerzo del cálculo del viento,5,Otros,,,,,Operational
 025021,Refuerzo del cálculo del viento,6-7,Reservados,,,,,Operational
-025021,Refuerzo del cálculo del viento,8,Valor faltante,,,,,Operational
-025022,Banderín de rechazo GHRSST*,1,No procesado,,,,,Operational
-025022,Banderín de rechazo GHRSST*,2,Sospecha de tierra,,,,,Operational
-025022,Banderín de rechazo GHRSST*,3,Velocidad de viento demasiado grande,,,,,Operational
-025022,Banderín de rechazo GHRSST*,4,Hielo detectado,,,,,Operational
-025022,Banderín de rechazo GHRSST*,5,Lluvia detectada (datos en microondas únicamente),,,,,Operational
-025022,Banderín de rechazo GHRSST*,6,Nubosidad detectada (datos en infrarrojos únicamente),,,,,Operational
-025022,Banderín de rechazo GHRSST*,7,Valor cosmético,,,,,Operational
-025022,Banderín de rechazo GHRSST*,8,Temperatura de la superficie del mar (SST) fuera de dial,,,,,Operational
-025022,Banderín de rechazo GHRSST*,9,Valor faltante,,,,,Operational
+025021,Refuerzo del cálculo del viento,Los 8,Valor faltante,,,,,Operational
+025022,Banderín de rechazo GHRSST,1,No procesado,,,*,,Operational
+025022,Banderín de rechazo GHRSST,2,Sospecha de tierra,,,*,,Operational
+025022,Banderín de rechazo GHRSST,3,Velocidad de viento demasiado grande,,,*,,Operational
+025022,Banderín de rechazo GHRSST,4,Hielo detectado,,,*,,Operational
+025022,Banderín de rechazo GHRSST,5,Lluvia detectada (datos en microondas únicamente),,,*,,Operational
+025022,Banderín de rechazo GHRSST,6,Nubosidad detectada (datos en infrarrojos únicamente),,,*,,Operational
+025022,Banderín de rechazo GHRSST,7,Valor cosmético,,,*,,Operational
+025022,Banderín de rechazo GHRSST,8,Temperatura de la superficie del mar (SST) fuera de dial,,,*,,Operational
+025022,Banderín de rechazo GHRSST,9,Valor faltante,,,*,,Operational
 025023,Banderín de confianza GHRSST,1,Se ha utilizado el valor de confianza por defecto,,,,,Operational
 025023,Banderín de confianza GHRSST,2,Se han utilizado la desviación típica y el error sistemático por defecto,,,,,Operational
 025023,Banderín de confianza GHRSST,3,Sospecha de destello solar,,,,,Operational
@@ -68,7 +69,7 @@ FXY,ElementName_es,CodeFigure,EntryName_es,EntryName_sub1_es,EntryName_sub2_es,N
 025023,Banderín de confianza GHRSST,6,SST inexactas debido a valores de la SST bajos (< 285K) (aplicable solo al instrumento TMI),,,,,Operational
 025023,Banderín de confianza GHRSST,7,Sospecha de contaminación por lluvia aminorada,,,,,Operational
 025023,Banderín de confianza GHRSST,8,Posibilidad de contaminación por lóbulo lateral,,,,,Operational
-025023,Banderín de confianza GHRSST,9,Valor faltante,,,,,Operational
+025023,Banderín de confianza GHRSST,Los 9,Valor faltante,,,,,Operational
 025024,Calidad de los datos GHRSST,0,Toma de datos infrarrojos no procesados,,,,,Operational
 025024,Calidad de los datos GHRSST,1,Toma de datos con nubosidad,,,,,Operational
 025024,Calidad de los datos GHRSST,2,Deficiente: Datos probablemente contaminados por nubes,,,,,Operational
@@ -88,7 +89,7 @@ FXY,ElementName_es,CodeFigure,EntryName_es,EntryName_sub1_es,EntryName_sub2_es,N
 025029,Método de calibración,3,Con relación a los pluviómetros,,,,,Operational
 025029,Método de calibración,4,"Con relación a otros instrumentos (distrómetro, atenuación)",,,,,Operational
 025029,Método de calibración,5,Reservado,,,,,Operational
-025029,Método de calibración,6,Valor faltante,,,,,Operational
+025029,Método de calibración,Los 6,Valor faltante,,,,,Operational
 025030,Media móvil de la temperatura en la superficie del mar,0,"Media móvil en la temperatura del mar no utilizada, por no respetarse los criterios de utilización",,,,,Operational
 025030,Media móvil de la temperatura en la superficie del mar,1,"Media móvil en la temperatura del mar no utilizada, por no disponerse de datos",,,,,Operational
 025030,Media móvil de la temperatura en la superficie del mar,2,Media móvil en la temperatura del mar utilizada como predictor,,,,,Operational
@@ -111,7 +112,7 @@ FXY,ElementName_es,CodeFigure,EntryName_es,EntryName_sub1_es,EntryName_sub2_es,N
 025034,Resultados de las pruebas de control de calidad del perfilador del viento,1,Prueba A realizada y negativa,,,,,Operational
 025034,Resultados de las pruebas de control de calidad del perfilador del viento,2,Prueba B realizada y negativa,,,,,Operational
 025034,Resultados de las pruebas de control de calidad del perfilador del viento,3,Resultados de la prueba no concluyentes,,,,,Operational
-025034,Resultados de las pruebas de control de calidad del perfilador del viento,4,Valor faltante,,,,,Operational
+025034,Resultados de las pruebas de control de calidad del perfilador del viento,Los 4,Valor faltante,,,,,Operational
 025035,Método de decisión para la polaridad,0,No definida,,,,,Operational
 025035,Método de decisión para la polaridad,1,Desviación del voltaje individual,,,,,Operational
 025035,Método de decisión para la polaridad,2,"Basado en la corriente, superior a umbral",,,,,Operational
@@ -146,17 +147,17 @@ FXY,ElementName_es,CodeFigure,EntryName_es,EntryName_sub1_es,EntryName_sub2_es,N
 025042,Método de información sobre la velocidad de la plataforma móvil,2,Reservada,,,,,Operational
 025042,Método de información sobre la velocidad de la plataforma móvil,3,Valor faltante,,,,,Operational
 025045,Combinación de los canales de la sonda HIRS,1-20,"Empezando por la posición del primer bit (bit más significativo) si el bit es 1, entonces el canal está presente si el bit es 0, entonces el canal está ausente",,,,,Operational
-025045,Combinación de los canales de la sonda HIRS,21,Valor faltante,,,,,Operational
+025045,Combinación de los canales de la sonda HIRS,Los 21,Valor faltante,,,,,Operational
 025046,Combinación de los canales de la sonda MSU,1-4,"Empezando por la posición del primer bit (bit más significativo) si el bit es 1, entonces el canal está presente si el bit es 0, entonces el canal está ausente",,,,,Operational
-025046,Combinación de los canales de la sonda MSU,5,Valor faltante,,,,,Operational
+025046,Combinación de los canales de la sonda MSU,Los 5,Valor faltante,,,,,Operational
 025047,Combinación de los canales de la sonda SSU,1-3,"Empezando por la posición del primer bit (bit más significativo) si el bit es 1, entonces el canal está presente si el bit es 0, entonces el canal está ausente",,,,,Operational
-025047,Combinación de los canales de la sonda SSU,4,Valor faltante,,,,,Operational
+025047,Combinación de los canales de la sonda SSU,Los 4,Valor faltante,,,,,Operational
 025048,Combinación de los canales de la sonda AMSU-A,1-15,"Empezando por la posición del primer bit (bit más significativo) si el bit es 1, entonces el canal está presente si el bit es 0, entonces el canal está ausente",,,,,Operational
-025048,Combinación de los canales de la sonda AMSU-A,16,Valor faltante,,,,,Operational
+025048,Combinación de los canales de la sonda AMSU-A,Los 16,Valor faltante,,,,,Operational
 025049,Combinación de los canales de la sonda AMSU-B,1-5,"Empezando por la posición del primer bit (bit más significativo) si el bit es 1, entonces el canal está presente si el bit es 0, entonces el canal está ausente",,,,,Operational
-025049,Combinación de los canales de la sonda AMSU-B,6,Valor faltante,,,,,Operational
+025049,Combinación de los canales de la sonda AMSU-B,Los 6,Valor faltante,,,,,Operational
 025051,Combinación de los canales del radiómetro AVHRR,1-6,"Empezando por la posición del primer bit (bit más significativo) si el bit es 1, entonces el canal está presente si el bit es 0, entonces el canal está ausente",,,,,Operational
-025051,Combinación de los canales del radiómetro AVHRR,7,Valor faltante,,,,,Operational
+025051,Combinación de los canales del radiómetro AVHRR,Los 7,Valor faltante,,,,,Operational
 025053,Calidad de la observación,1,Buena,,,,,Operational
 025053,Calidad de la observación,2,Redundante,,,,,Operational
 025053,Calidad de la observación,3,Cuestionable,,,,,Operational
@@ -164,7 +165,7 @@ FXY,ElementName_es,CodeFigure,EntryName_es,EntryName_sub1_es,EntryName_sub2_es,N
 025053,Calidad de la observación,5,Experimental,,,,,Operational
 025053,Calidad de la observación,6,Precipitada,,,,,Operational
 025053,Calidad de la observación,7-11,Reservados,,,,,Operational
-025053,Calidad de la observación,12,Valor faltante,,,,,Operational
+025053,Calidad de la observación,Los 12,Valor faltante,,,,,Operational
 025063,Procesador central o identificador de sistema,0,No definida,,,,,Operational
 025063,Procesador central o identificador de sistema,1,Procesador principal,,,,,Operational
 025063,Procesador central o identificador de sistema,2,Procesador auxiliar,,,,,Operational
@@ -177,7 +178,7 @@ FXY,ElementName_es,CodeFigure,EntryName_es,EntryName_sub1_es,EntryName_sub2_es,N
 025069,Correcciones de presión del nivel de vuelo,5,Plausibilidad verificada,,,,,Operational
 025069,Correcciones de presión del nivel de vuelo,6,Consistencia verificada,,,,,Operational
 025069,Correcciones de presión del nivel de vuelo,7,Interpolado,,,,,Operational
-025069,Correcciones de presión del nivel de vuelo,8,Valor faltante,,,,,Operational
+025069,Correcciones de presión del nivel de vuelo,Los 8,Valor faltante,,,,,Operational
 025086,Indicador de la corrección de la profundidad,0,Las profundidades no se corrigen,,,,,Operational
 025086,Indicador de la corrección de la profundidad,1,Las profundidades se corrigen,,,,,Operational
 025086,Indicador de la corrección de la profundidad,2,Reservada,,,,,Operational
@@ -198,14 +199,14 @@ FXY,ElementName_es,CodeFigure,EntryName_es,EntryName_sub1_es,EntryName_sub2_es,N
 025093,Corrección del cálculo RASS (sistema de sondeo radioacústico),2,Corrección de la velocidad vertical,,,,,Operational
 025093,Corrección del cálculo RASS (sistema de sondeo radioacústico),3-6,Reservados,,,,,Operational
 025093,Corrección del cálculo RASS (sistema de sondeo radioacústico),7,Todas las correcciones,,,,,Operational
-025093,Corrección del cálculo RASS (sistema de sondeo radioacústico),8,Valor faltante,,,,,Operational
+025093,Corrección del cálculo RASS (sistema de sondeo radioacústico),Los 8,Valor faltante,,,,,Operational
 025095,Banderín de estado del altímetro,1,"Altímetro en funcionamiento (0 si nominal, 1 si reserva)",,,,,Operational
 025095,Banderín de estado del altímetro,2,Valor faltante,,,,,Operational
 025096,Banderín de estado del radiómetro,1,"Indicador de modo (0 si modo 2, 1 si modo 1)",,,,,Operational
 025096,Banderín de estado del radiómetro,2,"Indicador de secuencia de calibración de modo 1 (0 si los datos normales están en modo 1 ó 2, 1 si secuencia de calibración en modo 1)",,,,,Operational
 025096,Banderín de estado del radiómetro,3,"Canal 2 (0 si activo, 1 si inactivo)",,,,,Operational
 025096,Banderín de estado del radiómetro,4,"Canal 3 (0 si activo, 1 si inactivo)",,,,,Operational
-025096,Banderín de estado del radiómetro,5,Valor faltante,,,,,Operational
+025096,Banderín de estado del radiómetro,Los 5,Valor faltante,,,,,Operational
 025097,Estimación del error tridimensional de la órbita del navegador,0,Entre 0 y 30 cm,,,,,Operational
 025097,Estimación del error tridimensional de la órbita del navegador,1,Entre 30 y 60 cm,,,,,Operational
 025097,Estimación del error tridimensional de la órbita del navegador,2,Entre 60 y 90 cm,,,,,Operational
@@ -226,7 +227,7 @@ FXY,ElementName_es,CodeFigure,EntryName_es,EntryName_sub1_es,EntryName_sub2_es,N
 025098,Banderín de calidad de los datos altimétricos,6,Coeficiente de retrodispersión en banda C,,,,,Operational
 025098,Banderín de calidad de los datos altimétricos,7,Ángulo respecto del nadir mediante los parámetros de la forma de onda en banda Ku,,,,,Operational
 025098,Banderín de calidad de los datos altimétricos,8,Ángulo respecto del nadir mediante la plataforma,,,,,Operational
-025098,Banderín de calidad de los datos altimétricos,9,Valor faltante,,,,,Operational
+025098,Banderín de calidad de los datos altimétricos,Los 9,Valor faltante,,,,,Operational
 025099,Banderín de calidad de la corrección altimétrica,1,Corrección instrumental del alcance en banda Ku,,,,,Operational
 025099,Banderín de calidad de la corrección altimétrica,2,Corrección instrumental del alcance en banda C,,,,,Operational
 025099,Banderín de calidad de la corrección altimétrica,3,Corrección instrumental de la AOS* en banda Ku,,,,,Operational
@@ -234,7 +235,7 @@ FXY,ElementName_es,CodeFigure,EntryName_es,EntryName_sub1_es,EntryName_sub2_es,N
 025099,Banderín de calidad de la corrección altimétrica,5,Corrección instrumental del coeficiente de retrodispersión en banda Ku,,,,,Operational
 025099,Banderín de calidad de la corrección altimétrica,6,Corrección instrumental del coeficiente de retrodispersión en banda C,,,,,Operational
 025099,Banderín de calidad de la corrección altimétrica,7-8,Reservados,,,,,Operational
-025099,Banderín de calidad de la corrección altimétrica,9,Valor faltante,,,,,Operational
+025099,Banderín de calidad de la corrección altimétrica,Los 9,Valor faltante,,,,,Operational
 025110,Resumen de proceso de imagen,1,Análisis de datos en bruto utilizado para la corrección de datos en bruto. Corrección realizada en base a parámetros por defecto,,,,,Operational
 025110,Resumen de proceso de imagen,2,Análisis de datos en bruto utilizado para la corrección de datos en bruto. Corrección realizada en base a los resultados del análisis de datos en bruto,,,,,Operational
 025110,Resumen de proceso de imagen,3,Corrección de la configuración de elevación de la antena aplicada,,,,,Operational
@@ -242,19 +243,19 @@ FXY,ElementName_es,CodeFigure,EntryName_es,EntryName_sub1_es,EntryName_sub2_es,N
 025110,Resumen de proceso de imagen,5,"Fluctuación del largo de onda (""chirp"") reconstruida utilizada",,,,,Operational
 025110,Resumen de proceso de imagen,6,Conversión de alcance oblicuo a alcance terrestre aplicada,,,,,Operational
 025110,Resumen de proceso de imagen,7-9,Reservados,,,,,Operational
-025110,Resumen de proceso de imagen,10,Valor faltante,,,,,Operational
+025110,Resumen de proceso de imagen,Los 10,Valor faltante,,,,,Operational
 025112,Banderín de calidad de los datos altimétricos en banda específica,1,Alcance en banda específica,,,,,Operational
 025112,Banderín de calidad de los datos altimétricos en banda específica,2,Altura de ola significativa en banda específica,,,,,Operational
 025112,Banderín de calidad de los datos altimétricos en banda específica,3,Coeficiente de retrodispersión en banda específica,,,,,Operational
 025112,Banderín de calidad de los datos altimétricos en banda específica,4,Ángulo respecto del nadir mediante los parámetros de la forma de onda en banda específica,,,,,Operational
 025112,Banderín de calidad de los datos altimétricos en banda específica,5,Ángulo respecto del nadir mediante la plataforma,,,,,Operational
 025112,Banderín de calidad de los datos altimétricos en banda específica,6-8,Reservados,,,,,Operational
-025112,Banderín de calidad de los datos altimétricos en banda específica,9,Valor faltante,,,,,Operational
+025112,Banderín de calidad de los datos altimétricos en banda específica,Los 9,Valor faltante,,,,,Operational
 025113,Banderín de calidad de la corrección altimétrica en banda específica,1,Corrección instrumental del alcance en banda específica,,,,,Operational
 025113,Banderín de calidad de la corrección altimétrica en banda específica,2,Corrección instrumental de la altura de ola significativa en banda específica,,,,,Operational
 025113,Banderín de calidad de la corrección altimétrica en banda específica,3,Corrección instrumental del coeficiente de retrodispersión en banda específica,,,,,Operational
 025113,Banderín de calidad de la corrección altimétrica en banda específica,4-8,Reservados,,,,,Operational
-025113,Banderín de calidad de la corrección altimétrica en banda específica,9,Valor faltante,,,,,Operational
+025113,Banderín de calidad de la corrección altimétrica en banda específica,Los 9,Valor faltante,,,,,Operational
 025120,Banderín de proceso de nivel 2 – RA-2,0,El porcentaje de DSR* sin errores de proceso durante el proceso en nivel 2 es superior al umbral aceptable,,,,,Operational
 025120,Banderín de proceso de nivel 2 – RA-2,1,El porcentaje de DSR sin errores de proceso durante el proceso en nivel 2 es inferior al nivel aceptable,,,,,Operational
 025120,Banderín de proceso de nivel 2 – RA-2,2,Reservada,,,,,Operational
@@ -267,10 +268,10 @@ FXY,ElementName_es,CodeFigure,EntryName_es,EntryName_sub1_es,EntryName_sub2_es,N
 025123,Configuración del equipo informático para amplificador de gran potencia,1,La configuración del equipo informático para HPA es B,,,,,Operational
 025123,Configuración del equipo informático para amplificador de gran potencia,2,Reservado,,,,,Operational
 025123,Configuración del equipo informático para amplificador de gran potencia,3,Valor faltante,,,,,Operational
-025124,Banderín de proceso de nivel 2 – MWR*,0,El porcentaje de DSR** sin errores de proceso durante el proceso en nivel 2 es superior al umbral aceptable,,,,,Operational
-025124,Banderín de proceso de nivel 2 – MWR*,1,El porcentaje de DSR sin errores de proceso durante el proceso en nivel 2 es inferior al nivel aceptable,,,,,Operational
-025124,Banderín de proceso de nivel 2 – MWR*,2,Reservada,,,,,Operational
-025124,Banderín de proceso de nivel 2 – MWR*,3,Valor faltante,,,,,Operational
+025124,Banderín de proceso de nivel 2 – MWR,0,El porcentaje de DSR sin errores de proceso durante el proceso en nivel 2 es superior al umbral aceptable,,,"(*,**)",,Operational
+025124,Banderín de proceso de nivel 2 – MWR,1,El porcentaje de DSR sin errores de proceso durante el proceso en nivel 2 es inferior al nivel aceptable,,,*,,Operational
+025124,Banderín de proceso de nivel 2 – MWR,2,Reservada,,,*,,Operational
+025124,Banderín de proceso de nivel 2 – MWR,3,Valor faltante,,,,*,Operational
 025150,Método de análisis de la intensidad de los ciclones tropicales a partir de datos obtenidos por satélites,1,Análisis Dvorak de la intensidad en VIS (imágenes visuales),,,,,Operational
 025150,Método de análisis de la intensidad de los ciclones tropicales a partir de datos obtenidos por satélites,2,Análisis Dvorak de la intensidad en EIR (imágenes de infrarrojos realzadas),,,,,Operational
 025150,Método de análisis de la intensidad de los ciclones tropicales a partir de datos obtenidos por satélites,3-14,Reservadas,,,,,Operational
@@ -288,7 +289,7 @@ FXY,ElementName_es,CodeFigure,EntryName_es,EntryName_sub1_es,EntryName_sub2_es,N
 025174,Banderín de información de SMOS,11,Se ha efectuado una corrección lunar directa durante la reconstrucción de este píxel,,,,,Operational
 025174,Banderín de información de SMOS,12,Se ha efectuado una corrección de reflejo solar durante la reconstrucción de este píxel,,,,,Operational
 025174,Banderín de información de SMOS,13,Se ha efectuado una corrección solar directa durante la reconstrucción de esta imagen,,,,,Operational
-025174,Banderín de información de SMOS,14,Valor faltante,,,,,Operational
+025174,Banderín de información de SMOS,Los 14,Valor faltante,,,,,Operational
 025181,Banderín de procesamiento de nivel 2,0,OK,,,,,Operational
 025181,Banderín de procesamiento de nivel 2,1,El porcentaje de registros de nivel 2b exentos de errores de procesamiento es inferior al umbral aceptable,,,,,Operational
 025181,Banderín de procesamiento de nivel 2,2,Valor faltante,,,,,Operational
@@ -315,9 +316,10 @@ FXY,ElementName_es,CodeFigure,EntryName_es,EntryName_sub1_es,EntryName_sub2_es,N
 025190,Modo de cálculo del eco del altímetro,0,Modo de baja resolución (LRM),,,,,Operational
 025190,Modo de cálculo del eco del altímetro,1,Radar de apertura sintética (SAR),,,,,Operational
 025190,Modo de cálculo del eco del altímetro,2,LRM y SAR (intercalados),,,,,Operational
-025190,Modo de cálculo del eco del altímetro,3,Pseudo-LRM (PLRM),,,,,Operational
-025190,Modo de cálculo del eco del altímetro,4,Modo SAR interferométrico (SARin),,,,,Operational
-025190,Modo de cálculo del eco del altímetro,5-254,Reservadas,,,,,Operational
+025190,Modo de cálculo del eco del altímetro,3,Reservadas,,,,,Operational
+025190,Modo de cálculo del eco del altímetro,4,Pseudo-LRM (PLRM),,,,,Operational
+025190,Modo de cálculo del eco del altímetro,5,Modo SAR interferométrico (SARin),,,,,Operational
+025190,Modo de cálculo del eco del altímetro,6-254,Reservadas,,,,,Operational
 025190,Modo de cálculo del eco del altímetro,255,Valor faltante,,,,,Operational
 025191,Modo de seguimiento del altímetro,0,Bucle abierto,,,,,Operational
 025191,Modo de seguimiento del altímetro,1,Bucle cerrado,,,,,Operational
