@@ -1,0 +1,315 @@
+﻿TABLE_NO,TABLE_NAME,CODEFLAG,ELEMENT,OTHER
+0 20 063,Fenómenos especiales,0,Reservada,
+0 20 063,Fenómenos especiales,1,"Velocidad máxima de las ráfagas superior a 11,5 m/s",
+0 20 063,Fenómenos especiales,2,"Velocidad media máxima del viento superior a 17,5 m/s",
+0 20 063,Fenómenos especiales,3-5,Reservadas,
+0 20 063,Fenómenos especiales,7,Visibilidad superior a 100 000 m,
+0 20 063,Fenómenos especiales,8-9,Reservadas,
+0 20 063,Fenómenos especiales,10,Espejismo: sin especificación,Espejismo
+0 20 063,Fenómenos especiales,11,Espejismo: imagen de objeto que emerge a distancia (espejismo emergente),Espejismo
+0 20 063,Fenómenos especiales,12,Espejismo: imagen de objeto que emerge claramente en el horizonte,Espejismo
+0 20 063,Fenómenos especiales,13,Espejismo: imagen invertida de objeto distante,Espejismo
+0 20 063,Fenómenos especiales,14,Espejismo: imágenes complejas y múltiples de objeto distante (imágenes en posición normal),Espejismo
+0 20 063,Fenómenos especiales,15,Espejismo: imágenes complejas y múltiples de objeto distante (con inversión de algunas imágenes),Espejismo
+0 20 063,Fenómenos especiales,16,Espejismo: imagen del sol o la luna apreciablemente distorsionada,Espejismo
+0 20 063,Fenómenos especiales,17,"Espejismo: sol visible, aunque esté situado astronómicamente debajo del horizonte",Espejismo
+0 20 063,Fenómenos especiales,18,"Espejismo: luna visible, aunque esté situada astronómicamente debajo del horizonte",Espejismo
+0 20 063,Fenómenos especiales,19,Reservada,Espejismo
+0 20 063,Fenómenos especiales,20,"Oscuridad diurna, bastante, más intensa en la dirección especificada","Oscuridad diurna, más intensa en la dirección especificada"
+0 20 063,Fenómenos especiales,21,"Oscuridad diurna, mucha, más intensa en la dirección especificada","Oscuridad diurna, más intensa en la dirección especificada"
+0 20 063,Fenómenos especiales,22,"Oscuridad diurna, total, más intensa en la dirección especificada","Oscuridad diurna, más intensa en la dirección especificada"
+0 20 063,Fenómenos especiales,23-30,Reservadas,
+0 20 063,Fenómenos especiales,31,Coloración débil de las nubes a la salida del sol asociada con una perturbación tropical,Coloración y/o convergencia de las nubes asociadas con una perturbación tropical
+0 20 063,Fenómenos especiales,32,Coloración roja oscura de las nubes a la salida del sol asociada con una perturbación tropical,Coloración y/o convergencia de las nubes asociadas con una perturbación tropical
+0 20 063,Fenómenos especiales,33,Coloración débil de las nubes a la puesta del sol asociada con una perturbación tropical,Coloración y/o convergencia de las nubes asociadas con una perturbación tropical
+0 20 063,Fenómenos especiales,34,Coloración roja oscura de las nubes a la puesta del sol asociada con una perturbación tropical,Coloración y/o convergencia de las nubes asociadas con una perturbación tropical
+0 20 063,Fenómenos especiales,35,Convergencia de nubes CH en un punto inferior a 45° en formación o aumento y asociada con una perturbación tropical,Coloración y/o convergencia de las nubes asociadas con una perturbación tropical
+0 20 063,Fenómenos especiales,36,Convergencia de nubes CH en un punto superior a 45° asociada con una perturbación tropical,Coloración y/o convergencia de las nubes asociadas con una perturbación tropical
+0 20 063,Fenómenos especiales,37,Convergencia de nubes CH en un punto inferior a 45° en disipación o disminución asociada con una perturbación a tropical,Coloración y/o convergencia de las nubes asociadas con una perturbación tropical
+0 20 063,Fenómenos especiales,38,Convergencia de nubes CH en un punto superior a 45° asociada con una perturbación tropical,Coloración y/o convergencia de las nubes asociadas con una perturbación tropical
+0 20 063,Fenómenos especiales,39,Reservada,Coloración y/o convergencia de las nubes asociadas con una perturbación tropical
+0 20 063,Fenómenos especiales,40,Escarcha en superficies horizontales,Escarcha o precipitación coloreada
+0 20 063,Fenómenos especiales,41,Escarcha en superficies horizontales y verticales,Escarcha o precipitación coloreada
+0 20 063,Fenómenos especiales,42,Precipitaciones que contienen arena o polvo del desierto,Escarcha o precipitación coloreada
+0 20 063,Fenómenos especiales,43,Precipitaciones que contienen ceniza volcánica,Escarcha o precipitación coloreada
+0 20 063,Fenómenos especiales,44-49,Reservadas,
+0 20 063,Fenómenos especiales,50,Calma o viento ligero seguido de turbonada,Naturaleza y/o tipo de turbonada
+0 20 063,Fenómenos especiales,51,Calma o viento ligero seguido de turbonadas sucesivas,Naturaleza y/o tipo de turbonada
+0 20 063,Fenómenos especiales,52,Tiempo borrascoso seguido de turbonada,Naturaleza y/o tipo de turbonada
+0 20 063,Fenómenos especiales,53,Tiempo borrascoso seguido de turbonadas sucesivas,Naturaleza y/o tipo de turbonada
+0 20 063,Fenómenos especiales,54,Turbonada seguida de tiempo borrascoso,Naturaleza y/o tipo de turbonada
+0 20 063,Fenómenos especiales,55,Tiempo borrascoso generalizado con turbonadas intermitentes,Naturaleza y/o tipo de turbonada
+0 20 063,Fenómenos especiales,56,Turbonada aproximándose a la estación,Naturaleza y/o tipo de turbonada
+0 20 063,Fenómenos especiales,57,Línea de turbonada,Naturaleza y/o tipo de turbonada
+0 20 063,Fenómenos especiales,58,Turbonada con nubes de polvo o arena bajas o altas,Naturaleza y/o tipo de turbonada
+0 20 063,Fenómenos especiales,59,Línea de turbonada con nubes de polvo o arena bajas o altas,Naturaleza y/o tipo de turbonada
+0 20 063,Fenómenos especiales,60,Temperatura estable,Variación de temperatura durante el período especificado asociada a hielo liso o cencellada
+0 20 063,Fenómenos especiales,61,"Temperatura en descenso, no inferior a 0 °C",Variación de temperatura durante el período especificado asociada a hielo liso o cencellada
+0 20 063,Fenómenos especiales,62,"Temperatura en aumento, sin superar 0 °C",Variación de temperatura durante el período especificado asociada a hielo liso o cencellada
+0 20 063,Fenómenos especiales,63,Temperatura que desciende a un valor inferior a 0 °C,Variación de temperatura durante el período especificado asociada a hielo liso o cencellada
+0 20 063,Fenómenos especiales,64,Temperatura que aumenta a un valor superior a 0 °C,Variación de temperatura durante el período especificado asociada a hielo liso o cencellada
+0 20 063,Fenómenos especiales,65,"Variaciones irregulares, las oscilaciones de la temperatura pasan por el valor 0 °C",Variación de temperatura durante el período especificado asociada a hielo liso o cencellada
+0 20 063,Fenómenos especiales,66,"Variaciones irregulares, las oscilaciones de la temperatura no pasan por el valor 0 °C",Variación de temperatura durante el período especificado asociada a hielo liso o cencellada
+0 20 063,Fenómenos especiales,67,No se han observado las variaciones de la temperatura,Variación de temperatura durante el período especificado asociada a hielo liso o cencellada
+0 20 063,Fenómenos especiales,68,Sin asignar,Variación de temperatura durante el período especificado asociada a hielo liso o cencellada
+0 20 063,Fenómenos especiales,69,Se desconocen las variaciones de temperatura por falta de termógrafo,Variación de temperatura durante el período especificado asociada a hielo liso o cencellada
+0 20 063,Fenómenos especiales,70,La visibilidad no ha variado (sol* visible) en la dirección especificada,Variación de la visibilidad durante el período especificado
+0 20 063,Fenómenos especiales,71,La visibilidad no ha variado (sol* invisible) en la dirección especificada,Variación de la visibilidad durante el período especificado
+0 20 063,Fenómenos especiales,72,La visibilidad ha aumentado (sol* visible) en la dirección especificada,Variación de la visibilidad durante el período especificado
+0 20 063,Fenómenos especiales,73,La visibilidad ha aumentado (sol* invisible) en la dirección especificada,Variación de la visibilidad durante el período especificado
+0 20 063,Fenómenos especiales,74,La visibilidad ha disminuido (sol* visible) en la dirección especificada,Variación de la visibilidad durante el período especificado
+0 20 063,Fenómenos especiales,75,La visibilidad ha disminuido (sol* invisible) en la dirección especificada,Variación de la visibilidad durante el período especificado
+0 20 063,Fenómenos especiales,76,Niebla procedente de la dirección especificada,Variación de la visibilidad durante el período especificado
+0 20 063,Fenómenos especiales,77,La niebla ha ascendido sin disiparse,Variación de la visibilidad durante el período especificado
+0 20 063,Fenómenos especiales,78,La niebla se ha disipado independientemente de la dirección,Variación de la visibilidad durante el período especificado
+0 20 063,Fenómenos especiales,79,Bancos de niebla en movimiento,Variación de la visibilidad durante el período especificado
+0 20 063,Fenómenos especiales,80,Espectro de Brocken,Fenómenos ópticos
+0 20 063,Fenómenos especiales,81,Arco iris,Fenómenos ópticos
+0 20 063,Fenómenos especiales,82,Halo solar o lunar,Fenómenos ópticos
+0 20 063,Fenómenos especiales,83,Parhelios o anthelios,Fenómenos ópticos
+0 20 063,Fenómenos especiales,84,Columna luminosa solar,Fenómenos ópticos
+0 20 063,Fenómenos especiales,85,Corona,Fenómenos ópticos
+0 20 063,Fenómenos especiales,86,Resplandor crepuscular,Fenómenos ópticos
+0 20 063,Fenómenos especiales,87,Resplandor crepuscular en las montañas (Alpenglühen),Fenómenos ópticos
+0 20 063,Fenómenos especiales,88,Espejismo,Fenómenos ópticos
+0 20 063,Fenómenos especiales,89,Luz zodiacal,Fenómenos ópticos
+0 20 063,Fenómenos especiales,90,Fuego de San Telmo,Fenómenos ópticos
+0 20 063,Fenómenos especiales,91-1022,Reservadas,
+0 20 063,Fenómenos especiales,1023,Valor faltante,
+0 20 071,Exactitud de marcación y tasa de parásitos atmosféricos,0,Ninguna evaluación,Tasa de repetición: Ninguna evaluación
+0 20 071,Exactitud de marcación y tasa de parásitos atmosféricos,1,Menos de 50 km,Tasa de repetición: Menos de 1 por segundo
+0 20 071,Exactitud de marcación y tasa de parásitos atmosféricos,2,Entre 50 y 200 km,Tasa de repetición: Menos de 1 por segundo
+0 20 071,Exactitud de marcación y tasa de parásitos atmosféricos,3,Más de 200 km,Tasa de repetición: Menos de 1 por segundo
+0 20 071,Exactitud de marcación y tasa de parásitos atmosféricos,4,Menos de 50 km,Tasa de repetición: 1 o más por segundo
+0 20 071,Exactitud de marcación y tasa de parásitos atmosféricos,5,Entre 50 y 200 km,Tasa de repetición: 1 o más por segundo
+0 20 071,Exactitud de marcación y tasa de parásitos atmosféricos,6,Más de 200 km,Tasa de repetición: 1 o más por segundo
+0 20 071,Exactitud de marcación y tasa de parásitos atmosféricos,7,Menos de 50 km,Tasa de repetición: Tasa tan elevada que no es posible contar el número
+0 20 071,Exactitud de marcación y tasa de parásitos atmosféricos,8,Entre 50 y 200 km,Tasa de repetición: Tasa tan elevada que no es posible contar el número
+0 20 071,Exactitud de marcación y tasa de parásitos atmosféricos,9,Más de 200 km,Tasa de repetición: Tasa tan elevada que no es posible contar el número
+0 20 071,Exactitud de marcación y tasa de parásitos atmosféricos,10-14,Reservadas,
+0 20 071,Exactitud de marcación y tasa de parásitos atmosféricos,15,Valor faltante,
+0 20 085,Estado general de la pista,0,Despejada (CLRD//),
+0 20 085,Estado general de la pista,1,Todas las pistas cerradas (SNOCLO),
+0 20 085,Estado general de la pista,2-14,Reservadas,
+0 20 085,Estado general de la pista,15,Valor faltante,
+0 20 086,Depósitos en la pista,0,Despejada y seca,
+0 20 086,Depósitos en la pista,1,Húmeda,
+0 20 086,Depósitos en la pista,2,Mojada con charcos de agua,
+0 20 086,Depósitos en la pista,3,Cubierta de escarcha (espesor normalmente inferior a 1 mm),
+0 20 086,Depósitos en la pista,4,Nieve seca,
+0 20 086,Depósitos en la pista,5,Nieve húmeda,
+0 20 086,Depósitos en la pista,6,Nieve grumosa,
+0 20 086,Depósitos en la pista,7,Hielo,
+0 20 086,Depósitos en la pista,8,Nieve compactada o apisonada,
+0 20 086,Depósitos en la pista,9,Surcos o crestas congelados,
+0 20 086,Depósitos en la pista,10-14,Reservadas,
+0 20 086,Depósitos en la pista,15,Valor faltante o no comunicado (por ejemplo por estar despejándose la pista),
+0 20 087,Contaminación en la pista,0,Reservada,
+0 20 087,Contaminación en la pista,1,Menos de un 10% de la pista cubierto,
+0 20 087,Contaminación en la pista,2,Entre un 11% y un 25% de la pista cubierto,
+0 20 087,Contaminación en la pista,3-4,Reservadas,
+0 20 087,Contaminación en la pista,5,Entre un 26% y un 50% de la pista cubierto,
+0 20 087,Contaminación en la pista,6-8,Reservadas,
+0 20 087,Contaminación en la pista,9,Entre un 51% y un 100% de la pista cubierto,
+0 20 087,Contaminación en la pista,10-14,Reservadas,
+0 20 087,Contaminación en la pista,15,Valor faltante o no comunicado (por ejemplo por estar despejándose la pista),
+0 20 089,Coeficiente de rozamiento en la pista,0,"0,00",
+0 20 089,Coeficiente de rozamiento en la pista,1,"0,01",
+0 20 089,Coeficiente de rozamiento en la pista,2-88,"0,02...0,88",
+0 20 089,Coeficiente de rozamiento en la pista,89,"0,89",
+0 20 089,Coeficiente de rozamiento en la pista,90,"0,90",
+0 20 089,Coeficiente de rozamiento en la pista,91,Efecto de frenada bajo,
+0 20 089,Coeficiente de rozamiento en la pista,92,Efecto de frenada medio-bajo,
+0 20 089,Coeficiente de rozamiento en la pista,93,Efecto de frenada medio,
+0 20 089,Coeficiente de rozamiento en la pista,94,Efecto de frenada medio-alto,
+0 20 089,Coeficiente de rozamiento en la pista,95,Efecto de frenada alto,
+0 20 089,Coeficiente de rozamiento en la pista,96-98,Reservadas,
+0 20 089,Coeficiente de rozamiento en la pista,99,No fiable,
+0 20 089,Coeficiente de rozamiento en la pista,100-126,Reservadas,
+0 20 089,Coeficiente de rozamiento en la pista,127,"Valor faltante, no comunicado y/o pista no operativa",
+0 20 090,Nubes especiales,0,Reservada,
+0 20 090,Nubes especiales,1,Nubes nacaradas,
+0 20 090,Nubes especiales,2,Nubes noctilucentes,
+0 20 090,Nubes especiales,3,Nubes provocadas por cataratas,
+0 20 090,Nubes especiales,4,Nubes provocadas por incendios,
+0 20 090,Nubes especiales,5,Nubes provocadas por erupciones volcánicas,
+0 20 090,Nubes especiales,6-14,Reservadas,
+0 20 090,Nubes especiales,15,Valor faltante,
+0 20 101,Nombre de la langosta (acrídido),0,Reservada,
+0 20 101,Nombre de la langosta (acrídido),1,Schistocerca gregaria,
+0 20 101,Nombre de la langosta (acrídido),2,Locusta migratoria,
+0 20 101,Nombre de la langosta (acrídido),3,Nomadacris septemfasciata,
+0 20 101,Nombre de la langosta (acrídido),4,Oedaleus senegalensis,
+0 20 101,Nombre de la langosta (acrídido),5,Anracridium spp,
+0 20 101,Nombre de la langosta (acrídido),6,Otras langostas,
+0 20 101,Nombre de la langosta (acrídido),7,Otros saltamontes,
+0 20 101,Nombre de la langosta (acrídido),8,Otros grillos,
+0 20 101,Nombre de la langosta (acrídido),9,Spodoptera exempta,
+0 20 101,Nombre de la langosta (acrídido),10-14,Reservadas,
+0 20 101,Nombre de la langosta (acrídido),15,Valor faltante,
+0 20 102,Color (madurez) de la langosta,0,Verde,
+0 20 102,Color (madurez) de la langosta,1,Verde o negro,
+0 20 102,Color (madurez) de la langosta,2,Negro,
+0 20 102,Color (madurez) de la langosta,3,Amarillo y negro,
+0 20 102,Color (madurez) de la langosta,4,Pajizo/gris,
+0 20 102,Color (madurez) de la langosta,5,Rosáceo,
+0 20 102,Color (madurez) de la langosta,6,Rojo oscuro/pardo,
+0 20 102,Color (madurez) de la langosta,7,Rojo y amarillo entreverados,
+0 20 102,Color (madurez) de la langosta,8,Amarillo,
+0 20 102,Color (madurez) de la langosta,9,Otros,
+0 20 102,Color (madurez) de la langosta,10-14,Reservadas,
+0 20 102,Color (madurez) de la langosta,15,Valor faltante,
+0 20 103,Fase de desarrollo de las langostas,0,"Saltamontes (ninfas, larvas) — etapa 1",
+0 20 103,Fase de desarrollo de las langostas,1,"Saltamontes (ninfas, larvas) — etapa 2, o intermuda — etapas 1, 2",
+0 20 103,Fase de desarrollo de las langostas,2,"Saltamontes (ninfas, larvas) - etapa 3, o intermuda — etapas 2, 3",
+0 20 103,Fase de desarrollo de las langostas,3,"Saltamontes (ninfas, larvas) - etapa 4, o intermuda — etapas 3, 4",
+0 20 103,Fase de desarrollo de las langostas,4,"Saltamontes (ninfas, larvas) — etapa 5, o intermuda — etapas 4, 5",
+0 20 103,Fase de desarrollo de las langostas,5,"Saltamontes (ninfas, larvas) — etapa mixta, todas o gran número de intermudas",
+0 20 103,Fase de desarrollo de las langostas,6,Cría joven (alas demasiado endebles para mantener el vuelo),
+0 20 103,Fase de desarrollo de las langostas,7,Adultos inmaduros,
+0 20 103,Fase de desarrollo de las langostas,8,Adultos de madurez diversa,
+0 20 103,Fase de desarrollo de las langostas,9,Adultos maduros,
+0 20 103,Fase de desarrollo de las langostas,10-14,Reservadas,
+0 20 103,Fase de desarrollo de las langostas,15,Valor faltante,
+0 20 104,Estado de organización del enjambre o banda de langostas,0,"Saltamontes solo, mayormente en bandadas o enjambres",
+0 20 104,Estado de organización del enjambre o banda de langostas,1,Adultos alados cercanos a más de 10 km del punto de observación,
+0 20 104,Estado de organización del enjambre o banda de langostas,2,Langostas en vuelo observadas en la estación en número escaso,
+0 20 104,Estado de organización del enjambre o banda de langostas,3,"Langostas en la estación, en tierra en su mayoría",
+0 20 104,Estado de organización del enjambre o banda de langostas,4,"Langostas, unas en tierra y otras en vuelo a no más de 10 metros de altura",
+0 20 104,Estado de organización del enjambre o banda de langostas,5,"Langostas, unas en tierra y otras en vuelo a más de 10 metros de altura",
+0 20 104,Estado de organización del enjambre o banda de langostas,6,"Langostas, en su mayoría en vuelo a menos de 10 metros de altura",
+0 20 104,Estado de organización del enjambre o banda de langostas,7,"Langostas, en su mayoría en vuelo a más de 10 metros de altura",
+0 20 104,Estado de organización del enjambre o banda de langostas,8,"Langostas, dañando todas ellas gravemente la vegetación, ninguna actividad de exterminio",
+0 20 104,Estado de organización del enjambre o banda de langostas,9,"Langostas, dañando todas ellas gravemente la vegetación, actividades de exterminio en curso",
+0 20 104,Estado de organización del enjambre o banda de langostas,10-14,Reservadas,
+0 20 104,Estado de organización del enjambre o banda de langostas,15,Valor faltante,
+0 20 105,Tamaño del enjambre o banda de langostas y duración de su paso,1,Área cubierta por bandadas aisladas < 10 m²,Cuando 0 20 104 (estado organizativo de la bandada de langostas) = 0
+0 20 105,Tamaño del enjambre o banda de langostas y duración de su paso,2,Área cubierta por bandadas aisladas 10 – 100 m²,Cuando 0 20 104 (estado organizativo de la bandada de langostas) = 0
+0 20 105,Tamaño del enjambre o banda de langostas y duración de su paso,3,Área cubierta por bandadas aisladas 100 – 1000 m²,Cuando 0 20 104 (estado organizativo de la bandada de langostas) = 0
+0 20 105,Tamaño del enjambre o banda de langostas y duración de su paso,4,Área cubierta por bandadas aisladas 1000 – 10000 m²,Cuando 0 20 104 (estado organizativo de la bandada de langostas) = 0
+0 20 105,Tamaño del enjambre o banda de langostas y duración de su paso,5,Área cubierta por bandadas aisladas 1 – 10 ha,Cuando 0 20 104 (estado organizativo de la bandada de langostas) = 0
+0 20 105,Tamaño del enjambre o banda de langostas y duración de su paso,6,Área cubierta por bandadas aisladas > 10 ha,Cuando 0 20 104 (estado organizativo de la bandada de langostas) = 0
+0 20 105,Tamaño del enjambre o banda de langostas y duración de su paso,7,Área cubierta por bandadas dispersas < 100 m²,Cuando 0 20 104 (estado organizativo de la bandada de langostas) = 0
+0 20 105,Tamaño del enjambre o banda de langostas y duración de su paso,8,Área cubierta por bandadas dispersas 100 – 1000 km²,Cuando 0 20 104 (estado organizativo de la bandada de langostas) = 0
+0 20 105,Tamaño del enjambre o banda de langostas y duración de su paso,9,Área cubierta por bandadas dispersas > 1000 km²,Cuando 0 20 104 (estado organizativo de la bandada de langostas) = 0
+0 20 105,Tamaño del enjambre o banda de langostas y duración de su paso,10-14,Reservadas,Cuando 0 20 104 (estado organizativo de la bandada de langostas) = 0
+0 20 105,Tamaño del enjambre o banda de langostas y duración de su paso,15,Valor faltante,Cuando 0 20 104 (estado organizativo de la bandada de langostas) = 0
+0 20 105,Tamaño del enjambre o banda de langostas y duración de su paso,0,"Bandada pequeña inferior a 1 km² o adultos en tierra, decenas o centenas de individuos visibles simultáneamente, cuyo paso fue registrado hace menos de una hora",Cuando 0 20 104 (estado organizativo de la bandada de langostas) = 1 a 9
+0 20 105,Tamaño del enjambre o banda de langostas y duración de su paso,1,"Bandada pequeña inferior a 1 km² o adultos en tierra, decenas o centenas de individuos visibles simultáneamente, cuyo paso fue registrado hace entre 1 y 6 horas",Cuando 0 20 104 (estado organizativo de la bandada de langostas) = 1 a 9
+0 20 105,Tamaño del enjambre o banda de langostas y duración de su paso,2,"Bandada pequeña inferior a 1 km² o adultos en tierra, decenas o centenas de individuos visibles simultáneamente, cuyo paso fue registrado hace más 6 de horas",Cuando 0 20 104 (estado organizativo de la bandada de langostas) = 1 a 9
+0 20 105,Tamaño del enjambre o banda de langostas y duración de su paso,3,"Bandada mediana o adultos dispersos, varios especímenes visibles simultáneamente, cuyo paso fue registrado hace menos de una hora",Cuando 0 20 104 (estado organizativo de la bandada de langostas) = 1 a 9
+0 20 105,Tamaño del enjambre o banda de langostas y duración de su paso,4,"Bandada mediana o adultos dispersos, varios especímenes visibles simultáneamente, cuyo paso fue registrado hace entre 1 y 6 horas",Cuando 0 20 104 (estado organizativo de la bandada de langostas) = 1 a 9
+0 20 105,Tamaño del enjambre o banda de langostas y duración de su paso,5,"Bandada mediana o adultos dispersos, varios especímenes visibles simultáneamente, cuyo paso fue registrado hace más 6 de horas",Cuando 0 20 104 (estado organizativo de la bandada de langostas) = 1 a 9
+0 20 105,Tamaño del enjambre o banda de langostas y duración de su paso,6,"Bandada grande o adultos aislados, observados solos, cuyo paso fue registrado hace menos de una hora",Cuando 0 20 104 (estado organizativo de la bandada de langostas) = 1 a 9
+0 20 105,Tamaño del enjambre o banda de langostas y duración de su paso,7,"Bandada grande o adultos aislados, observados solos, cuyo paso fue registrado hace entre 1 y 6 horas",Cuando 0 20 104 (estado organizativo de la bandada de langostas) = 1 a 9
+0 20 105,Tamaño del enjambre o banda de langostas y duración de su paso,8,"Bandada grande o adultos aislados, observados solos, cuyo paso fue registrado hace más 6 de horas",Cuando 0 20 104 (estado organizativo de la bandada de langostas) = 1 a 9
+0 20 105,Tamaño del enjambre o banda de langostas y duración de su paso,9,Más de una bandada de langostas,Cuando 0 20 104 (estado organizativo de la bandada de langostas) = 1 a 9
+0 20 105,Tamaño del enjambre o banda de langostas y duración de su paso,10,Tamaño de la bandada y/o duración de su paso no determinados por causa de la oscuridad o de fenómenos análogos,Cuando 0 20 104 (estado organizativo de la bandada de langostas) = 1 a 9
+0 20 105,Tamaño del enjambre o banda de langostas y duración de su paso,11-14,Reservadas,Cuando 0 20 104 (estado organizativo de la bandada de langostas) = 1 a 9
+0 20 105,Tamaño del enjambre o banda de langostas y duración de su paso,15,Valor faltante,Cuando 0 20 104 (estado organizativo de la bandada de langostas) = 1 a 9
+0 20 106,Densidad de la población de langostas,0,Reservada,
+0 20 106,Densidad de la población de langostas,1,Bandada de densidad escasa (visible solo desde una proximidad que permita distinguir las langostas),
+0 20 106,Densidad de la población de langostas,2,Bandada de densidad media,
+0 20 106,Densidad de la población de langostas,3,"Bandada densa (oscurece objetos cercanos; por ejemplo, árboles)",
+0 20 106,Densidad de la población de langostas,4,Saltamontes aislados,
+0 20 106,Densidad de la población de langostas,5,Saltamontes dispersos visibles simultáneamente,
+0 20 106,Densidad de la población de langostas,11-14,Reservadas,
+0 20 106,Densidad de la población de langostas,15,Valor faltante,
+0 20 107,Dirección de los desplazamientos del enjambre de langostas,0,Reservada,
+0 20 107,Dirección de los desplazamientos del enjambre de langostas,1,"En general, en dirección NE",
+0 20 107,Dirección de los desplazamientos del enjambre de langostas,2,"En general, en dirección E",
+0 20 107,Dirección de los desplazamientos del enjambre de langostas,3,"En general, en dirección SE",
+0 20 107,Dirección de los desplazamientos del enjambre de langostas,4,"En general, en dirección S",
+0 20 107,Dirección de los desplazamientos del enjambre de langostas,5,"En general, en dirección SW",
+0 20 107,Dirección de los desplazamientos del enjambre de langostas,6,"En general, en dirección W",
+0 20 107,Dirección de los desplazamientos del enjambre de langostas,7,"En general, en dirección NW",
+0 20 107,Dirección de los desplazamientos del enjambre de langostas,8,"En general, en dirección N",
+0 20 107,Dirección de los desplazamientos del enjambre de langostas,9,Dirección específica indeterminable,
+0 20 107,Dirección de los desplazamientos del enjambre de langostas,10-14,Reservadas,
+0 20 107,Dirección de los desplazamientos del enjambre de langostas,15,Valor faltante,
+0 20 108,Extensión de la vegetación,0,Suelo pelado,
+0 20 108,Extensión de la vegetación,1,"Seco, con presencia de arbustos escasos y aislados",
+0 20 108,Extensión de la vegetación,2,Vegetación dispersa (brotando),
+0 20 108,Extensión de la vegetación,3,Vegetación densa (brotando),
+0 20 108,Extensión de la vegetación,4,Vegetación dispersa (creciendo),
+0 20 108,Extensión de la vegetación,5,Vegetación densa (creciendo),
+0 20 108,Extensión de la vegetación,6,Vegetación dispersa en flor,
+0 20 108,Extensión de la vegetación,7,Vegetación densa en flor,
+0 20 108,Extensión de la vegetación,8-14,Reservadas,
+0 20 108,Extensión de la vegetación,15,Valor faltante,
+0 20 119,Polaridad de la descarga eléctrica,0,No definida,
+0 20 119,Polaridad de la descarga eléctrica,1,Positiva,
+0 20 119,Polaridad de la descarga eléctrica,2,Negativa,
+0 20 119,Polaridad de la descarga eléctrica,3,Valor faltante,
+0 20 124,Rayo o relámpago,0,No definida,
+0 20 124,Rayo o relámpago,1,Rayo,
+0 20 124,Rayo o relámpago,2,"Relámpago, mediante observación manual, o si el equipo no registra la resolución de la descarga",
+0 20 124,Rayo o relámpago,3,Valor faltante,
+0 20 136,Tipo de nubes suplementario,0,Cumulus humilis aislados y/o cumulus mediocris,Naturaleza de las nubes de desarrollo vertical (Ca - Tabla de cifrado 0531)
+0 20 136,Tipo de nubes suplementario,1,Numerosos cumulus humilis y/o cumulus mediocris,Naturaleza de las nubes de desarrollo vertical (Ca - Tabla de cifrado 0531)
+0 20 136,Tipo de nubes suplementario,2,Cumulus congestus aislados,Naturaleza de las nubes de desarrollo vertical (Ca - Tabla de cifrado 0531)
+0 20 136,Tipo de nubes suplementario,3,Numerosos cumulus congestus,Naturaleza de las nubes de desarrollo vertical (Ca - Tabla de cifrado 0531)
+0 20 136,Tipo de nubes suplementario,4,Cumulonimbos aislados,Naturaleza de las nubes de desarrollo vertical (Ca - Tabla de cifrado 0531)
+0 20 136,Tipo de nubes suplementario,5,Numerosos cumulonimbos,Naturaleza de las nubes de desarrollo vertical (Ca - Tabla de cifrado 0531)
+0 20 136,Tipo de nubes suplementario,6,Cúmulos aislados y cumulonimbos,Naturaleza de las nubes de desarrollo vertical (Ca - Tabla de cifrado 0531)
+0 20 136,Tipo de nubes suplementario,7,Numerosos cúmulos y cumulonimbos,Naturaleza de las nubes de desarrollo vertical (Ca - Tabla de cifrado 0531)
+0 20 136,Tipo de nubes suplementario,8-9,Reservadas,Naturaleza de las nubes de desarrollo vertical (Ca - Tabla de cifrado 0531)
+0 20 136,Tipo de nubes suplementario,11,"Nubes orográficas aisladas, pileus, incus, en formación",Nubes orográficas (Co – Tabla de cifrado 0561)
+0 20 136,Tipo de nubes suplementario,12,"Nubes orográficas aisladas, pileus, incus, sin variación",Nubes orográficas (Co – Tabla de cifrado 0561)
+0 20 136,Tipo de nubes suplementario,13,"Nubes orográficas aisladas, pileus, incus, deshaciéndose",Nubes orográficas (Co – Tabla de cifrado 0561)
+0 20 136,Tipo de nubes suplementario,14,"Bancos irregulares de nubes orográficas, banco de föhn, etc., en formación",Nubes orográficas (Co – Tabla de cifrado 0561)
+0 20 136,Tipo de nubes suplementario,15,"Bancos irregulares de nubes orográficas, banco de föhn, etc., sin variación",Nubes orográficas (Co – Tabla de cifrado 0561)
+0 20 136,Tipo de nubes suplementario,16,"Bancos irregulares de nubes orográficas, banco de föhn, etc., deshaciéndose",Nubes orográficas (Co – Tabla de cifrado 0561)
+0 20 136,Tipo de nubes suplementario,17,"Capa compacta de nubes orográficas, banco de föhn, etc., en formación",Nubes orográficas (Co – Tabla de cifrado 0561)
+0 20 136,Tipo de nubes suplementario,18,"Capa compacta de nubes orográficas, banco de föhn, etc., sin variaciones",Nubes orográficas (Co – Tabla de cifrado 0561)
+0 20 136,Tipo de nubes suplementario,19,"Capa compacta de nubes orográficas, banco de föhn, etc., deshaciéndose",Nubes orográficas (Co – Tabla de cifrado 0561)
+0 20 136,Tipo de nubes suplementario,20,"Todas las montañas despejadas, solo pequeñas cantidades de nubes presentes",Condiciones de nubosidad sobre montañas y vaguadas (Nm - Tabla de cifrado 2745)
+0 20 136,Tipo de nubes suplementario,21,Montañas parcialmente cubiertas con nubes desgajadas (no son visibles más de la mitad de los picos),Condiciones de nubosidad sobre montañas y vaguadas (Nm - Tabla de cifrado 2745)
+0 20 136,Tipo de nubes suplementario,22,"Todas las laderas cubiertas, cumbres y vaguadas despejadas",Condiciones de nubosidad sobre montañas y vaguadas (Nm - Tabla de cifrado 2745)
+0 20 136,Tipo de nubes suplementario,23,"Montañas despejadas del lado del observador (solo pequeñas cantidades de nubes presentes), pero con una masa continua de nubes en la vertiente opuesta",Condiciones de nubosidad sobre montañas y vaguadas (Nm - Tabla de cifrado 2745)
+0 20 136,Tipo de nubes suplementario,24,"Nubes bajas sobre las montañas, pero todas las laderas y montañas despejadas (solo pequeñas cantidades de nubes en las laderas)",Condiciones de nubosidad sobre montañas y vaguadas (Nm - Tabla de cifrado 2745)
+0 20 136,Tipo de nubes suplementario,25,"Nubes bajas sobre las montañas, cumbres parcialmente cubiertas de estelas de precipitación o nubes",Condiciones de nubosidad sobre montañas y vaguadas (Nm - Tabla de cifrado 2745)
+0 20 136,Tipo de nubes suplementario,26,"Todas las cumbres cubiertas, pero las vaguadas despejadas, y las laderas despejadas o cubiertas",Condiciones de nubosidad sobre montañas y vaguadas (Nm - Tabla de cifrado 2745)
+0 20 136,Tipo de nubes suplementario,27,"Montañas generalmente cubiertas, con algunas cumbres despejadas y las laderas total o parcialmente cubiertas",Condiciones de nubosidad sobre montañas y vaguadas (Nm - Tabla de cifrado 2745)
+0 20 136,Tipo de nubes suplementario,28,"Todas las cumbres, vaguadas y laderas cubiertas",Condiciones de nubosidad sobre montañas y vaguadas (Nm - Tabla de cifrado 2745)
+0 20 136,Tipo de nubes suplementario,29,"No es posible ver las montañas debido a la oscuridad, a la niebla, a tempestades de nieve, a la precipitación, etc.",Condiciones de nubosidad sobre montañas y vaguadas (Nm - Tabla de cifrado 2745)
+0 20 136,Tipo de nubes suplementario,30-34,Reservadas,
+0 20 136,Tipo de nubes suplementario,35,Estelas de condensación no persistentes,Estelas de condensación (Nť – Tabla de cifrado 2752)
+0 20 136,Tipo de nubes suplementario,36,Estelas de condensación persistentes cubriendo menos de 1/8 del cielo,Estelas de condensación (Nť – Tabla de cifrado 2752)
+0 20 136,Tipo de nubes suplementario,37,Estelas de condensación persistentes cubriendo 1/8 del cielo,Estelas de condensación (Nť – Tabla de cifrado 2752)
+0 20 136,Tipo de nubes suplementario,38,Estelas de condensación persistentes cubriendo 2/8 del cielo,Estelas de condensación (Nť – Tabla de cifrado 2752)
+0 20 136,Tipo de nubes suplementario,39,Estelas de condensación persistentes cubriendo 3/8 o más del cielo,Estelas de condensación (Nť – Tabla de cifrado 2752)
+0 20 136,Tipo de nubes suplementario,40,Ausencia de nubes o neblina,Condiciones de nubosidad observadas desde un nivel superior (Nv - Tabla de cifrado 2754)
+0 20 136,Tipo de nubes suplementario,41,Neblina bajo cielos despejados,Condiciones de nubosidad observadas desde un nivel superior (Nv - Tabla de cifrado 2754)
+0 20 136,Tipo de nubes suplementario,42,Niebla fragmentaria,Condiciones de nubosidad observadas desde un nivel superior (Nv - Tabla de cifrado 2754)
+0 20 136,Tipo de nubes suplementario,43,Capa de niebla tenue,Condiciones de nubosidad observadas desde un nivel superior (Nv - Tabla de cifrado 2754)
+0 20 136,Tipo de nubes suplementario,44,Capa de niebla espesa,Condiciones de nubosidad observadas desde un nivel superior (Nv - Tabla de cifrado 2754)
+0 20 136,Tipo de nubes suplementario,45,Algunas nubes aisladas,Condiciones de nubosidad observadas desde un nivel superior (Nv - Tabla de cifrado 2754)
+0 20 136,Tipo de nubes suplementario,46,Nubes aisladas y niebla a menor nivel,Condiciones de nubosidad observadas desde un nivel superior (Nv - Tabla de cifrado 2754)
+0 20 136,Tipo de nubes suplementario,47,Numerosas nubes aisladas,Condiciones de nubosidad observadas desde un nivel superior (Nv - Tabla de cifrado 2754)
+0 20 136,Tipo de nubes suplementario,48,Mar de nubes,Condiciones de nubosidad observadas desde un nivel superior (Nv - Tabla de cifrado 2754)
+0 20 136,Tipo de nubes suplementario,49,Mala visibilidad oscureciendo la visión descendente,Condiciones de nubosidad observadas desde un nivel superior (Nv - Tabla de cifrado 2754)
+0 20 136,Tipo de nubes suplementario,50-510,Reservadas,
+0 20 136,Tipo de nubes suplementario,511,Valor faltante,
+0 20 137,Evolución de las nubes,0,Sin cambios,
+0 20 137,Evolución de las nubes,1,Cumulificación,
+0 20 137,Evolución de las nubes,2,Elevación lenta,
+0 20 137,Evolución de las nubes,3,Elevación rápida,
+0 20 137,Evolución de las nubes,4,Elevación y estratificación,
+0 20 137,Evolución de las nubes,5,Descenso lento,
+0 20 137,Evolución de las nubes,6,Descenso rápido,
+0 20 137,Evolución de las nubes,7,Estratificación,
+0 20 137,Evolución de las nubes,8,Estratificación y descenso,
+0 20 137,Evolución de las nubes,9,Cambios rápidos,
+0 20 137,Evolución de las nubes,10-14,Reservadas,
+0 20 137,Evolución de las nubes,15,Valor faltante,
+0 20 138,Condición de la superficie de la carretera,0,Seca,
+0 20 138,Condición de la superficie de la carretera,1,Húmeda,
+0 20 138,Condición de la superficie de la carretera,2,Mojada,
+0 20 138,Condición de la superficie de la carretera,3,Cencellada blanca,
+0 20 138,Condición de la superficie de la carretera,4,Nieve,
+0 20 138,Condición de la superficie de la carretera,5,Hielo,
+0 20 138,Condición de la superficie de la carretera,6,Hielo liso,
+0 20 138,Condición de la superficie de la carretera,7,No seca,
+0 20 138,Condición de la superficie de la carretera,8-14,Reservadas,
+0 20 138,Condición de la superficie de la carretera,15,Valor faltante,

@@ -1,0 +1,718 @@
+﻿TABLE_NO,TABLE_NAME,CODEFLAG,ELEMENT,OTHER
+0 20 003,Tiempo presente,Cifra de clave,Sin precipitaciones en la estación en el momento de la observación,
+0 20 003,Tiempo presente,Cifra de clave,"Sin precipitación, niebla, niebla helada (excepto para 11 y 12), tempestad de polvo, tempestad de arena, ventisca alta o baja en la estación* en el momento de la observación o, excepto para 09 y 17, durante la hora precedente",
+0 20 003,Tiempo presente,Cifra de clave,"Sin presencia de meteoros, excepto fotometeoro",
+0 20 003,Tiempo presente,Cifra de clave,Ningún desarrollo nuboso fue observado o pudo ser observado,Variación característica del estado del cielo o haciéndose menos espesas en el curso de la hora precedente
+0 20 003,Tiempo presente,Cifra de clave,Nubes que en general van disipándose,Variación característica del estado del cielo o haciéndose menos espesas en el curso de la hora precedente
+0 20 003,Tiempo presente,Cifra de clave,Estado del cielo sin cambios en su conjunto,Variación característica del estado del cielo o haciéndose menos espesas en el curso de la hora precedente
+0 20 003,Tiempo presente,Cifra de clave,Nubes en formación o en desarrollo,Variación característica del estado del cielo o haciéndose menos espesas en el curso de la hora precedente
+0 20 003,Tiempo presente,Cifra de clave,"Bruma, polvo, arena o humo",
+0 20 003,Tiempo presente,Cifra de clave,"Visibilidad reducida por humo, por ejemplo fuego de maleza o incendio de bosques, humo industrial o cenizas volcánicas",
+0 20 003,Tiempo presente,Cifra de clave,Bruma,
+0 20 003,Tiempo presente,Cifra de clave,"Polvo en suspensión en el aire, que abarca gran extensión, no levantado por el viento en la estación o en sus alrededores, en el momento de la observación",
+0 20 003,Tiempo presente,Cifra de clave,"Polvo o arena levantado por el viento en la estación o en sus alrededores en el momento de la observación, pero sin torbellino(s) de polvo o de arena bien desarrollado(s) ni tempestad de polvo o de arena a la vista; o rociones en la estación, en el caso de una estación en mar o en la costa",
+0 20 003,Tiempo presente,Cifra de clave,"Torbellino(s) de polvo o de arena bien desarrollado(s), observado(s) en la estación o en sus alrededores durante la hora precedente o en el momento de la observación, pero sin tempestad de polvo o de arena",
+0 20 003,Tiempo presente,Cifra de clave,"Tempestad de polvo o de arena a la vista en el momento de la observación, o en la estación misma durante la hora precedente",
+0 20 003,Tiempo presente,Cifra de clave,Neblina,
+0 20 003,Tiempo presente,Cifra de clave,En bancos,"Capa delgada de niebla o de niebla helada en la estación, ya sea en tierra o en el mar, de un espesor no mayor de 2 metros sobre tierra o de 10 metros sobre el mar"
+0 20 003,Tiempo presente,Cifra de clave,Más o menos continua,"Capa delgada de niebla o de niebla helada en la estación, ya sea en tierra o en el mar, de un espesor no mayor de 2 metros sobre tierra o de 10 metros sobre el mar"
+0 20 003,Tiempo presente,Cifra de clave,"Relámpagos a la vista, sin oírse truenos",
+0 20 003,Tiempo presente,Cifra de clave,"Precipitación a la vista, que no llega al suelo o a la superficie del mar",
+0 20 003,Tiempo presente,Cifra de clave,"Precipitación a la vista, que llega al suelo o a la superficie del mar, pero distante, es decir, estimada a más de 5 km de la estación",
+0 20 003,Tiempo presente,Cifra de clave,"Precipitación a la vista, que llega al suelo o a la superficie del mar cerca de la estación, pero no en la estación misma",
+0 20 003,Tiempo presente,Cifra de clave,"Tormenta, pero sin precipitación en el momento de la observación",
+0 20 003,Tiempo presente,Cifra de clave,Turbonadas,en la estación o a la vista durante la hora precedente o en el momento de la observación
+0 20 003,Tiempo presente,Cifra de clave,Nubes con forma de embudo**,en la estación o a la vista durante la hora precedente o en el momento de la observación
+0 20 003,Tiempo presente,Cifra de clave,"Precipitación, niebla, niebla helada o tormenta en la estación en el curso de la hora precedente pero no en el momento de la observación",
+0 20 003,Tiempo presente,Cifra de clave,Llovizna (no engelante) o cinarra,no en forma de chubasco(s)
+0 20 003,Tiempo presente,Cifra de clave,Lluvia (no engelante),no en forma de chubasco(s)
+0 20 003,Tiempo presente,Cifra de clave,Nieve,no en forma de chubasco(s)
+0 20 003,Tiempo presente,Cifra de clave,Lluvia y nieve o hielo granulado,no en forma de chubasco(s)
+0 20 003,Tiempo presente,Cifra de clave,Llovizna engelante o lluvia engelante,no en forma de chubasco(s)
+0 20 003,Tiempo presente,Cifra de clave,Chubasco(s) de lluvia,
+0 20 003,Tiempo presente,Cifra de clave,Chubasco(s) de nieve o de lluvia y nieve,
+0 20 003,Tiempo presente,Cifra de clave,"Chubasco(s) de granizo*, o de lluvia y granizo*",
+0 20 003,Tiempo presente,Cifra de clave,Niebla o niebla helada,
+0 20 003,Tiempo presente,Cifra de clave,Tormenta (con o sin precipitación),
+0 20 003,Tiempo presente,Cifra de clave,"Tempestad de polvo, tempestad de arena, ventisca baja o alta",
+0 20 003,Tiempo presente,Cifra de clave,Tempestad de polvo de arena débil o moderada,ha disminuido en el curso de la hora precedente
+0 20 003,Tiempo presente,Cifra de clave,Tempestad de polvo de arena débil o moderada,sin cambio apreciable en el curso de la hora precedente
+0 20 003,Tiempo presente,Cifra de clave,Tempestad de polvo de arena débil o moderada,ha comenzado o ha aumentado en el curso de la hora precedente
+0 20 003,Tiempo presente,Cifra de clave,Tempestad de polvo o de arena fuerte,ha disminuido en el curso de la hora precedente
+0 20 003,Tiempo presente,Cifra de clave,Tempestad de polvo o de arena fuerte,sin cambio apreciable en el curso de la hora precedente curso de la hora precedente
+0 20 003,Tiempo presente,Cifra de clave,Tempestad de polvo o de arena fuerte,ha comenzado o ha aumentado en el curso de la hora precedente
+0 20 003,Tiempo presente,Cifra de clave,Ventisca débil o moderada,generalmente baja (por debajo del nivel de la vista del observador)
+0 20 003,Tiempo presente,Cifra de clave,Ventisca fuerte,generalmente baja (por debajo del nivel de la vista del observador)
+0 20 003,Tiempo presente,Cifra de clave,Ventisca débil o moderada,generalmente alta (por encima del nivel de la vista del observador)
+0 20 003,Tiempo presente,Cifra de clave,Ventisca fuerte,generalmente alta (por encima del nivel de la vista del observador)
+0 20 003,Tiempo presente,Cifra de clave,Niebla o niebla helada en el momento de la observación,
+0 20 003,Tiempo presente,Cifra de clave,"Niebla o niebla helada a la distancia en el momento de la observación, pero no en la estación durante la hora precedente; la niebla o niebla helada se extiende hasta un nivel superior al del observador",
+0 20 003,Tiempo presente,Cifra de clave,Niebla o niebla helada en bancos,
+0 20 003,Tiempo presente,Cifra de clave,"Niebla o niebla helada, cielo visible",ha disminuido en el curso de la hora precedente
+0 20 003,Tiempo presente,Cifra de clave,"Niebla o niebla helada, cielo invisible",ha disminuido en el curso de la hora precedente
+0 20 003,Tiempo presente,Cifra de clave,"Niebla o niebla helada, cielo visible",sin cambio apreciable en el curso de la hora precedente
+0 20 003,Tiempo presente,Cifra de clave,"Niebla o niebla helada, cielo invisible",sin cambio apreciable en el curso de la hora precedente
+0 20 003,Tiempo presente,Cifra de clave,"Niebla o niebla helada, cielo visible",ha comenzado o se ha espesado en el curso de la hora precedente
+0 20 003,Tiempo presente,Cifra de clave,"Niebla o niebla helada, cielo invisible",ha comenzado o se ha espesado en el curso de la hora precedente
+0 20 003,Tiempo presente,Cifra de clave,"Niebla que deposita cencellada blanca, cielo visible",
+0 20 003,Tiempo presente,Cifra de clave,"Niebla que deposita cencellada blanca, cielo invisible",
+0 20 003,Tiempo presente,Cifra de clave,Precipitación en la estación en el momento de la observación,
+0 20 003,Tiempo presente,Cifra de clave,Llovizna,
+0 20 003,Tiempo presente,Cifra de clave,"Llovizna intermitente, no engelante",débil en el momento de la observación
+0 20 003,Tiempo presente,Cifra de clave,"Llovizna continua, no engelante",débil en el momento de la observación
+0 20 003,Tiempo presente,Cifra de clave,"Llovizna intermitente, no engelante",moderada en el momento de la observación
+0 20 003,Tiempo presente,Cifra de clave,"Llovizna continua, no engelante",moderada en el momento de la observación
+0 20 003,Tiempo presente,Cifra de clave,"Llovizna intermitente, no engelante",fuerte (densa) en el momento de la observación
+0 20 003,Tiempo presente,Cifra de clave,"Llovizna continua, no engelante",fuerte (densa) en el momento de la observación
+0 20 003,Tiempo presente,Cifra de clave,"Llovizna débil, engelante",
+0 20 003,Tiempo presente,Cifra de clave,Llovizna moderada o fuerte (densa) engelante,
+0 20 003,Tiempo presente,Cifra de clave,"Llovizna y lluvia, débil",
+0 20 003,Tiempo presente,Cifra de clave,"Llovizna y lluvia, moderada o fuerte",
+0 20 003,Tiempo presente,Cifra de clave,Lluvia,
+0 20 003,Tiempo presente,Cifra de clave,"Lluvia intermitente, no engelante",débil en el momento de la observación
+0 20 003,Tiempo presente,Cifra de clave,"Lluvia continua, no engelante",débil en el momento de la observación
+0 20 003,Tiempo presente,Cifra de clave,"Lluvia intermitente, no engelante",moderada en el momento de la observación
+0 20 003,Tiempo presente,Cifra de clave,"Lluvia continua, no engelante",moderada en el momento de la observación
+0 20 003,Tiempo presente,Cifra de clave,"Lluvia intermitente, no engelante",fuerte (densa) en el momento de la observación
+0 20 003,Tiempo presente,Cifra de clave,"Lluvia continua, no engelante",fuerte (densa) en el momento de la observación
+0 20 003,Tiempo presente,Cifra de clave,"Lluvia débil, engelante",
+0 20 003,Tiempo presente,Cifra de clave,"Lluvia moderada o fuerte, engelante",
+0 20 003,Tiempo presente,Cifra de clave,"Lluvia y nieve o llovizna y nieve, débil",
+0 20 003,Tiempo presente,Cifra de clave,"Lluvia y nieve o llovizna y nieve, moderada o fuerte",
+0 20 003,Tiempo presente,Cifra de clave,"Precipitación sólida, pero no en forma de chubasco",
+0 20 003,Tiempo presente,Cifra de clave,Caída intermitente de copos de nieve,débil en el momento de la observación
+0 20 003,Tiempo presente,Cifra de clave,Caída continua de copos de nieve,débil en el momento de la observación
+0 20 003,Tiempo presente,Cifra de clave,Caída intermitente de copos de nieve,moderada en el momento de la observación
+0 20 003,Tiempo presente,Cifra de clave,Caída continua de copos de nieve,moderada en el momento de la observación
+0 20 003,Tiempo presente,Cifra de clave,Caída intermitente de copos de nieve,fuerte en el momento de la observación
+0 20 003,Tiempo presente,Cifra de clave,Caída continua de copos de nieve,fuerte en el momento de la observación
+0 20 003,Tiempo presente,Cifra de clave,Prismas de hielo (con niebla o sin ella),
+0 20 003,Tiempo presente,Cifra de clave,Granos de nieve (cinarra) (con niebla o sin ella),
+0 20 003,Tiempo presente,Cifra de clave,Cristales de nieve aislados en forma de estrella (con niebla o sin ella),
+0 20 003,Tiempo presente,Cifra de clave,Hielo granulado,
+0 20 003,Tiempo presente,Cifra de clave,Precipitación en forma de chubascos o precipitación con tormenta o después de una tormenta,
+0 20 003,Tiempo presente,Cifra de clave,"Chubasco(s) de lluvia, débil(es)",
+0 20 003,Tiempo presente,Cifra de clave,"Chubasco(s) de lluvia, moderado(s) o fuerte(s)",
+0 20 003,Tiempo presente,Cifra de clave,"Chubasco(s) de lluvia, violento(s)",
+0 20 003,Tiempo presente,Cifra de clave,"Chubasco(s) de lluvia y nieve, débil(es)",
+0 20 003,Tiempo presente,Cifra de clave,"Chubasco(s) de lluvia y nieve, moderado(s) o fuerte(s)",
+0 20 003,Tiempo presente,Cifra de clave,"Chubasco(s) de nieve, débil(es)",
+0 20 003,Tiempo presente,Cifra de clave,"Chubasco(s) de nieve, moderado(s) o fuerte(s)",
+0 20 003,Tiempo presente,Cifra de clave,"Chubasco(s) de nieve granulada o granizo menudo, con lluvia o lluvia y nieve, o sin ellas",débil(es)
+0 20 003,Tiempo presente,Cifra de clave,"Chubasco(s) de nieve granulada o granizo menudo, con lluvia o lluvia y nieve, o sin ellas",moderado(s) o fuerte(s)
+0 20 003,Tiempo presente,Cifra de clave,"Chubasco(s) de granizo, con lluvia o lluvia y nieve, o sin ellas y sin truenos",débil(es)
+0 20 003,Tiempo presente,Cifra de clave,"Chubasco(s) de granizo, con lluvia o lluvia y nieve, o sin ellas y sin truenos",moderado(s) o fuerte(s)
+0 20 003,Tiempo presente,Cifra de clave,Lluvia débil en el momento de la observación,"Tormenta durante la hora precedente, pero no en el momento de la observación"
+0 20 003,Tiempo presente,Cifra de clave,Lluvia moderada o fuerte en el momento de la observación,"Tormenta durante la hora precedente, pero no en el momento de la observación"
+0 20 003,Tiempo presente,Cifra de clave,"Nieve o lluvia y nieve o granizo*, débiles en el momento de la observación","Tormenta durante la hora precedente, pero no en el momento de la observación"
+0 20 003,Tiempo presente,Cifra de clave,"Nieve o lluvia y nieve o granizo*, moderados o fuertes en el momento de la observación","Tormenta durante la hora precedente, pero no en el momento de la observación"
+0 20 003,Tiempo presente,Cifra de clave,"Tormenta débil o moderada sin granizo*, pero con lluvia y/o nieve en el momento de la observación",Tormenta en el momento de la en el momento de la observación
+0 20 003,Tiempo presente,Cifra de clave,"Tormenta débil o moderada, con granizo* en el momento de la observación",Tormenta en el momento de la en el momento de la observación
+0 20 003,Tiempo presente,Cifra de clave,"Tormenta fuerte sin granizo*, pero con lluvia y/o nieve",Tormenta en el momento de la en el momento de la observación
+0 20 003,Tiempo presente,Cifra de clave,Tormenta con tempestad de polvo o de arena en el momento de la observación,Tormenta en el momento de la en el momento de la observación
+0 20 003,Tiempo presente,Cifra de clave,"Tormenta fuerte, con granizo*, en el momento de la observación",Tormenta en el momento de la en el momento de la observación
+0 20 003,Tiempo presente,Cifra de clave,Tiempo presente notificado desde una estación automática,
+0 20 003,Tiempo presente,Cifra de clave,No fue observado ningún tiempo significativo,
+0 20 003,Tiempo presente,Cifra de clave,Nubes en disolución o haciéndose menos espesas en el curso de la hora precedente,
+0 20 003,Tiempo presente,Cifra de clave,Estado del cielo sin cambios en su conjunto en el curso de la hora precedente,
+0 20 003,Tiempo presente,Cifra de clave,Nubes en formación o en desarrollo en el curso de la hora precedente,
+0 20 003,Tiempo presente,Cifra de clave,"Bruma o humo, o polvo en suspensión en el aire, visibilidad igual o superior a 1 km",
+0 20 003,Tiempo presente,Cifra de clave,"Bruma o humo, o polvo en suspensión en el aire, visibilidad inferior a 1 km",
+0 20 003,Tiempo presente,Cifra de clave,Reservadas,
+0 20 003,Tiempo presente,Cifra de clave,Neblina,
+0 20 003,Tiempo presente,Cifra de clave,Prismas de hielo,
+0 20 003,Tiempo presente,Cifra de clave,Relámpagos distantes,
+0 20 003,Tiempo presente,Cifra de clave,Reservadas,
+0 20 003,Tiempo presente,Cifra de clave,Turbonada,
+0 20 003,Tiempo presente,Cifra de clave,Reservada,
+0 20 003,Tiempo presente,Cifra de clave,"Las cifras de clave 120-126 se utilizan para informar sobre precipitación, niebla (o niebla helada) o tormenta en la estación en el curso de la hora precedente pero no en el momento de la observación",
+0 20 003,Tiempo presente,Cifra de clave,Niebla,
+0 20 003,Tiempo presente,Cifra de clave,PRECIPITACIÓN,
+0 20 003,Tiempo presente,Cifra de clave,Llovizna (no engelante) o cinarra,
+0 20 003,Tiempo presente,Cifra de clave,Lluvia (no engelante),
+0 20 003,Tiempo presente,Cifra de clave,Nieve,
+0 20 003,Tiempo presente,Cifra de clave,Llovizna engelante o lluvia engelante,
+0 20 003,Tiempo presente,Cifra de clave,Tormenta (con precipitación o sin ella),
+0 20 003,Tiempo presente,Cifra de clave,VENTISCA ALTA O VENTISCA BAJA DE NIEVE O ARENA,
+0 20 003,Tiempo presente,Cifra de clave,"Ventisca alta o ventisca baja de nieve o arena, visibilidad igual o superior a 1 km",
+0 20 003,Tiempo presente,Cifra de clave,"Ventisca alta o ventisca baja de nieve o arena, visibilidad inferior a 1 km",
+0 20 003,Tiempo presente,Cifra de clave,NIEBLA,
+0 20 003,Tiempo presente,Cifra de clave,Niebla o niebla helada en bancos,
+0 20 003,Tiempo presente,Cifra de clave,"Niebla o niebla helada, que ha disminuido en el curso de la hora precedente",
+0 20 003,Tiempo presente,Cifra de clave,Niebla o niebla helada sin cambio apreciable en el curso de la hora precedente,
+0 20 003,Tiempo presente,Cifra de clave,"Niebla o niebla helada, que ha comenzado o se ha espesado en el curso de la hora precedente",
+0 20 003,Tiempo presente,Cifra de clave,Niebla que deposita cencellada blanca,
+0 20 003,Tiempo presente,Cifra de clave,Reservadas,
+0 20 003,Tiempo presente,Cifra de clave,PRECIPITACIÓN,
+0 20 003,Tiempo presente,Cifra de clave,"Precipitación, débil o moderada",
+0 20 003,Tiempo presente,Cifra de clave,"Precipitación, fuerte",
+0 20 003,Tiempo presente,Cifra de clave,"Precipitación líquida, débil o moderada",
+0 20 003,Tiempo presente,Cifra de clave,"Precipitación líquida, fuerte",
+0 20 003,Tiempo presente,Cifra de clave,"Precipitación sólida, débil o moderada",
+0 20 003,Tiempo presente,Cifra de clave,"Precipitación sólida, fuerte",
+0 20 003,Tiempo presente,Cifra de clave,"Precipitación engelante, débil o moderada",
+0 20 003,Tiempo presente,Cifra de clave,"Precipitación engelante, fuerte",
+0 20 003,Tiempo presente,Cifra de clave,Reservada,
+0 20 003,Tiempo presente,Cifra de clave,LLOVIZNA,
+0 20 003,Tiempo presente,Cifra de clave,"Llovizna, no engelante, débil",
+0 20 003,Tiempo presente,Cifra de clave,"Llovizna, no engelante, moderada",
+0 20 003,Tiempo presente,Cifra de clave,"Llovizna, no engelante, fuerte",
+0 20 003,Tiempo presente,Cifra de clave,"Llovizna, engelante, débil",
+0 20 003,Tiempo presente,Cifra de clave,"Llovizna, engelante, moderada",
+0 20 003,Tiempo presente,Cifra de clave,"Llovizna, engelante, fuerte",
+0 20 003,Tiempo presente,Cifra de clave,"Llovizna y lluvia, débil",
+0 20 003,Tiempo presente,Cifra de clave,"Llovizna y lluvia, moderada o fuerte",
+0 20 003,Tiempo presente,Cifra de clave,Reservada,
+0 20 003,Tiempo presente,Cifra de clave,LLUVIA,
+0 20 003,Tiempo presente,Cifra de clave,"Lluvia, no engelante, débil",
+0 20 003,Tiempo presente,Cifra de clave,"Lluvia, no engelante, moderada",
+0 20 003,Tiempo presente,Cifra de clave,"Lluvia, no engelante, fuerte",
+0 20 003,Tiempo presente,Cifra de clave,"Lluvia, engelante, débil",
+0 20 003,Tiempo presente,Cifra de clave,"Lluvia, engelante, moderada",
+0 20 003,Tiempo presente,Cifra de clave,"Lluvia, engelante, fuerte",
+0 20 003,Tiempo presente,Cifra de clave,"Lluvia (o llovizna) y nieve, débil",
+0 20 003,Tiempo presente,Cifra de clave,"Lluvia (o llovizna) y nieve, moderada o fuerte",
+0 20 003,Tiempo presente,Cifra de clave,Reservada,
+0 20 003,Tiempo presente,Cifra de clave,NIEVE,
+0 20 003,Tiempo presente,Cifra de clave,"Nieve, débil",
+0 20 003,Tiempo presente,Cifra de clave,"Nieve, moderada",
+0 20 003,Tiempo presente,Cifra de clave,"Nieve, fuerte",
+0 20 003,Tiempo presente,Cifra de clave,"Hielo granulado, débil",
+0 20 003,Tiempo presente,Cifra de clave,"Hielo granulado, moderado",
+0 20 003,Tiempo presente,Cifra de clave,"Hielo granulado, fuerte",
+0 20 003,Tiempo presente,Cifra de clave,Cinarra,
+0 20 003,Tiempo presente,Cifra de clave,Cristales de hielo,
+0 20 003,Tiempo presente,Cifra de clave,Reservada,
+0 20 003,Tiempo presente,Cifra de clave,CHUBASCO(S) o PRECIPITACIÓN INTERMITENTE,
+0 20 003,Tiempo presente,Cifra de clave,"Chubasco(s) de lluvia o lluvia intermitente, débil",
+0 20 003,Tiempo presente,Cifra de clave,"Chubasco(s) de lluvia o lluvia intermitente, moderada",
+0 20 003,Tiempo presente,Cifra de clave,"Chubasco(s) de lluvia o lluvia intermitente, fuerte",
+0 20 003,Tiempo presente,Cifra de clave,"Chubasco(s) de lluvia o lluvia intermitente, violenta",
+0 20 003,Tiempo presente,Cifra de clave,"Chubasco(s) de nieve o nieve intermitente, débil",
+0 20 003,Tiempo presente,Cifra de clave,"Chubasco(s) de nieve o nieve intermitente, moderada",
+0 20 003,Tiempo presente,Cifra de clave,"Chubasco(s) de nieve o nieve intermitente, fuerte",
+0 20 003,Tiempo presente,Cifra de clave,Reservada,
+0 20 003,Tiempo presente,Cifra de clave,Granizo,
+0 20 003,Tiempo presente,Cifra de clave,TORMENTA,
+0 20 003,Tiempo presente,Cifra de clave,"Tormenta, débil o moderada, sin precipitación",
+0 20 003,Tiempo presente,Cifra de clave,"Tormenta, débil o moderada, con chubascos de lluvia y/o chubascos de nieve",
+0 20 003,Tiempo presente,Cifra de clave,"Tormenta, débil o moderada, con granizo",
+0 20 003,Tiempo presente,Cifra de clave,"Tormenta, fuerte, sin precipitación",
+0 20 003,Tiempo presente,Cifra de clave,"Tormenta, fuerte, con chubascos de lluvia y/o chubascos de nieve",
+0 20 003,Tiempo presente,Cifra de clave,"Tormenta, fuerte, con granizo",
+0 20 003,Tiempo presente,Cifra de clave,Reservadas,
+0 20 003,Tiempo presente,Cifra de clave,Tornado,
+0 20 003,Tiempo presente,Decilos,Tiempo presente (además del tiempo presente notificado desde una estación automática o con dotación de personal),
+0 20 003,Tiempo presente,Decilos,No utilizadas,
+0 20 003,Tiempo presente,Decilos,Cenizas volcánicas en suspensión a gran altitud,
+0 20 003,Tiempo presente,Decilos,No utilizada,
+0 20 003,Tiempo presente,Decilos,"Calima espesa de polvo, visibilidad inferior a 1 km",
+0 20 003,Tiempo presente,Decilos,Ventisca de rociones en la estación,
+0 20 003,Tiempo presente,Decilos,Ventisca de polvo baja (arena),
+0 20 003,Tiempo presente,Decilos,Muro de polvo o arena a distancia (como el haboob),
+0 20 003,Tiempo presente,Decilos,Calima de nieve,
+0 20 003,Tiempo presente,Decilos,Resplandor blanco,
+0 20 003,Tiempo presente,Decilos,No utilizada,
+0 20 003,Tiempo presente,Decilos,"Relámpago, de la nube a la superficie",
+0 20 003,Tiempo presente,Decilos,No utilizadas,
+0 20 003,Tiempo presente,Decilos,Tormenta seca,
+0 20 003,Tiempo presente,Decilos,No utilizada,
+0 20 003,Tiempo presente,Decilos,Nube de tornado (devastadora) en la estación o a la vista de ésta observada en la hora anterior o en el momento de la observación,
+0 20 003,Tiempo presente,Decilos,Depósito de cenizas volcánicas,
+0 20 003,Tiempo presente,Decilos,Depósito de polvo o arena,
+0 20 003,Tiempo presente,Decilos,Depósito de rocío,
+0 20 003,Tiempo presente,Decilos,Depósito de aguanieve,
+0 20 003,Tiempo presente,Decilos,Depósito de cencellada blanca granulada,
+0 20 003,Tiempo presente,Decilos,Depósito de cencellada blanca cristalizada,
+0 20 003,Tiempo presente,Decilos,Depósito de escarcha,
+0 20 003,Tiempo presente,Decilos,Depósito de cencellada transparente,
+0 20 003,Tiempo presente,Decilos,Depósito de costra de hielo (hielo liso),
+0 20 003,Tiempo presente,Decilos,No utilizada,
+0 20 003,Tiempo presente,Decilos,Tempestad de polvo o de arena con temperatura inferior a 0°C,
+0 20 003,Tiempo presente,Decilos,No utilizadas,
+0 20 003,Tiempo presente,Decilos,"Ventisca de nieve, imposibilidad de determinar si la nieve cae o no",
+0 20 003,Tiempo presente,Decilos,No utilizada,
+0 20 003,Tiempo presente,Decilos,Niebla en el mar,
+0 20 003,Tiempo presente,Decilos,Niebla en valles,
+0 20 003,Tiempo presente,Decilos,Humo en el mar Ártico o Antártico,
+0 20 003,Tiempo presente,Decilos,"Vapor de niebla (mar, lago o río)",
+0 20 003,Tiempo presente,Decilos,Vapor de niebla (tierra),
+0 20 003,Tiempo presente,Decilos,Niebla sobre la capa de hielo o el manto de nieve,
+0 20 003,Tiempo presente,Decilos,"Niebla densa, visibilidad 60-90 m",
+0 20 003,Tiempo presente,Decilos,"Niebla densa, visibilidad 30-60 m",
+0 20 003,Tiempo presente,Decilos,"Niebla densa, visibilidad inferior a 30 m",
+0 20 003,Tiempo presente,Decilos,"Llovizna, velocidad de la caída","menos de 0,10 mm h¯¹"
+0 20 003,Tiempo presente,Decilos,"Llovizna, velocidad de la caída","0,10-0,19 mm h-1"
+0 20 003,Tiempo presente,Decilos,"Llovizna, velocidad de la caída","0,20-0,39 mm h-1"
+0 20 003,Tiempo presente,Decilos,"Llovizna, velocidad de la caída","0,40-0,79 mm h-¹"
+0 20 003,Tiempo presente,Decilos,"Llovizna, velocidad de la caída","0,80-1,59 mm h¯¹"
+0 20 003,Tiempo presente,Decilos,"Llovizna, velocidad de la caída","1,60-3,19 mm h-1"
+0 20 003,Tiempo presente,Decilos,"Llovizna, velocidad de la caída","3,20-6,39 mm h-1"
+0 20 003,Tiempo presente,Decilos,"Llovizna, velocidad de la caída","6,4 mm h¯¹ o más"
+0 20 003,Tiempo presente,Decilos,No utilizada,
+0 20 003,Tiempo presente,Decilos,Llovizna y nieve,
+0 20 003,Tiempo presente,Decilos,"Lluvia, intensidad","menos de 1,0 mm h-1"
+0 20 003,Tiempo presente,Decilos,"Lluvia, intensidad","1,0-1,9 mm h-1"
+0 20 003,Tiempo presente,Decilos,"Lluvia, intensidad","2,0-3,9 mm h-1"
+0 20 003,Tiempo presente,Decilos,"Lluvia, intensidad","4,0-7,9 mm h-1"
+0 20 003,Tiempo presente,Decilos,"Lluvia, intensidad","8,0-15,9 mm h-1"
+0 20 003,Tiempo presente,Decilos,"Lluvia, intensidad","16,0-31,9 mm h-1"
+0 20 003,Tiempo presente,Decilos,"Lluvia, intensidad","32,0-63,9 mm h-1"
+0 20 003,Tiempo presente,Decilos,"Lluvia, intensidad","64,0 mm h-¹ o más"
+0 20 003,Tiempo presente,Decilos,No utilizadas,
+0 20 003,Tiempo presente,Decilos,"Nevada, intensidad","menos de 1,0 cm h-1"
+0 20 003,Tiempo presente,Decilos,"Nevada, intensidad","1,0-1,9 cm h-1"
+0 20 003,Tiempo presente,Decilos,"Nevada, intensidad","2,0-3,9 cm h-1"
+0 20 003,Tiempo presente,Decilos,"Nevada, intensidad","4,0-7,9 cm h-1"
+0 20 003,Tiempo presente,Decilos,"Nevada, intensidad","8,0-15,9 cm h-1"
+0 20 003,Tiempo presente,Decilos,"Nevada, intensidad","16,0-31,9 cm h-1"
+0 20 003,Tiempo presente,Decilos,"Nevada, intensidad","32,0-63,9 cm h-1"
+0 20 003,Tiempo presente,Decilos,"Nevada, intensidad","64,0 cm h¯¹ o más"
+0 20 003,Tiempo presente,Decilos,Precipitación de cristales de nieve o hielo con cielo despejado,
+0 20 003,Tiempo presente,Decilos,Aguanieve engelante al contacto,
+0 20 003,Tiempo presente,Decilos,Precipitación de lluvia,
+0 20 003,Tiempo presente,Decilos,"Precipitación de lluvia, engelante",
+0 20 003,Tiempo presente,Decilos,Precipitación de lluvia y nieve mezcladas,
+0 20 003,Tiempo presente,Decilos,Precipitación de nieve,
+0 20 003,Tiempo presente,Decilos,Precipitación de nieve granulada o granizo menudo,
+0 20 003,Tiempo presente,Decilos,"Precipitación de nieve granulada o granizo menudo, con lluvia",
+0 20 003,Tiempo presente,Decilos,"Precipitación de nieve granulada o granizo menudo, con lluvia y nieve mezcladas",
+0 20 003,Tiempo presente,Decilos,"Precipitación de nieve granulada o granizo menudo, con nieve",
+0 20 003,Tiempo presente,Decilos,Precipitación de granizo,
+0 20 003,Tiempo presente,Decilos,Precipitación de granizo con lluvia,
+0 20 003,Tiempo presente,Decilos,Precipitación de granizo con lluvia y nieve mezcladas,
+0 20 003,Tiempo presente,Decilos,Precipitación de granizo con nieve,
+0 20 003,Tiempo presente,Decilos,Chubasco(s) o tormenta sobre el mar,
+0 20 003,Tiempo presente,Decilos,Chubasco(s) o tormenta sobre montañas,
+0 20 003,Tiempo presente,Decilos,No utilizadas,
+0 20 003,Tiempo presente,Cifra de clave,Reservadas,
+0 20 003,Tiempo presente,Cifra de clave,No se comunica ningún fenómeno significativo y se omite el tiempo presente y pasado,
+0 20 003,Tiempo presente,Cifra de clave,"Sin observación, ningún dato disponible, se omite el tiempo presente y pasado",
+0 20 003,Tiempo presente,Cifra de clave,Falta pero se prevé el tiempo presente y pasado,
+0 20 003,Tiempo presente,Cifra de clave,Valor faltante,
+0 20 004/0 20 005,Tiempo pasado 1) y 2),Cifra de clave,Nubes que cubren la mitad o menos del cielo durante el período considerado,
+0 20 004/0 20 005,Tiempo pasado 1) y 2),Cifra de clave,Nubes que cubren más de la mitad del cielo durante una parte del período considerado y la mitad o menos durante otra parte del período,
+0 20 004/0 20 005,Tiempo pasado 1) y 2),Cifra de clave,Nubes que cubren más de la mitad del cielo durante todo el período considerado,
+0 20 004/0 20 005,Tiempo pasado 1) y 2),Cifra de clave,"Tempestad de arena, tempestad de polvo o ventisca alta",
+0 20 004/0 20 005,Tiempo pasado 1) y 2),Cifra de clave,Niebla o niebla helada o bruma espesa,
+0 20 004/0 20 005,Tiempo pasado 1) y 2),Cifra de clave,Llovizna,
+0 20 004/0 20 005,Tiempo pasado 1) y 2),Cifra de clave,Lluvia,
+0 20 004/0 20 005,Tiempo pasado 1) y 2),Cifra de clave,Nieve o lluvia y nieve mezcladas,
+0 20 004/0 20 005,Tiempo pasado 1) y 2),Cifra de clave,Chubasco(s),
+0 20 004/0 20 005,Tiempo pasado 1) y 2),Cifra de clave,"Tormenta(s), con precipitación o sin ella",
+0 20 004/0 20 005,Tiempo pasado 1) y 2),Cifra de clave,Ninguna observación de tiempo significativo,
+0 20 004/0 20 005,Tiempo pasado 1) y 2),Cifra de clave,VISIBILIDAD REDUCIDA (véase la nota),
+0 20 004/0 20 005,Tiempo pasado 1) y 2),Cifra de clave,"Fenómenos de ventisca, visibilidad reducida",
+0 20 004/0 20 005,Tiempo pasado 1) y 2),Cifra de clave,NIEBLA (véase la nota),
+0 20 004/0 20 005,Tiempo pasado 1) y 2),Cifra de clave,PRECIPITACIÓN (véase la nota),
+0 20 004/0 20 005,Tiempo pasado 1) y 2),Cifra de clave,Llovizna,
+0 20 004/0 20 005,Tiempo pasado 1) y 2),Cifra de clave,Lluvia,
+0 20 004/0 20 005,Tiempo pasado 1) y 2),Cifra de clave,Nieve o hielo granulado,
+0 20 004/0 20 005,Tiempo pasado 1) y 2),Cifra de clave,Chubascos o precipitación intermitente,
+0 20 004/0 20 005,Tiempo pasado 1) y 2),Cifra de clave,Tormenta,
+0 20 004/0 20 005,Tiempo pasado 1) y 2),Cifra de clave,Reservadas,
+0 20 004/0 20 005,Tiempo pasado 1) y 2),Cifra de clave,Valor faltante,
+0 20 006,Reglas de vuelo,Cifra de clave,Reglas de vuelo con instrumentos a baja altura - Techo de nubes < 500 pies y/o visibilidad < 1 milla,
+0 20 006,Reglas de vuelo,Cifra de clave,Reglas de vuelo con instrumentos - Techo de nubes < 1000 pies y/o visibilidad < 3 millas,
+0 20 006,Reglas de vuelo,Cifra de clave,Reglas de vuelo visual marginal 1000 pies ≤Techo < 3000 pies y/o 3 millas ≤ visibilidad < 5 millas,
+0 20 006,Reglas de vuelo,Cifra de clave,Reglas de vuelo visual - Techo de nubes ≥3000 pies y/o visibilidad ≥ 5 millas,
+0 20 006,Reglas de vuelo,Cifra de clave,Reservadas,
+0 20 006,Reglas de vuelo,Cifra de clave,Valor faltante,
+0 20 008,Distribución de las nubes para la aviación,Cifra de clave,Cielo despejado,
+0 20 008,Distribución de las nubes para la aviación,Cifra de clave,Escasa,
+0 20 008,Distribución de las nubes para la aviación,Cifra de clave,Dispersa,
+0 20 008,Distribución de las nubes para la aviación,Cifra de clave,Fragmentada,
+0 20 008,Distribución de las nubes para la aviación,Cifra de clave,Cielo cubierto,
+0 20 008,Distribución de las nubes para la aviación,Cifra de clave,Reservada,
+0 20 008,Distribución de las nubes para la aviación,Cifra de clave,Dispersa/fragmentada,(Muchas previsiones mencionan nubes dispersas/ fragmentadas o fragmentadas/cielo cubierto seguidas del (los) tipo(s) de nubes)
+0 20 008,Distribución de las nubes para la aviación,Cifra de clave,Fragmentada/cielo cubierto,(Muchas previsiones mencionan nubes dispersas/ fragmentadas o fragmentadas/cielo cubierto seguidas del (los) tipo(s) de nubes)
+0 20 008,Distribución de las nubes para la aviación,Cifra de clave,Nubes aisladas,(Utilizada en mapas de aviación para describir nubes del tipo Cb)
+0 20 008,Distribución de las nubes para la aviación,Cifra de clave,Nubes aisladas subsumidas,(Utilizada en mapas de aviación para describir nubes del tipo Cb)
+0 20 008,Distribución de las nubes para la aviación,Cifra de clave,Ocasionales,(Utilizada en mapas de aviación para describir nubes del tipo Cb)
+0 20 008,Distribución de las nubes para la aviación,Cifra de clave,Ocasionales subsumidas,(Utilizada en mapas de aviación para describir nubes del tipo Cb)
+0 20 008,Distribución de las nubes para la aviación,Cifra de clave,Frecuentes,(Utilizada en mapas de aviación para describir nubes del tipo Cb)
+0 20 008,Distribución de las nubes para la aviación,Cifra de clave,Densas,(Utilizada en mapas de aviación para describir nubes que podrían provocar cambios repentinos en la visibilidad (menos de 1 000 m))
+0 20 008,Distribución de las nubes para la aviación,Cifra de clave,Capas,
+0 20 008,Distribución de las nubes para la aviación,Cifra de clave,Oscurecido (OSBC),
+0 20 008,Distribución de las nubes para la aviación,Cifra de clave,Intercalado (EMBD),
+0 20 008,Distribución de las nubes para la aviación,Cifra de clave,Frecuentemente intercalado,
+0 20 008,Distribución de las nubes para la aviación,Cifra de clave,Reservadas,
+0 20 008,Distribución de las nubes para la aviación,Cifra de clave,Valor faltante,
+0 20 009,Indicador general del tiempo (TAF/METAR),Cifra de clave,Reservada,
+0 20 009,Indicador general del tiempo (TAF/METAR),Cifra de clave,Ausencia de nubes significativas (NSC),
+0 20 009,Indicador general del tiempo (TAF/METAR),Cifra de clave,CAVOK,
+0 20 009,Indicador general del tiempo (TAF/METAR),Cifra de clave,Cielo despejado (SKC),
+0 20 009,Indicador general del tiempo (TAF/METAR),Cifra de clave,Ausencia de tiempo significativo (NSW),
+0 20 009,Indicador general del tiempo (TAF/METAR),Cifra de clave,Reservadas,
+0 20 009,Indicador general del tiempo (TAF/METAR),Cifra de clave,Valor faltante,
+0 20 011,Nubosidad,Cifra de clave,0,0
+0 20 011,Nubosidad,Cifra de clave,"1 octa o menos, pero no cero","1/10 o menos, pero no cero"
+0 20 011,Nubosidad,Cifra de clave,2 octas,2/10 - 3/10
+0 20 011,Nubosidad,Cifra de clave,3 octas,4/10
+0 20 011,Nubosidad,Cifra de clave,4 octas,5/10
+0 20 011,Nubosidad,Cifra de clave,5 octas,6/10
+0 20 011,Nubosidad,Cifra de clave,6 octas,7/10 - 8/10
+0 20 011,Nubosidad,Cifra de clave,"7 octas o más, pero no 8 octas","9/10 o más, pero no 10/10"
+0 20 011,Nubosidad,Cifra de clave,8 octas,10/10
+0 20 011,Nubosidad,Cifra de clave,Cielo cubierto por la niebla y/u otros fenómenos meteorológicos,
+0 20 011,Nubosidad,Cifra de clave,Cielo parcialmente cubierto por la niebla y/u otros fenómenos meteorológicos,
+0 20 011,Nubosidad,Cifra de clave,Dispersa,
+0 20 011,Nubosidad,Cifra de clave,Fragmentada,
+0 20 011,Nubosidad,Cifra de clave,Escasa,
+0 20 011,Nubosidad,Cifra de clave,Reservada,
+0 20 011,Nubosidad,Cifra de clave,"La cubierta de nubes es indefinible por razones distintas de la niebla u otros fenómenos meteorológicos, o no se ha hecho ninguna observación",
+0 20 012,Tipo de nubes,Cifra de clave,Cirrus (Ci),
+0 20 012,Tipo de nubes,Cifra de clave,Cirrocúmulos (Cc),
+0 20 012,Tipo de nubes,Cifra de clave,Cirrostratos (Cs),
+0 20 012,Tipo de nubes,Cifra de clave,Altocúmulos (Ac),
+0 20 012,Tipo de nubes,Cifra de clave,Altoestratos (As),
+0 20 012,Tipo de nubes,Cifra de clave,Nimboestratos (Ns),
+0 20 012,Tipo de nubes,Cifra de clave,Estratocúmulos (Sc),
+0 20 012,Tipo de nubes,Cifra de clave,Estratos (St),
+0 20 012,Tipo de nubes,Cifra de clave,Cúmulos (Cu),
+0 20 012,Tipo de nubes,Cifra de clave,Cumulonimbus (Cb),
+0 20 012,Tipo de nubes,Cifra de clave,No hay nubes CH,
+0 20 012,Tipo de nubes,Cifra de clave,"Cirrus fibratus, a veces uncinus, que no invaden progresivamente el cielo",
+0 20 012,Tipo de nubes,Cifra de clave,"Cirrus spissatus, en bancos o haces entreverados, que generalmente no aumentan y que a veces parecen restos de la parte superior de un cumulonimbus; o cirrus castellanus o floccus",
+0 20 012,Tipo de nubes,Cifra de clave,Cirrus spissatus cumulonimbogenitus,
+0 20 012,Tipo de nubes,Cifra de clave,"Cirrus uncinus o fibratus, o ambos, que invaden progresivamente el cielo; generalmente se hacen más densos en conjunto",
+0 20 012,Tipo de nubes,Cifra de clave,"Cirrus (frecuentemente en bandas) y cirrostratos, o solo cirrostratos, que invaden progresivamente el cielo; generalmente se hacen más densos en conjunto, pero su velo continuo no llega a 45° sobre el horizonte",
+0 20 012,Tipo de nubes,Cifra de clave,"Cirrus (frecuentemente en bandas) y cirrostratos, o solo cirrostratos, que invaden progresivamente el cielo; generalmente se hacen más densos en conjunto; su velo continuo se extiende a más de 45° sobre el horizonte, sin estar el cielo totalmente cubierto",
+0 20 012,Tipo de nubes,Cifra de clave,Cirrostratos que cubren todo el cielo,
+0 20 012,Tipo de nubes,Cifra de clave,Cirrostratos que no invaden progresivamente el cielo y que no lo cubren en su totalidad,
+0 20 012,Tipo de nubes,Cifra de clave,"Solo cirrocúmulos, o cirrocúmulos predominando entre nubes CH",
+0 20 012,Tipo de nubes,Cifra de clave,No hay nubes CM,
+0 20 012,Tipo de nubes,Cifra de clave,Altoestratos translucidus,
+0 20 012,Tipo de nubes,Cifra de clave,Altoestratos opacus o nimboestratos,
+0 20 012,Tipo de nubes,Cifra de clave,Altocúmulos translucidus a un solo nivel,
+0 20 012,Tipo de nubes,Cifra de clave,"Bancos (generalmente lenticulares) de altocúmulos translucidus, que cambian continuamente y se presentan en uno o más niveles",
+0 20 012,Tipo de nubes,Cifra de clave,"Altocúmulos translucidus en bandas, o una o más capas de altocúmulos translucidus u opacus, que progresivamente invaden el cielo; estos altocúmulos generalmente se espesan en conjunto",
+0 20 012,Tipo de nubes,Cifra de clave,Altocúmulos cumulogenitus (o cumulonimbogenitus),
+0 20 012,Tipo de nubes,Cifra de clave,"Altocúmulos translucidus u opacus en dos o más capas, o altocúmulos opacus en una sola capa, que no invaden progresivamente el cielo, o altocúmulos con altoestratos o nimboestratos",
+0 20 012,Tipo de nubes,Cifra de clave,Altocúmulos castellanus o floccus,
+0 20 012,Tipo de nubes,Cifra de clave,"Altocúmulos de cielo caótico, generalmente a varios niveles",
+0 20 012,Tipo de nubes,Cifra de clave,No hay nubes CL,
+0 20 012,Tipo de nubes,Cifra de clave,"Cúmulos humilis ou cúmulos fractus que no sean los de mal tiempo*, o ambos",
+0 20 012,Tipo de nubes,Cifra de clave,"Cúmulos mediocris o congestus, cúmulos de desarrollo vertical (TCU), con cúmulos de las especies fractus o humilis o estratocúmulos o sin ellos, todos con las bases a un mismo nivel",
+0 20 012,Tipo de nubes,Cifra de clave,"Cumulonimbus calvus, con cúmulos, estratocúmulos o estratos o sin ellos",
+0 20 012,Tipo de nubes,Cifra de clave,Estratocúmulos cumulogenitus,
+0 20 012,Tipo de nubes,Cifra de clave,Estratocúmulos que no sean estratocúmulos cumulogenitus,
+0 20 012,Tipo de nubes,Cifra de clave,"Estratos nebulosus o estratos fractus que no sean de mal tiempo*, o ambos",
+0 20 012,Tipo de nubes,Cifra de clave,"Estratos fractus o cúmulos fractus de mal tiempo, o ambos (pannus), generalmente debajo de altoestratos o nimboestratos",
+0 20 012,Tipo de nubes,Cifra de clave,"Cúmulos y estratocúmulos que no sean estratocúmulos cumulogenitus, con bases a nive- les diferentes",
+0 20 012,Tipo de nubes,Cifra de clave,"Cumulonimbus capillatus (frecuentemente con yunque), con cumulonimbus calvus, cúmulos, estratocúmulos, estratos o pannus o sin ellos",
+0 20 012,Tipo de nubes,Cifra de clave,CH,
+0 20 012,Tipo de nubes,Cifra de clave,CM,
+0 20 012,Tipo de nubes,Cifra de clave,CL,
+0 20 012,Tipo de nubes,Cifra de clave,Despejado,
+0 20 012,Tipo de nubes,Cifra de clave,Agua líquida,
+0 20 012,Tipo de nubes,Cifra de clave,Agua subfundida en estado líquido,
+0 20 012,Tipo de nubes,Cifra de clave,Fase mixta,
+0 20 012,Tipo de nubes,Cifra de clave,Hielo ópticamente espeso,
+0 20 012,Tipo de nubes,Cifra de clave,Hielo ópticamente delgado,
+0 20 012,Tipo de nubes,Cifra de clave,Hielo en capas múltiples,
+0 20 012,Tipo de nubes,Cifra de clave,Reservadas,
+0 20 012,Tipo de nubes,Cifra de clave,"Nubes no visibles por la oscuridad, la niebla, tempestad de polvo o arena, o por otro fenómeno análogo",
+0 20 012,Tipo de nubes,Cifra de clave,"Nubes CH invisibles por la oscuridad, la niebla, la ventisca alta de polvo o arena, o por otro fenómeno análogo, o por haber una capa continua de nubes más bajas",
+0 20 012,Tipo de nubes,Cifra de clave,"Nubes CM invisibles por oscuridad, niebla, ventisca alta de polvo o arena, u otros fenómenos similares o por haber una capa continua de nubes más bajas",
+0 20 012,Tipo de nubes,Cifra de clave,"Nubes CL invisibles por la oscuridad, la niebla, ventisca alta de polvo o arena, o por otros fenómenos análogos",
+0 20 012,Tipo de nubes,Cifra de clave,Valor faltante,
+0 20 017,Descripción de la cima de las nubes,Cifra de clave,Nubes aisladas o fragmentos de nubes,
+0 20 017,Descripción de la cima de las nubes,Cifra de clave,Nubes continuas,
+0 20 017,Descripción de la cima de las nubes,Cifra de clave,Nubes fragmentadas — pequeños claros,cimas aplanadas
+0 20 017,Descripción de la cima de las nubes,Cifra de clave,Nubes fragmentadas — grandes claros,cimas aplanadas
+0 20 017,Descripción de la cima de las nubes,Cifra de clave,Nubes continuas,cimas aplanadas
+0 20 017,Descripción de la cima de las nubes,Cifra de clave,Nubes fragmentadas — pequeños claros,cimas onduladas
+0 20 017,Descripción de la cima de las nubes,Cifra de clave,Nubes fragmentadas — grandes claros,cimas onduladas
+0 20 017,Descripción de la cima de las nubes,Cifra de clave,Ondulaciones continuas o casi continuas con torres nubosas más arriba de la cima de la capa,
+0 20 017,Descripción de la cima de las nubes,Cifra de clave,Grupos de ondulaciones con torres nubosas más arriba de la cima de la capa,
+0 20 017,Descripción de la cima de las nubes,Cifra de clave,Dos o más capas a diferentes niveles,
+0 20 017,Descripción de la cima de las nubes,Cifra de clave,Reservadas,
+0 20 017,Descripción de la cima de las nubes,Cifra de clave,Valor faltante,
+0 20 018,Tendencia del alcance visual en pista,Cifra de clave,En aumento (U),
+0 20 018,Tendencia del alcance visual en pista,Cifra de clave,Disminuyendo (D),
+0 20 018,Tendencia del alcance visual en pista,Cifra de clave,Ausencia de cambio manifiesto (N),
+0 20 018,Tendencia del alcance visual en pista,Cifra de clave,Valor faltante,
+0 20 021,Tipo de precipitación,Número del bit,Precipitación de tipo desconocido,
+0 20 021,Tipo de precipitación,Número del bit,Precipitación líquida no engelante,
+0 20 021,Tipo de precipitación,Número del bit,Precipitación líquida engelante,
+0 20 021,Tipo de precipitación,Número del bit,Llovizna,
+0 20 021,Tipo de precipitación,Número del bit,Lluvia,
+0 20 021,Tipo de precipitación,Número del bit,Precipitación sólida,
+0 20 021,Tipo de precipitación,Número del bit,Nieve,
+0 20 021,Tipo de precipitación,Número del bit,Cinarra,
+0 20 021,Tipo de precipitación,Número del bit,Nieve granulada,
+0 20 021,Tipo de precipitación,Número del bit,Hielo granulado,
+0 20 021,Tipo de precipitación,Número del bit,Cristales de hielo,
+0 20 021,Tipo de precipitación,Número del bit,Prismas de hielo,
+0 20 021,Tipo de precipitación,Número del bit,Granizo menudo,
+0 20 021,Tipo de precipitación,Número del bit,Granizo,
+0 20 021,Tipo de precipitación,Número del bit,Hielo liso,
+0 20 021,Tipo de precipitación,Número del bit,Cencellada blanca,
+0 20 021,Tipo de precipitación,Número del bit,Cencellada blanca granulada,
+0 20 021,Tipo de precipitación,Número del bit,Cencellada blanca cristalizada,
+0 20 021,Tipo de precipitación,Número del bit,Cencellada transparente,
+0 20 021,Tipo de precipitación,Número del bit,Nieve mojada,
+0 20 021,Tipo de precipitación,Número del bit,Escarcha,
+0 20 021,Tipo de precipitación,Número del bit,Rocío,
+0 20 021,Tipo de precipitación,Número del bit,Rocío blanco,
+0 20 021,Tipo de precipitación,Número del bit,Reservados,
+0 20 021,Tipo de precipitación,Número del bit,Valor faltante,
+0 20 022,Naturaleza de la precipitación,Cifra de clave,No hay precipitación,
+0 20 022,Naturaleza de la precipitación,Cifra de clave,Continua,
+0 20 022,Naturaleza de la precipitación,Cifra de clave,Intermitente,
+0 20 022,Naturaleza de la precipitación,Cifra de clave,Chubasco,
+0 20 022,Naturaleza de la precipitación,Cifra de clave,No llega al suelo,
+0 20 022,Naturaleza de la precipitación,Cifra de clave,Depósito,
+0 20 022,Naturaleza de la precipitación,Cifra de clave,Reservadas,
+0 20 022,Naturaleza de la precipitación,Cifra de clave,Valor faltante,
+0 20 023,Otros fenómenos meteorológicos,Número del bit,Torbellino de polvo/arena,
+0 20 023,Otros fenómenos meteorológicos,Número del bit,Turbonadas,
+0 20 023,Otros fenómenos meteorológicos,Número del bit,Tempestad de arena,
+0 20 023,Otros fenómenos meteorológicos,Número del bit,Tempestad de polvo,
+0 20 023,Otros fenómenos meteorológicos,Número del bit,Rayo — de nube a superficie,
+0 20 023,Otros fenómenos meteorológicos,Número del bit,Rayo — de nube a nube,
+0 20 023,Otros fenómenos meteorológicos,Número del bit,Rayo — distante,
+0 20 023,Otros fenómenos meteorológicos,Número del bit,Tormenta,
+0 20 023,Otros fenómenos meteorológicos,Número del bit,Nube con forma de embudo que no toca la superficie,
+0 20 023,Otros fenómenos meteorológicos,Número del bit,Nube con forma de embudo que toca la superficie,
+0 20 023,Otros fenómenos meteorológicos,Número del bit,Roción,
+0 20 023,Otros fenómenos meteorológicos,Número del bit,Tromba de agua,
+0 20 023,Otros fenómenos meteorológicos,Número del bit,Cizalladura de viento,
+0 20 023,Otros fenómenos meteorológicos,Número del bit,Remolinos de polvo,
+0 20 023,Otros fenómenos meteorológicos,Número del bit,Reservados,
+0 20 023,Otros fenómenos meteorológicos,Número del bit,Valor faltante,
+0 20 024,Intensidad de los fenómenos,Cifra de clave,Ausencia de fenómenos,
+0 20 024,Intensidad de los fenómenos,Cifra de clave,Ligero,
+0 20 024,Intensidad de los fenómenos,Cifra de clave,Moderado,
+0 20 024,Intensidad de los fenómenos,Cifra de clave,Fuerte,
+0 20 024,Intensidad de los fenómenos,Cifra de clave,Violento,
+0 20 024,Intensidad de los fenómenos,Cifra de clave,Instenso,
+0 20 024,Intensidad de los fenómenos,Cifra de clave,Muy instenso,
+0 20 024,Intensidad de los fenómenos,Cifra de clave,Valor faltante,
+0 20 025,Oscurecimiento,Número del bit,Niebla,
+0 20 025,Oscurecimiento,Número del bit,Niebla helada,
+0 20 025,Oscurecimiento,Número del bit,Vapor de niebla,
+0 20 025,Oscurecimiento,Número del bit,Reservados,
+0 20 025,Oscurecimiento,Número del bit,Bruma,
+0 20 025,Oscurecimiento,Número del bit,Calima,
+0 20 025,Oscurecimiento,Número del bit,Humo,
+0 20 025,Oscurecimiento,Número del bit,Ceniza volcánica,
+0 20 025,Oscurecimiento,Número del bit,Polvo,
+0 20 025,Oscurecimiento,Número del bit,Arena,
+0 20 025,Oscurecimiento,Número del bit,Nieve,
+0 20 025,Oscurecimiento,Número del bit,Nubes,
+0 20 025,Oscurecimiento,Número del bit,Precipitación,
+0 20 025,Oscurecimiento,Número del bit,Imposible determinar si hay o no precipitación de nieve 17-20,Reservados
+0 20 025,Oscurecimiento,Número del bit,Valor faltante,
+0 20 026,Carácter del oscurecimiento,Cifra de clave,Sin cambios,
+0 20 026,Carácter del oscurecimiento,Cifra de clave,Poco profundo,
+0 20 026,Carácter del oscurecimiento,Cifra de clave,Bancos,
+0 20 026,Carácter del oscurecimiento,Cifra de clave,Parcial,
+0 20 026,Carácter del oscurecimiento,Cifra de clave,Engelante,
+0 20 026,Carácter del oscurecimiento,Cifra de clave,Ventisca baja,
+0 20 026,Carácter del oscurecimiento,Cifra de clave,Ventisca alta,
+0 20 026,Carácter del oscurecimiento,Cifra de clave,Aumentando,
+0 20 026,Carácter del oscurecimiento,Cifra de clave,Disminuyendo,
+0 20 026,Carácter del oscurecimiento,Cifra de clave,En suspensión en el aire,
+0 20 026,Carácter del oscurecimiento,Cifra de clave,Muro,
+0 20 026,Carácter del oscurecimiento,Cifra de clave,Denso,
+0 20 026,Carácter del oscurecimiento,Cifra de clave,Resplandor blanco,
+0 20 026,Carácter del oscurecimiento,Cifra de clave,Ventisca baja y ventisca alta,
+0 20 026,Carácter del oscurecimiento,Cifra de clave,Reservada,
+0 20 026,Carácter del oscurecimiento,Cifra de clave,Valor faltante,
+0 20 027,Ocurrencia de los fenómenos*,Número del bit,A la hora de observación,
+0 20 027,Ocurrencia de los fenómenos*,Número del bit,En la hora precedente,
+0 20 027,Ocurrencia de los fenómenos*,Número del bit,En el período del tiempo pasado W1W2,
+0 20 027,Ocurrencia de los fenómenos*,Número del bit,En el período de tiempo especificado,
+0 20 027,Ocurrencia de los fenómenos*,Número del bit,Reservado,
+0 20 027,Ocurrencia de los fenómenos*,Número del bit,Por debajo del nivel de la estación,
+0 20 027,Ocurrencia de los fenómenos*,Número del bit,En la estación (véase la Nota 1)),
+0 20 027,Ocurrencia de los fenómenos*,Número del bit,En las cercanías (véase la Nota 2)),
+0 20 027,Ocurrencia de los fenómenos*,Número del bit,Valor faltante,
+0 20 028,Cambio esperado en intensidad,Cifra de clave,Ningún cambio (NC),
+0 20 028,Cambio esperado en intensidad,Cifra de clave,Predicción de debilitamiento (WKN),
+0 20 028,Cambio esperado en intensidad,Cifra de clave,Predicción de intensificación (INTSF),
+0 20 028,Cambio esperado en intensidad,Cifra de clave,Reservadas,
+0 20 028,Cambio esperado en intensidad,Cifra de clave,Valor faltante,
+0 20 029,Banderín de lluvia,Cifra de clave,Ausencia de lluvia,
+0 20 029,Banderín de lluvia,Cifra de clave,Lluvia,
+0 20 029,Banderín de lluvia,Cifra de clave,Reservada,
+0 20 029,Banderín de lluvia,Cifra de clave,Valor faltante,
+0 20 032,Velocidad de acumulación del hielo (estimada),Cifra de clave,El hielo no se acumula,
+0 20 032,Velocidad de acumulación del hielo (estimada),Cifra de clave,El hielo se acumula lentamente,
+0 20 032,Velocidad de acumulación del hielo (estimada),Cifra de clave,El hielo se acumula rápidamente,
+0 20 032,Velocidad de acumulación del hielo (estimada),Cifra de clave,El hielo se funde o quiebra lentamente,
+0 20 032,Velocidad de acumulación del hielo (estimada),Cifra de clave,El hielo se funde o quiebra rápidamente,
+0 20 032,Velocidad de acumulación del hielo (estimada),Cifra de clave,Reservadas,
+0 20 032,Velocidad de acumulación del hielo (estimada),Cifra de clave,Valor faltante,
+0 20 033,Causa de la acumulación del hielo,Número del bit,Engelamiento causado por roción oceánico,
+0 20 033,Causa de la acumulación del hielo,Número del bit,Engelamiento causado por la niebla,
+0 20 033,Causa de la acumulación del hielo,Número del bit,Engelamiento causado por la lluvia,
+0 20 033,Causa de la acumulación del hielo,Número del bit,Valor faltante,
+0 20 034,Concentración del hielo marino,Cifra de clave,Ningún hielo a la vista,
+0 20 034,Concentración del hielo marino,Cifra de clave,"Buque en canal abierto con una anchura de más de 1,0 milla marina, o buque en hielo fijo con frontera superior al límite de visibilidad",
+0 20 034,Concentración del hielo marino,Cifra de clave,"Presencia de hielos marinos en concentraciones inferiores a 3/10 (3/8), aguas libres o hielo a la deriva muy abierto",La concentración de hielos marinos es uniforme en la zona de observación
+0 20 034,Concentración del hielo marino,Cifra de clave,"4/10 a 6/10 (3/8 menos de 6/8), hielo a la deriva muy abierto",La concentración de hielos marinos es uniforme en la zona de observación
+0 20 034,Concentración del hielo marino,Cifra de clave,"7/10 a 8/10 (6/8 a menos de 7/8), hielo a la deriva muy cerrado",La concentración de hielos marinos es uniforme en la zona de observación
+0 20 034,Concentración del hielo marino,Cifra de clave,"9/10 o más, pero inferior a 10/10 (7/8 a menos de 8/8), hielo a la deriva muy cerrado",La concentración de hielos marinos es uniforme en la zona de observación
+0 20 034,Concentración del hielo marino,Cifra de clave,Cintas y bancos de hielo a la deriva con agua libre entre los hielos,La concentración de hielos marinos no es uniforme en la zona de observación
+0 20 034,Concentración del hielo marino,Cifra de clave,"Cintas y bancos de hielo a la deriva cerrado o muy cerrado, separados por zonas donde la concentración es menor",La concentración de hielos marinos no es uniforme en la zona de observación
+0 20 034,Concentración del hielo marino,Cifra de clave,"Hielo fijo con aguas libres, hielo muy abierto o abierto a la deriva a lo largo de la frontera del hielo",La concentración de hielos marinos no es uniforme en la zona de observación
+0 20 034,Concentración del hielo marino,Cifra de clave,Hielo fijo con hielo a la deriva cerrado o muy cerrado a lo largo de la línea frontera del hielo,La concentración de hielos marinos no es uniforme en la zona de observación
+0 20 034,Concentración del hielo marino,Cifra de clave,Reservadas,
+0 20 034,Concentración del hielo marino,Cifra de clave,"Informe imposible debido a la oscuridad, a la falta de visibilidad o al hecho de que el buque se encuentra a más de 0,5 milla marina del borde del hielo",
+0 20 034,Concentración del hielo marino,Cifra de clave,Reservadas,
+0 20 034,Concentración del hielo marino,Cifra de clave,Valor faltante,
+0 20 035,Cantidad y tipo de hielo,Cifra de clave,Ningún hielo de origen terrestre,
+0 20 035,Cantidad y tipo de hielo,Cifra de clave,"1-5 témpanos, ningún gruñón o tempanito",
+0 20 035,Cantidad y tipo de hielo,Cifra de clave,"6-10 témpanos, ningún gruñón o tempanito",
+0 20 035,Cantidad y tipo de hielo,Cifra de clave,"11-20 témpanos, ningún gruñón o tempanito",
+0 20 035,Cantidad y tipo de hielo,Cifra de clave,Hasta 10 gruñones y tempanitos inclusive - ningún témpano,
+0 20 035,Cantidad y tipo de hielo,Cifra de clave,Más de 10 gruñones y tempanitos - ningún témpano,
+0 20 035,Cantidad y tipo de hielo,Cifra de clave,1-5 témpanos con gruñones y tempanitos,
+0 20 035,Cantidad y tipo de hielo,Cifra de clave,6-10 témpanos con gruñones y tempanitos,
+0 20 035,Cantidad y tipo de hielo,Cifra de clave,11-20 témpanos con gruñones y tempanitos,
+0 20 035,Cantidad y tipo de hielo,Cifra de clave,Más de 20 témpanos con gruñones y tempanitos — grandes riesgos para la navegación,
+0 20 035,Cantidad y tipo de hielo,Cifra de clave,Reservadas,
+0 20 035,Cantidad y tipo de hielo,Cifra de clave,"Imposible dar información debido a la oscuridad, a la falta de visibilidad o al hecho de que solo se ve hielo marino",
+0 20 035,Cantidad y tipo de hielo,Cifra de clave,Valor faltante,
+0 20 036,Situación en el hielo,Cifra de clave,Buque en aguas libres con hielo flotante a la vista,
+0 20 036,Situación en el hielo,Cifra de clave,Buque en zona de hielo fácilmente penetrable; mejoran las condiciones,
+0 20 036,Situación en el hielo,Cifra de clave,Buque en zona de hielo fácilmente penetrable; no cambian las condiciones,
+0 20 036,Situación en el hielo,Cifra de clave,Buque en zona de hielo fácilmente penetrable; empeoran las condiciones,
+0 20 036,Situación en el hielo,Cifra de clave,Buque en zona de hielo difícil de penetrar; mejoran las condiciones,
+0 20 036,Situación en el hielo,Cifra de clave,Buque en zona de hielo difícil de penetrar; no cambian las condiciones,
+0 20 036,Situación en el hielo,Cifra de clave,Buque en zona de hielo difícil de penetrar en condiciones que empeoran. Las formaciones de hielo y masas de hielo flotante se unen,
+0 20 036,Situación en el hielo,Cifra de clave,Buque en zona de hielo difícil de penetrar en condiciones que empeoran. Hielo sometido a débil presión,
+0 20 036,Situación en el hielo,Cifra de clave,Buque en zona de hielo difícil de penetrar en condiciones que empeoran. Hielo sometido a presión moderada o fuerte,
+0 20 036,Situación en el hielo,Cifra de clave,Buque en zona de hielo difícil de penetrar en condiciones que empeoran. Buque bloqueado,
+0 20 036,Situación en el hielo,Cifra de clave,Reservadas,
+0 20 036,Situación en el hielo,Cifra de clave,Imposible dar información debido a la oscuridad o a la falta de visibilidad,
+0 20 036,Situación en el hielo,Cifra de clave,Valor faltante,
+0 20 037,Formación del hielo,Cifra de clave,"Hielo nuevo solamente (cristales de hielo, hielo grasoso, grumo, shuga)",
+0 20 037,Formación del hielo,Cifra de clave,"Nilas o costra de hielo, de espesor inferior a 10 cm",
+0 20 037,Formación del hielo,Cifra de clave,"Hielo joven (hielo gris, hielo gris-blanco), de 10 a 30 cm de espesor",
+0 20 037,Formación del hielo,Cifra de clave,Predominancia de hielo nuevo y/o hielo joven con un poco de hielo del primer año,
+0 20 037,Formación del hielo,Cifra de clave,Predominancia de hielo delgado del primer año con un poco de hielo nuevo y/o hielo joven,
+0 20 037,Formación del hielo,Cifra de clave,Hielo delgado del primer año únicamente (30-70 cm de espesor),
+0 20 037,Formación del hielo,Cifra de clave,Predominancia de hielo medio del primer año (70-120 cm de espesor) y de hielo grueso del primer año (>120 cm de espesor) con un poco de hielo del primer año más delgado (más joven),
+0 20 037,Formación del hielo,Cifra de clave,Hielo medio y grueso del primer año solamente,
+0 20 037,Formación del hielo,Cifra de clave,Predominancia de hielo medio y grueso del primer año con un poco de hielo viejo (generalmente de más de 2 m de espesor),
+0 20 037,Formación del hielo,Cifra de clave,Predominancia de hielo viejo,
+0 20 037,Formación del hielo,Cifra de clave,Reservadas,
+0 20 037,Formación del hielo,Cifra de clave,"Imposible dar información debido a la oscuridad, a la falta de visibilidad, a que solo es visible hielo de origen terrestre o al hecho de que el buque se encuentra a más de 0,5 millas marinas del borde del hielo",
+0 20 037,Formación del hielo,Cifra de clave,Valor faltante,
+0 20 040,Evolución de la ventisca de nieve,Cifra de clave,La ventisca terminó antes de la hora de observación,
+0 20 040,Evolución de la ventisca de nieve,Cifra de clave,Intensidad en disminución,
+0 20 040,Evolución de la ventisca de nieve,Cifra de clave,Ningún cambio,
+0 20 040,Evolución de la ventisca de nieve,Cifra de clave,Intensidad en aumento,
+0 20 040,Evolución de la ventisca de nieve,Cifra de clave,"Continua, aparte de una interrupción que dura menos de 30 minutos",
+0 20 040,Evolución de la ventisca de nieve,Cifra de clave,La ventisca general se ha transformado en ventisca cercana al suelo,
+0 20 040,Evolución de la ventisca de nieve,Cifra de clave,La ventisca cercana al suelo se ha transformado en ventisca general,
+0 20 040,Evolución de la ventisca de nieve,Cifra de clave,La ventisca ha comenzado de nuevo después de una interrupción de más de 30 minutos,
+0 20 040,Evolución de la ventisca de nieve,Cifra de clave,Reservadas,
+0 20 040,Evolución de la ventisca de nieve,Cifra de clave,Valor faltante,
+0 20 041,Engelamiento del fuselaje de la aeronave,Cifra de clave,Sin engelamiento,
+0 20 041,Engelamiento del fuselaje de la aeronave,Cifra de clave,Engelamiento leve,
+0 20 041,Engelamiento del fuselaje de la aeronave,Cifra de clave,Engelamiento leve en nubes,
+0 20 041,Engelamiento del fuselaje de la aeronave,Cifra de clave,Engelamiento leve en precipitación,
+0 20 041,Engelamiento del fuselaje de la aeronave,Cifra de clave,Engelamiento moderado,
+0 20 041,Engelamiento del fuselaje de la aeronave,Cifra de clave,Engelamiento moderado en nubes,
+0 20 041,Engelamiento del fuselaje de la aeronave,Cifra de clave,Engelamiento moderado en precipitación,
+0 20 041,Engelamiento del fuselaje de la aeronave,Cifra de clave,Engelamiento fuerte,
+0 20 041,Engelamiento del fuselaje de la aeronave,Cifra de clave,Engelamiento fuerte en nubes,
+0 20 041,Engelamiento del fuselaje de la aeronave,Cifra de clave,Engelamiento fuerte en precipitación,
+0 20 041,Engelamiento del fuselaje de la aeronave,Cifra de clave,Huellas de engelamiento,
+0 20 041,Engelamiento del fuselaje de la aeronave,Cifra de clave,Huellas de engelamiento en nubes,
+0 20 041,Engelamiento del fuselaje de la aeronave,Cifra de clave,Huellas de engelamiento en precipitación,
+0 20 041,Engelamiento del fuselaje de la aeronave,Cifra de clave,Reservadas,
+0 20 041,Engelamiento del fuselaje de la aeronave,Cifra de clave,Valor faltante,
+0 20 042,Presencia de engelamiento del fuselaje de la aeronave,Cifra de clave,Ausencia de engelamiento,
+0 20 042,Presencia de engelamiento del fuselaje de la aeronave,Cifra de clave,Presencia de engelamiento,
+0 20 042,Presencia de engelamiento del fuselaje de la aeronave,Cifra de clave,Reservada,
+0 20 042,Presencia de engelamiento del fuselaje de la aeronave,Cifra de clave,Valor faltante,
+0 20 045,Condiciones de gotitas de agua grandes subfundidas (SLD),Cifra de clave,Ausencia de condiciones de gotitas de agua grandes subfundidas,
+0 20 045,Condiciones de gotitas de agua grandes subfundidas (SLD),Cifra de clave,Presencia de condiciones de gotitas de agua grandes subfundidas,
+0 20 045,Condiciones de gotitas de agua grandes subfundidas (SLD),Cifra de clave,Reservada,
+0 20 045,Condiciones de gotitas de agua grandes subfundidas (SLD),Cifra de clave,Valor faltante,
+0 20 048,Evolución del elemento,Cifra de clave,Estabilidad,
+0 20 048,Evolución del elemento,Cifra de clave,Disminución,
+0 20 048,Evolución del elemento,Cifra de clave,Intensificación,
+0 20 048,Evolución del elemento,Cifra de clave,Desconocida,
+0 20 048,Evolución del elemento,Cifra de clave,Reservadas,
+0 20 048,Evolución del elemento,Cifra de clave,Valor faltante,
+0 20 050,Índice de nubes,Cifra de clave,Reservada,
+0 20 050,Índice de nubes,Cifra de clave,Primera nube baja,
+0 20 050,Índice de nubes,Cifra de clave,Segunda nube baja,
+0 20 050,Índice de nubes,Cifra de clave,Tercera nube baja,
+0 20 050,Índice de nubes,Cifra de clave,Primera nube media,
+0 20 050,Índice de nubes,Cifra de clave,Segunda nube media,
+0 20 050,Índice de nubes,Cifra de clave,Tercera nube media,
+0 20 050,Índice de nubes,Cifra de clave,Primera nube alta,
+0 20 050,Índice de nubes,Cifra de clave,Segunda nube alta,
+0 20 050,Índice de nubes,Cifra de clave,Reservadas,
+0 20 050,Índice de nubes,Cifra de clave,Valor faltante,
+0 20 055,Estado del cielo en los trópicos,Cifra de clave,"Los cúmulos, si los hay, son pequeños; en conjunto cubren menos de 2/8 del cielo, excepto sobre las laderas a barlovento de terrenos elevados; su ancho medio iguala por lo menos a la altura",
+0 20 055,Estado del cielo en los trópicos,Cifra de clave,"Cúmulos de dimensiones intermedias cubren menos de 5/8 del cielo, su ancho medio es mayor que su altura; con desarrollos verticales donde no hay, o casi no hay, signos de precipitación, excepto a lo largo de las laderas de terrenos elevados; ausencia generalizada de nubes medias o superiores",
+0 20 055,Estado del cielo en los trópicos,Cifra de clave,Cúmulos con protuberancias y torretas que crecen rápidamente y van disminuyendo con la altura y cuyos remates tienden a separarse de la masa inferior de nubes y se disuelven a los pocos minutos,
+0 20 055,Estado del cielo en los trópicos,Cifra de clave,Cúmulos con protuberancias y torretas que se inclinan francamente a sotavento; la altura de las nubes es más de una vez y media su ancho medio,
+0 20 055,Estado del cielo en los trópicos,Cifra de clave,Cúmulos con protuberancias y torretas que se inclinan francamente a barlovento; la altura de las nubes es más de una vez y media su ancho medio,
+0 20 055,Estado del cielo en los trópicos,Cifra de clave,Cúmulos congestus altos con grandes protuberancias de una altura más de dos veces mayor que su ancho medio; no se disponen en racimos ni líneas; una o más capas se destacan de las torretas de nubes aunque no existen capas continuas (véase la Nota),
+0 20 055,Estado del cielo en los trópicos,Cifra de clave,Cumulonimbos aislados o amplios racimos de torretas de cúmulos separados por anchos espacios libres de nubes; las bases de las nubes son oscuras por lo general y se observan chubascos en la mayoría de las células; pueden advertirse algunas nubes medias y superiores dispersas; las diferentes células de los cúmulos son una o dos veces más altas que anchas,
+0 20 055,Estado del cielo en los trópicos,Cifra de clave,Numerosos cúmulos que se extienden por la troposfera media con capas continuas o discontinuas de nubes medias y/o cirrostratos; por lo general las torretas de cúmulos no disminuyen con la altura; la base de las nubes es oscura y desigual y se producen algunos chubascos,
+0 20 055,Estado del cielo en los trópicos,Cifra de clave,"Nubes medias, densas y continuas y/o capas de cirrostratos con algunos grandes cumulonimbos o cúmulos congestus aislados, que las penetran; ocasionalmente se observan lluvias débiles de las capas de altostratos; las bases de los cumulonimbos son irregulares y oscuras y se ven chubascos (véase la Nota)",
+0 20 055,Estado del cielo en los trópicos,Cifra de clave,Capas continuas de nubes medias y/o cirrostratos con cumulonimbos o cúmulos congestus dispuestos en líneas o bandas de nubes; por lo general se observan lluvias de las capas de altostratos y fuertes chubascos de los cumulonimbos; viento con carácter de turbonada,
+0 20 055,Estado del cielo en los trópicos,Cifra de clave,Se desconoce el estado del cielo o no corresponde a ninguna de las descripciones precedentes,
+0 20 055,Estado del cielo en los trópicos,Cifra de clave,Reservadas,
+0 20 055,Estado del cielo en los trópicos,Cifra de clave,Valor faltante,
+0 20 056,Fase de las nubes,Cifra de clave,Desconocida,
+0 20 056,Fase de las nubes,Cifra de clave,Agua,
+0 20 056,Fase de las nubes,Cifra de clave,Hielo,
+0 20 056,Fase de las nubes,Cifra de clave,Mixta,
+0 20 056,Fase de las nubes,Cifra de clave,Despejado,
+0 20 056,Fase de las nubes,Cifra de clave,Agua subfundida en estado líquido,
+0 20 056,Fase de las nubes,Cifra de clave,Reservada,
+0 20 056,Fase de las nubes,Cifra de clave,Valor faltante,
+0 20 062,Estado del suelo (con o sin nieve),Cifra de clave,Superficie del suelo seca (sin grietas ni cantidad apreciable de polvo o arena suelta),sin nieve o cobertura de hielo mensurable
+0 20 062,Estado del suelo (con o sin nieve),Cifra de clave,Superficie del suelo húmeda,sin nieve o cobertura de hielo mensurable
+0 20 062,Estado del suelo (con o sin nieve),Cifra de clave,Superficie del suelo mojada (agua estancada en pequeños o grandes charcos),sin nieve o cobertura de hielo mensurable
+0 20 062,Estado del suelo (con o sin nieve),Cifra de clave,Inundado,sin nieve o cobertura de hielo mensurable
+0 20 062,Estado del suelo (con o sin nieve),Cifra de clave,Superficie del suelo congelada,sin nieve o cobertura de hielo mensurable
+0 20 062,Estado del suelo (con o sin nieve),Cifra de clave,Escarcha sobre el suelo,sin nieve o cobertura de hielo mensurable
+0 20 062,Estado del suelo (con o sin nieve),Cifra de clave,Polvo o arena seca sueltos que no cubren completamente el suelo,sin nieve o cobertura de hielo mensurable
+0 20 062,Estado del suelo (con o sin nieve),Cifra de clave,Cubierta delgada de polvo o arena sueltos que cubren completamente el suelo,sin nieve o cobertura de hielo mensurable
+0 20 062,Estado del suelo (con o sin nieve),Cifra de clave,Cubierta moderada o espesa de polvo o arena seca que cubre completamente el suelo,sin nieve o cobertura de hielo mensurable
+0 20 062,Estado del suelo (con o sin nieve),Cifra de clave,Suelo sumamente seco y agrietado,sin nieve o cobertura de hielo mensurable
+0 20 062,Estado del suelo (con o sin nieve),Cifra de clave,Suelo predominantemente cubierto de hielo,con nieve o cobertura de hielo mensurable
+0 20 062,Estado del suelo (con o sin nieve),Cifra de clave,Nieve compacta o húmeda (con hielo o sin él) que cubre menos de la mitad del suelo,con nieve o cobertura de hielo mensurable
+0 20 062,Estado del suelo (con o sin nieve),Cifra de clave,"Nieve compacta o húmeda (con hielo o sin él) que cubre, por lo menos, la mitad del suelo, pero no completamente",con nieve o cobertura de hielo mensurable
+0 20 062,Estado del suelo (con o sin nieve),Cifra de clave,"Manto regular de nieve compacta o húmeda, que cubre completamente el suelo",con nieve o cobertura de hielo mensurable
+0 20 062,Estado del suelo (con o sin nieve),Cifra de clave,"Capa irregular de nieve, compacta o húmeda, que cubre completamente el suelo",con nieve o cobertura de hielo mensurable
+0 20 062,Estado del suelo (con o sin nieve),Cifra de clave,Nieve seca suelta que cubre menos de la mitad del suelo,con nieve o cobertura de hielo mensurable
+0 20 062,Estado del suelo (con o sin nieve),Cifra de clave,"Nieve seca suelta, que cubre por lo menos, la mitad del suelo, pero no completamente",con nieve o cobertura de hielo mensurable
+0 20 062,Estado del suelo (con o sin nieve),Cifra de clave,"Capa regular de nieve seca suelta, que cubre completamente el suelo",con nieve o cobertura de hielo mensurable
+0 20 062,Estado del suelo (con o sin nieve),Cifra de clave,"Capa irregular de nieve seca suelta, que cubre completamente el suelo",con nieve o cobertura de hielo mensurable
+0 20 062,Estado del suelo (con o sin nieve),Cifra de clave,Nieve que cubre completamente el suelo; ventiscas profundas,con nieve o cobertura de hielo mensurable
+0 20 062,Estado del suelo (con o sin nieve),Cifra de clave,Reservadas,
+0 20 062,Estado del suelo (con o sin nieve),Cifra de clave,Valor faltante,
+0 20 063,Fenómenos especiales,Cifra de clave,Reservada,
+0 20 063,Fenómenos especiales,Cifra de clave,"Velocidad máxima de las ráfagas superior a 11,5 m/s",
+0 20 063,Fenómenos especiales,Cifra de clave,"Velocidad media máxima del viento superior a 17,5 m/s",
+0 20 063,Fenómenos especiales,Cifra de clave,Reservadas,
+0 20 063,Fenómenos especiales,Cifra de clave,Visibilidad superior a 100 000 m,
+0 20 063,Fenómenos especiales,Cifra de clave,Reservadas,
+0 20 063,Fenómenos especiales,Cifra de clave,Espejismo: sin especificación,10-19 Espejismo
+0 20 063,Fenómenos especiales,Cifra de clave,Espejismo: imagen de objeto que emerge a distancia (espejismo emergente),10-19 Espejismo
+0 20 063,Fenómenos especiales,Cifra de clave,Espejismo: imagen de objeto que emerge claramente en el horizonte,10-19 Espejismo
+0 20 063,Fenómenos especiales,Cifra de clave,Espejismo: imagen invertida de objeto distante,10-19 Espejismo
+0 20 063,Fenómenos especiales,Cifra de clave,Espejismo: imágenes complejas y múltiples de objeto distante (imágenes en posición normal),10-19 Espejismo
+0 20 063,Fenómenos especiales,Cifra de clave,Espejismo: imágenes complejas y múltiples de objeto distante (con inversión de algunas imágenes),10-19 Espejismo
+0 20 063,Fenómenos especiales,Cifra de clave,Espejismo: imagen del sol o la luna apreciablemente distorsionada,10-19 Espejismo
+0 20 063,Fenómenos especiales,Cifra de clave,"Espejismo: sol visible, aunque esté situado astronómicamente debajo del horizonte",10-19 Espejismo
+0 20 063,Fenómenos especiales,Cifra de clave,"Espejismo: luna visible, aunque esté situada astronómicamente debajo del horizonte",10-19 Espejismo
+0 20 063,Fenómenos especiales,Cifra de clave,Reservada,10-19 Espejismo
+0 20 063,Fenómenos especiales,Cifra de clave,"Oscuridad diurna, bastante, más intensa en la dirección especificada","20-22 Oscuridad diurna, más intensa en la dirección especificada"
+0 20 063,Fenómenos especiales,Cifra de clave,"Oscuridad diurna, mucha, más intensa en la dirección especificada","20-22 Oscuridad diurna, más intensa en la dirección especificada"
+0 20 063,Fenómenos especiales,Cifra de clave,"Oscuridad diurna, total, más intensa en la dirección especificada","20-22 Oscuridad diurna, más intensa en la dirección especificada"
+0 20 063,Fenómenos especiales,Cifra de clave,Reservadas,
