@@ -38,7 +38,6 @@ FXY,ElementName_es,CodeFigure,EntryName_es,EntryName_sub1_es,EntryName_sub2_es,N
 001031,Identificación del centro de origen/generación,,,,,,,Operational
 001033,Identificación del centro de origen/generación,,,,,,,Operational
 001034,Identificación del centro secundario de origen/generación,,,,,,,Operational
-
 001036,Organismo encargado de operar la plataforma de observación,0-36000,Reservadas,,,,,Operational
 001036,Organismo encargado de operar la plataforma de observación,36001,"Australia, Bureau of Meteorology (BoM)",,,,,Operational
 001036,Organismo encargado de operar la plataforma de observación,36002,"Australia, Joint Australian Facility for Ocean Observing Systems (JAFOOS)",,,,,Operational
