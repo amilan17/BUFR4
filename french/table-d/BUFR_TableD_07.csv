@@ -1,0 +1,2271 @@
+Category,CategoryOfSequences_fr,FXY1,Title_fr,SubTitle_fr,FXY2,ElementName_fr,ElementDescription_fr,Note_fr,noteIDs,Status
+07,Catégorie 07 — Séquences correspondant à des messages d'observation en surface (terre),307001,(Station à basse altitude),,"301031
+302011","Identification et type de station, date/heure, position , hauteur de la station
+Station à basse altitude",Message d'observation en surface de base,,,Operational
+07,Catégorie 07 — Séquences correspondant à des messages d'observation en surface (terre),307002,(Station à basse altitude),,"301032
+302011","Identification et type de station, date/heure, position , hauteur de la station
+Station à basse altitude",Message d'observation en surface de base,,,Operational
+07,Catégorie 07 — Séquences correspondant à des messages d'observation en surface (terre),307003,(Station à basse altitude),,"307001
+101000
+031001
+302005","Station à basse altitude
+Répétition différée de 1 descripteur
+Facteur de répétition différée du descripteur
+Couche nuageuse",Position (précision élevée) et message d'observation de base,,,Operational
+07,Catégorie 07 — Séquences correspondant à des messages d'observation en surface (terre),307004,(Station à basse altitude),,"307002
+101000
+031001
+302005","Station à basse altitude
+Répétition différée de 1 descripteur
+Facteur de répétition différée du descripteur
+Couche nuageuse",Position (faible précision) et message d'observation de base,,,Operational
+07,Catégorie 07 — Séquences correspondant à des messages d'observation en surface (terre),307005,(Station à basse altitude),,"307001
+101004
+302005","Station à basse altitude
+Répéter 1 descripteur 4 fois
+Couche nuageuse","Position (précision élevée) et message d'observation de base
+4 couches",,,Operational
+07,Catégorie 07 — Séquences correspondant à des messages d'observation en surface (terre),307006,(Station à basse altitude),,"307002
+101004
+302005","Station à basse altitude
+Répéter 1 descripteur 4 fois
+Couche nuageuse","Position (faible précision) et message d'observation de base
+4 couches",,,Operational
+07,Catégorie 07 — Séquences correspondant à des messages d'observation en surface (terre),307007,(Station à haute altitude),,"301031
+302012","Identification et type de station, date/heure, position , hauteur de la station
+Station à haute altitude",Message d'observation en surface de base,,,Operational
+07,Catégorie 07 — Séquences correspondant à des messages d'observation en surface (terre),307008,(Station à haute altitude),,"301032
+302012","Identification et type de station, date/heure, position , hauteur de la station
+Station à haute altitude",Message d'observation en surface de base,,,Operational
+07,Catégorie 07 — Séquences correspondant à des messages d'observation en surface (terre),307009,(précision élevée),,"301031
+302013","Identification et type de station, date/heure, position , hauteur de la station
+Message d'observation en surface de base",,,,Operational
+07,Catégorie 07 — Séquences correspondant à des messages d'observation en surface (terre),307011,(Partie principale des données pour la représentation du code METAR/SPECI dans BUFR),,"001063
+002001
+301011
+301012
+301024
+007006
+011001
+011016
+011017
+011002
+011041
+007006
+012001
+012003
+010052
+020009","Indicateur d'emplacement OACI
+Type de station
+Année, mois, jour
+Heure, minute
+Latitude/longitude , hauteur de la station
+Hauteur au-dessus de la station
+Direction du vent
+Direction du vent extrême dans le sens contaire des aiguilles d'une montre Direction du vent extrême dans le sens des aiguilles d'une montre Vitesse du vent
+Vitesse de la rafale maximale
+Hauteur au-dessus de la station
+Température/température de l'air
+Température du point de rosée
+Calage de l'altimètre Indicateur général du temps","YY
+GG, gg
+Hauteur d'un anémomètre
+Hauteur d'un thermomètre",,,Operational
+07,Catégorie 07 — Séquences correspondant à des messages d'observation en surface (terre),307012,(Visibilité horizontale),,"103000
+031001
+008023
+005021
+020001","Répétition différée de 3 descripteurs
+Facteur de répétition différée du descripteur
+Statistiques de premier ordre
+Direction ou azimut
+Visibilité horizontale","Jusqu'à 3
+Direction de la visibilité observée",,,Operational
+07,Catégorie 07 — Séquences correspondant à des messages d'observation en surface (terre),307013,(Portée visuelle de piste),,"106000
+031001
+001064
+008014
+020061
+008014
+020061
+020018","Répétition différée de 6 descripteurs
+Facteur de répétition différée du descripteur
+Indicateur de piste
+Identificateur pour la portée visuelle de piste
+Portée visuelle de piste Identificateur pour la portée visuelle de piste
+Portée visuelle de piste Tendance de la portée visuelle de piste",Jusqu'à 4,,,Operational
+07,Catégorie 07 — Séquences correspondant à des messages d'observation en surface (terre),307014,(Temps significatif présent ou prévu),,"101000
+031001
+020019","Répétition différée de 1 descripteur
+Facteur de répétition différée du descripteur
+Temps significatif présent ou prévu",Jusqu'à 3,,,Operational
+07,Catégorie 07 — Séquences correspondant à des messages d'observation en surface (terre),307015,(Groupe(s),,"101000
+031001
+302005
+020002","de nuages)
+Répétition différée de 1 descripteur
+Facteur de répétition différée du descripteur
+Couche nuageuse
+Visibilité verticale","NsNsNs, CC, hshshs",,,Operational
+07,Catégorie 07 — Séquences correspondant à des messages d'observation en surface (terre),307016,(Phénomènes météorologiques significatifs récents),,"101000
+031001
+020020","Répétition différée de 1 descripteur
+Facteur de répétition différée du descripteur
+Phénomènes météorologiques significatifs récents",Jusqu'à 3,,,Operational
+07,Catégorie 07 — Séquences correspondant à des messages d'observation en surface (terre),307017,(Cisaillement du vent sur la (les),,"101000
+031001
+011070","piste )
+Répétition différée de 1 descripteur
+Facteur de répétition différée du descripteur
+Indicatif de la piste touchée par le cisaillement du vent",,,,Operational
+07,Catégorie 07 — Séquences correspondant à des messages d'observation en surface (terre),307018,(Prévision d'atterrissage du type «tendance»),,"008016
+102000
+031001
+008017
+301012
+104000
+031001
+007006
+011001
+011002
+011041
+020009
+101000
+031001
+020001
+307014","Identificateur de changement d'une prévision du type «tendance» ou d'une prévision d'aérodrome
+Répétition différée de 2 descripteurs
+Facteur de répétition différée du descripteur
+Identificateur de l'heure à laquelle le changement de prévision est attendu
+Heure, minute
+Répétition différée de 4 descripteurs
+Facteur de répétition différée du descripteur
+Hauteur au-dessus de la station
+Direction du vent
+Vitesse du vent
+Vitesse de la rafale maximale
+Indicateur général du temps Répétition différée de 1 descripteur
+Facteur de répétition différée du descripteur
+Visibilité horizontale
+Temps significatif présent ou prévu","Jusqu'à 2
+FM, TL, AT
+GG, gg
+Jusqu'à 1
+Jusqu'à 1
+w'w'",,,Operational
+07,Catégorie 07 — Séquences correspondant à des messages d'observation en surface (terre),307020,(METAR/SPECI court),,"307011
+307014
+307016","Partie principale des données pour représentation du code METAR/SPECI dans BUFR
+Temps significatif présent ou prévu
+Phénomènes météorologiques significatifs récents","w'w'
+REw'w'",,,Operational
+07,Catégorie 07 — Séquences correspondant à des messages d'observation en surface (terre),307021,(Séquence totale pour la représentation du code METAR/SPECI dans BUFR),,"307011
+307012
+307013
+307014
+307015
+307016
+307017
+307018
+307015","Partie principale des données pour la représentation du code METAR/SPECI dans BUFR
+Visibilité horizontale
+Portée visuelle de piste
+Temps significatif présent ou prévu
+Groupe de nuages
+Phénomènes météorologiques significatifs récents
+Cisaillement de vent sur la piste Prévision d'atterrissage du type «tendance»
+Groupe de nuages","DVVVVV
+DRDR/VRVRVRVR
+w'w'
+REw'w'",,,Operational
+07,Catégorie 07 — Séquences correspondant à des messages d'observation en surface (terre),307022,(Données d'observation au sol provenant du GNSS),,"001015
+301011
+301012
+301022
+008021
+004025
+010004
+012001
+013003
+033038
+008022
+106025
+002020
+001050
+005021
+007021
+015031
+015032
+008060
+015033
+015034
+008060
+015033
+015034
+015035
+201131
+202129
+013016
+202000
+201000
+015011","Nom de la station ou du site
+Année, mois, jour
+Heure, minute
+Latitude/longitude , hauteur de la station
+Caractéristique temporelle
+Période ou décalage dans le temps
+Pression
+Température/température de l'air
+Humidité relative
+Indicateurs de qualité pour les données d'observation au sol du GNSS
+Nombre total Répéter 6 descripteurs 25 fois
+Classification des satellites
+Numéro d'identification de l'émetteur de la plate-forme
+Direction ou azimut
+Hauteur
+Retard de propagation dans l'atmosphère du signal du satellite
+Erreur estimative du retard de propagation dans l'atmosphère
+Signification du mode de balayage de l'échantillon
+Différence des retards de propagation pour des visées du limbe aux limites extrêmes du balayage
+Erreur estimative de la différence des retards de propagation
+Signification du mode de balayage de l'échantillon
+Différence des retards de propagation pour des visées du limbe aux limites extrêmes du balayage
+Erreur estimative de la différence des retards de propagation
+Composante du retard de propagation pour une visée au zénith due à la vapeur d'eau
+Changer le champ de données
+Changer d'échelle
+Eau précipitable
+Changement d'échelle
+Changement du champs de données
+Log10 de la densité électronique intégrée","= 23 Période de contrôle
+Nombre de satellites du GNSS utilisés
+= 5 Nord/Sud
+= 6 Est/Ouest
+Annuler
+Annuler",,,Operational
+07,Catégorie 07 — Séquences correspondant à des messages d'observation en surface (terre),307030,(Données sur l'ozone - observation unique),,"015001
+015002","Ozone total
+Masse d'air",,,,Operational
+07,Catégorie 07 — Séquences correspondant à des messages d'observation en surface (terre),307031,(Données sur l'ozone - observations moyennées),,"008022
+008023
+015001
+008023
+015001
+008023
+015002","Nombre total Statistiques de premier ordre
+Ozone total
+Statistiques de premier ordre
+Ozone total
+Statistiques de premier ordre
+Masse d'air","Nombre de mesures
+= 4 Valeur moyenne
+Valeur (moyenne) de la mesure de l'ozone
+= 9 Meilleure estimation de l'écart type
+Meilleure estimation de l'écart type de la mesure de l'ozone
+= 11 Moyenne harmonique
+Valeur (moyenne harmonique de la masse d'air",,,Operational
+07,Catégorie 07 — Séquences correspondant à des messages d'observation en surface (terre),307041,"(Mesure de l'ozone total par un spectrophotomètre Brewer au sol, obtenue à partir d'une seule observation)",,"301001
+001015
+301024
+301011
+301012
+301070
+307030","Indicateur régional OMM et chiffre indicatif OMM de la station
+Nom de la station ou du site
+Latitude/longitude , hauteur de la station
+Année, mois, jour
+Heure, minute
+Instrument de mesure de l'ozone – spectrophotomètre Brewer
+Données sur l'ozone – observation unique","Mesure de l'ozone
+Mesure de l'ozone",,,Operational
+07,Catégorie 07 — Séquences correspondant à des messages d'observation en surface (terre),307042,"(Mesure de l'ozone total par un spectrophotomètre Brewer au sol, obtenue à partir d'observations moyennées)",,"301001
+001015
+301024
+301011
+301012
+008021
+004025
+301070
+307031","Indicateur régional OMM et chiffre indicatif OMM de la station
+Nom de la station ou du site
+Latitude/longitude , hauteur de la station
+Année, mois, jour
+Heure, minute
+Caractéristique temporelle
+Période ou décalage dans le temps
+Instrument de mesure de l'ozone – spectrophotomètre Brewer
+Données sur l'ozone – observations moyennées","Mesure de l'ozone
+Mesure de l'ozone
+= 8 Moyenne d'ensemble
+Période (minutes) de calcul de la moyenne",,,Operational
+07,Catégorie 07 — Séquences correspondant à des messages d'observation en surface (terre),307043,"(Mesure de l'ozone total par un spectrophotomètre Dobson au sol, obtenue à partir d'une seule observation)",,"301001
+001015
+301024
+301011
+301012
+301074
+307030","Indicateur régional OMM et chiffre indicatif OMM de la station
+Nom de la station ou du site
+Latitude/longitude , hauteur de la station
+Année, mois, jour
+Heure, minute
+Instrument de mesure de l'ozone – spectrophotomètre Dobson
+Données sur l'ozone – observation unique","Mesure de l'ozone
+Mesure de l'ozone",,,Operational
+07,Catégorie 07 — Séquences correspondant à des messages d'observation en surface (terre),307044,"(Mesure de l'ozone total par un spectrophotomètre Dobson au sol, obtenue à partir d'observations moyennées)",,"301001
+001015
+301024
+301011
+301012
+008021
+004025
+301074
+307031","Indicateur régional OMM et chiffre indicatif OMM de la station
+Nom de la station ou du site
+Latitude/longitude , hauteur de la station
+Année, mois, jour
+Heure, minute
+Caractéristique temporelle
+Période ou décalage dans le temps
+Instrument de mesure de l'ozone – spectrophotomètre Dobson
+Données sur l'ozone – observations moyennées","Mesure de l'ozone
+Mesure de l'ozone
+= 8 Moyenne d'ensemble
+Période (minutes) de calcul de la moyenne",,,Operational
+07,Catégorie 07 — Séquences correspondant à des messages d'observation en surface (terre),307045,(Partie principale du METAR/SPECI),,"001063
+008079
+002001
+301011
+301012
+301023
+007030
+007031
+007032
+011001
+011016
+011017
+008054
+011083
+011084
+011002
+008054
+011085
+011086
+011041
+008054
+007032
+012023
+012024
+007032
+010052
+020009",", remplaçant 3 07 011
+Indicateur d'emplacement OACI
+Catégorie de produit
+Type de station
+Année, mois, jour
+Heure, minute
+Latitude/longitude Altitude du sol de la station
+Altitude du baromètre
+Hauteur du capteur au-dessus du sol Direction du vent
+Direction du vent extrême dans le sens contaire des aiguilles d'une montre Direction du vent extrême dans le sens des aiguilles d'une montre Identificateur de la vitesse du vent ou des rafales
+Vitesse du vent Vitesse du vent Vitesse du vent Identificateur de la vitesse du vent ou des rafales
+Vitesse de la rafale maximale Vitesse de la rafale maximale Vitesse de la rafale maximale Identificateur de la vitesse du vent ou des rafales
+Hauteur du capteur au-dessus du sol Température
+Température du point de rosée
+Hauteur du capteur au-dessus du sol Calage de l'altimètre Indicateur général du temps","CCCC
+METAR SPECI COR
+AUTO
+YY
+GGgg
+= 10 m (si la valeur réelle n'est pas disponible)
+ddd
+dndndn
+dxdxdx
+P
+ff – km/h
+ff – kt
+ff – m/s
+P
+fmfm – km/h
+fmfm – kt
+fmfm – m/s
+Mis à valeur manquante (annuler)
+= 2 m (si la valeur réelle n'est pas disponible)
+T'T' – Celsius
+TdTd – Celsius
+Mis à valeur manquante (annuler)
+QPHPHPHPH
+CAVOK",(voir note 1),,Operational
+07,Catégorie 07 — Séquences correspondant à des messages d'observation en surface (terre),307046,(Visibilité METAR/SPECI),,"020060
+102000
+031001
+005021
+020059","Visibilité horizontale dominante
+Répétition différée de 2 descripteurs
+Facteur de répétition différée du descripteur
+Direction ou azimut
+Visibilité horizontale minimale","VVVV ou VVVVNDV
+Jusqu'à 2
+Direction de la visibilité minimale observée Dv
+VNVNVNVN",,,Operational
+07,Catégorie 07 — Séquences correspondant à des messages d'observation en surface (terre),307047,(Nuages METAR/SPECI/TAF),,"105000
+031001
+008002
+020011
+020012
+020013
+020092
+020002
+020091",", remplaçant 3 07 015
+Répétition différée de 5 descripteurs
+Facteur de répétition différée du descripteur
+Caractéristique verticale Nébulosité
+Type de nuage
+Hauteur de la base des nuages
+Hauteur de la base des nuages
+Visibilité verticale
+Visibilité verticale","NsNsNs
+CC
+hshshs – m
+hshshs – ft
+VVhshshs – m
+VVhshshs – ft",,,Operational
+07,Catégorie 07 — Séquences correspondant à des messages d'observation en surface (terre),307048,(Prévision du type «tendance»),,"008016
+102000
+031001
+008017
+301012
+112000
+031000
+007032
+011001
+008054
+011083
+011084
+011002
+008054
+011085
+011086
+011041
+008054
+007032
+020009
+101000
+031000
+020060
+307014",", remplaçant 3 07 018
+Identificateur de changement d'une prévision de type «tendance» ou d'une prévision d'aérodrome
+Répétition différée de 2 descripteurs
+Facteur de répétition différée du descripteur
+Identificateur de l'heure à laquelle le changement de prévision est attendu
+Heure, minute
+Répétition différée de 12 descripteurs
+Facteur de répétition légèrement différée du descripteur
+Hauteur du capteur au-dessus du sol Direction du vent
+Identificateur de la vitesse du vent ou des rafales
+Vitesse du vent Vitesse du vent Vitesse du vent Identificateur de la vitesse du vent ou des rafales
+Vitesse de la rafale maximale Vitesse de la rafale maximale Vitesse de la rafale maximale Identificateur de la vitesse du vent ou des rafales
+Hauteur du capteur au-dessus du sol Indicateur général du temps Répétition différée de 1 descripteur
+Facteur de répétition légèrement différée du descripteur
+Visibilité horizontale dominante
+Temps significatif présent ou prévu","TTTTT NOSIG
+= 0, 1 ou 2
+TT
+GGgg
+= 0 ou 1
+= 10 m (si la valeur réelle n'est pas disponible)
+ddd
+P
+ff – km/h
+ff – kt
+ff – m/s
+P
+fmfm – km/h
+fmfm – kt
+fmfm – m/s
+Mis à valeur manquante (annuler)
+Mis à valeur manquante (annuler)
+CAVOK NSW NSC
+= 0 ou 1
+VVVV
+Intensité et phénomènes météorologiques w'w'",(voir note 1),,Operational
+07,Catégorie 07 — Séquences correspondant à des messages d'observation en surface (terre),307049,(Conditions de la mer),,"307047
+102000
+031000
+022043
+022021","Nuages METAR/SPECI/TAF, remplaçant 3 07 015 Répétition différée de 2 descripteurs
+Facteur de répétition légèrement différée du descripteur
+Température de la mer/de l'eau
+Hauteur des vagues","NsNsNshshshs
+= 0 ou 1
+TSTS
+S",,,Operational
+07,Catégorie 07 — Séquences correspondant à des messages d'observation en surface (terre),307050,(État de la piste),,"101000
+031000
+020085
+102000
+031001
+001064
+020085
+105000
+031001
+001064
+020086
+020087
+020088
+020089","Répétition différée de 1 descripteur
+Facteur de répétition légèrement différée du descripteur
+État général de la piste
+Répétition différée de 2 descripteurs
+Facteur de répétition différée du descripteur
+Indicatif de piste
+État général de la piste
+Répétition différée de 5 descripteurs
+Facteur de répétition différée du descripteur
+Indicatif de piste
+Dépôts sur la piste
+Contamination de la piste
+Épaisseur des dépôts sur la piste
+Coefficient de frottement de la piste","= 0 ou 1
+SNOCLO
+DRDR
+CLRD//
+DRDR
+ER
+CR
+eReR
+BRBR",,,Operational
+07,Catégorie 07 — Séquences correspondant à des messages d'observation en surface (terre),307051,(METAR/SPECI complet),,"307045
+307046
+307013
+307014
+307047
+307016
+307017
+307049
+307050
+101000
+031001
+307048",", remplaçant 3 07 021
+Partie principale du METAR/SPECI, remplaçant 3 07 011
+Visibilité METAR/SPECI
+Portée visuelle de piste
+Temps significatif présent ou prévu
+Nuages METAR/SPECI/TAF, remplaçant 3 07 015
+Phénomènes météorologiques significatifs récents
+Cisaillement du vent sur la piste Conditions de la mer
+État de la piste
+Répétition différée de 1 descripteur
+Facteur de répétition différée du descripteur
+Prévision du type «tendance», remplaçant 3 07 018","VVVV ou VVVVNDV VNVNVNVNDV
+RDRDR/VRVRVRVR
+Intensité et phénomènes météorologiques w'w'
+NsNsNshshshs
+REw'w'
+WS RDRDR
+WTsTs/SS
+RDRDR/ ERCRERERBRBR
+= 0 à 3 en général",,,Operational
+07,Catégorie 07 — Séquences correspondant à des messages d'observation en surface (terre),307052,(Identification et intervalle de temps d'une prévision d'aérodrome),,"001063
+008039
+301011
+301012
+008079
+008039
+301011
+301012
+008039","Indicateur d'emplacement OACI
+Caractéristique temporelle Année, mois, jour
+Heure, minute
+Catégorie de produit
+Caractéristique temporelle Année, mois, jour
+Heure, minute
+Caractéristique temporelle","CCCC
+= 0 Heure de la prévision
+YY
+GGgg
+COR CNL AMD NIL
+= 1 Heure de début de période de la prévision
+Y1Y1
+G1G1
+= 2 Heure de fin de période de la prévision",,,Operational
+07,Catégorie 07 — Séquences correspondant à des messages d'observation en surface (terre),307053,(Prévision météorologique sur un aérodrome),,"007032
+011001
+008054
+011083
+011084
+011002
+008054
+011085
+011086
+011041
+008054
+007032
+020009
+020060
+307014
+307047","Hauteur du capteur au-dessus du sol Direction du vent
+Identificateur de la vitesse du vent ou des rafales
+Vitesse du vent Vitesse du vent Vitesse du vent Identificateur de la vitesse du vent ou des rafales
+Vitesse de la rafale maximale Vitesse de la rafale maximale Vitesse de la rafale maximale Identificateur de la vitesse du vent ou des rafales
+Hauteur du capteur au-dessus du sol Indicateur général du temps Visibilité horizontale dominante
+Temps significatif présent ou prévu
+Nuages METAR/SPECI/TAF, remplaçant 3 07 015","= 10 m (si la valeur réelle n'est pas disponible)
+ddd
+P
+ff – km/h
+ff – kt
+ff – m/s
+P
+fmfm – km/h
+fmfm – kt
+fmfm – m/s
+Mis à valeur manquante (annuler)
+Mis à valeur manquante (annuler)
+CAVOK NSW NSC
+VVVV
+w'w'
+NsNsNshshshs",(voir note 1),,Operational
+07,Catégorie 07 — Séquences correspondant à des messages d'observation en surface (terre),307054,(Prévision de températures extrêmes),,"007032
+008039
+004003
+004004
+008023
+012023
+008039
+004003
+004004
+008023
+012023
+008023
+007032","Hauteur du capteur au-dessus du sol Caractéristique temporelle Jour
+Heure
+Statistiques de premier ordre
+Température
+Caractéristique temporelle Jour
+Heure
+Statistiques de premier ordre
+Température
+Statistiques de premier ordre
+Hauteur du capteur au-dessus du sol","= 2 m (si la valeur réelle n'est pas disponible)
+= 3 Heure à laquelle la température maximale est attendue
+GFGF
+= 3 Minimum
+TFTF – Celsius
+= 4 Heure à laquelle la température minimale est attendue
+GFGF
+= 2 Maximum
+TFTF – Celsius
+Mis à valeur manquante (annuler)
+Mis à valeur manquante (annuler)",,,Operational
+07,Catégorie 07 — Séquences correspondant à des messages d'observation en surface (terre),307055,(Identificateur de changement et changements de prévision),,"033045
+008016
+008039
+004003
+301012
+008039
+004003
+301012
+307053","Probabilité du phénomène qui suit
+Identificateur de changement d'une prévision de type «tendance» ou d'une prévision d'aérodrome
+Caractéristique temporelle Jour
+Heure, minute
+Caractéristique temporelle Jour
+Heure, minute
+Prévision météorologique sur un aérodrome","C2C2
+TTTTTT
+= 5 Heure de début du changement de prévision
+GGgg
+= 6 Heure de fin du changement de prévision
+GGe
+Durant ou après le changement",,,Operational
+07,Catégorie 07 — Séquences correspondant à des messages d'observation en surface (terre),307056,(Prévision d'aérodrome — TAF complet),,"307052
+307053
+307054
+101000
+031001
+307055","Identification et intervalle de temps d'une prévision d'aérodrome
+Prévision météorologique sur un aérodrome
+Prévision de températures extrêmes
+Répétition différée de 1 descripteur
+Facteur de répétition différée du descripteur
+Identificateur de changement et changements de prévision",,,,Operational
+07,Catégorie 07 — Séquences correspondant à des messages d'observation en surface (terre),307060,(Température du sol sous la surface terrestre),,"007061
+012030","Profondeur sous la surface terrestre
+Température du sol",,,,Operational
+07,Catégorie 07 — Séquences correspondant à des messages d'observation en surface (terre),307061,(Données relatives à la température du sol à diverses profondeurs (pas plus de cinq),,"301031
+101005
+307060","— position très précise)
+Identification et type de station, date/heure, position , hauteur de la station
+Répéter 1 descripteur 5 fois
+Température du sol sous la surface terrestre",,,,Operational
+07,Catégorie 07 — Séquences correspondant à des messages d'observation en surface (terre),307062,(Données relatives à la température du sol à diverses profondeurs (pas plus de cinq),,"301032
+101005
+307060","— faible degré de précision de la position)
+Identification et type de station, date/heure, position , hauteur de la station
+Répéter 1 descripteur 5 fois
+Température du sol sous la surface terrestre",,,,Operational
+07,Catégorie 07 — Séquences correspondant à des messages d'observation en surface (terre),307063,(Profondeur sous la surface terrestre et température du sol),,"007061
+012130","Profondeur sous la surface terrestre
+Température du sol",Échelle: 2,,,Operational
+07,Catégorie 07 — Séquences correspondant à des messages d'observation en surface (terre),307071,(Valeurs mensuelles provenant d'une station terrestre),,"301090
+004074
+004023
+008023
+010004
+010051
+007004
+010009
+007032
+012101
+002051
+004051
+012118
+004052
+012119
+013004
+008023
+012151
+007032
+102005
+008050
+008020
+014032
+014033
+008050
+008020
+102018
+008052
+008022
+007032
+008053
+004003
+012152
+008053
+004003
+012153
+008053
+004003
+008023
+012101
+008053
+004003
+008023
+012101
+008023
+007032
+002002
+008053
+004003
+011046
+008053
+004003
+004004
+004023
+007032
+013060
+013051
+004053
+008050
+008020
+102006
+008052
+008022
+008053
+004003
+013052
+007032","Identification de la station d'observation en surface; heure, coordonnées horizontales et verticales Période ou décalage dans le temps de courte durée Période ou décalage dans le temps
+Moyennes mensuelles de la pression, de la température, des extrêmes de température et de la tension de vapeur
+Statistiques de premier ordre
+Pression
+Pression ramenée au niveau moyen de la mer
+Pression
+Hauteur géopotentielle
+Hauteur du capteur au-dessus du sol Température/température de l'air
+Indicateur servant à préciser la méthode d'observation des températures extrêmes
+Heure principale à laquelle la température maximale est relevée quotidiennement
+Température maximale à une hauteur déterminée, au cours des 24 heures précédentes
+Heure principale à laquelle la température minimale est relevée quotidiennement
+Température minimale à une hauteur déterminée, au cours des 24 heures précédentes
+Tension de vapeur
+Statistiques de premier ordre
+Écart-type de la température moyenne journalière
+Hauteur du capteur au-dessus du sol Répéter 2 descripteurs 5 fois
+Identificateur pour le nombre de valeurs manquantes dans le calcul des statistiques
+Nombre total de valeurs manquantes Durée d'insolation
+Insolation totale
+Insolation totale
+Identificateur pour le nombre de valeurs manquantes dans le calcul des statistiques
+Nombre total de valeurs manquantes Nombre de jours d'occurrence
+Répéter 2 descripteurs 18 fois
+Condition pour laquelle le nombre de jours d'occurrence est indiqué
+Nombre total Occurrence de valeurs extrêmes de la température et de la vitesse du vent
+Hauteur du capteur au-dessus du sol Identificateur du jour d'occurrence
+Jour
+Température moyenne journalière la plus élevée
+Identificateur du jour d'occurrence
+Jour
+Température moyenne journalière la plus basse
+Identificateur du jour d'occurrence
+Jour
+Statistiques de premier ordre
+Température/température de l'air
+Identificateur du jour d'occurrence
+Jour
+Statistiques de premier ordre
+Température/température de l'air
+Statistiques de premier ordre
+Hauteur du capteur au-dessus du sol Type d'instrument pour la mesure du vent
+Identificateur du jour d'occurrence
+Jour
+Vitesse maximale du vent instantané
+Identificateur du jour d'occurrence
+Précipitations
+Jour Heure Période ou décalage dans le temps Hauteur du capteur au-dessus du sol Précipitations totales cumulées
+Groupe de fréquence, précipitations
+Nombre de jours avec précipitations égales ou supérieures à 1 mm
+Identificateur pour le nombre de valeurs manquantes dans le calcul des statistiques
+Nombre total de valeurs manquantes Nombre de jours d'occurrence
+Répéter 2 descripteurs 6 fois
+Conditions pour laquelle le nombre de jours d'occurrence est indiqué
+Nombre total Occurrence de précipitations extrêmes
+Identificateur du jour d'occurrence
+Jour
+Quantité journalière de précipitations la plus élevée
+Hauteur du capteur au-dessus du sol","= UTC – Heure locale
+Nombre de jours dans le mois
+= 4 Valeur moyenne
+Surface isobare standard
+Mis à valeur manquante pour les stations situées en plaine
+Surface isobare standard | Mis à valeur manquante pour les stations situées en plaine
+Mis à valeur manquante
+Mis à valeur manquante (annuler)
+/voir colonne de gauche
+= 1 Pression, = 2 Température, = 4 Tension de vapeur, = 7 Température maximale, = 8 Température minimale
+Jours
+= 6 Durée d'insolation
+Jours
+Jours
+= 0 Un jour seulement dans le mois, = 1 Plus d'un jour dans le mois
+= 0 Un jour seulement dans le mois, = 1 Plus d'un jour dans le mois
+= 0 Un jour seulement dans le mois, = 1 Plus d'un jour dans le mois
+= 2 Valeur maximale
+= 0 Un jour seulement dans le mois, = 1 Plus d'un jour dans le mois
+= 3 Valeur minimale
+Mis à valeur manquante
+= 0 Un jour seulement dans le mois, = 1 Plus d'un jour dans le mois
+Mis à valeur manquante (annuler)
+= 1
+= 6
+Nombre de jours dans le mois
+= 5 Précipitations
+Jours
+Jours
+= 0 Un jour seulement dans le mois, = 1 Plus d'un jour dans le mois
+Mis à valeur manquante (annuler)",(voir note 3),,Operational
+07,Catégorie 07 — Séquences correspondant à des messages d'observation en surface (terre),307072,(Normales mensuelles pour une station terrestre),,"004001
+004001
+004002
+004003
+004004
+004074
+004022
+008023
+010004
+010051
+007004
+010009
+007032
+012101
+002051
+004051
+012118
+004052
+012119
+013004
+012151
+007032
+014032
+008023
+004001
+004001
+004002
+004003
+004004
+004022
+007032
+008023
+013060
+004053
+008023
+102008
+008050
+008020","Année
+Année
+Mois
+Jour Heure Période ou décalage dans le temps de courte durée Période ou décalage dans le temps
+Normales des moyennes mensuelles de la pression, des températures, de la tension de vapeur et de l'écart-type
+Statistiques de premier ordre
+Pression
+Pression ramenée au niveau moyen de la mer
+Pression
+Hauteur géopotentielle
+Hauteur du capteur au-dessus du sol Température/température de l'air
+Indicateur servant à préciser la méthode d'observation des températures extrêmes
+Heure principale à laquelle la température maximale est relevée quotidiennement
+Température maximale à une hauteur déterminée, au cours des 24 heures précédentes
+Heure principale à laquelle la température minimale est relevée quotidiennement
+Température minimale à une hauteur déterminée, au cours des 24 heures précédentes
+Tension de vapeur
+Écart-type de la température moyenne journalière
+Hauteur du capteur au-dessus du sol Normales de la durée d'insolation
+Insolation totale
+Statistiques de premier ordre
+Normales des précipitations
+Année
+Année
+Mois
+Jour Heure Période ou décalage dans le temps
+Hauteur du capteur au-dessus du sol Statistiques de premier ordre
+Précipitations totales cumulées
+Nombre de jours avec précipitations égales ou supérieures à 1 mm
+Statistiques de premier ordre
+Répéter 2 descripteurs 8 fois
+Identificateur pour le nombre de valeurs manquantes dans le calcul des statistiques Nombre total de valeurs manquantes","Début de la période de référence
+Fin de la période de référence
+= 1
+= 0
+= UTC – Heure locale
+= 1
+= 4 Valeur moyenne
+Surface isobare standard
+Surface isobare standard
+= 2
+Mis à valeur manquante (annuler)
+Mis à valeur manquante
+Début de la période de référence
+Fin de la période de référence
+= 1
+= 6
+= 1
+= 4 Valeur moyenne
+Mis à valeur manquante
+/voir colonne de gauche
+= 1 Pression, = 2 Température, = 3 Température extrême, = 4 Tension de vapeur, = 5 Précipitations, = 6 Durée d'insolation, = 7 Température maximale, = 8 Température minimale
+Années",(voir note 3),,Operational
+07,Catégorie 07 — Séquences correspondant à des messages d'observation en surface (terre),307073,(Représentation des valeurs mensuelles composant les données CLIMAT),,"307071
+307072","Valeurs mensuelles provenant d'une station terrestre
+Normales mensuelles pour une station terrestre",,,,Operational
+07,Catégorie 07 — Séquences correspondant à des messages d'observation en surface (terre),307074,(Valeurs supplémentaires des extrêmes quotidiens de la température et des précipitations destinées aux messages mensuels de données climatiques),,"301001
+004001
+004002
+301021
+007030
+007032
+112000
+031001
+004003
+004004
+004024
+102003
+008023
+012101
+008023
+004004
+004024
+013060
+013012
+013013","Indicateur régional OMM et chiffre indicatif OMM de la station
+Année
+Mois
+Latitude/longitude Altitude du sol de la station
+Hauteur du capteur au-dessus du sol Répétition différée de 12 descripteurs
+Facteur de répétition différée du descripteur
+Jour
+Heure
+Période ou décalage dans le temps
+Répéter 2 descripteurs 3 fois
+Statistiques de premier ordre
+Température/température de l'air
+Statistiques de premier ordre
+Heure
+Période ou décalage dans le temps
+Précipitations totales cumulées
+Épaisseur de neige fraîche
+Hauteur totale de la couche de neige","Correspond au nombre de jours du mois pour lesquels des données sont transmises
+Indique normalement -24 pour désigner la période qui commence 24 heures avant l'heure indiquée et qui se termine à cette même heure
+/voir colonne de gauche
+= 2 Température maximale quotidienne, = 3 Température minimale quotidienne, = 4 Température moyenne quotidienne
+Mis à valeur manquante (annuler)",,,Operational
+07,Catégorie 07 — Séquences correspondant à des messages d'observation en surface (terre),307076,(Valeurs mensuelles provenant d'une station terrestre conformément aux pratiques de transmission régionales ou nationales),,"301090
+004074
+004023
+008023
+010004
+010051
+007004
+010009
+007032
+012101
+002051
+004051
+012118
+004052
+012119
+013004
+008023
+012151
+007032
+102005
+008050
+008020
+014032
+014033
+008050
+008020
+102018
+008052
+008022
+007032
+008053
+004003
+012152
+008053
+004003
+012153
+008053
+004003
+008023
+012101
+008053
+004003
+008023
+012101
+008023
+007032
+002002
+008053
+004003
+011046
+008053
+004003
+004004
+004074
+004023
+007032
+013060
+013051
+004053
+008050
+008020
+102006
+008052
+008022
+008053
+004003
+013052
+007032","Identification de la station d'observation en surface; heure, coordonnées horizontales et verticales
+Période ou décalage dans le temps de courte durée
+Période ou décalage dans le temps
+Moyennes mensuelles de la pression, de la température, des extrêmes de température et de la tension de vapeur
+Statistiques de premier ordre
+Pression
+Pression ramenée au niveau moyen de la mer
+Pression
+Hauteur géopotentielle
+Hauteur du capteur au-dessus du sol Température/température de l'air
+Indicateur servant à préciser la méthode d'observation des températures extrêmes
+Heure principale à laquelle la température maximale est relevée quotidiennement
+Température maximale à une hauteur déterminée, au cours des 24 heures précédentes
+Heure principale à laquelle la température minimale est relevée quotidiennement
+Température minimale à une hauteur déterminée, au cours des 24 heures précédentes
+Tension de vapeur
+Statistiques de premier ordre
+Écart-type de la température moyenne journalière
+Hauteur du capteur au-dessus du sol Nombre de jours pour lesquels les valeurs sont manquantes
+Répéter 2 descripteurs 5 fois
+Identificateur pour le nombre de valeurs manquantes dans le calcul des statistiques
+Nombre total de valeurs manquantes Durée d'insolation
+Insolation totale
+Insolation totale
+Identificateur pour le nombre de valeurs manquantes dans le calcul des statistiques
+Nombre total de valeurs manquantes Nombre de jours d'occurrence
+Répéter 2 descripteurs 18 fois
+Condition pour laquelle le nombre de jours d'occurrence est indiqué
+Nombre total Occurrence de valeurs extrêmes de la température et de la vitesse du vent
+Hauteur du capteur au-dessus du sol Identificateur du jour d'occurrence
+Jour
+Température moyenne journalière la plus élevée
+Identificateur du jour d'occurrence
+Jour
+Température moyenne journalière la plus basse
+Identificateur du jour d'occurrence
+Jour
+Statistiques de premier ordre
+Température/température de l'air
+Identificateur du jour d'occurrence
+Jour
+Statistiques de premier ordre
+Température/température de l'air
+Statistiques de premier ordre
+Hauteur du capteur au-dessus du sol Type d'instrument pour la mesure du vent
+Identificateur du jour d'occurrence
+Jour
+Vitesse maximale du vent instantané
+Identificateur du jour d'occurrence
+Précipitations
+Jour
+Heure
+Période ou décalage dans le temps de courte durée
+Période ou décalage dans le temps
+Hauteur du capteur au-dessus du sol Précipitations totales cumulées
+Groupe de fréquence, précipitations
+Nombre de jours avec précipitations égales ou supérieures à 1 mm
+Identificateur pour le nombre de valeurs manquantes dans le calcul des statistiques
+Nombre total de valeurs manquantes Nombre de jours d'occurrence
+Répéter 2 descripteurs 6 fois
+Condition pour laquelle le nombre de jours d'occurrence est indiqué
+Nombre total Occurrence de précipitations extrêmes
+Identificateur du jour d'occurrence
+Jour
+Quantité journalière de précipitations la plus élevée
+Hauteur du capteur au-dessus du sol","Nombre de jours dans le mois
+= 4 Valeur moyenne
+Surface isobare standard | Mis à valeur manquante pour les stations situées en plaine
+Surface isobare standard | Mis à valeur manquante pour les stations situées en plaine
+Mis à valeur manquante (annuler)
+Mis à valeur manquante (annuler)
+/voir colonne de gauche
+= 1 Pression, = 2 Température, = 4 Tension de vapeur, = 7 Température maximale, = 8 Température minimale
+Jours
+= 6 Durée d'insolation
+Jours
+/voir colonne de gauche
+Vent ≥ 10 m/s, vent ≥ 20 m/s, vent ≥ 30 m/s, température maximale < 273,15 K, température maximale ≥ 298,15 K, température maximale ≥ 303,15 K, température maximale ≥ 308,15 K, température maximale ≥ 313,15 K, température minimale < 273,15 K, sss > 0,00 m, sss > 0,01 m, sss > 0,10 m, sss > 0,50 m, visibilité horizontale < 50 m, visibilité horizontale < 100 m, visibilité horizontale < 1 000 m, grêle, orage
+Jours
+= 0 Un jour seulement dans le mois, = 1 Plus d'un jour dans le mois
+= 0 Un jour seulement dans le mois, = 1 Plus d'un jour dans le mois
+= 0 Un jour seulement dans le mois, = 1 Plus d'un jour dans le mois
+= 2 Valeur maximale
+= 0 Un jour seulement dans le mois, = 1 Plus d'un jour dans le mois
+= 3 Valeur minimale
+Mis à valeur manquante (annuler)
+= 0 Un jour seulement dans le mois, = 1 Plus d'un jour dans le mois
+Mis à valeur manquante (annuler)
+= 1
+= 0
+Nombre de jours dans le mois
+= 5 Précipitations
+Jours
+Jours
+= 0 Un jour seulement dans le mois, = 1 Plus d'un jour dans le mois
+Mis à valeur manquante (annuler)",,,Operational
+07,Catégorie 07 — Séquences correspondant à des messages d'observation en surface (terre),307077,(Normales mensuelles pour une station terrestre conformément aux pratiques de transmission régionales ou nationales),,"004001
+004001
+004002
+004003
+004004
+004074
+004022
+008023
+010004
+010051
+007004
+010009
+007032
+012101
+002051
+004051
+012118
+004052
+012119
+013004
+012151
+007032
+014032
+008023
+004001
+004001
+004002
+004003
+004004
+004074
+004022
+007032
+008023
+013060
+004053
+008023
+102008
+008050
+008020","Année
+Année
+Mois
+Jour
+Heure
+Période ou décalage dans le temps de courte durée
+Période ou décalage dans le temps
+Statistiques de premier ordre
+Pression
+Pression ramenée au niveau moyen de la mer
+Pression
+Hauteur géopotentielle
+Hauteur du capteur au-dessus du sol Température/température de l'air
+Indicateur servant à préciser la méthode d'observation des températures extrêmes
+Heure principale à laquelle la température maximale est relevée quotidiennement
+Température maximale à une hauteur déterminée, au cours des 24 heures précédentes
+Heure principale à laquelle la température minimale est relevée quotidiennement
+Température minimale à une hauteur déterminée, au cours des 24 heures précédentes
+Tension de vapeur
+Écart-type de la température moyenne journalière
+Hauteur du capteur au-dessus du sol Insolation totale
+Statistiques de premier ordre
+Normales de précipitations
+Année
+Année
+Mois
+Jour
+Heure
+Période ou décalage dans le temps de courte durée
+Période ou décalage dans le temps
+Hauteur du capteur au-dessus du sol Statistiques de premier ordre
+Précipitations totales cumulées
+Nombre de jours avec précipitations égales ou supérieures à 1 mm
+Statistiques de premier ordre
+Répéter 2 descripteurs 8 fois
+Identificateur pour le nombre de valeurs manquantes dans le calcul des statistiques
+Nombre total de valeurs manquantes","Début de la période de référence
+Fin de la période de référence
+= 1
+= 0
+= 1
+= 4 Valeur moyenne
+Surface isobare standard
+Surface isobare standard
+Mis à valeur manquante (annuler)
+Mis à valeur manquante (annuler)
+Début de la période de référence
+Fin de la période de référence
+= 1
+= 0
+= 1
+= 4 Valeur moyenne
+Mis à valeur manquante (annuler)
+/voir colonne de gauche
+Années",,,Operational
+07,Catégorie 07 — Séquences correspondant à des messages d'observation en surface (terre),307078,"(Séquence pour la représentation des valeurs mensuelles composant les données CLIMAT, conformément aux pratiques de transmission régionales ou nationales)",,"307076
+307077","Valeurs mensuelles provenant d'une station terrestre conformément aux pratiques de transmission régionales ou nationales
+Normales mensuelles pour une station terrestre conformément aux pratiques de transmission régionales ou nationales",,,,Operational
+07,Catégorie 07 — Séquences correspondant à des messages d'observation en surface (terre),307079,(Séquence pour la représentation des données SYNOP des messages synoptiques provenant d'une station terrestre fixe et des données maritimes provenant d'une station côtière),,"301090
+302031
+302035
+302036
+101000
+031000
+302047
+008002
+101000
+031000
+302048
+302037
+102000
+031000
+022061
+020058
+101000
+031000
+302056
+101000
+031000
+302055
+302043
+302044
+101000
+031001
+302045
+101000
+031000
+302046","Identification de la station d'observation en surface; heure, coordonnées horizontales et verticales
+Information sur la pression
+Données synoptiques de base «instantanées»
+Nuages dont la base se situe sous le niveau de la station
+Répétition différée de 1 descripteur
+Facteur de répétition légèrement différée du descripteur
+Direction de la dérive des nuages
+Caractéristique verticale Répétition différée de 1 descripteur
+Facteur de répétition légèrement différée du descripteur
+Direction et hauteur des nuages
+État du sol, hauteur de neige, température minimale au sol
+Répétition différée de 2 descripteurs
+Facteur de répétition légèrement différée du descripteur
+État de la mer
+Visibilité sur la mer depuis une station côtière
+Répétition différée de 1 descripteur
+Facteur de répétition légèrement différée du descripteur
+Température de la mer/de l'eau
+Répétition différée de 1 descripteur
+Facteur de répétition légèrement différée du descripteur
+Givrage et glace
+Données synoptiques de base «pour la période»
+Données sur l'évaporation
+Répétition différée de 1 descripteur
+Facteur de répétition différée du descripteur
+Données sur le rayonnement Répétition différée de 1 descripteur
+Facteur de répétition légèrement différée du descripteur
+Variation de température","Température de surface de la mer/ de l'eau, méthode de mesure et profondeur sous la surface de l'eau",,,Operational
+07,Catégorie 07 — Séquences correspondant à des messages d'observation en surface (terre),307080,(Séquence pour la représentation des données SYNOP des messages synoptiques provenant d'une station terrestre fixe),,"301090
+302031
+302035
+302036
+302047
+008002
+302048
+302037
+302043
+302044
+101002
+302045
+302046","Identification de la station d'observation en surface; heure, coordonnées horizontales et verticales
+Information sur la pression
+Données synoptiques de base «instantanées»
+Nuages dont la base se situe sous le niveau de la station
+Direction de la dérive des nuages
+Caractéristique verticale Direction et hauteur des nuages
+État du sol, hauteur de neige, température minimale au sol
+Données synoptiques de base «pour la période»
+Données sur l'évaporation
+Répéter 1 descripteur 2 fois
+Données sur le rayonnement Variation de température",,,,Operational
+07,Catégorie 07 — Séquences correspondant à des messages d'observation en surface (terre),307081,"(Séquence pour la représentation des données SYNOP des messages synoptiques provenant d'une station terrestre fixe, compte tenu des pratiques propres à la Région I)",,"301090
+302031
+302035
+302036
+302047
+008002
+302048
+302037
+012122
+013056
+013057
+020101
+020102
+020103
+020104
+020105
+020106
+020107
+020108
+302043
+302044
+101002
+302045
+302046","Identification de la station d'observation en surface; heure, coordonnées horizontales et verticales
+Information sur la pression
+Données synoptiques de base «instantanées»
+Nuages dont la base se situe sous le niveau de la station
+Direction de la dérive des nuages
+Caractéristique verticale Direction et hauteur des nuages
+État du sol, hauteur de neige, température minimale au sol
+Température minimale au sol la nuit précédente
+Caractère et intensité des précipitations
+Heure du début ou de la fin des précipitations
+Nom de l'acridien
+Couleur de l'acridien Stade de développement des acridiens
+Degré d'organisation de l'essaim ou de la bande d'acridiens
+Dimension de l'essaim ou de la bande d'acridiens et durée du passage de l'essaim
+Densité de la population d'acridiens
+Direction du déplacement de l'essaim d'acridiens
+Étendue de la végétation
+Données synoptiques de base «pour la période»
+Données sur l'évaporation
+Répéter 1 descripteur 2 fois
+Données sur le rayonnement Variation de température",Mis à valeur manquante (annuler),,,Operational
+07,Catégorie 07 — Séquences correspondant à des messages d'observation en surface (terre),307082,"(Séquence pour la représentation des données SYNOP des messages synoptiques provenant d'une station terrestre fixe, compte tenu des pratiques propres à la Région II)",,"301090
+302031
+302035
+302036
+302047
+008002
+302048
+302037
+012121
+012122
+302043
+302044
+101002
+302045
+302046","Identification de la station d'observation en surface; heure, coordonnées horizontales et verticales
+Information sur la pression
+Données synoptiques de base «instantanées»
+Nuages dont la base se situe sous le niveau de la station
+Direction de la dérive des nuages
+Caractéristique verticale Direction et hauteur des nuages
+État du sol, hauteur de neige, température minimale au sol
+Température minimale au sol
+Température minimale au sol la nuit précédente
+Données synoptiques de base «pour la période»
+Données sur l'évaporation
+Répéter 1 descripteur 2 fois
+Données sur le rayonnement Variation de température","Mis à valeur manquante (annuler)
+À l'heure de l'observation",(voir note 7),,Operational
+07,Catégorie 07 — Séquences correspondant à des messages d'observation en surface (terre),307083,"(Séquence pour la représentation des données SYNOP des messages synoptiques provenant d'une station terrestre fixe, compte tenu des pratiques propres à la Région III)",,"301090
+302031
+302035
+302036
+302047
+008002
+302048
+302037
+012122
+302043
+302044
+101002
+302045
+302046","Identification de la station d'observation en surface; heure, coordonnées horizontales et verticales
+Information sur la pression
+Données synoptiques de base «instantanées»
+Nuages dont la base se situe sous le niveau de la station
+Direction de la dérive des nuages
+Caractéristique verticale Direction et hauteur des nuages
+État du sol, hauteur de neige, température minimale au sol
+Température minimale au sol la nuit précédente
+Données synoptiques de base «pour la période»
+Données sur l'évaporation
+Répéter 1 descripteur 2 fois
+Données sur le rayonnement Variation de température",Mis à valeur manquante (annuler),,,Operational
+07,Catégorie 07 — Séquences correspondant à des messages d'observation en surface (terre),307084,"(Séquence pour la représentation des données SYNOP des messages synoptiques provenant d'une station terrestre fixe, compte tenu des pratiques propres à la Région M)",,"301090
+302031
+302035
+302036
+302047
+008002
+302048
+302037
+020055
+101000
+031001
+205001
+302043
+302044
+101002
+302045
+302046","Identification de la station d'observation en surface; heure, coordonnées horizontales et verticales
+Information sur la pression
+Données synoptiques de base «instantanées»
+Nuages dont la base se situe sous le niveau de la station
+Direction de la dérive des nuages
+Caractéristique verticale Direction et hauteur des nuages
+État du sol, hauteur de neige, température minimale au sol
+État du ciel dans les régions tropicales
+Répétition différée de 1 descripteur
+Facteur de répétition différée du descripteur
+Indiquer des caractères
+Données synoptiques de base «pour la période»
+Données sur l'évaporation
+Répéter 1 descripteur 2 fois
+Données sur le rayonnement Variation de température","Mis à valeur manquante (annuler)
+Champ pour 1 caractère",,,Operational
+07,Catégorie 07 — Séquences correspondant à des messages d'observation en surface (terre),307086,"(Séquence pour la représentation des données SYNOP des messages synoptiques provenant d'une station terrestre fixe, compte tenu des pratiques propres à la Région VI)",,"301090
+302031
+302035
+302036
+008002
+302037
+302066
+302043
+302044
+101002
+302045","Identification de la station d'observation en surface; heure, coordonnées horizontales et verticales
+Information sur la pression
+Données synoptiques de base «instantanées»
+Nuages dont la base se situe sous le niveau de la station
+Caractéristique verticale État du sol, hauteur de neige, température minimale au sol
+Phénomènes météorologiques dangereux
+Données synoptiques de base «pour la période»
+Données sur l'évaporation
+Répéter 1 descripteur 2 fois
+Données sur le rayonnement",Mis à valeur manquante (annuler),,,Operational
+07,Catégorie 07 — Séquences correspondant à des messages d'observation en surface (terre),307087,(Paramètres «instantanés» de la séquence 3 07 089),,"301001
+002001
+301011
+301012
+301023
+007030
+007031
+302001
+010062
+007004
+010009
+007032
+012101
+012103
+013003
+007032
+020001
+302004
+101000
+031001
+302005","Identification de la station d'observation en surface, heure, coordonnées horizontales et verticales
+Indicateur régional OMM et chiffre indicatif OMM de la station
+Type de station
+Année, mois, jour
+Heure, minute
+Latitude/longitude Altitude du sol de la station
+Altitude du baromètre
+Données sur la pression
+Pression et variation de pression en 3 heures
+Variation de pression en 24 heures
+Pression
+Hauteur géopotentielle
+Température et humidité
+Hauteur du capteur au-dessus du sol Température/température de l'air
+Point de rosée
+Humidité relative
+Hauteur du capteur au-dessus du sol Visibilité
+Visibilité horizontale
+Données sur les nuages
+Information générale sur les nuages
+Répétition différée de 1 descripteur
+Facteur de répétition différée du descritpeur
+Couche nuageuse","Iliii
+ix
+YY
+GG, gg
+PoPoPoPo, PPPP, ppp, a
+P24P24P24
+Surface isobare standard a3 = 925, 850, 700, hPa | Mis à valeur manquante pour les stations situées en plaine
+Surface isobare standard hhh | Mis à valeur manquante pour les stations situées en plaine
+Mesure de la température
+snTTT | Échelle: 2
+snTaTaTa | Échelle: 2
+Mis à valeur manquante (annuler)
+VV
+/voir colonne de gauche
+Nébulosité (totale) N: Si N = 9, 0 20 010 = 113; si N = /, 0 20 010 = valeur manquante | Caractéristique verticale: Si des CL sont observés, 0 08 002 = 7 | Nuages de l'étage inférieur: Si aucun CL n'est observé et des CM sont observés, 0 08 002 = 8 | Nuages de l'étage moyen: Si seuls des CH sont observés, 0 08 002 = 0, si N = 9, 0 08 002 = 5, si N = 0, 0 08 002 = 62, si N = /, 0 08 002 = valeur manquante | Étendue de la couche nuageuse (nuages de l'étage inférieur ou moyen) Ns: Si N = 0, 0 20 011 = 0, si N = 9, 0 20 011 = 9, si N = /, 0 20 011 = valeur manquante | Hauteur de la base des nuages h: Si N = 0 ou /, 0 20 013 = valeur manquante | Type de nuage (nuages de l'étage inférieur) CL: 0 20 012 = CL + 30, si N = 0, 0 20 012 = 30, si N = 9 ou /, 0 20 012 = 62 | Type de nuage (nuages de l'étage moyen) CM: 0 20 012 = CM + 20, si N = 0, 0 20 012 = 20, si N = 9 ou / ou CM = /, 0 20 012 = 61 | Type de nuage (nuages de l'étage supérieur) CH: 0 20 012 = CH + 10, si N = 0, 0 20 012 = 10, si N = 9 ou / ou CH = /, 0 20 012 = 60
+/voir colonne de gauche
+Caractéristique verticale: Dans toute couche Cb, 0 08 002 = 4, sinon, pour la première répétition, si N = 9, 0 08 002 = 5, si N = /, 0 08 002 = valeur manquante, sinon 0 08 002 = 1, pour les autres répétitions 0 08 002 = 2, 3, 4 | Étendue de la couche nuageuse Ns: Pour la première répétition, si N = /, 0 20 011 = valeur manquante, sinon 0 20 011 = Ns, pour les autres répétitions 0 20 011 = Ns | Type de nuage C: Si N = 9 ou /, 0 20 012 = valeur manquante, sinon 0 20 012 = C | Hauteur de la base des nuages hshs",,,Operational
+07,Catégorie 07 — Séquences correspondant à des messages d'observation en surface (terre),307088,(Paramètres «pour la période» de la séquence 3 07 089),,"020003
+004024
+020004
+020005
+004024
+002004
+013033
+102002
+004024
+014031
+102002
+004024
+013011
+007032
+004024
+012111
+004024
+012112
+007032
+002002
+008021
+004025
+011001
+011002
+008021","Temps présent et temps passé
+Temps présent
+Période ou décalage dans le temps
+Temps passé Temps passé Évaporation
+Période ou décalage dans le temps
+Type d'instrument utilisé pour la mesure de l'évaporation ou type de culture pour lequel est indiquée l'évapotranspiration
+Évaporation/évapotranspiration
+Insolation
+Répéter 2 descripteurs 2 fois
+Période ou décalage dans le temps
+Insolation totale
+Précipitations
+Répéter 2 descripteurs 2 fois
+Période ou décalage dans le temps
+Précipitations totales/valeur totale de l'équivalent en eau
+Températures extrêmes
+Hauteur du capteur au-dessus du sol Période ou décalage dans le temps
+Température maximale, à une hauteur et sur une période déterminées
+Période ou décalage dans le temps
+Température minimale, à une hauteur et sur une période déterminées
+Données sur le vent
+Hauteur du capteur au-dessus du sol Type d'instrument pour la mesure du vent
+Caractéristique temporelle
+Période ou décalage dans le temps
+Direction du vent
+Vitesse du vent
+Caractéristique temporelle","ww
+= -6 à 00, 06, 12, 18 UTC, = -3 à 03, 09,15, 21 UTC
+W1
+W2
+= -24 (heures)
+E
+EEE
+= -24 (heures) pour la première répétition, = -1 (heure) pour la deuxième répétition
+SSS pour la première répétition, SS pour la deuxième répétition
+tr
+RRR |
+= 0 Pas de précipitations, = -0,1 Trace
+Mesure de la température
+= -12 (heures)
+snTxTxTx
+= -12 (heures)
+snTnTnTn
+Mesure du vent
+iw
+= 2 Moyenne sur une certaine période
+= -10 (minutes) ou nombre de minutes après un changement significatif du vent, le cas échéant
+dd | Si dd = 00 Calme ou dd = 99 Variable, 0 11 001 = 0
+ff
+Mis à valeur manquante (annuler)",,,Operational
+07,Catégorie 07 — Séquences correspondant à des messages d'observation en surface (terre),307089,(Séquence la représentation des données SYNOP des messages synoptiques provenant d'une station terrestre fixe manuellement codés en CREX),,"307087
+307088","Paramètres «instantanés» de la séquence 3 07 089
+Paramètres «pour la période» de la séquence 3 07 089",,,,Operational
+07,Catégorie 07 — Séquences correspondant à des messages d'observation en surface (terre),307090,(Séquence pour la représentation des données SYNOP MOBIL des messages synoptiques provenant d'une station terrestre mobile),,"301092
+302031
+302035
+302036
+302047
+008002
+302048
+302037
+302043
+302044
+101002
+302045
+302046","Identification de la station mobile d'observation en surface, date/heure, coordonnées horizontales et verticales
+Information sur la pression
+Données synoptiques de base «instantanées»
+Nuages dont la base se situe sous le niveau de la station
+Direction de la dérive des nuages
+Caractéristique verticale Direction et hauteur des nuages
+État du sol, hauteur de neige, température minimale au sol
+Données synoptiques de base «pour la période»
+Données sur l'évaporation
+Répéter 1 descripteur 2 fois
+Données sur le rayonnement Variation de température",,,,Operational
+07,Catégorie 07 — Séquences correspondant à des messages d'observation en surface (terre),307091,(Modèle de codage BUFR pour les observations en surface relevées sur une heure avec identification nationale et OMM de la station),,"301089
+301090
+008010
+301091
+302001
+007004
+010009
+302072
+103000
+031000
+101005
+307063
+007061
+101000
+031000
+302069
+007032
+007033
+105000
+031000
+020031
+020032
+002038
+022043
+302021
+101000
+031000
+302078
+101000
+031000
+302073
+101000
+031000
+302074
+101000
+031000
+302175
+102000
+031000
+004025
+302076
+302071
+302077
+007033
+101000
+031000
+302079
+007032
+101000
+031000
+302080
+101000
+031000
+302081
+101000
+031000
+302082
+102000
+031000
+004025
+013059
+101000
+031000
+302083
+033005
+033006","Identification nationale de la station
+Identification de la station d'observation en surface; heure, coordonnées horizontales et verticales
+Caractéristique de la surface Instruments de la station d'observation en surface
+Pression et variation de pression en 3 heures
+Pression
+Hauteur géopotentielle
+Données sur la température et l'humidité
+Répétition différée de 3 descripteurs
+Facteur de répétition légèrement différée du descripteur
+Répéter 1 descripteur 5 fois
+Profondeur sous la surface terrestre et température du sol
+Profondeur sous la surface terrestre
+Répétition différée de 1 descripteur
+Facteur de répétition légèrement différée du descripteur
+Données sur la visibilité
+Hauteur du capteur au-dessus du sol Hauteur du capteur au-dessus de la surface de l'eau
+Répétition différée de 5 descripteurs
+Facteur de répétition légèrement différée du descripteur
+Dépôt de glace Vitesse d'accumulation de la glace Méthode de mesure de la température et/ou de la salinité de l'eau
+Température de la mer/de l'eau
+Vagues
+Répétition différée de 1 descripteur
+Facteur de répétition légèrement différée du descripteur
+Mesure de l'état du sol et de la hauteur de la couche de neige
+Répétition différée de 1 descripteur
+Facteur de répétition légèrement différée du descripteur
+Données sur les nuages
+Répétition différée de 1 descripteur
+Facteur de répétition légèrement différée du descripteur
+Temps présent et temps passé
+Répétition différée de 1 descripteur
+Facteur de répétition légèrement différée du descripteur
+Intensité des précipitations, taille de l'élément de précipitations
+Répétition différée de 2 descripteurs
+Facteur de répétition légèrement différée du descripteur
+Période ou décalage dans le temps
+Précipitations, obscurcissement et autres phénomènes
+Données sur le vent relevées sur une heure
+Données sur les extrêmes de température
+Hauteur du capteur au-dessus de la surface de l'eau
+Répétition différée de 1 descripteur
+Facteur de répétition légèrement différée du descripteur
+Mesure des précipitations
+Hauteur du capteur au-dessus du sol Répétition différée de 1 descripteur
+Facteur de répétition légèrement différée du descripteur
+Mesure de l'évaporation
+Répétition différée de 1 descripteur
+Facteur de répétition légèrement différée du descripteur
+Données sur l'insolation totale
+Répétition différée de 1 descripteur
+Facteur de répétition légèrement différée du descripteur
+Données sur le rayonnement
+Répétition différée de 2 descripteurs
+Facteur de répétition légèrement différée du descripteur
+Période ou décalage dans le temps
+Nombre d'éclairs Répétition différée de 1 descripteur
+Facteur de répétition légèrement différée du descripteur
+Statistiques de premier ordre – données sur la pression, le vent, la température et l'humidité
+Informations sur la qualité Informations sur la situation interne des mesures","Surface isobare standard
+Surface isobare standard
+Mis à valeur manquante (annuler)
+Mis à valeur manquante (annuler)
+Mis à valeur manquante (annuler)
+Échelle: 2
+= -10 (minutes)
+Mis à valeur manquante (annuler)
+Mis à valeur manquante (annuler)
+= -10 (minutes)",,,Operational
+07,Catégorie 07 — Séquences correspondant à des messages d'observation en surface (terre),307092,(Modèle de codage BUFR pour les observations en surface relevées sur une période de n minutes),,"301150
+301001
+208040
+001019
+208000
+301011
+301012
+301021
+007030
+001023
+108000
+031000
+007031
+204018
+031021
+010004
+010051
+007004
+010009
+204000
+115000
+031001
+007032
+008010
+204018
+031021
+012101
+012103
+202129
+201132
+013003
+201000
+202000
+013009
+204000
+007032
+008010
+107000
+031001
+007061
+204018
+031021
+012130
+013111
+204000
+007061
+105000
+031000
+033041
+204018
+031021
+020001
+204000
+113000
+031000
+204018
+031021
+020010
+204000
+107000
+031001
+008002
+204018
+031021
+020011
+020013
+204000
+008002
+105000
+031000
+204018
+031021
+020062
+013013
+204000
+105000
+031000
+004025
+204018
+031021
+020003
+204000
+105000
+031000
+004025
+204018
+031021
+013011
+204000
+115000
+031001
+007032
+008021
+004025
+204018
+031021
+011001
+011002
+204000
+008021
+204018
+031021
+011043
+011041
+204000
+007032
+105000
+031000
+004025
+204018
+031021
+014031
+204000
+110000
+031000
+004025
+204018
+031021
+014002
+014002
+014004
+014028
+014029
+014030
+204000
+113000
+031000
+004025
+002071
+002072
+204018
+031021
+014072
+204000
+002071
+002072
+204018
+031021
+014072
+204000","Identifiant du WIGOS
+Indicateur régional OMM et chiffre indicatif OMM de la station
+Changer le champ des données CCITT IA5
+Nom complet de la station ou du site
+Changer le champ des données CCITT IA5
+Année, mois, jour
+Heure, minute
+Latitude/longitude Altitude du sol de la station
+Numéro de la séquence d'observations
+Répétition différée de 8 descripteurs
+Facteur de répétition légèrement différée du descripteur
+Altitude du baromètre
+Ajouter un champ associé
+Signification du champ associé
+Pression
+Pression ramenée au niveau moyen de la mer
+Pression
+Hauteur géopotentielle
+Ajout d'un champ associé
+Répétition différée de 15 descripteurs
+Facteur de répétition différée du descripteur
+Hauteur du capteur au-dessus du sol Caractéristique de la surface Ajouter un champ associé
+Signification du champ associé
+Température/température de l'air
+Point de rosée
+Changer d'échelle
+Changer le champ de données
+Humidité relative
+Changement du champ de données
+Changement d'échelle
+Humidité relative
+Ajout d'un champ associé
+Hauteur du capteur au-dessus du sol Caractéristique de la surface Répétition différée de 7 descripteurs
+Facteur de répétition différée du descripteur
+Profondeur sous la surface terrestre
+Ajouter un champ associé
+Signification du champ associé
+Température du sol
+Humidité du sol
+Ajout d'un champ associé
+Profondeur sous la surface terrestre
+Répétition différée de 5 descripteurs
+Facteur de répétition légèrement différée du descripteur
+Caractéristique de la valeur suivante
+Ajouter un champ associé
+Signification du champ associé
+Visibilité horizontale
+Ajout d'un champ associé
+Répétition différée de 13 descripteurs
+Facteur de répétition légèrement différée du descripteur
+Ajouter un champ associé
+Signification du champ associé
+Nébulosité Ajout d'un champ associé
+Répétition différée de 7 descripteurs
+Facteur de répétition différée du descripteur
+Caractéristique verticale Ajouter un champ associé
+Signification du champ associé
+Nébulosité
+Hauteur de la base des nuages
+Ajout d'un champ associé
+Caractéristique verticale Répétition différée de 5 descripteurs
+Facteur de répétition légèrement différée du descripteur
+Ajouter un champ associé
+Signification du champ associé
+État du sol Hauteur totale de la couche de neige
+Ajout d'un champ associé
+Répétition différée de 5 descripteurs
+Facteur de répétition légèrement différée du descripteur
+Période ou décalage dans le temps
+Ajouter un champ associé
+Signification du champ associé
+Temps présent
+Ajout d'un champ associé
+Répétition différée de 5 descripteurs
+Facteur de répétition légèrement différée du descripteur
+Période Ajouter un champ associé
+Signification du champ associé
+Précipitations totales/valeur totale de l'équivalent en eau
+Ajout d'un champ associé
+Répétition différée de 15 descripteurs
+Facteur de répétition différée du descripteur
+Hauteur du capteur au-dessus du sol Caractéristique temporelle
+Période ou décalage dans le temps
+Ajouter un champ associé
+Signification du champ associé
+Direction du vent
+Vitesse du vent
+Ajout d'un champ associé
+Caractéristique temporelle
+Ajouter un champ associé
+Signification du champ associé
+Direction de la rafale maximale
+Vitesse de la rafale maximale
+Ajout d'un champ associé
+Hauteur du capteur au-dessus du sol Répétition différée de 5 descripteurs
+Facteur de répétition légèrement différée du descripteur
+Période ou décalage dans le temps
+Ajouter un champ associé
+Signification du champ associé
+Insolation totale
+Ajout d'un champ associé
+Répétition différée de 10 descripteurs
+Facteur de répétition légèrement différée du descripteur
+Période ou décalage dans le temps
+Ajouter un champ associé
+Signification du champ associé
+Rayonnement de grande longueur d'onde, intégré sur une période déterminée
+Rayonnement de grande longueur d'onde, intégré sur une période déterminée
+Rayonnement de courte longueur d'onde, intégré sur une période déterminée
+Rayonnement solaire global , intégré sur une période déterminée
+Rayonnement solaire diffus , intégré sur une période déterminée
+Rayonnement solaire direct , intégré sur une période déterminée
+Ajout d'un champ associé
+Répétition différée de 13 descripteurs
+Facteur de répétition légèrement différée du descripteur
+Période ou décalage dans le temps
+Longueur d'onde spectrographique
+Largeur spectrographique
+Ajouter un champ associé
+Signification du champ associé
+Rayonnement ultraviolet global
+Ajout d'un champ associé
+Longueur d'onde spectrographique
+Largeur spectrographique
+Ajouter un champ associé
+Signification du champ associé
+Rayonnement ultraviolet global
+Ajout d'un champ associé","40 caractères
+Indication de la fin de la période de n minutes
+Valeur mesurée de la pression de l'air à l'endroit du capteur et à la hauteur du capteur
+Surface isobare standard
+Surface isobare standard
+Annuler
+Échelle: 2
+Échelle: 2
+Signalement obligatoire (sous réserve qu'un capteur d'humidité soit installé), champ de données: 11 bits
+Annuler
+Annuler
+Données initiales mesurées
+Annuler
+Mis à valeur manquante (annuler)
+Mis à valeur manquante (annuler)
+Annuler
+Mis à valeur manquante (annuler)
+Annuler
+Annuler
+Annuler
+Mis à valeur manquante (annuler)
+Annuler
+= -n minutes
+Annuler
+= -n minutes
+Neige
+Annuler
+= 2 Moyenne sur une certaine période
+= -10 minutes, ou nombre de minutes après un changement significatif du vent
+Annuler
+Mis à valeur manquante (annuler)
+Annuler
+Mis à valeur manquante (annuler)
+= -n minutes (par défaut: n = 10)
+Annuler
+Ouvrir ou fermer (1/0)
+= -n minutes (par défaut: n = 10)
+Rayonnement ascendant de grande longueur d'onde | Selon la table B du code BUFR, dans la classe 14, note 2: valeurs négatives
+Rayonnement descendant de grande longueur d'onde | Selon la table B du code BUFR, dans la classe 14, note 1: valeurs positives
+Rayonnement ascendant de courte longueur d'onde | Selon la table B du code BUFR, dans la classe 14, note 2: valeurs négatives
+Annuler
+= -n minutes (par défaut: n = 10)
+UV-A: 315 nm
+UV-A: 85 nm
+Intégré sur une période déterminée | Rayonnement UV-A | Selon la table B du code BUFR, dans la classe 14, note 8
+(ISO 21348: plage de longueur d'onde UV-A 315 ≤ λ ≤400 nm)
+Annuler
+UV-B: 280 nm
+UV-B: 35 nm
+Indicateur de qualité
+Intégré sur une période déterminée | Rayonnement UV-B | Selon la table B du code BUFR, dans la classe 14, note 8
+(ISO 21348 plage de longueur d'onde UV-B 280 ≤ λ ≤ 315 nm)
+Annuler",,,Operational
+07,Catégorie 07 — Séquences correspondant à des messages d'observation en surface (terre),307096,(Séquence pour la représentation des données SYNOP avec information supplémentaire sur les observations relevées sur une heure),,"301090
+301089
+008010
+301091
+302084
+302085
+033005
+033006","Identification de la station d'observation en surface; heure, coordonnées horizontales et verticales
+Identification nationale de la station
+Caractéristique de la surface Instruments de la station d'observation en surface
+Données «instantanées» de la séquence 3 07 096
+Données «pour la période» de la séquence 3 07 096
+Informations sur la qualité Informations sur la situation interne des mesures",,,,Operational
+07,Catégorie 07 — Séquences correspondant à des messages d'observation en surface (terre),307101,(Observation de la neige),,"301089
+001019
+002001
+301011
+301012
+301021
+007030
+007032
+012101
+007032
+002177
+020062
+013013","Identification nationale de la station
+Nom complet de la station ou du site
+Type de station
+Année, mois, jour
+Heure, minute
+Latitude/longitude Altitude du sol de la station
+Hauteur du capteur au-dessus du sol Méthode de mesure de l'épaisseur de neige
+État du sol Hauteur totale de la couche de neige",,,,Operational
+07,Catégorie 07 — Séquences correspondant à des messages d'observation en surface (terre),307102,(Informations météorologiques routières),,"301089
+001018
+001015
+001104
+001105
+001106
+003017
+003018
+003019
+301011
+301012
+301021
+007030
+007032
+012101
+012103
+013003
+007032
+020001
+109000
+031001
+003016
+012128
+102000
+031001
+007061
+012129
+007061
+013116
+020138
+004025
+020024
+013055
+020021
+013011
+007032
+008021
+004025
+011001
+011002
+008021
+004025
+011043
+011041
+033005","Identification de la station
+Identification nationale de la station
+Nom abrégé de la station ou du site
+Nom de la station ou de son site
+Indicateur d'identification de l'État/ État fédéral
+Indicateur de l'axe routier
+Emplacement le long de l'axe routier indiqué par des repères de position
+Précisions sur le type de station
+Type de route
+Type de construction
+Année, mois, jour
+Heure, minute
+Latitude/longitude Altitude du sol de la station
+Données sur la température, l'humidité et>la visibilité
+Hauteur du capteur au-dessus du sol Température/température de l'air
+Point de rosée
+Humidité relative
+Hauteur du capteur au-dessus du sol Visibilité horizontale
+Température de la route et autres données
+Répétition différée de 9 descripteurs
+Facteur de répétition différée du descripteur
+Position des capteurs routiers
+Température à la surface de la route
+Répétition différée de 2 descripteurs
+Facteur de répétition différée du descripteur
+Profondeur sous la surface terrestre
+Température sous la surface de la route
+Profondeur sous la surface terrestre
+Épaisseur de la pellicule d'eau
+État du revêtement
+Données sur les précipitations
+Période ou décalage dans le temps
+Intensité du phénomène
+Intensité des précipitations
+Type de précipitation
+Précipitations totales/valeur totale de l'équivalent en eau
+Données sur le vent
+Hauteur du capteur au-dessus du sol Caractéristique temporelle
+Période ou décalage dans le temps
+Direction du vent
+Vitesse du vent
+Caractéristique temporelle
+Rafale maximale
+Période ou décalage dans le temps
+Direction de la rafale maximale
+Vitesse de la rafale maximale
+État de fonctionnement
+Informations sur la qualité","Pour l'identification du site de surveillance météorologique des routes
+Mis à valeur manquante (annuler)
+= 0,30 m dans la première répétition, = par ex. 0,15 ou 0,7 m dans la deuxième répétition
+Mis à valeur manquante (annuler)
+= -15 minutes
+Intensité (faible, modérée, forte) des précipitations
+= 2 Moyenne sur une certaine période
+= -10 minutes
+Mis à valeur manquante (annuler)
+En minutes",,,Operational
+07,Catégorie 07 — Séquences correspondant à des messages d'observation en surface (terre),307103,"(Observation de la neige, densité de la neige, équivalent en eau de la neige)",,"301150
+307101
+013117
+003028
+013163","Identifiant du WIGOS
+Observation de la neige
+Masse volumique de la neige Technique de mesure de l'équivalent en eau de la neige
+Équivalent en eau de la neige",,,,Operational
+07,Catégorie 07 — Séquences correspondant à des messages d'observation en surface (terre),307182,(observations en surface),,"301090
+302031
+302035
+302036
+302047
+008002
+302048
+302037
+012120
+012122
+302043
+302044
+101002
+302045
+302046","Séquence pour la représentation des données SYNOP des messages synoptiques provenant d'une station terrestre fixe, compte tenu des pratiques propres à la Région II)
+Identification de la station d'observation en surface; heure, coordonnées horizontales et verticales
+Information sur la pression
+Données synoptiques de base «instantanées»
+Nuages dont la base se situe sous le niveau de la station
+Direction de la dérive des nuages
+Caractéristique verticale Direction et hauteur des nuages
+État du sol, hauteur de neige, température minimale au sol
+Température au sol
+Température minimale au sol la nuit précédente
+Données synoptiques de base «pour la période»
+Données sur l'évaporation
+Répéter le descripteur suivant deux fois
+Données sur le rayonnement Variation de température","Mis à valeur manquante (annuler)
+12 heures précédentes
+sn T'gT'g
+sn T'gT'g",,,Operational

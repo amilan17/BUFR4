@@ -1,0 +1,175 @@
+Category,CategoryOfSequences_fr,FXY1,Title_fr,SubTitle_fr,FXY2,ElementName_fr,ElementDescription_fr,Note_fr,noteIDs,Status
+03,Catégorie 03 — Séquences météorologiques communes aux données de sondages verticaux,303001,,,007003,Géopotentiel,(Vent au niveau de pression),,,Operational
+03,Catégorie 03 — Séquences météorologiques communes aux données de sondages verticaux,303001,,,011001,Direction du vent,(Vent au niveau de pression),,,Operational
+03,Catégorie 03 — Séquences météorologiques communes aux données de sondages verticaux,303001,,,011002,Vitesse du vent,(Vent au niveau de pression),,,Operational
+03,Catégorie 03 — Séquences météorologiques communes aux données de sondages verticaux,303002,,,007004,Pression,,,,Operational
+03,Catégorie 03 — Séquences météorologiques communes aux données de sondages verticaux,303002,,,011001,Direction du vent,,,,Operational
+03,Catégorie 03 — Séquences météorologiques communes aux données de sondages verticaux,303002,,,011002,Vitesse du vent,,,,Operational
+03,Catégorie 03 — Séquences météorologiques communes aux données de sondages verticaux,303003,,,007004,Pression,,,,Operational
+03,Catégorie 03 — Séquences météorologiques communes aux données de sondages verticaux,303003,,,010003,Géopotentiel,,,,Operational
+03,Catégorie 03 — Séquences météorologiques communes aux données de sondages verticaux,303003,,,012001,Température/température de l'air,,,,Operational
+03,Catégorie 03 — Séquences météorologiques communes aux données de sondages verticaux,303003,,,012003,Température du point de rosée,,,,Operational
+03,Catégorie 03 — Séquences météorologiques communes aux données de sondages verticaux,303004,,,007004,Pression,,,,Operational
+03,Catégorie 03 — Séquences météorologiques communes aux données de sondages verticaux,303004,,,010003,Géopotentiel,,,,Operational
+03,Catégorie 03 — Séquences météorologiques communes aux données de sondages verticaux,303004,,,012001,Température/température de l'air,,,,Operational
+03,Catégorie 03 — Séquences météorologiques communes aux données de sondages verticaux,303004,,,012003,Température du point de rosée,,,,Operational
+03,Catégorie 03 — Séquences météorologiques communes aux données de sondages verticaux,303004,,,011001,Direction du vent,,,,Operational
+03,Catégorie 03 — Séquences météorologiques communes aux données de sondages verticaux,303004,,,011002,Vitesse du vent,,,,Operational
+03,Catégorie 03 — Séquences météorologiques communes aux données de sondages verticaux,303011,,,007003,Géopotentiel,(Vent à la hauteur (géopotentielle)),,,Operational
+03,Catégorie 03 — Séquences météorologiques communes aux données de sondages verticaux,303011,,,008001,Caractéristique correspondant à des données de sondage vertical,(Vent à la hauteur (géopotentielle)),,,Operational
+03,Catégorie 03 — Séquences météorologiques communes aux données de sondages verticaux,303011,,,011001,Direction du vent,(Vent à la hauteur (géopotentielle)),,,Operational
+03,Catégorie 03 — Séquences météorologiques communes aux données de sondages verticaux,303011,,,011002,Vitesse du vent,(Vent à la hauteur (géopotentielle)),,,Operational
+03,Catégorie 03 — Séquences météorologiques communes aux données de sondages verticaux,303012,,,007004,Pression,(Vent au niveau de pression),,,Operational
+03,Catégorie 03 — Séquences météorologiques communes aux données de sondages verticaux,303012,,,008001,Caractéristique correspondant à des données de sondage vertical,(Vent au niveau de pression),,,Operational
+03,Catégorie 03 — Séquences météorologiques communes aux données de sondages verticaux,303012,,,011001,Direction du vent,(Vent au niveau de pression),,,Operational
+03,Catégorie 03 — Séquences météorologiques communes aux données de sondages verticaux,303012,,,011002,Vitesse du vent,(Vent au niveau de pression),,,Operational
+03,Catégorie 03 — Séquences météorologiques communes aux données de sondages verticaux,303013,,,007004,Pression,"(Géopotentiel, température, humidité, vent au niveau de pression)",,,Operational
+03,Catégorie 03 — Séquences météorologiques communes aux données de sondages verticaux,303013,,,008001,Caractéristique correspondant à des données de sondage vertical,"(Géopotentiel, température, humidité, vent au niveau de pression)",,,Operational
+03,Catégorie 03 — Séquences météorologiques communes aux données de sondages verticaux,303013,,,010003,Géopotentiel,"(Géopotentiel, température, humidité, vent au niveau de pression)",,,Operational
+03,Catégorie 03 — Séquences météorologiques communes aux données de sondages verticaux,303013,,,012001,Température/température de l'air,"(Géopotentiel, température, humidité, vent au niveau de pression)",,,Operational
+03,Catégorie 03 — Séquences météorologiques communes aux données de sondages verticaux,303013,,,013003,Humidité relative,"(Géopotentiel, température, humidité, vent au niveau de pression)",,,Operational
+03,Catégorie 03 — Séquences météorologiques communes aux données de sondages verticaux,303013,,,011001,Direction du vent,"(Géopotentiel, température, humidité, vent au niveau de pression)",,,Operational
+03,Catégorie 03 — Séquences météorologiques communes aux données de sondages verticaux,303013,,,011002,Vitesse du vent,"(Géopotentiel, température, humidité, vent au niveau de pression)",,,Operational
+03,Catégorie 03 — Séquences météorologiques communes aux données de sondages verticaux,303014,,,007004,Pression,"(Géopotentiel, température, température du point de rosée, vent au niveau de pression)",,,Operational
+03,Catégorie 03 — Séquences météorologiques communes aux données de sondages verticaux,303014,,,008001,Caractéristique correspondant à des données de sondage vertical,"(Géopotentiel, température, température du point de rosée, vent au niveau de pression)",,,Operational
+03,Catégorie 03 — Séquences météorologiques communes aux données de sondages verticaux,303014(suite),,,010003,Géopotentiel,,,,Operational
+03,Catégorie 03 — Séquences météorologiques communes aux données de sondages verticaux,303014(suite),,,012001,Température/température de l'air,,,,Operational
+03,Catégorie 03 — Séquences météorologiques communes aux données de sondages verticaux,303014(suite),,,012003,Température du point de rosée,,,,Operational
+03,Catégorie 03 — Séquences météorologiques communes aux données de sondages verticaux,303014(suite),,,011001,Direction du vent,,,,Operational
+03,Catégorie 03 — Séquences météorologiques communes aux données de sondages verticaux,303014(suite),,,011002,Vitesse du vent,,,,Operational
+03,Catégorie 03 — Séquences météorologiques communes aux données de sondages verticaux,303021,,,007004,Pression,"(Couche, qualité) Pression définissant la couche",,,Operational
+03,Catégorie 03 — Séquences météorologiques communes aux données de sondages verticaux,303021,,,007004,Pression,"(Couche, qualité) Pression définissant la couche",,,Operational
+03,Catégorie 03 — Séquences météorologiques communes aux données de sondages verticaux,303021,,,204007,Ajouter un champ associé,"(Couche, qualité) 7 bits de long",,,Operational
+03,Catégorie 03 — Séquences météorologiques communes aux données de sondages verticaux,303021,,,031021,Signification du champ associé,"(Couche, qualité)",,,Operational
+03,Catégorie 03 — Séquences météorologiques communes aux données de sondages verticaux,303022,,,303021,"Couche, qualité",Épaisseur de la couche moyenne,,,Operational
+03,Catégorie 03 — Séquences météorologiques communes aux données de sondages verticaux,303022,,,010003,Géopotentiel,Épaisseur de la couche moyenne,,,Operational
+03,Catégorie 03 — Séquences météorologiques communes aux données de sondages verticaux,303022,,,204000,Ajout d'un champ associé,Annuler,,,Operational
+03,Catégorie 03 — Séquences météorologiques communes aux données de sondages verticaux,303023,,,303021,"Couche, qualité",(Température moyenne de la couche) Moyenne de la couche,,,Operational
+03,Catégorie 03 — Séquences météorologiques communes aux données de sondages verticaux,303023,,,012001,Température/température de l'air,(Température moyenne de la couche) Moyenne de la couche,,,Operational
+03,Catégorie 03 — Séquences météorologiques communes aux données de sondages verticaux,303023,,,204000,Ajout d'un champ associé,Annuler,,,Operational
+03,Catégorie 03 — Séquences météorologiques communes aux données de sondages verticaux,303024,,,303021,"Couche, qualité",(Eau précipitable),,,Operational
+03,Catégorie 03 — Séquences météorologiques communes aux données de sondages verticaux,303024,,,013016,Eau précipitable,(Eau précipitable),,,Operational
+03,Catégorie 03 — Séquences météorologiques communes aux données de sondages verticaux,303024,,,204000,Ajout d'un champ associé,Annuler,,,Operational
+03,Catégorie 03 — Séquences météorologiques communes aux données de sondages verticaux,303025,s,,002025,Canal/canaux de satellite utilisépour les calculs d'indicateurs,(Canal de satellite et température de luminance),,,Operational
+03,Catégorie 03 — Séquences météorologiques communes aux données de sondages verticaux,303025,,,204007,Ajouter un champ associé,7 bits de long,,,Operational
+03,Catégorie 03 — Séquences météorologiques communes aux données de sondages verticaux,303025,,,031021,Signification du champ associé,,,,Operational
+03,Catégorie 03 — Séquences météorologiques communes aux données de sondages verticaux,303025,,,012063,Température de luminance,,,,Operational
+03,Catégorie 03 — Séquences météorologiques communes aux données de sondages verticaux,303025,,,204000,Ajout d'un champ associé,Annuler,,,Operational
+03,Catégorie 03 — Séquences météorologiques communes aux données de sondages verticaux,303026,,,007004,Pression,,,,Operational
+03,Catégorie 03 — Séquences météorologiques communes aux données de sondages verticaux,303026,observations par satellite,,008003,Caractéristique verticale,,,,Operational
+03,Catégorie 03 — Séquences météorologiques communes aux données de sondages verticaux,303026,,,204007,Ajouter un champ associé,7 bits de long,,,Operational
+03,Catégorie 03 — Séquences météorologiques communes aux données de sondages verticaux,303026,,,031021,Signification du champ associé,,,,Operational
+03,Catégorie 03 — Séquences météorologiques communes aux données de sondages verticaux,303026,,,012001,Température/température de l'air,,,,Operational
+03,Catégorie 03 — Séquences météorologiques communes aux données de sondages verticaux,303026,,,204000,Ajout d'un champ associé,Annuler,,,Operational
+03,Catégorie 03 — Séquences météorologiques communes aux données de sondages verticaux,303027,,,007004,Pression,,,,Operational
+03,Catégorie 03 — Séquences météorologiques communes aux données de sondages verticaux,303027,,,204007,Ajouter un champ associé,7 bits de long,,,Operational
+03,Catégorie 03 — Séquences météorologiques communes aux données de sondages verticaux,303027,,,031021,Signification du champ associé,,,,Operational
+03,Catégorie 03 — Séquences météorologiques communes aux données de sondages verticaux,303027,,,010003,Géopotentiel,,,,Operational
+03,Catégorie 03 — Séquences météorologiques communes aux données de sondages verticaux,303027,,,204000,Ajout d'un champ associé,Annuler,,,Operational
+03,Catégorie 03 — Séquences météorologiques communes aux données de sondages verticaux,303031,,,007004,Pression,"(Données significatives, terre/mer, température de la pellicule superficielle) Base de sondage",,,Operational
+03,Catégorie 03 — Séquences météorologiques communes aux données de sondages verticaux,303031,observations par satellite,,008003,Caractéristique verticale,"(Données significatives, terre/mer, température de la pellicule superficielle) Base de sondage",,,Operational
+03,Catégorie 03 — Séquences météorologiques communes aux données de sondages verticaux,303031,,,007021,Hauteur,Zénith local,,,Operational
+03,Catégorie 03 — Séquences météorologiques communes aux données de sondages verticaux,303031,,,007022,Hauteur du soleil,Zénith du soleil,,,Operational
+03,Catégorie 03 — Séquences météorologiques communes aux données de sondages verticaux,303031,,,008012,Identificateur terre/mer,,,,Operational
+03,Catégorie 03 — Séquences météorologiques communes aux données de sondages verticaux,303031,,,012061,Température de la pellicule superficielle,,,,Operational
+03,Catégorie 03 — Séquences météorologiques communes aux données de sondages verticaux,303032,,,020011,Nébulosité,(Nuages),,,Operational
+03,Catégorie 03 — Séquences météorologiques communes aux données de sondages verticaux,303032,,,020016,Pression au sommet des nuages,(Nuages),,,Operational
+03,Catégorie 03 — Séquences météorologiques communes aux données de sondages verticaux,303033,totale,,020010,Nébulosité,(Nuages),,,Operational
+03,Catégorie 03 — Séquences météorologiques communes aux données de sondages verticaux,303033,,,020016,Pression au sommet des nuages,(Nuages),,,Operational
+03,Catégorie 03 — Séquences météorologiques communes aux données de sondages verticaux,303040,,,008041,Caractéristique des données,(Radiosondage — durée du vol et données sur la fin du sondage) = 7 Fin du sondage au niveau de vol,,,Operational
+03,Catégorie 03 — Séquences météorologiques communes aux données de sondages verticaux,303040,,,004025,Période ou décalage dans le temps,Minutes,,,Operational
+03,Catégorie 03 — Séquences météorologiques communes aux données de sondages verticaux,303040,,,004026,Période ou décalage dans le temps,Secondes,,,Operational
+03,Catégorie 03 — Séquences météorologiques communes aux données de sondages verticaux,303040,précision élevée,,301021,Latitude/longitude,,,,Operational
+03,Catégorie 03 — Séquences météorologiques communes aux données de sondages verticaux,303040,au centième de seconde près,,301122,Date et heure,,,,Operational
+03,Catégorie 03 — Séquences météorologiques communes aux données de sondages verticaux,303040,,,201131,Changer le champ de données,,,,Operational
+03,Catégorie 03 — Séquences météorologiques communes aux données de sondages verticaux,303040,,,202129,Changer d'échelle,,,,Operational
+03,Catégorie 03 — Séquences météorologiques communes aux données de sondages verticaux,303040,,,025069,Corrections de pression du niveau de vol,,,,Operational
+03,Catégorie 03 — Séquences météorologiques communes aux données de sondages verticaux,303040,,,007004,Pression,,,,Operational
+03,Catégorie 03 — Séquences météorologiques communes aux données de sondages verticaux,303040,,,013003,Humidité relative,,,,Operational
+03,Catégorie 03 — Séquences météorologiques communes aux données de sondages verticaux,303040,,,202000,Changement d'échelle,Annuler,,,Operational
+03,Catégorie 03 — Séquences météorologiques communes aux données de sondages verticaux,303040,,,201000,Changement du champ de données,Annuler,,,Operational
+03,Catégorie 03 — Séquences météorologiques communes aux données de sondages verticaux,303040,,,002013,Correction du rayonnement solaire et infrarouge,,,,Operational
+03,Catégorie 03 — Séquences météorologiques communes aux données de sondages verticaux,303040,,,012101,Température/température de l'air,,,,Operational
+03,Catégorie 03 — Séquences météorologiques communes aux données de sondages verticaux,303040,,,010009,Hauteur géopotentielle,,,,Operational
+03,Catégorie 03 — Séquences météorologiques communes aux données de sondages verticaux,303040,,,102002,Répéter 2 descripteurs 2 fois,,,,Operational
+03,Catégorie 03 — Séquences météorologiques communes aux données de sondages verticaux,303040,,,008040,Caractéristique du niveau de vol,,,,Operational
+03,Catégorie 03 — Séquences météorologiques communes aux données de sondages verticaux,303040,,,035035,Raison de l'abandon,,,,Operational
+03,Catégorie 03 — Séquences météorologiques communes aux données de sondages verticaux,303041,,,002152,Instrument de satellite utilisé dans le traitement des données,(Séquence de données de vent),,,Operational
+03,Catégorie 03 — Séquences météorologiques communes aux données de sondages verticaux,303041,,,002023,Méthode de calcul du vent à partir de données satellitaires,(Séquence de données de vent),,,Operational
+03,Catégorie 03 — Séquences météorologiques communes aux données de sondages verticaux,303041,,,007004,Pression,(Séquence de données de vent),,,Operational
+03,Catégorie 03 — Séquences météorologiques communes aux données de sondages verticaux,303041,,,011001,Direction du vent,(Séquence de données de vent),,,Operational
+03,Catégorie 03 — Séquences météorologiques communes aux données de sondages verticaux,303041,,,011002,Vitesse du vent,(Séquence de données de vent),,,Operational
+03,Catégorie 03 — Séquences météorologiques communes aux données de sondages verticaux,303041,,,002153,Fréquence centrale du canal du satellite,(Séquence de données de vent),,,Operational
+03,Catégorie 03 — Séquences météorologiques communes aux données de sondages verticaux,303041(suite),,,002154,Largeur de bande du canal du satellite,,,,Operational
+03,Catégorie 03 — Séquences météorologiques communes aux données de sondages verticaux,303041(suite),,,012071,Température la plus basse de l'amas,,,,Operational
+03,Catégorie 03 — Séquences météorologiques communes aux données de sondages verticaux,303050,,,004086,Période ou décalage dans le temps de longue durée,(Données sur le vent au niveau de pression correspondant à la position de la radiosonde) Par rapport à l'heure du lâcher,,,Operational
+03,Catégorie 03 — Séquences météorologiques communes aux données de sondages verticaux,303050,,,008042,Caractéristique étendue correspondant à des données de sondage vertical,(Données sur le vent au niveau de pression correspondant à la position de la radiosonde),,,Operational
+03,Catégorie 03 — Séquences météorologiques communes aux données de sondages verticaux,303050,,,007004,Pression,(Données sur le vent au niveau de pression correspondant à la position de la radiosonde),,,Operational
+03,Catégorie 03 — Séquences météorologiques communes aux données de sondages verticaux,303050,précision élevée,,005015,Décalage en latitude,Par rapport au site du lâcher,,,Operational
+03,Catégorie 03 — Séquences météorologiques communes aux données de sondages verticaux,303050,précision élevée,,006015,Décalage en longitude,Par rapport au site du lâcher,,,Operational
+03,Catégorie 03 — Séquences météorologiques communes aux données de sondages verticaux,303050,,,011001,Direction du vent,,,,Operational
+03,Catégorie 03 — Séquences météorologiques communes aux données de sondages verticaux,303050,,,011002,Vitesse du vent,,,,Operational
+03,Catégorie 03 — Séquences météorologiques communes aux données de sondages verticaux,303051,,,004086,Période ou décalage dans le temps de longue durée,(Données sur le cisaillement du vent au niveau de pression correspondant à la position de la radiosonde) Par rapport à l'heure du lâcher,,,Operational
+03,Catégorie 03 — Séquences météorologiques communes aux données de sondages verticaux,303051,,,008042,Caractéristique étendue correspondant à des données de sondage vertical,(Données sur le cisaillement du vent au niveau de pression correspondant à la position de la radiosonde),,,Operational
+03,Catégorie 03 — Séquences météorologiques communes aux données de sondages verticaux,303051,,,007004,Pression,(Données sur le cisaillement du vent au niveau de pression correspondant à la position de la radiosonde),,,Operational
+03,Catégorie 03 — Séquences météorologiques communes aux données de sondages verticaux,303051,précision élevée,,005015,Décalage en latitude,Par rapport au site du lâcher,,,Operational
+03,Catégorie 03 — Séquences météorologiques communes aux données de sondages verticaux,303051,précision élevée,,006015,Décalage en longitude,Par rapport au site du lâcher,,,Operational
+03,Catégorie 03 — Séquences météorologiques communes aux données de sondages verticaux,303051,valeur absolue,,011061,Cisaillement du ventsur une couche inférieure de 1 km,,,,Operational
+03,Catégorie 03 — Séquences météorologiques communes aux données de sondages verticaux,303051,valeur absolue,,011062,Cisaillement du ventsur une couche supérieure de 1 km,,,,Operational
+03,Catégorie 03 — Séquences météorologiques communes aux données de sondages verticaux,303052,,,004086,Période ou décalage dans le temps de longue durée,(Données sur le vent à l'altitude correspondant à la position de la radiosonde) Par rapport à l'heure du lâcher,,,Operational
+03,Catégorie 03 — Séquences météorologiques communes aux données de sondages verticaux,303052,,,008042,Caractéristique étendue correspondant à des données de sondage vertical,(Données sur le vent à l'altitude correspondant à la position de la radiosonde),,,Operational
+03,Catégorie 03 — Séquences météorologiques communes aux données de sondages verticaux,303052,,,007009,Hauteur géopotentielle,(Données sur le vent à l'altitude correspondant à la position de la radiosonde),,,Operational
+03,Catégorie 03 — Séquences météorologiques communes aux données de sondages verticaux,303052,précision élevée,,005015,Décalage en latitude,Par rapport au site du lâcher,,,Operational
+03,Catégorie 03 — Séquences météorologiques communes aux données de sondages verticaux,303052,précision élevée,,006015,Décalage en longitude,Par rapport au site du lâcher,,,Operational
+03,Catégorie 03 — Séquences météorologiques communes aux données de sondages verticaux,303052,,,011001,Direction du vent,,,,Operational
+03,Catégorie 03 — Séquences météorologiques communes aux données de sondages verticaux,303052,,,011002,Vitesse du vent,,,,Operational
+03,Catégorie 03 — Séquences météorologiques communes aux données de sondages verticaux,303053,,,004086,Période ou décalage dans le temps de longue durée,(Données sur le cisaillement du vent à l'altitude correspondant à la position de la radiosonde) Par rapport à l'heure du lâcher,,,Operational
+03,Catégorie 03 — Séquences météorologiques communes aux données de sondages verticaux,303053,,,008042,Caractéristique étendue correspondant à des données de sondage vertical,(Données sur le cisaillement du vent à l'altitude correspondant à la position de la radiosonde),,,Operational
+03,Catégorie 03 — Séquences météorologiques communes aux données de sondages verticaux,303053,,,007009,Hauteur géopotentielle,(Données sur le cisaillement du vent à l'altitude correspondant à la position de la radiosonde),,,Operational
+03,Catégorie 03 — Séquences météorologiques communes aux données de sondages verticaux,303053,précision élevée,,005015,Décalage en latitude,Par rapport au site du lâcher,,,Operational
+03,Catégorie 03 — Séquences météorologiques communes aux données de sondages verticaux,303053,précision élevée,,006015,Décalage en longitude,Par rapport au site du lâcher,,,Operational
+03,Catégorie 03 — Séquences météorologiques communes aux données de sondages verticaux,303053,valeur absolue,,011061,Cisaillement du ventsur une couche inférieure de 1 km,,,,Operational
+03,Catégorie 03 — Séquences météorologiques communes aux données de sondages verticaux,303053,valeur absolue,,011062,Cisaillement du ventsur une couche supérieure de 1 km,,,,Operational
+03,Catégorie 03 — Séquences météorologiques communes aux données de sondages verticaux,303054,,,004086,Période ou décalage dans le temps de longue durée,"(Données sur la température, le point de rosée et le vent au niveau de pression correspondant à la position de la radiosonde) Par rapport à l'heure du lâcher",,,Operational
+03,Catégorie 03 — Séquences météorologiques communes aux données de sondages verticaux,303054,,,008042,Caractéristique étendue correspondant à des données de sondage vertical,"(Données sur la température, le point de rosée et le vent au niveau de pression correspondant à la position de la radiosonde)",,,Operational
+03,Catégorie 03 — Séquences météorologiques communes aux données de sondages verticaux,303054,,,007004,Pression,"(Données sur la température, le point de rosée et le vent au niveau de pression correspondant à la position de la radiosonde)",,,Operational
+03,Catégorie 03 — Séquences météorologiques communes aux données de sondages verticaux,303054,,,010009,Hauteur géopotentielle,"(Données sur la température, le point de rosée et le vent au niveau de pression correspondant à la position de la radiosonde)",,,Operational
+03,Catégorie 03 — Séquences météorologiques communes aux données de sondages verticaux,303054,précision élevée,,005015,Décalage en latitude,Par rapport au site du lâcher,,,Operational
+03,Catégorie 03 — Séquences météorologiques communes aux données de sondages verticaux,303054,précision élevée,,006015,Décalage en longitude,Par rapport au site du lâcher,,,Operational
+03,Catégorie 03 — Séquences météorologiques communes aux données de sondages verticaux,303054,,,012101,Température/température de l'air,Échelle: 2,,,Operational
+03,Catégorie 03 — Séquences météorologiques communes aux données de sondages verticaux,303054,,,012103,Point de rosée,Échelle: 2,,,Operational
+03,Catégorie 03 — Séquences météorologiques communes aux données de sondages verticaux,303054,,,011001,Direction du vent,,,,Operational
+03,Catégorie 03 — Séquences météorologiques communes aux données de sondages verticaux,303054,,,011002,Vitesse du vent,,,,Operational
+03,Catégorie 03 — Séquences météorologiques communes aux données de sondages verticaux,303055,,,004086,Période ou décalage dans le temps de longue durée,"(Données sur la température, le point de rosée, l'humidité relative et le vent à la hauteur de la radiosonde) Par rapport à l'heure du lâcher",,,Operational
+03,Catégorie 03 — Séquences météorologiques communes aux données de sondages verticaux,303055,,,008042,Caractéristique étendue correspondant à des données de sondage vertical,"(Données sur la température, le point de rosée, l'humidité relative et le vent à la hauteur de la radiosonde)",,,Operational
+03,Catégorie 03 — Séquences météorologiques communes aux données de sondages verticaux,303055,,,007009,Hauteur géopotentielle,"(Données sur la température, le point de rosée, l'humidité relative et le vent à la hauteur de la radiosonde)",,,Operational
+03,Catégorie 03 — Séquences météorologiques communes aux données de sondages verticaux,303055,précision élevée,,005015,Décalage en latitude,Par rapport au site du lâcher,,,Operational
+03,Catégorie 03 — Séquences météorologiques communes aux données de sondages verticaux,303055,précision élevée,,006015,Décalage en longitude,Par rapport au site du lâcher,,,Operational
+03,Catégorie 03 — Séquences météorologiques communes aux données de sondages verticaux,303055,,,012101,Température/température de l'air,Échelle: 2,,,Operational
+03,Catégorie 03 — Séquences météorologiques communes aux données de sondages verticaux,303055(suite),,,013009,Humidité relative,,,,Operational
+03,Catégorie 03 — Séquences météorologiques communes aux données de sondages verticaux,303055(suite),,,012103,Point de rosée,Échelle: 2,,,Operational
+03,Catégorie 03 — Séquences météorologiques communes aux données de sondages verticaux,303055(suite),,,011001,Direction du vent,,,,Operational
+03,Catégorie 03 — Séquences météorologiques communes aux données de sondages verticaux,303055(suite),,,011002,Vitesse du vent,,,,Operational
+03,Catégorie 03 — Séquences météorologiques communes aux données de sondages verticaux,303056,,,004086,Période ou décalage dans le temps de longue duré,"(Données sur la température, le point de rosée et le vent au niveau de pression correspondant à la position de la radiosonde, pression et hauteur géopotentielle étant indiquées avec une plus grande précision) Depuis le moment du lancement",,,Operational
+03,Catégorie 03 — Séquences météorologiques communes aux données de sondages verticaux,303056,,,008042,Caractéristique étendue correspondant à des données de sondage vertical,"(Données sur la température, le point de rosée et le vent au niveau de pression correspondant à la position de la radiosonde, pression et hauteur géopotentielle étant indiquées avec une plus grande précision)",,,Operational
+03,Catégorie 03 — Séquences météorologiques communes aux données de sondages verticaux,303056,,,207001,"Augmenter l'échelle, la valeur de référence et le champ de données",,,,Operational
+03,Catégorie 03 — Séquences météorologiques communes aux données de sondages verticaux,303056,,,007004,Pression,Échelle: 0,,,Operational
+03,Catégorie 03 — Séquences météorologiques communes aux données de sondages verticaux,303056,,,010009,Hauteur géopotentielle,Échelle: 1,,,Operational
+03,Catégorie 03 — Séquences météorologiques communes aux données de sondages verticaux,303056,,,207000,"Augmentation de l'échelle, de la valeur de référence et du champ de données",Annuler,,,Operational
+03,Catégorie 03 — Séquences météorologiques communes aux données de sondages verticaux,303056,précision élevée,,005015,Décalage en latitude,Depuis le point de lancement,,,Operational
+03,Catégorie 03 — Séquences météorologiques communes aux données de sondages verticaux,303056,précision élevée,,006015,Décalage en longitude,Depuis le point de lancement,,,Operational
+03,Catégorie 03 — Séquences météorologiques communes aux données de sondages verticaux,303056,,,012101,Température/température de l'air,Échelle: 2,,,Operational
+03,Catégorie 03 — Séquences météorologiques communes aux données de sondages verticaux,303056,,,012103,Point de rosée,Échelle: 2,,,Operational
+03,Catégorie 03 — Séquences météorologiques communes aux données de sondages verticaux,303056,,,011001,Direction du vent,,,,Operational
+03,Catégorie 03 — Séquences météorologiques communes aux données de sondages verticaux,303056,,,011002,Vitesse du vent,,,,Operational
+03,Catégorie 03 — Séquences météorologiques communes aux données de sondages verticaux,303099,x,,003005,Largeur de l'abri ou de la protection sur le plan horizontal,(Métadonnées communes aux capteurs de température/d'humidité),,,Operational
+03,Catégorie 03 — Séquences météorologiques communes aux données de sondages verticaux,303099,y,,003006,Profondeur de l'abri ou de la protection sur le plan horizontal,(Métadonnées communes aux capteurs de température/d'humidité),,,Operational
+03,Catégorie 03 — Séquences météorologiques communes aux données de sondages verticaux,303099,z,,003007,Hauteur de l'abri ou de la protection sur le plan vertical,(Métadonnées communes aux capteurs de température/d'humidité),,,Operational
+03,Catégorie 03 — Séquences météorologiques communes aux données de sondages verticaux,303099,,,002096,Type de capteur de température,(Métadonnées communes aux capteurs de température/d'humidité),,,Operational
+03,Catégorie 03 — Séquences météorologiques communes aux données de sondages verticaux,303099,,,003022,Propriétaire de l'instrument,(Métadonnées communes aux capteurs de température/d'humidité),,,Operational
+03,Catégorie 03 — Séquences météorologiques communes aux données de sondages verticaux,303099,,,003003,Boîtier du thermomètre/de l'hygromètre,(Métadonnées communes aux capteurs de température/d'humidité),,,Operational
+03,Catégorie 03 — Séquences météorologiques communes aux données de sondages verticaux,303099,,,003020,Matériau du boîtier du thermomètre/de l'hygromètre,(Métadonnées communes aux capteurs de température/d'humidité),,,Operational
+03,Catégorie 03 — Séquences météorologiques communes aux données de sondages verticaux,303099,,,003004,Type d'abri/de protection contre le rayonnement,(Métadonnées communes aux capteurs de température/d'humidité),,,Operational
+03,Catégorie 03 — Séquences météorologiques communes aux données de sondages verticaux,303099,,,003023,Configuration des persiennes de l'abri pour thermomètre/hygromètre,(Métadonnées communes aux capteurs de température/d'humidité),,,Operational
+03,Catégorie 03 — Séquences météorologiques communes aux données de sondages verticaux,303099,,,003008,Abri ou protection avec ventilation artificielle,(Métadonnées communes aux capteurs de température/d'humidité),,,Operational
+03,Catégorie 03 — Séquences météorologiques communes aux données de sondages verticaux,303099,,,003009,Volume de ventilation forcée au moment de l'observation,(Métadonnées communes aux capteurs de température/d'humidité),,,Operational

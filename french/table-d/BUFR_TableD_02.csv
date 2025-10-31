@@ -1,0 +1,672 @@
+Category,CategoryOfSequences_fr,FXY1,Title_fr,SubTitle_fr,FXY2,ElementName_fr,ElementDescription_fr,Note_fr,noteIDs,Status
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302001,,,010004,Pression,Pression au niveau de la station,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302001,,,010051,Pression ramenée au niveau moyen de la mer,,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302001,,,010061,Variation de pression en 3 heures,,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302001,,,010063,Caractéristique de la tendance barométrique,,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302002,,,010004,Pression,Pression au niveau de la station,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302002,,,007004,Pression,Niveau barique,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302002,,,010003,Géopotentiel,Niveau barique,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302002,,,010061,Variation de pression en 3 heures,,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302002,,,010063,Caractéristique de la tendance barométrique,,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302003,,,011011,Direction du vent à 10 m,,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302003,,,011012,Vitesse du vent à 10 m,,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302003,,,012004,Température de l'air à 2 m,,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302003,,,012006,Température du point de rosée à 2 m,,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302003,,,013003,Humidité relative,,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302003,,,020001,Visibilité horizontale,,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302003,,,020003,Temps présent,,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302003,1,,020004,Temps passé,,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302003,2,,020005,Temps passé,,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302004,totale,,020010,Nébulosité,,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302004,observations en surface,,008002,Caractéristique verticale,,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302004,,,020011,Nébulosité,,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302004,,,020013,Hauteur de la base des nuages,,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302004,,,020012,Type de nuage,,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302004,,,020012,Type de nuage,,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302004,,,020012,Type de nuage,,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302005,observations en surface,,008002,Caractéristique verticale,,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302005,,,020011,Nébulosité,,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302005,,,020012,Type de nuage,,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302005,,,020013,Hauteur de la base des nuages,,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302006,,,010004,Pression,Pression au niveau de la station,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302006,,,010051,Pression ramenée au niveau moyen de la mer,,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302006,,,010062,Variation de pression en 24 heures,,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302006,,,010063,Caractéristique de la tendance barométrique,,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302011,,,302001,Pression et variation de pression en 3 heures,Couche signifi-cative de nuages,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302011,,,302003,"Vent, température, humidité, visibilité, temps",Couche signifi-cative de nuages,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302011,,,302004,Information générale sur les nuages,Couche signifi-cative de nuages,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302012,,,302002,Station à haute altitude,Pression et varia-tion de pression,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302012,,,302003,"Vent, température, humidité, visibilité, temps",Couche signifi-cative de nuages,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302012,,,302004,Information générale sur les nuages,Couche signifi-cative de nuages,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302013,,,302006,Pression et variation de pression en 24 heures,,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302013,,,302003,"Vent, température, humidité, visibilité, temps",,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302013,,,101000,Répétition différée de 1 descripteur,,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302013,,,031001,Facteur de répétition différée du descripteur,,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302013,,,302005,Couche nuageuse,,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302021,,,022001,Direction des vagues,,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302021,,,022011,Période des vagues,,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302021,,,022021,Hauteur des vagues,,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302022,,,022002,Direction des vagues de la mer du vent,,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302022,,,022012,Période des vagues de la mer du vent,,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302022,,,022022,Hauteur des vagues de la mer du vent,,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302023,,,022003,Direction des vagues de la houle,,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302023,,,022013,Période des vagues de la houle,,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302023,,,022023,Hauteur des vagues de la houle,,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302024,,,302022,Vagues de la mer du vent,2 systèmes de houle,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302024,,,101002,Répéter 1 descripteur 2 fois,2 systèmes de houle,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302024,,,302023,Vagues de la houle,2 systèmes de houle,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302031,,,302001,Pression et variation de pression en 3 heures,Pression isobare standard,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302031,,,010062,Variation de pression en 24 heures,Pression isobare standard,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302031,,,007004,Pression,Pression isobare standard,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302031,,,010009,Hauteur géopotentielle,Pression isobare standard,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302032,ou du pont sur une plate-forme marine,,007032,Hauteur du capteur au-dessus du sol,Mesure de la température et de l'humidité,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302032,,,012101,Température/température de l'air,Échelle: 2,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302032,,,012103,Point de rosée,Échelle: 2,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302032,,,013003,Humidité relative,,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302033,ou du pont sur une plate-forme marine,,007032,Hauteur du capteur au-dessus du sol,Mesure de la visibilité,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302033,,,020001,Visibilité horizontale,Mesure de la visibilité,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302034,ou du pont sur une plate-forme marine,,007032,Hauteur du capteur au-dessus du sol,Mesure des précipitations,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302034,,,013023,Quantité totale de précipitations au cours des 24 heures précédentes,Mesure des précipitations,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302035,,,302032,Données sur la température et l'humidité,Mis à valeur manquante (annuler),,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302035,,,302033,Données sur la visibilité,Mis à valeur manquante (annuler),,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302035,,,302034,Précipitations sur les 24 heures écoulées,Mis à valeur manquante (annuler),,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302035,ou du pont sur une plate-forme marine,,007032,Hauteur du capteur au-dessus du sol,Mis à valeur manquante (annuler),,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302035,,,302004,Information générale sur les nuages,Couche ou masse de nuages unique,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302035,,,101000,Répétition différée de 1 descripteur,Couche ou masse de nuages unique,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302035,,,031001,Facteur de répétition différée du descripteur,Couche ou masse de nuages unique,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302035,,,302005,Couche nuageuse,Couche ou masse de nuages unique,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302036,,,105000,Répétition différée de 5 descripteurs,,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302036,,,031001,Facteur de répétition différée du descripteur,,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302036,observations en surface,,008002,Caractéristique verticale,,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302036,,,020011,Nébulosité,,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302036,,,020012,Type de nuage,,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302036,,,020014,Hauteur du sommet des nuages,,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302036,,,020017,Description du sommet des nuages,,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302037,recouvert ou non d'une couche de neige,,020062,État du sol,Échelle: 2,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302037,,,013013,Hauteur totale de la couche de neige,Échelle: 2,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302037,,,012113,"Température minimale au sol, au cours des 12 heures précédentes",Échelle: 2,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302038,,,020003,Temps présent,Heures,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302038,,,004024,Période ou décalage dans le temps,Heures,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302038,1,,020004,Temps passé,Heures,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302038,2,,020005,Temps passé,Heures,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302039,,,004024,Période ou décalage dans le temps,Heures,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302039,,,014031,Insolation totale,Heures,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302040,ou du pont sur une plate-forme marine,,007032,Hauteur du capteur au-dessus du sol,Mesure des précipitations,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302040,,,102002,Répéter 2 descripteurs 2 fois,Heures,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302040,,,004024,Période ou décalage dans le temps,Heures,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302040,,,013011,Précipitations totales/valeur totale de l'équivalent en eau,,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302041,ou du pont sur une plate-forme marine,,007032,Hauteur du capteur au-dessus du sol,Mesure de la température,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302041,,,004024,Période ou décalage dans le temps,Échelle: 2,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302041,,,004024,Période ou décalage dans le temps,Échelle: 2,(voir notes 1 et 2),,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302041,,,012111,"Température maximale, à une hauteur et sur une période déterminées",Échelle: 2,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302041,,,004024,Période ou décalage dans le temps,Échelle: 2,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302041,,,004024,Période ou décalage dans le temps,Échelle: 2,(voir note 2),,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302041,,,012112,"Température minimale, à une hauteur et sur une période déterminées",Échelle: 2,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302042,ou du pont sur une plate-forme marine,,007032,Hauteur du capteur au-dessus du sol,Mesure du vent,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302042,,,002002,Type d'instrument pour la mesure du vent,= 2 Moyenne sur une certaine période = -10 minutes ou nombre de minutes après un change-ment significatif du vent,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302042,,,008021,Caractéristique temporelle,= 2 Moyenne sur une certaine période = -10 minutes ou nombre de minutes après un change-ment significatif du vent,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302042,,,004025,Période ou décalage dans le temps,= 2 Moyenne sur une certaine période = -10 minutes ou nombre de minutes après un change-ment significatif du vent,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302042,,,011001,Direction du vent,Mis à valeur manquante,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302042,,,011002,Vitesse du vent,Mis à valeur manquante,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302042,,,008021,Caractéristique temporelle,Mis à valeur manquante,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302042,,,103002,Répéter 3 descripteurs 2 fois,Minutes,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302042,,,004025,Période ou décalage dans le temps,Minutes,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302042,,,011043,Direction de la rafale maximale,,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302042,,,011041,Vitesse de la rafale maximale,,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302043,,,302038,,,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302043,,,101002,Répéter 1 descripteur 2 fois,,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302043,sur une période d'une heure et de 24 heures,,302039,Données sur l'insolation,,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302043,,,302040,Mesure des précipitations,,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302043,,,302041,Données sur les températures extrêmes,Mis à valeur manquante (annuler),,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302043,,,302042,Données sur le vent,Mis à valeur manquante (annuler),,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302043,ou du pont sur une plate-forme marine,,007032,Hauteur du capteur au-dessus du sol,Mis à valeur manquante (annuler),,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302044,,,004024,Période ou décalage dans le temps,Heures,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302044,,,002004,Type d'instrument utilisé pour la mesure de l'évaporation ou type de culture pour lequel est indiquée l'évapotranspiration,,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302044,,,013033,Évaporation/évapotranspiration,,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302045,,,004024,Période ou décalage dans le temps,Heures,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302045,,,014002,"Rayonnement de grande longueur d'onde, intégré sur une période déterminée",,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302045,,,014004,"Rayonnement de courte longueur d'onde, intégré sur une période déterminée",,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302045,,,014016,"Bilan du rayonnement, intégré sur une période déterminée",,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302045,précision élevée,,014028,"Rayonnement solaire global, intégré sur une période déterminée",,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302045,précision élevée,,014029,"Rayonnement solaire diffus, intégré sur une période déterminée",,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302045,précision élevée,,014030,"Rayonnement solaire direct, intégré sur une période déterminée",,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302046,,,004024,Période ou décalage dans le temps,,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302046,,,004024,Période ou décalage dans le temps,,(voir note 3),,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302046,,,012049,Variation de température sur une période déterminée,,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302047,,,102003,Répéter 2 descripteurs 3 fois,,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302047,observations en surface,,008002,Caractéristique verticale,,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302047,,,020054,Direction vraie d'où viennent ou dans laquelle sont observés le phénomène indiqué ou les nuages,,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302048,,,005021,Direction ou azimut,Hauteur angulaire,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302048,,,007021,Hauteur,Hauteur angulaire,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302048,,,020012,Type de nuage,Hauteur angulaire,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302048,,,005021,Direction ou azimut,Mis à valeur manquante (annuler),,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302048,,,007021,Hauteur,Mis à valeur manquante (annuler),,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302049,observations en surface,,008002,Caractéristique verticale,Nuages de l'étage inférieur ou moyen Nh,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302049,,,020011,Nébulosité,Nuages de l'étage inférieur ou moyen Nh,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302049,,,020013,Hauteur de la base des nuages,h,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302049,,,020012,Type de nuage,Nuages de l'étage inférieur CL,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302049,,,020012,Type de nuage,Nuages de l'étage moyen CM,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302049,,,020012,Type de nuage,Nuages de l'étage supérieur CH,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302049,observations en surface,,008002,Caractéristique verticale,Mis à valeur manquante,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302050,,,008041,Caractéristique des données,= 5 Décalage entre l'observation de surface et le point de lâcher,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302050,,,005021,Direction ou azimut,,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302050,,,007005,Incrément de hauteur,,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302050,,,202130,Changer d'échelle,,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302050,,,006021,Distance,,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302050,,,202000,Changement d'échelle,Annuler,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302050,,,008041,Caractéristique des données,= 4 Observation de surface,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302050,,,201131,Changer le champ de données,,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302050,,,202129,Changer d'échelle,,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302050,,,002115,Type d'équipement d'observation en surface,,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302050,,,010004,Pression,,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302050,,,002115,Type d'équipement d'observation en surface,,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302050,,,013003,Humidité relative,,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302050,,,202000,Changement d'échelle,Annuler,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302050,,,201000,Changement du champ de données,Annuler,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302050,,,002115,Type d'équipement d'observation en surface,,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302050,,,011001,Direction du vent,,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302050,,,011002,Vitesse du vent,,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302050,,,002115,Type d'équipement d'observation en surface,,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302050,,,102002,Répéter 2 descripteurs 2 fois,,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302050,,,012101,Température/température de l'air,,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302050,,,004024,Période ou décalage dans le temps,Heures,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302050,,,002115,Type d'équipement d'observation en surface,,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302050,,,012103,Point de rosée,,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302050,,,012102,Température du thermomètre mouillé,,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302050,,,101003,Répéter 1 descripteur 3 fois,,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302050,,,020012,Type de nuage,,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302050,,,020011,Nébulosité,,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302050,,,020013,Hauteur de la base des nuages,,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302050,,,101002,Répéter 1 descripteur 2 fois,,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302050,,,020003,Temps présent,,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302051,,,010004,Pression,Position verticale,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302051,,,010051,Pression ramenée au niveau moyen de la mer,Position verticale,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302051,,,007004,Pression,Position verticale,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302051,,,010003,Géopotentiel,,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302051,,,012004,Température de l'air à 2 m,,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302051,,,012051,Écart type de la température,,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302051,,,012016,"Température maximale à 2 m, au cours des 24 heures précédentes",,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302051,,,012017,"Température minimale à 2 m, au cours des 24 heures précédentes",,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302051,,,013004,Tension de vapeur,,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302051,,,102004,Répéter 2 descripteurs 4 fois,,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302051,,,008051,Identificateur pour le nombre de valeurs manquantes dans le calcul des statistiques,,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302051,pour le calcul du total ou de la moyenne,,008020,Nombre total de valeurs manquantes,,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302052,ou du pont sur une plate-forme marine,,007032,Hauteur du capteur au-dessus du sol,Mesure de la température et de l'humidité,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302052,,,007033,Hauteur du capteur au-dessus de la surface de l'eau,Mesure de la température et de l'humidité,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302052,,,012101,Température/température de l'air,Échelle: 2,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302052,,,002039,Méthode de mesure de la température du thermomètre mouillé,,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302052,,,012102,Température du thermomètre mouillé,Échelle: 2,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302052,,,012103,Point de rosée,Échelle: 2,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302052,,,013003,Humidité relative,,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302053,ou du pont sur une plate-forme marine,,007032,Hauteur du capteur au-dessus du sol,Mesure de la visibilité,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302053,,,007033,Hauteur du capteur au-dessus de la surface de l'eau,Mesure de la visibilité,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302053,,,020001,Visibilité horizontale,,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302054,,,302052,Données sur la température et l'humidité depuis le navire,Mis à valeur manquante (annuler),,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302054,,,302053,Données sur la visibilité depuis le navire,Mis à valeur manquante (annuler),,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302054,,,007033,Hauteur du capteur au-dessus de la surface de l'eau,Mis à valeur manquante (annuler),,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302054,,,302034,Précipitations sur les 24 heures écoulées,Mis à valeur manquante (annuler),,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302054,ou du pont sur une plate-forme marine,,007032,Hauteur du capteur au-dessus du sol,Mis à valeur manquante (annuler),,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302054,,,302004,Information générale sur les nuages,,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302054,,,101000,Répétition différée de 1 descripteur,,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302054,,,031001,Facteur de répétition différée du descripteur,,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302054,,,302005,Couche nuageuse,,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302055,épaisseur,,020031,Dépôt de glace,,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302055,estimation,,020032,Vitesse d'accumulation de la glace,,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302055,,,020033,Cause de l'accumulation de la glace,,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302055,,,020034,Concentration des glaces de mer,,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302055,,,020035,Quantité et type de glace,,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302055,,,020036,Situation des glaces,,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302055,,,020037,Évolution de la glace,,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302055,,,020038,Direction de la lisière des glaces,,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302056,,,002038,Méthode de mesure de la température et/ou de la salinité de l'eau,Mesure de la tem-pérature de surface de la mer,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302056,cm,,007063,Profondeur sous la surface de la mer/ de l'eau,Mesure de la tem-pérature de surface de la mer,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302056,,,022043,Température de la mer/de l'eau,Mis à valeur manquante (annuler),,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302056,cm,,007063,Profondeur sous la surface de la mer/ de l'eau,Mis à valeur manquante (annuler),,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302057,,,302056,Température de la mer/de l'eau,"Température de surface de la mer, méthode de mesure et profondeur sous la surface",,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302057,,,302021,Vagues,,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302057,,,302024,Vagues de la mer du vent et de la houle,,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302058,ou du pont sur une plate-forme marine,,007032,Hauteur du capteur au-dessus du sol,Mesure de la température,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302058,,,007033,Hauteur du capteur au-dessus de la surface de l'eau,Mesure de la température,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302058,,,004024,Période ou décalage dans le temps,Échelle: 2,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302058,,,004024,Période ou décalage dans le temps,Échelle: 2,(voir notes 1 et 2),,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302058,,,012111,"Température maximale, à une hauteur et sur une période déterminées",Échelle: 2,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302058,,,004024,Période ou décalage dans le temps,Échelle: 2,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302058,,,004024,Période ou décalage dans le temps,Échelle: 2,(voir note 2),,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302058,,,012112,"Température minimale, à une hauteur et sur une période déterminées",Échelle: 2,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302059,ou du pont sur une plate-forme marine,,007032,Hauteur du capteur au-dessus du sol,Mesure du vent,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302059,,,007033,Hauteur du capteur au-dessus de la surface de l'eau,Mesure du vent,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302059,,,002002,Type d'instrument pour la mesure du vent,"= 2 Moyenne sur une certaine période = -10 minutes, ou nombre de minutes après un changement significatif du vent",,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302059,,,008021,Caractéristique temporelle,"= 2 Moyenne sur une certaine période = -10 minutes, ou nombre de minutes après un changement significatif du vent",,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302059,,,004025,Période ou décalage dans le temps,"= 2 Moyenne sur une certaine période = -10 minutes, ou nombre de minutes après un changement significatif du vent",,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302059,,,011001,Direction du vent,Mis à valeur manquante,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302059,,,011002,Vitesse du vent,Mis à valeur manquante,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302059,,,008021,Caractéristique temporelle,Mis à valeur manquante,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302059,,,103002,Répéter 3 descripteurs 2 fois,Minutes,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302059,,,004025,Période ou décalage dans le temps,Minutes,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302059,,,011043,Direction de la rafale maximale,,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302059,,,011041,Vitesse de la rafale maximale,,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302060,,,302038,Temps présent et temps passé,,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302060,,,302040,Mesure des précipitations,,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302060,,,302058,Données sur les températures extrêmes depuis le navire,,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302060,,,302059,Données sur le vent depuis le navire,,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302062,,,025188,Méthode employée pour ramener la pression au niveau de la mer,,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302062,,,302001,Pression et variation de pression en 3 heures,,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302062,,,302093,Données supplémentaires sur la température et l'humidité depuis le navire,,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302062,,,101000,Répétition différée de 1 descripteur,,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302062,,,031000,Facteur de répétition légèrement différée du descripteur,,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302062,,,302053,Données sur la visibilité depuis le navire,Mis à valeur manquante (annuler),,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302062,ou du pont sur une plate-forme marine,,007032,Hauteur du capteur au-dessus du sol,Mis à valeur manquante (annuler),,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302062,,,007033,Hauteur du capteur au-dessus de la surface de l'eau,Mis à valeur manquante (annuler),,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302062,,,101000,Répétition différée de 1 descripteur,,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302062,,,031000,Facteur de répétition légèrement différée du descripteur,,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302062,,,302004,Information générale sur les nuages,Mis à valeur manquante (annuler),,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302062,,,101000,Répétition différée de 1 descripteur,Mis à valeur manquante (annuler),,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302062,,,031001,Facteur de répétition différée du descripteur,Mis à valeur manquante (annuler),,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302062,,,302005,Couche nuageuse,Mis à valeur manquante (annuler),,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302062,observations en surface,,008002,Caractéristique verticale,Mis à valeur manquante (annuler),,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302062,,,101000,Répétition différée de 1 descripteur,,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302062,,,031000,Facteur de répétition légèrement différée du descripteur,,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302062,,,302055,Givrage et glace,,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302062,,,101000,Répétition différée de 1 descripteur,,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302062,,,031000,Facteur de répétition légèrement différée du descripteur,,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302062,,,302056,Température de la mer/de l'eau,,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302062,,,101000,Répétition différée de 1 descripteur,,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302062,,,031000,Facteur de répétition légèrement différée du descripteur,,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302062,,,302021,Vagues,,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302062,,,101000,Répétition différée de 1 descripteur,,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302062,,,031000,Facteur de répétition légèrement différée du descripteur,,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302062,,,302024,Vagues de la mer du vent et de la houle,,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302063,,,302038,Temps présent et temps passé,,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302063,,,101000,Répétition différée de 1 descripteur,,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302063,,,031000,Facteur de répétition légèrement différée du descripteur,,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302063,,,302040,Mesure des précipitations,,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302063,,,101000,Répétition différée de 1 descripteur,,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302063,,,031000,Facteur de répétition légèrement différée du descripteur,,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302063,,,302034,Précipitations sur les 24 heures écoulées,Mis à valeur manquante (annuler),,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302063,ou du pont sur une plate-forme marine,,007032,Hauteur du capteur au-dessus du sol,Mis à valeur manquante (annuler),,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302063,,,101000,Répétition différée de 1 descripteur,,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302063,,,031000,Facteur de répétition légèrement différée du descripteur,,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302063,,,302058,Données sur les températures extrêmes depuis le navire,,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302063,,,101000,Répétition différée de 1 descripteur,,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302063,,,031000,Facteur de répétition légèrement différée du descripteur,,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302063,,,302064,Données sur le vent depuis le navire ou la plate-forme marine,,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302064,ou du pont sur une plate-forme marine,,007032,Hauteur du capteur au-dessus du sol,= 2 Moyenne sur une certaine période,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302064,,,007033,Hauteur du capteur au-dessus de la surface de l'eau,= 2 Moyenne sur une certaine période,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302064,,,002002,Type d'instrument pour la mesure du vent,= 2 Moyenne sur une certaine période,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302064,,,008021,Caractéristique temporelle,= 2 Moyenne sur une certaine période,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302064,,,004025,Période ou décalage dans le temps,Mis à valeur manquante (annuler),,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302064,,,011001,Direction du vent,Mis à valeur manquante (annuler),,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302064,,,011002,Vitesse du vent,Mis à valeur manquante (annuler),,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302064,,,008021,Caractéristique temporelle,Mis à valeur manquante (annuler),,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302064,,,103000,Répétition différée de 3 descripteurs,,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302064,,,031001,Facteur de répétition différée du descripteur,,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302064,,,004025,Période ou décalage dans le temps,,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302064,,,011043,Direction de la rafale maximale,,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302064,,,011041,Vitesse de la rafale maximale,,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302066,,,020023,Autres phénomènes météorologiques,,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302066,,,020024,Intensité du phénomène,,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302066,,,020027,Apparition du phénomène,,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302066,,,020054,Direction vraie d'où viennent ou dans laquelle sont observés le phénomène indiqué ou les nuages,,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302066,,,020023,Autres phénomènes météorologiques,,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302066,,,020027,Apparition du phénomène,,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302066,,,020054,Direction vraie d'où viennent ou dans laquelle sont observés le phénomène indiqué ou les nuages,,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302066,,,020025,Obscurcissement,,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302066,,,020026,Caractéristique de l'obscurcissement,,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302066,,,020027,Apparition du phénomène,,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302066,,,020040,Évolution de la chasse-neige,,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302066,,,020066,Diamètre maximal des grêlons,,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302066,,,020027,Apparition du phénomène,,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302066,,,020021,Type de précipitation,,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302066,,,020067,Diamètre du dépôt,,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302066,,,020027,Apparition du phénomène,,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302067,,,001023,Numéro de la séquence d'observations Données «instantanées» supplémentaires,= 0 minute,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302067,,,004025,Période ou décalage dans le temps,= 0 minute,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302067,,,002177,Méthode de mesure de l'épaisseur de neige,"/voir colonne de gauche = 0 Observation manuelle, = 1 Ultrasons, = 2 Caméra vidéo, = 3 Laser, = 4-13 En réserve, = 14 Autre, = 15 Valeur manquante",,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302067,,,101000,Répétition différée de 1 descripteur,"960ww, 961ww",,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302067,,,031001,Facteur de répétition différée du descripteur,"960ww, 961ww",,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302067,,,020003,Temps présent,"960ww, 961ww",,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302067,,,103000,Répétition différée de 3 descripteurs,,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302067,,,031001,Facteur de répétition différée du descripteur,,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302067,,,005021,Direction ou azimut,981VV-988VV,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302067,,,020001,Visibilité horizontale,VV,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302067,,,005021,Direction ou azimut,Mis à valeur manquante (annuler),,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302067,,,101000,Répétition différée de 1 descripteur,,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302067,,,031000,Facteur de répétition légèrement différée du descripteur,,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302067,,,302056,Température de la mer/de l'eau,"Température de surface de la mer/ de l'eau, méthode de mesure et profondeur sous la surface de l'eau",,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302067,,,103000,Répétition différée de 3 descripteurs,,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302067,,,031000,Facteur de répétition légèrement différée du descripteur,,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302067,,,033041,Caractéristique de la valeur suivante,,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302067,,,020058,Visibilité sur la mer depuis une station côtière,980VVss,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302067,,,022061,État de la mer,924SV,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302067,,,101000,Répétition différée de 1 descripteur,,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302067,,,031000,Facteur de répétition légèrement différée du descripteur,,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302067,,,302022,Vagues de la mer du vent,,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302067,,,101000,Répétition différée de 1 descripteur,,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302067,,,031001,Facteur de répétition différée du descripteur,,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302067,,,302023,Vagues de la houle,,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302067,,,104000,Répétition différée de 4 descripteurs,,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302067,,,031001,Facteur de répétition différée du descripteur,,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302067,,,020054,Direction vraie d'où viennent ou dans laquelle sont observés le phénomène indiqué ou les nuages,"Da, Dp",,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302067,,,020137,Évolution des nuages,940Cn3,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302067,,,020012,Type de nuage,"941CD, 943CLDP",,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302067,,,020090,Nuages spéciaux,993CDa,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302067,,,103000,Répétition différée de 3 descripteurs,,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302067,,,031001,Facteur de répétition différée du descripteur,,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302067,,,020054,Direction vraie d'où viennent ou dans laquelle sont observés le phénomène indiqué ou les nuages,,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302067,,,020137,Évolution des nuages,"948CoDa, 949CaDa",,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302067,,,020136,Types de nuages supplémentaires,"950Nmn3, 951Nn4",,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302067,,,004025,Période ou décalage dans le temps,Période de référence de la neige fraîche,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302067,,,013012,Épaisseur de neige fraîche,,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302067,,,004025,Période ou décalage dans le temps,= -60 minutes 912ff 902tt 912ff .. obligatoire si ff ≥ 18,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302067,vent moyen sur 10 minutes,,011042,Vitesse maximale du vent,= -60 minutes 912ff 902tt 912ff .. obligatoire si ff ≥ 18,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302067,,,104000,Répétition différée de 4 descripteurs,,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302067,,,031001,Facteur de répétition différée du descripteur,,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302067,,,008021,Caractéristique temporelle,"= 30 Heure d'apparition, = 17 Début du phénomène",,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302067,,,004025,Période ou décalage dans le temps,= -xx | 902tt 912ff,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302067,vent moyen sur 10 minutes,,011042,Vitesse maximale du vent,= -xx | 902tt 912ff,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302067,,,008021,Caractéristique temporelle,Mis à valeur manquante (annuler),,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302067,,,115000,Répétition différée de 15 descripteurs,,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302067,,,031001,Facteur de répétition différée du descripteur,,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302067,,,008021,Caractéristique temporelle,"= 30 Heure d'apparition, = 17 Début du phénomène",,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302067,,,004015,Incrément temporel,= -xx1,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302067,,,008021,Caractéristique temporelle,= 2 Moyenne sur la période,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302067,,,004025,Période ou décalage dans le temps,"= -10 minutes, ou nombre de minutes après un changement significatif du vent",,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302067,,,011001,Direction du vent,915dd,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302067,,,011002,Vitesse du vent,913ff,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302067,,,008021,Caractéristique temporelle,= 22 Heure du changement du vent,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302067,,,004015,Incrément temporel,= +xx2,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302067,,,008021,Caractéristique temporelle,= 2 Moyenne sur la période,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302067,,,004025,Période ou décalage dans le temps,"= -10 minutes, ou nombre de minutes après un changement significatif du vent",,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302067,,,011001,Direction du vent,915dd,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302067,,,011002,Vitesse du vent,913ff,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302067,,,008021,Caractéristique temporelle,Mis à valeur manquante (annuler),,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302067,,,004025,Période ou décalage dans le temps,= 0 minute,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302067,,,004015,Incrément temporel,= +(xx1-xx2) | Non négatif pour remettre à l'heure,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302067,,,103000,Répétition différée de 3 descripteurs,,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302067,,,031001,Facteur de répétition différée du descripteur,,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302067,,,004025,Période ou décalage dans le temps,"= -xx, c-a-d à partir de",,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302067,,,004025,Période ou décalage dans le temps,"= -xx, c-a-d jusqu'à",,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302067,,,020003,Temps présent,"962ww, 963w₁W₁, 964ww, 965w₁W₁, 966ww, 967w₁W₁",,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302067,,,110000,Répétition différée de 10 descripteurs,,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302067,,,031001,Facteur de répétition différée du descripteur,,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302067,,,004025,Période ou décalage dans le temps,"= -xx, c-a-d à partir de",,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302067,,,004025,Période ou décalage dans le temps,"= -xx, c-a-d jusqu'à",,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302067,,,005021,Direction ou azimut,"Da, Dp",,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302067,,,005021,Direction ou azimut,"Da, Dp",,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302067,,,020054,Direction vraie d'où viennent ou dans laquelle sont observés le phénomène indiqué ou les nuages,"Da, Dp",,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302067,,,020024,Intensité du phénomène,"= 1 Léger, = 2 Modéré, = 3 Fort, = 4 Violent, = 5 Dangereux",,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302067,,,020025,Obscurcissement,,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302067,,,020026,Caractéristique de l'obscurcissement,,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302067,,,020027,Apparition du phénomène,,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302067,,,020063,Phénomènes spéciaux,,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302069,ou du pont sur une plate-forme marine,,007032,Hauteur du capteur au-dessus du sol,,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302069,,,007033,Hauteur du capteur au-dessus de la surface de l'eau,,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302069,,,033041,Caractéristique de la valeur suivante,,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302069,,,020001,Visibilité horizontale,,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302070,ou du pont sur une plate-forme marine,,007032,Hauteur du capteur au-dessus du sol,,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302070,,,007033,Hauteur du capteur au-dessus de la surface de l'eau,,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302070,,,011001,Direction du vent,,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302070,,,011002,Vitesse du vent,,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302070,,,011043,Direction de la rafale maximale,,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302070,,,011041,Vitesse de la rafale maximale,,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302070,vent variable,,011016,Direction du vent extrême dans le sens contraire des aiguilles d'une montre,,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302070,vent variable,,011017,Direction du vent extrême dans le sens des aiguilles d'une montre,,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302071,ou du pont sur une plate-forme marine,,007032,Hauteur du capteur au-dessus du sol,"= 2 Moyenne sur une certaine période = -10 minutes, ou nombre de minutes après un changement significatif du vent, le cas échéant",,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302071,,,007033,Hauteur du capteur au-dessus de la surface de l'eau,"= 2 Moyenne sur une certaine période = -10 minutes, ou nombre de minutes après un changement significatif du vent, le cas échéant",,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302071,,,008021,Caractéristique temporelle,"= 2 Moyenne sur une certaine période = -10 minutes, ou nombre de minutes après un changement significatif du vent, le cas échéant",,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302071,,,004025,Période ou décalage dans le temps,"= 2 Moyenne sur une certaine période = -10 minutes, ou nombre de minutes après un changement significatif du vent, le cas échéant",,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302071,,,011001,Direction du vent,Mis à valeur manquante,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302071,,,011002,Vitesse du vent,Mis à valeur manquante,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302071,,,008021,Caractéristique temporelle,Mis à valeur manquante,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302071,,,103002,Répéter 3 descripteurs 2 fois,"= -10 minutes pour la première répétition, = -60 minutes pour la deuxième répétition",,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302071,,,004025,Période ou décalage dans le temps,"= -10 minutes pour la première répétition, = -60 minutes pour la deuxième répétition",,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302071,,,011043,Direction de la rafale maximale,= -10 minutes,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302071,,,011041,Vitesse de la rafale maximale,= -10 minutes,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302071,,,004025,Période ou décalage dans le temps,= -10 minutes,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302071,vent variable,,011016,Direction du vent extrême dans le sens contraire des aiguilles d'une montre,,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302071,vent variable,,011017,Direction du vent extrême dans le sens des aiguilles d'une montre,,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302072,ou du pont sur une plate-forme marine,,007032,Hauteur du capteur au-dessus du sol,,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302072,,,007033,Hauteur du capteur au-dessus de la surface de l'eau,,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302072,,,012101,Température/température de l'air,Échelle: 2,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302072,,,012103,Point de rosée,Échelle: 2,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302072,,,013003,Humidité relative,,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302073,totale,,020010,Nébulosité,,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302073,,,105004,Répéter 5 descripteurs 4 fois,,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302073,observations en surface,,008002,Caractéristique verticale,,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302073,,,020011,Nébulosité,,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302073,,,020012,Type de nuage,,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302073,,,033041,Caractéristique de la valeur suivante,,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302073,,,020013,Hauteur de la base des nuages,,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302074,,,020003,Temps présent,,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302074,,,004025,Période ou décalage dans le temps,,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302074,1,,020004,Temps passé,,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302074,2,,020005,Temps passé,,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302075,,,008021,Caractéristique temporelle,= 2 Moyenne sur une certaine période,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302075,,,004025,Période ou décalage dans le temps,= -10 minutes,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302075,,,013055,Intensité des précipitations,Mis à valeur manquante,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302075,,,013058,Diamètre des particules formant les précipitations,Mis à valeur manquante,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302075,,,008021,Caractéristique temporelle,Mis à valeur manquante,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302076,,,020021,Type de précipitation,,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302076,,,020022,Caractéristique de la précipitation,,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302076,,,026020,Durée des précipitations,,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302076,,,020023,Autres phénomènes météorologiques,,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302076,,,020024,Intensité du phénomène,,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302076,,,020025,Obscurcissement,,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302076,,,020026,Caractéristique de l'obscurcissement,,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302077,ou du pont sur une plate-forme marine,,007032,Hauteur du capteur au-dessus du sol,,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302077,,,007033,Hauteur du capteur au-dessus de la surface de l'eau,,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302077,,,004025,Période ou décalage dans le temps,Échelle: 2,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302077,,,012111,"Température maximale, à une hauteur et sur une période déterminées",Échelle: 2,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302077,,,012112,"Température minimale, à une hauteur et sur une période déterminées",Échelle: 2,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302077,ou du pont sur une plate-forme marine,,007032,Hauteur du capteur au-dessus du sol,Température au sol,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302077,,,004025,Période ou décalage dans le temps,Échelle: 2 Tem-pérature au sol,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302077,,,012112,"Température minimale, à une hauteur et sur une période déterminées",Échelle: 2 Tem-pérature au sol,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302078,,,002176,Méthode de mesure de l'état du sol,,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302078,recouvert ou non d'une couche de neige,,020062,État du sol,,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302078,,,002177,Méthode de mesure de l'épaisseur de neige,,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302078,,,013013,Hauteur totale de la couche de neige,,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302079,ou du pont sur une plate-forme marine,,007032,Hauteur du capteur au-dessus du sol,,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302079,,,002175,Méthode de mesure des précipitations,,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302079,,,002178,Méthode de mesure de la teneur en eau à l'état liquide des précipitations,,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302079,,,004025,Période ou décalage dans le temps,,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302079,,,013011,Quantité totale de précipitations/valeur totale de l'équivalent en eau,,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302080,,,002185,Méthode de mesure de l'évaporation,,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302080,,,004025,Période ou décalage dans le temps,,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302080,,,013033,Évaporation /évapotranspiration,,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302081,,,004025,Période ou décalage dans le temps,,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302081,,,014031,Insolation totale,,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302082,,,004025,Période ou décalage dans le temps,,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302082,,,014002,"Rayonnement de grande longueur d'onde, intégré sur une période déterminée",,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302082,,,014004,"Rayonnement de courte longueur d'onde, intégré sur une période déterminée",,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302082,,,014016,"Bilan du rayonnement, intégré sur une période déterminée",,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302082,précision élevée,,014028,"Rayonnement solaire global, intégré sur une période déterminée",,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302082,précision élevée,,014029,"Rayonnement solaire diffus, intégré sur une période déterminée",,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302082,précision élevée,,014030,"Rayonnement solaire direct, intégré sur une période déterminée",,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302083,,,004025,Période ou décalage dans le temps,Échelle: 2,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302083,,,008023,Statistiques de premier ordre,Échelle: 2,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302083,,,010004,Pression,Échelle: 2,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302083,,,011001,Direction du vent,Échelle: 2,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302083,,,011002,Vitesse du vent,Échelle: 2,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302083,,,012101,Température/température de l'air,Échelle: 2,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302083,,,013003,Humidité relative,Mis à valeur manquante,,,Operational
+02,Catégorie 02 Séquences météorologiques communes aux données de surface,302083,,,008023,Statistique de premier ordre,Mis à valeur manquante,,,Operational
+ES,TABLE_NAME,DESCRIPTEUR,,,SÉQUENCEDEDESCRIPTEURS,NOM DE L’ÉLÉMENT,DESCRIPTION DE L’ÉLÉMENT,,,Operational
+,Table D/02 BUFR,,Données «instantanées» de la séquence 3 07 096,,,,,,,Operational
+02,Table D/02 BUFR,302084,,,302031,Information sur la pression,,,,Operational
+02,Table D/02 BUFR,302084,,,302072,Données sur la température et l'humidité,,,,Operational
+02,Table D/02 BUFR,302084,,,103000,Répétition différée de 3 descripteurs,,,,Operational
+02,Table D/02 BUFR,302084,,,031000,Facteur de répétition légèrement différée du descripteur,,,,Operational
+02,Table D/02 BUFR,302084,,,101005,Répéter 1 descripteur 5 fois,,,,Operational
+02,Table D/02 BUFR,302084,,,307063,Profondeur sous la surface terrestre et température du sol,,,,Operational
+02,Table D/02 BUFR,302084,,,007061,Profondeur sous la surface terrestre,Mis à valeur manquante (annuler),,,Operational
+,Table D/02 BUFR,,,,,Données sur la visibilité,,,,Operational
+02,Table D/02 BUFR,302084,,,101000,Répétition différée de 1 descripteur,,,,Operational
+02,Table D/02 BUFR,302084,,,031000,Facteur de répétition légèrement différée du descripteur,,,,Operational
+02,Table D/02 BUFR,302084,,,302069,Données sur la visibilité,,,,Operational
+02,Table D/02 BUFR,302084,ou du pont sur une plate-forme marine,,007032,Hauteur du capteur au-dessus du sol,Mis à valeur manquante (annuler),,,Operational
+02,Table D/02 BUFR,302084,,,007033,Hauteur du capteur au-dessus de la surface de l'eau,Mis à valeur manquante (annuler),,,Operational
+,Table D/02 BUFR,,,,,Données océanographiques,,,,Operational
+02,Table D/02 BUFR,302084,,,105000,Répétition différée de 5 descripteurs,,,,Operational
+02,Table D/02 BUFR,302084,,,031000,Facteur de répétition légèrement différée du descripteur,,,,Operational
+02,Table D/02 BUFR,302084,épaisseur,,020031,Dépôt de glace,,,,Operational
+02,Table D/02 BUFR,302084,estimation,,020032,Vitesse d'accumulation de la galce,,,,Operational
+02,Table D/02 BUFR,302084,,,002038,Méthode de mesure de la température et/ou de la salinité de l'eau,,,,Operational
+02,Table D/02 BUFR,302084,,,022043,Température de la mer/de l'eau,Échelle: 2,,,Operational
+02,Table D/02 BUFR,302084,,,302021,Vagues,,,,Operational
+,Table D/02 BUFR,,,,,Mesure de l'état du sol et de la hauteur de la couche de neige,,,,Operational
+02,Table D/02 BUFR,302084,,,101000,Répétition différée de 1 descripteur,,,,Operational
+02,Table D/02 BUFR,302084,,,031000,Facteur de répétition légèrement différée du descripteur,,,,Operational
+02,Table D/02 BUFR,302084,,,302078,Mesure de l'état du sol et de la hauteur de la couche de neige,,,,Operational
+02,Table D/02 BUFR,302084,,,012113,"Température minimale au sol, au cours des 12 heures précédentes",Échelle: 2,,,Operational
+,Table D/02 BUFR,,,,,Données sur les nuages,,,,Operational
+02,Table D/02 BUFR,302084,,,101000,Répétition différée de 1 descripteur,,,,Operational
+02,Table D/02 BUFR,302084,,,031000,Facteur de répétition légèrement différée du descripteur,,,,Operational
+02,Table D/02 BUFR,302084,,,302004,Information générale sur les nuages,,,,Operational
+02,Table D/02 BUFR,302084,,,105000,Répétition différée de 5 descripteurs,,,,Operational
+02,Table D/02 BUFR,302084,,,031001,Facteur de répétition différée du descripteur,,,,Operational
+02,Table D/02 BUFR,302084,observations en surface,,008002,Caractéristique verticale,,,,Operational
+02,Table D/02 BUFR,302084,,,020011,Nébulosité,,,,Operational
+02,Table D/02 BUFR,302084,,,020012,Type de nuage,,,,Operational
+02,Table D/02 BUFR,302084,,,033041,Caractéristique de la valeur suivante,,,,Operational
+02,Table D/02 BUFR,302084,,,020013,Hauteur de la base des nuages,,,,Operational
+02,Table D/02 BUFR,302084,,,302036,Nuages dont la base se situe sous le niveau de la station,,,,Operational
+,Table D/02 BUFR,,,,,Direction de la dérive des nuages 6DLDMDH,,,,Operational
+02,Table D/02 BUFR,302084,,,101000,Répétition différée de 1 descripteur,,,,Operational
+02,Table D/02 BUFR,302084,,,031000,Facteur de répétition légèrement différée du descripteur,,,,Operational
+02,Table D/02 BUFR,302084,,,302047,Direction de la dérive des nuages,,,,Operational
+02,Table D/02 BUFR,302084,observations en surface,,008002,Caractéristique verticale,Mis à valeur manquante (annuler),,,Operational
+,Table D/02 BUFR,,,,,Direction et hauteur des nuages 57CDec,,,,Operational
+02,Table D/02 BUFR,302084,,,101000,Répétition différée de 1 descripteur,,,,Operational
+02,Table D/02 BUFR,302084,,,031000,Facteur de répétition légèrement différée du descripteur,,,,Operational
+02,Table D/02 BUFR,302084,,,302048,Direction et hauteur des nuages,,,,Operational
+,Table D/02 BUFR,,Données «pour la période de la séquence 3 07 096,,,,,,,Operational
+,Table D/02 BUFR,,,,,Données sur le temps présent et le temps passé,,,,Operational
+02,Table D/02 BUFR,302085,,,105000,Répétition différée de 5 descripteurs,,,,Operational
+02,Table D/02 BUFR,302085,,,031000,Facteur de répétition légèrement différée du descripteur,,,,Operational
+02,Table D/02 BUFR,302085,,,020003,Temps présent,,,,Operational
+02,Table D/02 BUFR,302085,,,103002,Répéter 3 descripteurs 2 fois,,,,Operational
+02,Table D/02 BUFR,302085,,,004024,Période ou décalage dans le temps,"= -1 heure pour la première répétition, = -x heures pour la deuxième répétition, x correspondant à la période de W₁W₂ dans le message SYNOP /voir colonne de gauche",,,Operational
+02,Table D/02 BUFR,302085,1,,020004,Temps passé,,,,Operational
+02,Table D/02 BUFR,302085,2,,020005,Temps passé,,,,Operational
+,Table D/02 BUFR,,,,,"Intensité des précipitations, taille de l'élément de précipitations",,,,Operational
+02,Table D/02 BUFR,302085,,,101000,Répétition différée de 1 descripteur,,,,Operational
+02,Table D/02 BUFR,302085,,,031000,Facteur de répétition légèrement différée du descripteur,,,,Operational
+02,Table D/02 BUFR,302085,,,302175,"Intensité des précipitations, taille de l'élément de précipitations",,,,Operational
+,Table D/02 BUFR,,,,,"Précipitations, obscurcissement et autres phénomènes",,,,Operational
+02,Table D/02 BUFR,302085,,,102000,Répétition différée de 2 descripteurs,,,,Operational
+02,Table D/02 BUFR,302085,,,031000,Facteur de répétition légèrement différée du descripteur,,,,Operational
+02,Table D/02 BUFR,302085,,,004025,Période ou décalage dans le temps,= -10 minutes,,,Operational
+02,Table D/02 BUFR,302085,,,302076,"Précipitations, obscurcissement et autres phénomènes",,,,Operational
+,Table D/02 BUFR,,,,,Données sur la foudre,,,,Operational
+02,Table D/02 BUFR,302085,,,102000,Répétition différée de 2 descripteurs,,,,Operational
+02,Table D/02 BUFR,302085,,,031000,Facteur de répétition légèrement différée du descripteur,,,,Operational
+02,Table D/02 BUFR,302085,,,004025,Période ou décalage dans le temps,= -10 minutes,,,Operational
+02,Table D/02 BUFR,302085,orage,,013059,Nombre d'éclairs,,,,Operational
+,Table D/02 BUFR,,,,,Données sur le vent,,,,Operational
+02,Table D/02 BUFR,302085,ou du pont sur une plate-forme marine,,007032,Hauteur du capteur au-dessus du sol,,,,Operational
+02,Table D/02 BUFR,302085,,,007033,Hauteur du capteur au-dessus de la surface de l'eau,,,,Operational
+02,Table D/02 BUFR,302085,,,008021,Caractéristique temporelle,= 2 Moyenne sur une certaine période,,,Operational
+02,Table D/02 BUFR,302085,,,004025,Période ou décalage dans le temps,"= -10 minutes, ou nombre de minutes après un changement significatif du vent",,,Operational
+02,Table D/02 BUFR,302085,,,011001,Direction du vent,,,,Operational
+02,Table D/02 BUFR,302085,,,011002,Vitesse du vent,,,,Operational
+02,Table D/02 BUFR,302085,,,008021,Caractéristique temporelle,Mis à valeur manquante,,,Operational
+02,Table D/02 BUFR,302085,,,103003,Répéter 3 descripteurs 3 fois,,,,Operational
+02,Table D/02 BUFR,302085,,,004025,Période ou décalage dans le temps,"= -10 minutes pour la première répétition, = -60 minutes pour la deuxième répétition, = -60x3 ou 60x6 minutes pour la troisième répétition /voir colonne de gauche",,,Operational
+02,Table D/02 BUFR,302085,,,011043,Direction de la rafale maximale,,,,Operational
+02,Table D/02 BUFR,302085,,,011041,Vitesse de la rafale maximale,,,,Operational
+02,Table D/02 BUFR,302085,,,004025,Période ou décalage dans le temps,= -10 minutes,,,Operational
+02,Table D/02 BUFR,302085,vent variable,,011016,Direction du vent extrême dans le sens contraire des aiguilles d'une montre,,,,Operational
+02,Table D/02 BUFR,302085,vent variable,,011017,Direction du vent extrême dans le sens des aiguilles d'une montre,,,,Operational
+,Table D/02 BUFR,,,,,Données sur les températures extrêmes,,,,Operational
+02,Table D/02 BUFR,302085,,,302077,Données sur les extrêmes de température,,,,Operational
+02,Table D/02 BUFR,302085,,,007033,Hauteur du capteur au-dessus de la surface de l'eau,Mis à valeur manquante (annuler),,,Operational
+02,Table D/02 BUFR,302085,,,302041,Données sur les températures extrêmes,,,,Operational
+,Table D/02 BUFR,,,,,Mesure des précipitations,,,,Operational
+02,Table D/02 BUFR,302085,,,106000,Répétition différée de 6 descripteurs,,,,Operational
+02,Table D/02 BUFR,302085,,,031000,Facteur de répétition légèrement différée du descripteur,,,,Operational
+02,Table D/02 BUFR,302085,ou du pont sur une plate-forme marine,,007032,Hauteur du capteur au-dessus du sol,,,,Operational
+02,Table D/02 BUFR,302085,,,002175,Méthode de mesure des précipitations,,,,Operational
+02,Table D/02 BUFR,302085,,,002178,Méthode de mesure de la teneur en eau à l'état liquide des précipitations,,,,Operational
+02,Table D/02 BUFR,302085,,,102005,Répéter 2 descripteurs 5 fois,,,,Operational
+02,Table D/02 BUFR,302085,,,004024,Période ou décalage dans le temps,"= -1 heure pour la première répétition, = -3, -6, -12 et -24 heures pour les autres répétitions",,,Operational
+02,Table D/02 BUFR,302085,,,013011,Précipitations totales/valeur totale de l'équivalent en eau,,,,Operational
+02,Table D/02 BUFR,302085,ou du pont sur une plate-forme marine,,007032,Hauteur du capteur au-dessus du sol,Mis à valeur manquante (annuler),,,Operational
+,Table D/02 BUFR,,,,,Données sur l'évaporation,,,,Operational
+02,Table D/02 BUFR,302085,,,103000,Répétition différée de 3 descripteurs,,,,Operational
+02,Table D/02 BUFR,302085,,,031000,Facteur de répétition légèrement différée du descripteur,,,,Operational
+02,Table D/02 BUFR,302085,,,002185,Méthode de mesure de l'évaporation,,,,Operational
+02,Table D/02 BUFR,302085,,,101002,Répéter 1 descripteur 2 fois,,,,Operational
+02,Table D/02 BUFR,302085,,,302044,Données sur l'évaporation,,,,Operational
+,Table D/02 BUFR,,,,,Données sur l'insolation totale,,,,Operational
+02,Table D/02 BUFR,302085,,,102000,Répétition différée de 2 descripteurs,,,,Operational
+02,Table D/02 BUFR,302085,,,031000,Facteur de répétition légèrement différée du descripteur,,,,Operational
+02,Table D/02 BUFR,302085,,,101002,Répéter 1 descripteur 2 fois,,,,Operational
+02,Table D/02 BUFR,302085,sur une période d'une heure et de 24 heures,,302039,Données sur l'insolation,,,,Operational
+,Table D/02 BUFR,,,,,Données sur le rayonnement,,,,Operational
+02,Table D/02 BUFR,302085,,,102000,Répétition différée de 2 descripteurs,,,,Operational
+02,Table D/02 BUFR,302085,,,031000,Facteur de répétition légèrement différée du descripteur,,,,Operational
+02,Table D/02 BUFR,302085,,,101002,Répéter 1 descripteur 2 fois,,,,Operational
+02,Table D/02 BUFR,302085,sur une période d'une heure et de 24 heures,,302045,Données sur le rayonnement,,,,Operational
+,Table D/02 BUFR,,,,,Variation de température groupe 54gosd,,,,Operational
+02,Table D/02 BUFR,302085,,,101000,Répétition différée de 1 descripteur,,,,Operational
+02,Table D/02 BUFR,302085,,,031000,Facteur de répétition légèrement différée du descripteur,,,,Operational
+02,Table D/02 BUFR,302085,,,302046,Variation de température,,,,Operational
+,Table D/02 BUFR,,,,,"Statistiques de premier ordre – données sur la pression, le vent, la température et l'humidité",,,,Operational
+02,Table D/02 BUFR,302085,,,101000,Répétition différée de 1 descripteur,,,,Operational
+02,Table D/02 BUFR,302085,,,031000,Facteur de répétition légèrement différée du descripteur,,,,Operational
+02,Table D/02 BUFR,302085,,,302083,"Statistiques de premier ordre - données sur la pression, le vent, la température et l'humidité",,,,Operational
+,Table D/02 BUFR,,Informations sur les acridiens,,,,,,,Operational
+02,Table D/02 BUFR,302089,,,020101,Nom de l'acridien,L,,,Operational
+02,Table D/02 BUFR,302089,maturité,,020102,Couleur de l'acridien,Lo,,,Operational
+02,Table D/02 BUFR,302089,,,020103,Stade de développement des acridiens,La,,,Operational
+02,Table D/02 BUFR,302089,,,020104,Degré d'organisation de l'essaim ou de la bande d'acridiens,Lg,,,Operational
+02,Table D/02 BUFR,302089,,,020105,Dimension de l'essaim ou de la bande d'acridiens et durée du passage de l'essaim,SL,,,Operational
+02,Table D/02 BUFR,302089,,,020106,Densité de la population d'acridiens,d,,,Operational
+02,Table D/02 BUFR,302089,,,020107,Direction du déplacement de l'essaim d'acridiens,DL,,,Operational
+02,Table D/02 BUFR,302089,,,020108,Étendue de la végétation,Ve,,,Operational
+,Table D/02 BUFR,,Température de la mer/de l'eau de grande précision,,,,,,,Operational
+02,Table D/02 BUFR,302090,,,002038,Méthode de mesure de la température et/ou de la salinité de l'eau,,,,Operational
+02,Table D/02 BUFR,302090,cm,,007063,Profondeur sous la surface de la mer/ de l'eau,Mesure de la température de surface de la mer,,,Operational
+02,Table D/02 BUFR,302090,,,022045,Température de la mer/de l'eau,,,,Operational
+,Table D/02 BUFR,,Séquence pour la représentation des observations météorologiques annexes,,,,,,,Operational
+02,Table D/02 BUFR,302091,,,020001,Visibilité horizontale,,,,Operational
+02,Table D/02 BUFR,302091,,,004024,Période ou décalage dans le temps,,,,Operational
+02,Table D/02 BUFR,302091,,,013011,Précipitations totales/valeur totale de l'équivalent en eau,,,,Operational
+,Table D/02 BUFR,,Éléments de données VOSClim,,,,,,,Operational
+02,Table D/02 BUFR,302092,,,011104,"Cap vrai de l'aéronef, du navire ou de la plate-forme mobile",Cap vrai du navire,,,Operational
+02,Table D/02 BUFR,302092,,,001012,Direction de déplacement de la plate-forme d'observation mobile,Trajectoire du navire par rapport au sol,,,Operational
+02,Table D/02 BUFR,302092,,,001013,Vitesse de déplacement de la plate-forme d'observation mobile,Vitesse du navire par rapport au sol,,,Operational
+02,Table D/02 BUFR,302092,,,010038,Hauteur maximale de la pontée au-dessus de la ligne de charge d'été,,,,Operational
+02,Table D/02 BUFR,302092,ligne de charge d'été maximale,,010039,Écart entre le niveau de référence et le niveau réel de la mer,,,,Operational
+02,Table D/02 BUFR,302092,en degrés par rapport à la position de la proue,,011007,Direction du vent relatif,,,,Operational
+02,Table D/02 BUFR,302092,,,011008,Vitesse du vent relatif,,,,Operational
+,Table D/02 BUFR,,Données supplémentaires sur la température et l'humidité depuis le navire,,,,,,,Operational
+02,Table D/02 BUFR,302093,ou du pont sur une plate-forme marine,,007032,Hauteur du capteur au-dessus du sol,,,,Operational
+02,Table D/02 BUFR,302093,,,007033,Hauteur du capteur au-dessus de la surface de l'eau,,,,Operational
+02,Table D/02 BUFR,302093,,,303099,Métadonnées communes aux capteurs de température/d'humidité,,,,Operational
+02,Table D/02 BUFR,302093,,,012101,Température/température de l'air,,,,Operational
+02,Table D/02 BUFR,302093,,,103000,Répétition différée de 3 descripteurs,,,,Operational
+02,Table D/02 BUFR,302093,,,031000,Facteur de répétition légèrement différée du descripteur,"Chiffré 0 si rien n'a changé par rapport aux valeurs précédentes, 1 en cas de changement",,,Operational
+02,Table D/02 BUFR,302093,ou du pont sur une plate-forme marine,,007032,Hauteur du capteur au-dessus du sol,,,,Operational
+02,Table D/02 BUFR,302093,,,007033,Hauteur du capteur au-dessus de la surface de l'eau,,,,Operational
+02,Table D/02 BUFR,302093,,,303099,Métadonnées communes aux capteurs de température/d'humidité,,,,Operational
+02,Table D/02 BUFR,302093,,,002039,Méthode de mesure de la température du thermomètre mouillé,,,,Operational
+02,Table D/02 BUFR,302093,,,002097,Type de capteur d'humidité,,,,Operational
+02,Table D/02 BUFR,302093,,,003024,Coefficient psychrométrique,Chiffré comme valeur manquante si le capteur d'humidité n'est pas un psychromètre,,,Operational
+02,Table D/02 BUFR,302093,,,003021,Chauffage de l'hygromètre,,,,Operational
+02,Table D/02 BUFR,302093,,,012102,Température du thermomètre mouillé,,,,Operational
+02,Table D/02 BUFR,302093,,,012103,Point de rosée,,,,Operational
+02,Table D/02 BUFR,302093,,,013003,Humidité relative,,,,Operational
+02,Table D/02 BUFR,302093,ou du pont sur une plate-forme marine,,007032,Hauteur du capteur au-dessus du sol,Mis à valeur manquante (annuler),,,Operational
+02,Table D/02 BUFR,302093,,,007033,Hauteur du capteur au-dessus de la surface de l'eau,Mis à valeur manquante (annuler),,,Operational
+02,Table D/02 BUFR,302093,,,303099,Métadonnées communes aux capteurs de température/d'humidité,Tous les éléments successifs sont chiffrés comme valeur manquante (annuler),,,Operational
+02,Table D/02 BUFR,302093,,,002039,Méthode de mesure de la température du thermomètre mouillé,Mis à valeur manquante (annuler),,,Operational
+02,Table D/02 BUFR,302093,,,002097,Type de capteur d'humidité,Mis à valeur manquante (annuler),,,Operational
+02,Table D/02 BUFR,302093,,,003021,Chauffage de l'hygromètre,Mis à valeur manquante (annuler),,,Operational
+02,Table D/02 BUFR,302093,,,003024,Coefficient psychrométrique,Mis à valeur manquante (annuler),,,Operational
+,Table D/02 BUFR,,"Intensité des précipitations, taille de l'élément de précipitations",,,,,,,Operational
+02,Table D/02 BUFR,302175,,,008021,Caractéristique temporelle,,,,Operational
+02,Table D/02 BUFR,302175,,,004025,Période ou décalage dans le temps,,,,Operational
+02,Table D/02 BUFR,302175,précision élevée,,013155,Intensité des précipitations,,,,Operational
+02,Table D/02 BUFR,302175,,,013058,Diamètre des particules formant les précipitations,,,,Operational
+02,Table D/02 BUFR,302175,,,008021,Caractéristique temporelle,,,,Operational
