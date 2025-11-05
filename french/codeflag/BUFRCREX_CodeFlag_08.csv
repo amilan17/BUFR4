@@ -76,8 +76,8 @@ FXY,ElementName_fr,CodeFigure,EntryName_fr,EntryName_sub1_fr,EntryName_sub2_fr,N
 008008,Caractéristique correspondant à des données de sondage du rayonnement,4,Niveau de rayonnement bêta maximal,,,,,Operational
 008008,Caractéristique correspondant à des données de sondage du rayonnement,5,Niveau de rayonnement gamma maximal,,,,,Operational
 008008,Caractéristique correspondant à des données de sondage du rayonnement,6,Niveau de pression minimal,,,,,Operational
-008008,Caractéristique correspondant à des données de sondage du rayonnement,8,Niveau de signification indéterminée,,,,,Operational
 008008,Caractéristique correspondant à des données de sondage du rayonnement,7,En réserve,,,,,Operational
+008008,Caractéristique correspondant à des données de sondage du rayonnement,8,Niveau de signification indéterminée,,,,,Operational
 008008,Caractéristique correspondant à des données de sondage du rayonnement,9 bits mis à 1,Valeur manquante,,,,,Operational
 008009,Phase de vol détaillée de l'aéronef,0,"Vol en palier, observation régulière, régime non stabilisé",,,,,Operational
 008009,Phase de vol détaillée de l'aéronef,1,"Vol en palier, vent maximal rencontré, régime non stabilisé",,,,,Operational
