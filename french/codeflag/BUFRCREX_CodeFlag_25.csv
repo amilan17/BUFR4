@@ -142,31 +142,10 @@ FXY,ElementName_fr,CodeFigure,EntryName_fr,EntryName_sub1_fr,EntryName_sub2_fr,N
 025041,Méthode de transmission de la direction de la plate-forme mobile,1,"Direction transmise à l'origine au moyen de la table de code 0700, FM 13",,,,,Operational
 025041,Méthode de transmission de la direction de la plate-forme mobile,2,En réserve,,,,,Operational
 025041,Méthode de transmission de la direction de la plate-forme mobile,3,Valeur manquante,,,,,Operational
-025041,Méthode de transmission de la direction de la plate-forme mobile,0,Table de conversion: Valeur indiquée,Valeur des données: 0,,,,Operational
-025041,Méthode de transmission de la direction de la plate-forme mobile,1,Table de conversion: Valeur indiquée,Valeur des données: 45,,,,Operational
-025041,Méthode de transmission de la direction de la plate-forme mobile,2,Table de conversion: Valeur indiquée,Valeur des données: 90,,,,Operational
-025041,Méthode de transmission de la direction de la plate-forme mobile,3,Table de conversion: Valeur indiquée,Valeur des données: 135,,,,Operational
-025041,Méthode de transmission de la direction de la plate-forme mobile,4,Table de conversion: Valeur indiquée,Valeur des données: 180,,,,Operational
-025041,Méthode de transmission de la direction de la plate-forme mobile,5,Table de conversion: Valeur indiquée,Valeur des données: 225,,,,Operational
-025041,Méthode de transmission de la direction de la plate-forme mobile,6,Table de conversion: Valeur indiquée,Valeur des données: 270,,,,Operational
-025041,Méthode de transmission de la direction de la plate-forme mobile,7,Table de conversion: Valeur indiquée,Valeur des données: 315,,,,Operational
-025041,Méthode de transmission de la direction de la plate-forme mobile,8,Table de conversion: Valeur indiquée,Valeur des données: 360,,,,Operational
-025041,Méthode de transmission de la direction de la plate-forme mobile,9,Table de conversion: Valeur indiquée,Valeur des données: 511,,,,Operational
 025042,Méthode de transmission de la vitesse de la plate-forme mobile,0,Vitesse transmise à l'origine en mètres par seconde,,,,,Operational
 025042,Méthode de transmission de la vitesse de la plate-forme mobile,1,"Vitesse transmise à l'origine au moyen de la table de code 4451, FM 13",,,,,Operational
 025042,Méthode de transmission de la vitesse de la plate-forme mobile,2,En réserve,,,,,Operational
 025042,Méthode de transmission de la vitesse de la plate-forme mobile,3,Valeur manquante,,,,,Operational
-025042,Méthode de transmission de la vitesse de la plate-forme mobile,0,Table de conversion: Valeur indiquée,Valeur des données: 0,,,,Operational
-025042,Méthode de transmission de la vitesse de la plate-forme mobile,1,Table de conversion: Valeur indiquée,Valeur des données: 1,,,,Operational
-025042,Méthode de transmission de la vitesse de la plate-forme mobile,2,Table de conversion: Valeur indiquée,Valeur des données: 4,,,,Operational
-025042,Méthode de transmission de la vitesse de la plate-forme mobile,3,Table de conversion: Valeur indiquée,Valeur des données: 7,,,,Operational
-025042,Méthode de transmission de la vitesse de la plate-forme mobile,4,Table de conversion: Valeur indiquée,Valeur des données: 9,,,,Operational
-025042,Méthode de transmission de la vitesse de la plate-forme mobile,5,Table de conversion: Valeur indiquée,Valeur des données: 12,,,,Operational
-025042,Méthode de transmission de la vitesse de la plate-forme mobile,6,Table de conversion: Valeur indiquée,Valeur des données: 14,,,,Operational
-025042,Méthode de transmission de la vitesse de la plate-forme mobile,7,Table de conversion: Valeur indiquée,Valeur des données: 17,,,,Operational
-025042,Méthode de transmission de la vitesse de la plate-forme mobile,8,Table de conversion: Valeur indiquée,Valeur des données: 19,,,,Operational
-025042,Méthode de transmission de la vitesse de la plate-forme mobile,9,Table de conversion: Valeur indiquée,Valeur des données: 21,,,,Operational
-025042,Méthode de transmission de la vitesse de la plate-forme mobile,/,Table de conversion: Valeur indiquée,Valeur des données: 1023,,,,Operational
 025045,Combinaison de canaux de sondeur HIRS,1-20,"En commençant avec la position du premier bit (bit de plus fort poids), si le bit est mis à 1, il y a présence d'un canal si le bit est mis à 0, il y a absence de canal",,,,,Operational
 025045,Combinaison de canaux de sondeur HIRS,21 bits mis à 1,Valeur manquante,,,,,Operational
 025046,Combinaison de canaux de sondeur MSU,1-4,"En commençant avec la position du premier bit (bit de plus fort poids), si le bit est mis à 1, il y a présence d'un canal si le bit est mis à 0, il y a absence de canal",,,,,Operational
@@ -174,7 +153,7 @@ FXY,ElementName_fr,CodeFigure,EntryName_fr,EntryName_sub1_fr,EntryName_sub2_fr,N
 025047,Combinaison de canaux de sondeur SSU,1-3,"En commençant par la position du premier bit (bit de plus fort poids), si le bit est mis à 1, il y a présence d'un canal si le bit est mis à 0, il y a absence de canal",,,,,Operational
 025047,Combinaison de canaux de sondeur SSU,4 bits mis à 1,Valeur manquante,,,,,Operational
 025048,Combinaison de canaux de sondeur AMSU-A,1-15,"En commençant par la position du premier bit (bit de plus fort poids), si le bit est mis à 1, il y a présence d'un canal si le bit est mis à 0, il y a absence de canal",,,,,Operational
-025048,Combinaison de canaux de sondeur AMSU-A,16 bits mis à 1,Valeur manquante,,,,,Operational
+025048,Combinaison de canaux de sondeur AMSU-A,16 bits mis à 1,"Valeur manquante",,,,,Operational
 025049,Combinaison de canaux de sondeur AMSU-B,1-5,"En commençant par la position du premier bit (bit de plus fort poids), si le bit est mis à 1, il y a présence d'un canal si le bit est mis à 0, il y a absence de canal",,,,,Operational
 025049,Combinaison de canaux de sondeur AMSU-B,6 bits mis à 1,Valeur manquante,,,,,Operational
 025051,Combinaison de canaux de radiomètre AVHRR,1-6,"En commençant par la position du premier bit (bit de plus fort poids), si le bit est mis à 1, il y a présence d'un canal si le bit est mis à 0, il y a absence de canal",,,,,Operational
@@ -188,17 +167,17 @@ FXY,ElementName_fr,CodeFigure,EntryName_fr,EntryName_sub1_fr,EntryName_sub2_fr,N
 025053,Qualité des observations,7-11,En réserve,,,,,Operational
 025053,Qualité des observations,12 bits mis à 1,Valeur manquante,,,,,Operational
 025063,Indicateur du système ou processeur central,0,Non défini,,,,,Operational
-025063,Indicateur du système ou processeur central,1,Processeur principal,,,,,Operational
+025063,Indicateur du système ou processeur central,1,"Processeur principal",,,,,Operational
 025063,Indicateur du système ou processeur central,2,Processeur de secours,,,,,Operational
-025063,Indicateur du système ou processeur central,3-254,En réserve,,,,,Operational
+025063,Indicateur du système ou processeur central,3-254,"En réserve",,,,,Operational
 025063,Indicateur du système ou processeur central,255,Valeur manquante,,,,,Operational
-025069,Corrections de pression du niveau de vol,1,Valeur lissée,,,,,Operational
+025069,Corrections de pression du niveau de vol,1,"Valeur lissée",,,,,Operational
 025069,Corrections de pression du niveau de vol,2,Niveau de référence ajusté,,,,,Operational
-025069,Corrections de pression du niveau de vol,3,Intervalle de temps normalisé,,,,,Operational
+025069,Corrections de pression du niveau de vol,3,"Intervalle de temps normalisé",,,,,Operational
 025069,Corrections de pression du niveau de vol,4,Valeur aberrante vérifiée,,,,,Operational
-025069,Corrections de pression du niveau de vol,5,Plausibilité contrôlée,,,,,Operational
+025069,Corrections de pression du niveau de vol,5,"Plausibilité contrôlée",,,,,Operational
 025069,Corrections de pression du niveau de vol,6,Cohérence contrôlée,,,,,Operational
-025069,Corrections de pression du niveau de vol,7,Valeur interpolée,,,,,Operational
+025069,Corrections de pression du niveau de vol,7,"Valeur interpolée",,,,,Operational
 025069,Corrections de pression du niveau de vol,8 bits mis à 1,Valeur manquante,,,,,Operational
 025086,Indicateur de correction de profondeur,0,Les profondeurs ne sont pas corrigées,,,,,Operational
 025086,Indicateur de correction de profondeur,1,Les profondeurs sont corrigées,,,,,Operational
@@ -233,7 +212,7 @@ FXY,ElementName_fr,CodeFigure,EntryName_fr,EntryName_sub1_fr,EntryName_sub2_fr,N
 025097,Erreur tridimensionnelle estimative de l'orbite du navigateur,2,Entre 60 et 90 cm,,,,,Operational
 025097,Erreur tridimensionnelle estimative de l'orbite du navigateur,3,Entre 90 et 120 cm,,,,,Operational
 025097,Erreur tridimensionnelle estimative de l'orbite du navigateur,4,Entre 120 et 150 cm,,,,,Operational
-025097,Erreur tridimensionnelle estimative de l'orbite du navigateur,5,Entre 150 et 180 cm,,,,,Operational
+025097,Erreur tridimensionnelle estimative de l'orbite du navigateur,5,"Entre 150 et 180 cm",,,,,Operational
 025097,Erreur tridimensionnelle estimative de l'orbite du navigateur,6,Entre 180 et 210 cm,,,,,Operational
 025097,Erreur tridimensionnelle estimative de l'orbite du navigateur,7,Entre 210 et 240 cm,,,,,Operational
 025097,Erreur tridimensionnelle estimative de l'orbite du navigateur,8,Entre 240 et 270 cm,,,,,Operational
@@ -242,12 +221,12 @@ FXY,ElementName_fr,CodeFigure,EntryName_fr,EntryName_sub1_fr,EntryName_sub2_fr,N
 025097,Erreur tridimensionnelle estimative de l'orbite du navigateur,15,Valeur manquante,,,,,Operational
 025098,Indicateur de qualité des données de l'altimètre,1,Intervalle en bande Ku,Signification (0 = bonne; 1 = mauvaise),,,,Operational
 025098,Indicateur de qualité des données de l'altimètre,2,Intervalle en bande C,Signification (0 = bonne; 1 = mauvaise),,,,Operational
-025098,Indicateur de qualité des données de l'altimètre,3,Hauteur significative des vagues en bande Ku,Signification (0 = bonne; 1 = mauvaise),,,,Operational
+025098,Indicateur de qualité des données de l'altimètre,3,"Hauteur significative des vagues en bande Ku",Signification (0 = bonne; 1 = mauvaise),,,,Operational
 025098,Indicateur de qualité des données de l'altimètre,4,Hauteur significative des vagues en bande C,Signification (0 = bonne; 1 = mauvaise),,,,Operational
-025098,Indicateur de qualité des données de l'altimètre,5,Coefficient de rétrodiffusion en bande Ku,Signification (0 = bonne; 1 = mauvaise),,,,Operational
-025098,Indicateur de qualité des données de l'altimètre,6,Coefficient de rétrodiffusion en bande C,Signification (0 = bonne; 1 = mauvaise),,,,Operational
-025098,Indicateur de qualité des données de l'altimètre,7,Angle de décalage par rapport au nadir calculé à partir de paramètres de forme d'onde en bande Ku,Signification (0 = bonne; 1 = mauvaise),,,,Operational
-025098,Indicateur de qualité des données de l'altimètre,8,Angle de décalage par rapport au nadir calculé à partir de la plate-forme,Signification (0 = bonne; 1 = mauvaise),,,,Operational
+025098,Indicateur de qualité des données de l'altimètre,5,"Coefficient de rétrodiffusion en bande Ku",Signification (0 = bonne; 1 = mauvaise),,,,Operational
+025098,Indicateur de qualité des données de l'altimètre,6,"Coefficient de rétrodiffusion en bande C",Signification (0 = bonne; 1 = mauvaise),,,,Operational
+025098,Indicateur de qualité des données de l'altimètre,7,"Angle de décalage par rapport au nadir calculé à partir de paramètres de forme d'onde en bande Ku",Signification (0 = bonne; 1 = mauvaise),,,,Operational
+025098,Indicateur de qualité des données de l'altimètre,8,"Angle de décalage par rapport au nadir calculé à partir de la plate-forme",Signification (0 = bonne; 1 = mauvaise),,,,Operational
 025098,Indicateur de qualité des données de l'altimètre,9 bits mis à 1,Valeur manquante,Signification (0 = bonne; 1 = mauvaise),,,,Operational
 025099,Indicateur de qualité de la correction de l'altimètre,1,Correction de l'erreur instrumentale pour l'intervalle dans la bande Ku,Signification (0 = bonne; 1 = mauvaise),,,,Operational
 025099,Indicateur de qualité de la correction de l'altimètre,2,Correction de l'erreur instrumentale pour l'intervalle dans la bande C,Signification (0 = bonne; 1 = mauvaise),,,,Operational

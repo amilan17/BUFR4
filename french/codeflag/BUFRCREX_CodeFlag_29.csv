@@ -3,7 +3,7 @@ FXY,ElementName_fr,CodeFigure,EntryName_fr,EntryName_sub1_fr,EntryName_sub2_fr,N
 029001,Type de projection,1,Projection stéréographique polaire,,,,,Operational
 029001,Type de projection,2,Projection conique conforme de Lambert,,,,,Operational
 029001,Type de projection,3,Projection de Mercator,,,,,Operational
-029001,Type de projection,4,Cône de balayage (radar)*,,,,,Operational
+029001,Type de projection,4,Cône de balayage (radar),,,*,,Operational
 029001,Type de projection,5,En réserve,,,,,Operational
 029001,Type de projection,6,Pas de projection,,,,,Operational
 029001,Type de projection,7,Valeur manquante,,,,,Operational
