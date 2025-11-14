@@ -1,457 +1,533 @@
-"Category","CategoryOfSequences_fr","FXY1","Title_fr","SubTitle_fr","FXY2","ElementName_fr","ElementDescription_fr","Note_fr","noteIDs","Status"
-"01","Table D/01 BUFR","301001","","","001001","Indicateur régional OMM","","","","Operational"
-"01","Table D/01 BUFR","301001","","","001002","Chiffre indicatif OMM de la station","","","","Operational"
-"01","Table D/01 BUFR","301002","","","001003","Région OMM/zone géographique","","","","Operational"
-"01","Table D/01 BUFR","301002","","","001004","Sous-région OMM","","","","Operational"
-"01","Table D/01 BUFR","301002","","","001005","Indicateur d'identification de la bouée ou de la plate-forme","","","","Operational"
-"01","Table D/01 BUFR","301003","","","001011","Indicateur d'identification du navire ou d'une station terrestre mobile","Indicatif d'appel du navire","","","Operational"
-"01","Table D/01 BUFR","301003","","","001012","Direction de déplacement de la plate-forme d'observation mobile","Indicatif d'appel du navire","","","Operational"
-"01","Table D/01 BUFR","301003","","","001013","Vitesse de déplacement de la plate-forme d'observation mobile","Indicatif d'appel du navire","","","Operational"
-"01","Table D/01 BUFR","301004","","","001001","Indicateur régional OMM","","","","Operational"
-"01","Table D/01 BUFR","301004","","","001002","Chiffre indicatif OMM de la station","","","","Operational"
-"01","Table D/01 BUFR","301004","","","001015","Nom de la station ou du site","","","","Operational"
-"01","Table D/01 BUFR","301004","","","002001","Type de station","","","","Operational"
-"01","Table D/01 BUFR","301005","","","001035","Centre d'origine/de production","","","","Operational"
-"01","Table D/01 BUFR","301005","","","001034","Identification du centre secondaire d'origine/ de production","","","","Operational"
-"01","Table D/01 BUFR","301011","","","004001","Année","","","","Operational"
-"01","Table D/01 BUFR","301011","","","004002","Mois","","","","Operational"
-"01","Table D/01 BUFR","301011","","","004003","Jour","","","","Operational"
-"01","Table D/01 BUFR","301012","","","004004","Heure","","","","Operational"
-"01","Table D/01 BUFR","301012","","","004005","Minute","","","","Operational"
-"01","Table D/01 BUFR","301013","","","004004","Heure","","","","Operational"
-"01","Table D/01 BUFR","301013","","","004005","Minute","","","","Operational"
-"01","Table D/01 BUFR","301013","","","004006","Seconde","","","","Operational"
-"01","Table D/01 BUFR","301014","","","102002","Répéter 2 descripteurs 2 fois","","","","Operational"
-"01","Table D/01 BUFR","301014","","","301011","Année, mois, jour","","","","Operational"
-"01","Table D/01 BUFR","301014","","","301012","Heure, minute","","","","Operational"
-"01","Table D/01 BUFR","3010018","chiffrement Base64","chiffrement Base64","001114","Indicateur d'identification chiffré du navire ou d'une station terrestre mobile","Voir les notes 2 à 4","","","Operational"
-"01","Table D/01 BUFR","3010018","","","025185","Méthode de chiffrement","Voir les notes 2 à 4","","","Operational"
-"01","Table D/01 BUFR","3010018","","","025186","Version de la clef de chiffrement","Voir les notes 2 à 4","","","Operational"
-"01","Table D/01 BUFR","301021","","","005001","Latitude","précision élevée","","","Operational"
-"01","Table D/01 BUFR","301021","","","006001","Longitude","précision élevée","","","Operational"
-"01","Table D/01 BUFR","301022","","","005001","Latitude","précision élevée","","","Operational"
-"01","Table D/01 BUFR","301022","","","006001","Longitude","précision élevée","","","Operational"
-"01","Table D/01 BUFR","301022","","","007001","Hauteur de la station","","","","Operational"
-"01","Table D/01 BUFR","301023","","","005002","Latitude","faible précision","","","Operational"
-"01","Table D/01 BUFR","301023","","","006002","Longitude","faible précision","","","Operational"
-"01","Table D/01 BUFR","301024","","","005002","Latitude","faible précision","","","Operational"
-"01","Table D/01 BUFR","301024","","","006002","Longitude","faible précision","","","Operational"
-"01","Table D/01 BUFR","301024","","","007001","Hauteur de la station","","","","Operational"
-"01","Table D/01 BUFR","301025","faible précision","faible précision","301023","Latitude/longitude","","","","Operational"
-"01","Table D/01 BUFR","301025","","","004003","Jour","","","","Operational"
-"01","Table D/01 BUFR","301025","","","301012","Heure, minute","","","","Operational"
-"01","Table D/01 BUFR","301026","précision élevée","précision élevée","301021","Latitude/longitude","","","","Operational"
-"01","Table D/01 BUFR","301026","","","004003","Jour","Période en jours","","","Operational"
-"01","Table D/01 BUFR","301026","","","004003","Jour","Période en jours","","","Operational"
-"01","Table D/01 BUFR","301026","","","004004","Heure","Période en heures","","","Operational"
-"01","Table D/01 BUFR","301026","","","004004","Heure","Période en heures","","","Operational"
-"01","Table D/01 BUFR","301026","","","004005","Minute","Période en minutes","","","Operational"
-"01","Table D/01 BUFR","301026","","","004005","Minute","Période en minutes","","","Operational"
-"01","Table D/01 BUFR","301027","","","008007","Caractéristique dimensionnelle","= 0 Point, = 1 Ligne, = 2 Surface, = 3 Volume","","","Operational"
-"01","Table D/01 BUFR","301027","","","101000","Répétition différée de 1 descripteur","","","","Operational"
-"01","Table D/01 BUFR","301027","voir note 5","voir note 5","031001","Facteur de répétition différée du descripteur","","","","Operational"
-"01","Table D/01 BUFR","301027","","","301028","Coupe horizontale d'une caractéristique météorologique décrite sous la forme d'un polygone, d'un cercle, d'une ligne ou d'un point","","","","Operational"
-"01","Table D/01 BUFR","301027","","","008007","Caractéristique dimensionnelle","Mis à valeur manquante (annuler)","","","Operational"
-"01","Table D/01 BUFR","301028","","","008040","Caractéristique du niveau de vol","","","","Operational"
-"01","Table D/01 BUFR","301028","","","033042","Type de limite représentée par la valeur qui suit","","","","Operational"
-"01","Table D/01 BUFR","301028","","","007010","Niveau de vol","","","","Operational"
-"01","Table D/01 BUFR","301028","","","101000","Répétition différée de 1 descripteur","","","","Operational"
-"01","Table D/01 BUFR","301028","voir note 6","voir note 6","031002","Facteur élargi de répétition différée du descripteur","","","","Operational"
-"01","Table D/01 BUFR","301028","faible précision","faible précision","301023","Latitude/longitude","Mis à valeur manquante (annuler)","","","Operational"
-"01","Table D/01 BUFR","301028","voir note 7","voir note 7","019007","Rayon réel de la caractéristique","Mis à valeur manquante (annuler)","","","Operational"
-"01","Table D/01 BUFR","301028","","","008040","Caractéristique du niveau de vol","Mis à valeur manquante (annuler)","","","Operational"
-"01","Table D/01 BUFR","301029","","","001018","Nom abrégé de la station ou du site","","","","Operational"
-"01","Table D/01 BUFR","301029","","","002001","Type de station","","","","Operational"
-"01","Table D/01 BUFR","301029","","","301011","Année, mois, jour","","","","Operational"
-"01","Table D/01 BUFR","301030","","","001018","Nom abrégé de la station ou du site","","","","Operational"
-"01","Table D/01 BUFR","301030","","","002001","Type de station","","","","Operational"
-"01","Table D/01 BUFR","301030","","","301011","Année, mois, jour","","","","Operational"
-"01","Table D/01 BUFR","301030","faible précision","faible précision","301024","Latitude/longitude, hauteur de la station","","","","Operational"
-"01","Table D/01 BUFR","301031","","","301001","Indicateur régional OMM et chiffre indicatif OMM de la station","","","","Operational"
-"01","Table D/01 BUFR","301031","","","002001","Type de station","","","","Operational"
-"01","Table D/01 BUFR","301031","","","301011","Année, mois, jour","","","","Operational"
-"01","Table D/01 BUFR","301031","","","301012","Heure, minute","","","","Operational"
-"01","Table D/01 BUFR","301031","précision élevée","précision élevée","301022","Latitude/longitude, hauteur de la station","","","","Operational"
-"01","Table D/01 BUFR","301032","","","301001","Indicateur régional OMM et chiffre indicatif OMM de la station","","","","Operational"
-"01","Table D/01 BUFR","301032","","","002001","Type de station","","","","Operational"
-"01","Table D/01 BUFR","301032","","","301011","Année, mois, jour","","","","Operational"
-"01","Table D/01 BUFR","301032","","","301012","Heure, minute","","","","Operational"
-"01","Table D/01 BUFR","301032","faible précision","faible précision","301024","Latitude/longitude, hauteur de la station","","","","Operational"
-"01","Table D/01 BUFR","301033","","","001005","Indicateur d'identification de la bouée ou de la plate-forme","","","","Operational"
-"01","Table D/01 BUFR","301033","","","002001","Type de station","","","","Operational"
-"01","Table D/01 BUFR","301033","","","301011","Année, mois, jour","","","","Operational"
-"01","Table D/01 BUFR","301033","","","301012","Heure, minute","","","","Operational"
-"01","Table D/01 BUFR","301033","précision élevée","précision élevée","301021","Latitude/longitude","","","","Operational"
-"01","Table D/01 BUFR","301034","","","001005","Indicateur d'identification de la bouée ou de la plate-forme","","","","Operational"
-"01","Table D/01 BUFR","301034","","","002001","Type de station","","","","Operational"
-"01","Table D/01 BUFR","301034","","","301011","Année, mois, jour","","","","Operational"
-"01","Table D/01 BUFR","301034","","","301012","Heure, minute","","","","Operational"
-"01","Table D/01 BUFR","301034","faible précision","faible précision","301023","Latitude/longitude","","","","Operational"
-"01","Table D/01 BUFR","301035","","","001005","Indicateur d'identification de la bouée ou de la plate-forme","","","","Operational"
-"01","Table D/01 BUFR","301035","","","001012","Direction de déplacement de la plate-forme d'observation mobile","","","","Operational"
-"01","Table D/01 BUFR","301035","","","001013","Vitesse de déplacement de la plate-forme d'observation mobile","","","","Operational"
-"01","Table D/01 BUFR","301035","","","002001","Type de station","","","","Operational"
-"01","Table D/01 BUFR","301035","","","301011","Année, mois, jour","","","","Operational"
-"01","Table D/01 BUFR","301035","","","301012","Heure, minute","","","","Operational"
-"01","Table D/01 BUFR","301035","faible précision","faible précision","301023","Latitude/longitude","","","","Operational"
-"01","Table D/01 BUFR","301036","","","301003","Indicatif d'appel du navire et déplacement","","","","Operational"
-"01","Table D/01 BUFR","301036","","","002001","Type de station","","","","Operational"
-"01","Table D/01 BUFR","301036","","","301011","Année, mois, jour","","","","Operational"
-"01","Table D/01 BUFR","301036","","","301012","Heure, minute","","","","Operational"
-"01","Table D/01 BUFR","301036","faible précision","faible précision","301023","Latitude/longitude","","","","Operational"
-"01","Table D/01 BUFR","301037","","","301001","Indicateur régional OMM et chiffre indicatif OMM de la station","","","","Operational"
-"01","Table D/01 BUFR","301037","","","002011","Type de radiosonde","","","","Operational"
-"01","Table D/01 BUFR","301037","","","002012","Méthode de calcul des données de radiosondage","","","","Operational"
-"01","Table D/01 BUFR","301037","","","301011","Année, mois, jour","","","","Operational"
-"01","Table D/01 BUFR","301037","","","301012","Heure, minute","","","","Operational"
-"01","Table D/01 BUFR","301037","précision élevée","précision élevée","301022","Latitude/longitude, hauteur de la station","","","","Operational"
-"01","Table D/01 BUFR","301038","","","301001","Indicateur régional OMM et chiffre indicatif OMM de la station","","","","Operational"
-"01","Table D/01 BUFR","301038","","","002011","Type de radiosonde","","","","Operational"
-"01","Table D/01 BUFR","301038","","","002012","Méthode de calcul des données de radiosondage","","","","Operational"
-"01","Table D/01 BUFR","301038","","","301011","Année, mois, jour","","","","Operational"
-"01","Table D/01 BUFR","301038","","","301012","Heure, minute","","","","Operational"
-"01","Table D/01 BUFR","301038","faible précision","faible précision","301024","Latitude/longitude, hauteur de la station","","","","Operational"
-"01","Table D/01 BUFR","301039","","","301003","Indicatif d'appel du navire et déplacement","","","","Operational"
-"01","Table D/01 BUFR","301039","","","002011","Type de radiosonde","","","","Operational"
-"01","Table D/01 BUFR","301039","","","002012","Méthode de calcul des données de radiosondage","","","","Operational"
-"01","Table D/01 BUFR","301039","","","301011","Année, mois, jour","","","","Operational"
-"01","Table D/01 BUFR","301039","","","301012","Heure, minute","","","","Operational"
-"01","Table D/01 BUFR","301039","faible précision","faible précision","301023","Latitude/longitude","","","","Operational"
-"01","Table D/01 BUFR","301040","","","301003","Indicatif d'appel du navire et déplacement","","","","Operational"
-"01","Table D/01 BUFR","301040","","","002011","Type de radiosonde","","","","Operational"
-"01","Table D/01 BUFR","301040","","","002012","Méthode de calcul des données de radiosondage","","","","Operational"
-"01","Table D/01 BUFR","301040","","","301011","Année, mois, jour","","","","Operational"
-"01","Table D/01 BUFR","301040","","","301012","Heure, minute","","","","Operational"
-"01","Table D/01 BUFR","301040","faible précision","faible précision","301024","Latitude/longitude, hauteur de la station","","","","Operational"
-"01","Table D/01 BUFR","301041","","","001007","Indicateur d'identification du satellite","","","","Operational"
-"01","Table D/01 BUFR","301041","","","002021","Données instrumentales satellitaires utilisées dans le traitement","","","","Operational"
-"01","Table D/01 BUFR","301041","","","002022","Technique utilisée pour le traitement des données satellitaires","","","","Operational"
-"01","Table D/01 BUFR","301041","","","301011","Année, mois, jour","","","","Operational"
-"01","Table D/01 BUFR","301041","","","301012","Heure, minute","","","","Operational"
-"01","Table D/01 BUFR","301042","","","301041","Indicateur d'identification du satellite, instrument, technique de traitement des données, date/heure","","","","Operational"
-"01","Table D/01 BUFR","301042","précision élevée","précision élevée","301021","Latitude/longitude","","","","Operational"
-"01","Table D/01 BUFR","301043","","","001007","Indicateur d'identification du satellite","","","","Operational"
-"01","Table D/01 BUFR","301043","","","002023","Méthode de calcul du vent à partir de données satellitaires","","","","Operational"
-"01","Table D/01 BUFR","301043","","","301011","Année, mois, jour","","","","Operational"
-"01","Table D/01 BUFR","301043","","","301013","Heure, minute, seconde","","","","Operational"
-"01","Table D/01 BUFR","301043","précision élevée","précision élevée","301021","Latitude/longitude","","","","Operational"
-"01","Table D/01 BUFR","301044","","","001007","Indicateur d'identification du satellite","","","","Operational"
-"01","Table D/01 BUFR","301044","","","002024","Méthode de calcul de l'humidité moyenne intégrée","","","","Operational"
-"01","Table D/01 BUFR","301044","","","301011","Année, mois, jour","","","","Operational"
-"01","Table D/01 BUFR","301044","","","301013","Heure, minute, seconde","","","","Operational"
-"01","Table D/01 BUFR","301044","précision élevée","précision élevée","301021","Latitude/longitude","","","","Operational"
-"01","Table D/01 BUFR","301045","","","301011","Année, mois, jour","","","","Operational"
-"01","Table D/01 BUFR","301045","","","301012","Heure, minute","","","","Operational"
-"01","Table D/01 BUFR","301045","","","201138","Changer le champ de données","16 bits de long","","","Operational"
-"01","Table D/01 BUFR","301045","","","202131","Changer d'échelle","Échelle: 3","","","Operational"
-"01","Table D/01 BUFR","301045","","","004006","Secondes","","","","Operational"
-"01","Table D/01 BUFR","301045","","","201000","Changement du champ de données","Annuler","","","Operational"
-"01","Table D/01 BUFR","301045","","","202000","Changement d'échelle","Annuler","","","Operational"
-"01","Table D/01 BUFR","301045","","","304030","Position de la plate-forme","Par rapport au centre de la Terre","","","Operational"
-"01","Table D/01 BUFR","301045","","","304031","Vitesse de déplacement de la plate-forme","Par rapport au centre de la Terre","","","Operational"
-"01","Table D/01 BUFR","301046","","","001007","Indicateur d'identification du satellite","","","","Operational"
-"01","Table D/01 BUFR","301046","","","001012","Direction de déplacement de la plate-forme d'observation mobile","","","","Operational"
-"01","Table D/01 BUFR","301046","","","002048","Indicateur de détecteur de satellite","","","","Operational"
-"01","Table D/01 BUFR","301046","","","021119","Modèle géophysique de diffusomètre vent","","","","Operational"
-"01","Table D/01 BUFR","301046","","","025060","Identification du logiciel","","","","Operational"
-"01","Table D/01 BUFR","301046","","","202124","Changer d'échelle","","","","Operational"
-"01","Table D/01 BUFR","301046","","","002026","Résolution en travers de la trajectoire","","","","Operational"
-"01","Table D/01 BUFR","301046","","","002027","Résolution dans le sens de la route du satellite","","","","Operational"
-"01","Table D/01 BUFR","301046","","","202000","Changement d'échelle","Annuler","","","Operational"
-"01","Table D/01 BUFR","301046","","","005040","Numéro d'orbite","","","","Operational"
-"01","Table D/01 BUFR","301047","","","001007","Indicateur d'identification du satellite","","","","Operational"
-"01","Table D/01 BUFR","301047","","","025060","Identification du logiciel","","","","Operational"
-"01","Table D/01 BUFR","301047","","","001033","Identification du centre d'origine/de production","","","","Operational"
-"01","Table D/01 BUFR","301047","","","001034","Identification du centre secondaire d'origine/ de production","","","","Operational"
-"01","Table D/01 BUFR","301047","","","001012","Direction de déplacement de la plate-forme d'observation mobile","","","","Operational"
-"01","Table D/01 BUFR","301047","","","301045","Position et vitesse du satellite","","","","Operational"
-"01","Table D/01 BUFR","301047","","","002021","Données instrumentales satellitaires utilisées dans le traitement","","","","Operational"
-"01","Table D/01 BUFR","301047","","","301011","Année, mois, jour","","","","Operational"
-"01","Table D/01 BUFR","301047","","","301012","Heure, minute","","","","Operational"
-"01","Table D/01 BUFR","301047","","","201138","Changer le champ de données","16 bits de long","","","Operational"
-"01","Table D/01 BUFR","301047","","","202131","Changer d'échelle","Échelle: 3","","","Operational"
-"01","Table D/01 BUFR","301047","","","004006","Secondes","","","","Operational"
-"01","Table D/01 BUFR","301047","","","201000","Changement du champ de données","Annuler","","","Operational"
-"01","Table D/01 BUFR","301047","","","202000","Changement d'échelle","Annuler","","","Operational"
-"01","Table D/01 BUFR","301047","faible précision","faible précision","301023","Latitude/longitude","","","","Operational"
-"01","Table D/01 BUFR","301048","","","002104","Polarisation d'antenne","","","","Operational"
-"01","Table D/01 BUFR","301048","","","002121","Fréquence moyenne","","","","Operational"
-"01","Table D/01 BUFR","301048","","","002113","Nombre de visées en azimut","","","","Operational"
-"01","Table D/01 BUFR","301048","","","002026","Résolution en travers de la trajectoire","","","","Operational"
-"01","Table D/01 BUFR","301048","","","002027","Résolution dans le sens de la route du satellite","","","","Operational"
-"01","Table D/01 BUFR","301048","","","002111","Angle d'incidence du radar","","","","Operational"
-"01","Table D/01 BUFR","301048","","","002140","Angle d'azimut du faisceau de radar de satellite","","","","Operational"
-"01","Table D/01 BUFR","301048","","","202127","Changer d'échelle","Échelle: -1","","","Operational"
-"01","Table D/01 BUFR","301048","","","001013","Vitesse de déplacement de la plate-forme d'observation mobile","Vitesse de déplacement de la plate-forme de radar","","","Operational"
-"01","Table D/01 BUFR","301048","","","202126","Changer d'échelle","Échelle: -2","","","Operational"
-"01","Table D/01 BUFR","301048","","","007001","Hauteur de la station","Altitude de la plate-forme de radar","","","Operational"
-"01","Table D/01 BUFR","301048","","","202000","Changement d'échelle","Annuler","","","Operational"
-"01","Table D/01 BUFR","301048","","","025010","Traitement des échos fixes","","","","Operational"
-"01","Table D/01 BUFR","301048","","","021064","Estimation des bruits parasites","","","","Operational"
-"01","Table D/01 BUFR","301049","","","002111","Angle d'incidence du radar","","","","Operational"
-"01","Table D/01 BUFR","301049","","","002112","Angle d'ouverture du faisceau","","","","Operational"
-"01","Table D/01 BUFR","301049","","","021062","Rétrodiffusion","","","","Operational"
-"01","Table D/01 BUFR","301049","valeur de bruit","valeur de bruit","021063","Résolution radiométrique","","","","Operational"
-"01","Table D/01 BUFR","301049","","","021065","Compteur de paquets manquants","","","","Operational"
-"01","Table D/01 BUFR","301051","","","001006","Numéro de vol de l'aéronef","","","","Operational"
-"01","Table D/01 BUFR","301051","","","002061","Système de navigation pour l'aéronautique","","","","Operational"
-"01","Table D/01 BUFR","301051","","","301011","Année, mois, jour","","","","Operational"
-"01","Table D/01 BUFR","301051","","","301012","Heure, minute","","","","Operational"
-"01","Table D/01 BUFR","301051","précision élevée","précision élevée","301021","Latitude/longitude","","","","Operational"
-"01","Table D/01 BUFR","301051","","","008004","Phase de vol de l'aéronef","","","","Operational"
-"01","Table D/01 BUFR","301055","","","001005","Indicateur d'identification de la bouée ou de la plate-forme","","","","Operational"
-"01","Table D/01 BUFR","301055","","","002001","Type de station","","","","Operational"
-"01","Table D/01 BUFR","301055","","","301011","Année, mois, jour","","","","Operational"
-"01","Table D/01 BUFR","301055","","","301012","Heure, minute","","","","Operational"
-"01","Table D/01 BUFR","301055","précision élevée","précision élevée","301021","Latitude/longitude","","","","Operational"
-"01","Table D/01 BUFR","301055","","","001012","Direction de déplacement de la plate-forme d'observation mobile","","","","Operational"
-"01","Table D/01 BUFR","301055","précision élevée","précision élevée","001014","Vitesse de dérive de la plate-forme","","","","Operational"
-"01","Table D/01 BUFR","301056","","","001087","Extension de l'indicatif OMM de la plate-forme d'observation maritime","Numéro OMM (extension à 7 chiffres)","","","Operational"
-"01","Table D/01 BUFR","301056","","","001011","Indicateur d'identification du navire ou d'une station terrestre mobile","Indicatif d'appel (lorsque attribué)","","","Operational"
-"01","Table D/01 BUFR","301056","","","001015","Nom de la station ou du site","Nom de la plate-forme","","","Operational"
-"01","Table D/01 BUFR","301056","","","002008","Type de plate-forme en mer","","","","Operational"
-"01","Table D/01 BUFR","301056","","","002001","Type de station","","","","Operational"
-"01","Table D/01 BUFR","301056","","","301011","Année, mois, jour","","","","Operational"
-"01","Table D/01 BUFR","301056","","","301012","Heure, minute","","","","Operational"
-"01","Table D/01 BUFR","301056","précision élevée","précision élevée","301021","Latitude/longitude","","","","Operational"
-"01","Table D/01 BUFR","301056","","","007030","Altitude du sol de la station","Altitude de la station/ plate-forme au-dessus du niveau moyen de la mer","","","Operational"
-"01","Table D/01 BUFR","301056","","","007031","Altitude du baromètre","","","","Operational"
-"01","Table D/01 BUFR","301058","","","301011","Année, mois, jour","","","","Operational"
-"01","Table D/01 BUFR","301058","","","301012","Heure, minute","","","","Operational"
-"01","Table D/01 BUFR","301058","","","201152","Changer le champ de données","","","","Operational"
-"01","Table D/01 BUFR","301058","","","202135","Changer d'échelle","","","","Operational"
-"01","Table D/01 BUFR","301058","","","004006","Seconde","","","","Operational"
-"01","Table D/01 BUFR","301058","","","202000","Changer d'échelle","","","","Operational"
-"01","Table D/01 BUFR","301058","","","201000","Changer le champ de données","","","","Operational"
-"01","Table D/01 BUFR","301058","précision élevée","précision élevée","301021","Latitude/longitude","","","","Operational"
-"01","Table D/01 BUFR","301058","","","020111","Composante principale de l'ellipse d'erreur, axe x","","","","Operational"
-"01","Table D/01 BUFR","301058","","","020112","Composante secondaire de l'ellipse d'erreur, axe y","","","","Operational"
-"01","Table D/01 BUFR","301058","","","020113","Composante de l'ellipse d'erreur, axe z","","","","Operational"
-"01","Table D/01 BUFR","301058","","","020114","Angle de l'axe x dans l'ellipse d'erreur","","","","Operational"
-"01","Table D/01 BUFR","301058","","","020115","Angle de l'axe z dans l'ellipse d'erreur","","","","Operational"
-"01","Table D/01 BUFR","301058","","","020116","Altitude d'émission de la décharge interne","","","","Operational"
-"01","Table D/01 BUFR","301058","","","020117","Amplitude de l'éclair","V ou A","","","Operational"
-"01","Table D/01 BUFR","301058","","","020118","Erreur de détection de l'éclair","","","","Operational"
-"01","Table D/01 BUFR","301058","","","020119","Polarité de décharge","","","","Operational"
-"01","Table D/01 BUFR","301058","","","025035","Méthode de décision pour la polarité","","","","Operational"
-"01","Table D/01 BUFR","301058","","","020121","Valeur seuil pour la décision de polarité","","","","Operational"
-"01","Table D/01 BUFR","301058","","","020122","Valeur seuil pour la décision de polarité","","","","Operational"
-"01","Table D/01 BUFR","301058","","","020123","Seuil minimum de détection","","","","Operational"
-"01","Table D/01 BUFR","301058","","","020124","Coup de foudre ou éclair","","","","Operational"
-"01","Table D/01 BUFR","301058","","","025175","Valeur résiduelle modifiée","","","","Operational"
-"01","Table D/01 BUFR","301058","","","020023","Autres phénomènes météorologiques","Identification nuage-sol ou nuage-nuage","","","Operational"
-"01","Table D/01 BUFR","301058","","","025063","Indicateur du système ou processeur central","","","","Operational"
-"01","Table D/01 BUFR","301058","","","202136","Changer d'échelle","","","","Operational"
-"01","Table D/01 BUFR","301058","","","201136","Changer le champ de données","","","","Operational"
-"01","Table D/01 BUFR","301058","","","002121","Fréquence moyenne","Déterminer la fréquence centrale, au besoin","","","Operational"
-"01","Table D/01 BUFR","301058","","","201000","Changer le champ de données","","","","Operational"
-"01","Table D/01 BUFR","301058","","","202000","Changer d'échelle","","","","Operational"
-"01","Table D/01 BUFR","301058","","","025061","Identification du logiciel et numéro de version","","","","Operational"
-"01","Table D/01 BUFR","301058","","","002184","Type de capteur de détection de la foudre","","","","Operational"
-"01","Table D/01 BUFR","301058","","","002189","Distinction entre les différents types d'éclairs","","","","Operational"
-"01","Table D/01 BUFR","301058","","","025036","Méthode de localisation des atmosphériques","","","","Operational"
-"01","Table D/01 BUFR","301058","","","101000","Répétition différée de 1 descripteur","","","","Operational"
-"01","Table D/01 BUFR","301058","","","031002","Facteur élargi de répétition différée du descripteur","Nombre de capteurs pris en compte","","","Operational"
-"01","Table D/01 BUFR","301059","précision élevée","précision élevée","301021","Latitude/longitude","Capteur","","","Operational"
-"01","Table D/01 BUFR","301059","","","007030","Altitude du sol de la station","Capteur","","","Operational"
-"01","Table D/01 BUFR","301059","ou du pont sur une plate-forme marine","ou du pont sur une plate-forme marine","007032","Hauteur du capteur au-dessus du sol","Capteur pour l'éclair","","","Operational"
-"01","Table D/01 BUFR","301062","","","101000","Répétition différée de 1 descripteur","","","","Operational"
-"01","Table D/01 BUFR","301062","","","031001","Facteur de répétition différée du descripteur","","","","Operational"
-"01","Table D/01 BUFR","301062","","","301001","Indicateur régional OMM et chiffre indicatif OMM de la station","","","","Operational"
-"01","Table D/01 BUFR","301065","voir note 10","voir note 10","001006","Numéro de vol de l'aéronef","","","","Operational"
-"01","Table D/01 BUFR","301065","voir note 10","voir note 10","001008","Numéro d'immatriculation de l'aéronef ou autre identification","","","","Operational"
-"01","Table D/01 BUFR","301065","","","002001","Type de station","","","","Operational"
-"01","Table D/01 BUFR","301065","","","002002","Type d'instrument pour la mesure du vent","","","","Operational"
-"01","Table D/01 BUFR","301065","","","002005","Précision des observations de la température","","","","Operational"
-"01","Table D/01 BUFR","301065","","","002062","Type de système de retransmission des données d'aéronef","","","","Operational"
-"01","Table D/01 BUFR","301065","","","002070","Spécification originale de la latitude/longitude","","","","Operational"
-"01","Table D/01 BUFR","301065","","","002065","Station ACARS de réception au sol","","","","Operational"
-"01","Table D/01 BUFR","301066","","","301011","Année, mois, jour","","","","Operational"
-"01","Table D/01 BUFR","301066","","","301013","Heure, minute, seconde","","","","Operational"
-"01","Table D/01 BUFR","301066","faible précision","faible précision","301023","Latitude/longitude","","","","Operational"
-"01","Table D/01 BUFR","301066","","","007004","Pression","","","","Operational"
-"01","Table D/01 BUFR","301066","","","002064","Qualité de l'angle de roulis de l'aéronef","","","","Operational"
-"01","Table D/01 BUFR","301066","","","008004","Phase de vol de l'aéronef","","","","Operational"
-"01","Table D/01 BUFR","301070","","","002143","Type d'instrument de mesure de l'ozone","","","","Operational"
-"01","Table D/01 BUFR","301070","","","002142","Numéro de série/identificateur du type d'instrument de mesure de l'ozone","","","","Operational"
-"01","Table D/01 BUFR","301070","","","002144","Type de source lumineuse pour spectrophotomètre Brewer","","","","Operational"
-"01","Table D/01 BUFR","301071","","","001007","Indicateur d'identification du satellite","","","","Operational"
-"01","Table D/01 BUFR","301071","","","001031","Identification du centre d'origine/de production","","","","Operational"
-"01","Table D/01 BUFR","301071","","","002020","Classification des satellites","","","","Operational"
-"01","Table D/01 BUFR","301071","","","002028","Dimension du secteur au nadir en coordonnée x","","","","Operational"
-"01","Table D/01 BUFR","301071","","","002029","Dimension du secteur au nadir en coordonnée y","","","","Operational"
-"01","Table D/01 BUFR","301072","","","301071","Indicateur d'identification du satellite/résolution après traitement","","","","Operational"
-"01","Table D/01 BUFR","301072","","","301011","Année, mois, jour","","","","Operational"
-"01","Table D/01 BUFR","301072","","","301013","Heure, minute, seconde","","","","Operational"
-"01","Table D/01 BUFR","301072","précision élevée","précision élevée","301021","Latitude/longitude","","","","Operational"
-"01","Table D/01 BUFR","301074","","","002143","Type d'instrument de mesure de l'ozone","","","","Operational"
-"01","Table D/01 BUFR","301074","","","002142","Numéro de série/identificateur du type d'instrument de mesure de l'ozone","","","","Operational"
-"01","Table D/01 BUFR","301074","","","002145","Longueurs d'ondes et réglage pour instruments Dobson","","","","Operational"
-"01","Table D/01 BUFR","301074","","","002146","État de la source pour instruments Dobson","","","","Operational"
-"01","Table D/01 BUFR","301075","","","301001","Indicateur régional OMM et chiffre indicatif OMM de la station","","","","Operational"
-"01","Table D/01 BUFR","301075","","","001015","Nom de la station ou du site","","","","Operational"
-"01","Table D/01 BUFR","301075","faible précision","faible précision","301024","Latitude/longitude, hauteur de la station","","","","Operational"
-"01","Table D/01 BUFR","301075","","","008021","Caractéristique temporelle","= 18 Heure du lâcher","","","Operational"
-"01","Table D/01 BUFR","301075","","","301011","Année, mois, jour","","","","Operational"
-"01","Table D/01 BUFR","301075","","","301012","Heure, minute","","","","Operational"
-"01","Table D/01 BUFR","301076","","","002011","Type de radiosonde","","","","Operational"
-"01","Table D/01 BUFR","301076","","","002143","Type d'instrument de mesure de l'ozone","","","","Operational"
-"01","Table D/01 BUFR","301076","","","002142","Numéro de série/identificateur du type d'instrument de mesure de l'ozone","","","","Operational"
-"01","Table D/01 BUFR","301089","","","001101","Indicateur d'identification d'État","","","","Operational"
-"01","Table D/01 BUFR","301089","","","001102","Chiffre indicatif national de la station","","","","Operational"
-"01","Table D/01 BUFR","301090","","","301004","Identification de la station d'observation en surface","","","","Operational"
-"01","Table D/01 BUFR","301090","","","301011","Année, mois, jour","","","","Operational"
-"01","Table D/01 BUFR","301090","","","301012","Heure, minute","","","","Operational"
-"01","Table D/01 BUFR","301090","précision élevée","précision élevée","301021","Latitude/longitude","","","","Operational"
-"01","Table D/01 BUFR","301090","","","007030","Altitude du sol de la station","","","","Operational"
-"01","Table D/01 BUFR","301090","","","007031","Altitude du baromètre","","","","Operational"
-"01","Table D/01 BUFR","301091","","","002180","Système principal de détection du temps présent","","","","Operational"
-"01","Table D/01 BUFR","301091","","","002181","Capteur supplémentaire du temps présent","","","","Operational"
-"01","Table D/01 BUFR","301091","","","002182","Système de mesure de la visibilité","","","","Operational"
-"01","Table D/01 BUFR","301091","","","002183","Système de détection des nuages","","","","Operational"
-"01","Table D/01 BUFR","301091","","","002184","Type de capteur de détection de la foudre","","","","Operational"
-"01","Table D/01 BUFR","301091","","","002179","Type d'algorithme utilisé pour l'état du ciel","","","","Operational"
-"01","Table D/01 BUFR","301091","","","002186","Détection des divers types de précipitations","","","","Operational"
-"01","Table D/01 BUFR","301091","","","002187","Détection d'autres phénomènes météorologiques","","","","Operational"
-"01","Table D/01 BUFR","301091","","","002188","Détection d'un obscurcissement","","","","Operational"
-"01","Table D/01 BUFR","301091","","","002189","Distinction entre les différents types d'éclairs","","","","Operational"
-"01","Table D/01 BUFR","301092","","","001011","Indicateur d'identification du navire ou d'une station terrestre mobile","","","","Operational"
-"01","Table D/01 BUFR","301092","","","001003","Région OMM/zone géographique","","","","Operational"
-"01","Table D/01 BUFR","301092","","","002001","Type de station","","","","Operational"
-"01","Table D/01 BUFR","301092","","","301011","Année, mois, jour","","","","Operational"
-"01","Table D/01 BUFR","301092","","","301012","Heure, minute","","","","Operational"
-"01","Table D/01 BUFR","301092","précision élevée","précision élevée","301021","Latitude/longitude","","","","Operational"
-"01","Table D/01 BUFR","301092","","","007030","Altitude du sol de la station","","","","Operational"
-"01","Table D/01 BUFR","301092","","","007031","Altitude du baromètre","","","","Operational"
-"01","Table D/01 BUFR","301092","pour les stations mobiles","pour les stations mobiles","033024","Repère de qualité de l'altitude de la station","","","","Operational"
-"01","Table D/01 BUFR","301093","","","301036","Navire","Identification du navire","","","Operational"
-"01","Table D/01 BUFR","301093","","","007030","Altitude du sol de la station","","","","Operational"
-"01","Table D/01 BUFR","301093","","","007031","Altitude du baromètre","","","","Operational"
-"01","Table D/01 BUFR","301110","","","301001","Indicateur régional OMM et chiffre indicatif OMM de la station","","","","Operational"
-"01","Table D/01 BUFR","301110","","","001011","Indicateur d'identification du navire ou d'une station terrestre mobile","","","","Operational"
-"01","Table D/01 BUFR","301110","","","002011","Type de radiosonde","","","","Operational"
-"01","Table D/01 BUFR","301110","","","002014","Technique de poursuite/état du système utilisé","","","","Operational"
-"01","Table D/01 BUFR","301110","","","002003","Type d'équipement de mesure utilisé","","","","Operational"
-"01","Table D/01 BUFR","301111","","","301001","Indicateur régional OMM et chiffre indicatif OMM de la station","","","","Operational"
-"01","Table D/01 BUFR","301111","","","001011","Indicateur d'identification du navire ou d'une station terrestre mobile","","","","Operational"
-"01","Table D/01 BUFR","301111","","","002011","Type de radiosonde","","","","Operational"
-"01","Table D/01 BUFR","301111","","","002013","Correction du rayonnement solaire et infrarouge","","","","Operational"
-"01","Table D/01 BUFR","301111","","","002014","Technique de poursuite/état du système utilisé","","","","Operational"
-"01","Table D/01 BUFR","301111","","","002003","Type d'équipement de mesure utilisé","","","","Operational"
-"01","Table D/01 BUFR","301112","","","001006","Numéro de vol de l'aéronef","","","","Operational"
-"01","Table D/01 BUFR","301112","","","002011","Type de radiosonde","","","","Operational"
-"01","Table D/01 BUFR","301112","","","002013","Correction du rayonnement solaire et infrarouge","","","","Operational"
-"01","Table D/01 BUFR","301112","","","002014","Technique de poursuite/état du système utilisé","","","","Operational"
-"01","Table D/01 BUFR","301112","","","002003","Type d'équipement de mesure utilisé","","","","Operational"
-"01","Table D/01 BUFR","301113","","","008021","Caractéristique temporelle","= 18 Heure du lâcher","","","Operational"
-"01","Table D/01 BUFR","301113","","","301011","Année, mois, jour","Jour du lâcher","","","Operational"
-"01","Table D/01 BUFR","301113","","","301013","Heure, minute, seconde","Heure du lâcher","","","Operational"
-"01","Table D/01 BUFR","301114","précision élevée","précision élevée","301021","Latitude/longitude","Altitude du lâcher de la sonde","","","Operational"
-"01","Table D/01 BUFR","301114","","","007030","Altitude du sol de la station","Altitude du lâcher de la sonde","","","Operational"
-"01","Table D/01 BUFR","301114","","","007031","Altitude du baromètre","Altitude du lâcher de la sonde","","","Operational"
-"01","Table D/01 BUFR","301114","","","007007","Hauteur","Altitude du lâcher de la sonde","","","Operational"
-"01","Table D/01 BUFR","301114","pour les stations mobiles","pour les stations mobiles","033024","Repère de qualité de l'altitude de la station","","","","Operational"
-"01","Table D/01 BUFR","301120","","","301001","Indicateur régional OMM et chiffre indicatif OMM de la station","","","","Operational"
-"01","Table D/01 BUFR","301120","","","001094","Numéro WBAN","","","","Operational"
-"01","Table D/01 BUFR","301120","","","002011","Type de radiosonde","","","","Operational"
-"01","Table D/01 BUFR","301120","","","301121","Radiosondage - données sur le lâcher","","","","Operational"
-"01","Table D/01 BUFR","301121","","","008041","Caractéristique des données","= 3 Point de lâcher du ballon","","","Operational"
-"01","Table D/01 BUFR","301121","au centième de seconde près","au centième de seconde près","301122","Date et heure","Altitude du lâcher de la radiosonde","","","Operational"
-"01","Table D/01 BUFR","301121","précision élevée","précision élevée","301021","Latitude/longitude","Altitude du lâcher de la radiosonde","","","Operational"
-"01","Table D/01 BUFR","301121","","","007031","Altitude du baromètre","Altitude du lâcher de la radiosonde","","","Operational"
-"01","Table D/01 BUFR","301121","","","007007","Hauteur","Altitude du lâcher de la radiosonde","","","Operational"
-"01","Table D/01 BUFR","301122","","","301011","Année, mois, jour","","","","Operational"
-"01","Table D/01 BUFR","301122","","","301012","Heure, minute","","","","Operational"
-"01","Table D/01 BUFR","301122","","","201135","Changer le champ de données","","","","Operational"
-"01","Table D/01 BUFR","301122","","","202130","Changer d'échelle","","","","Operational"
-"01","Table D/01 BUFR","301122","","","004006","Seconde","","","","Operational"
-"01","Table D/01 BUFR","301122","","","202000","Changement d'échelle","Annuler","","","Operational"
-"01","Table D/01 BUFR","301122","","","201000","Changement du champ de données","Annuler","","","Operational"
-"01","Table D/01 BUFR","301123","","","102002","Répéter 2 descripteurs 2 fois","","","","Operational"
-"01","Table D/01 BUFR","301123","","","008041","Caractéristique des données","= 0 Site principal, = 1 Site d'observation","","","Operational"
-"01","Table D/01 BUFR","301123","","","001062","Indicateur court d'emplacement OACI","","","","Operational"
-"01","Table D/01 BUFR","301123","","","301001","Indicateur régional OMM et chiffre indicatif OMM de la station","","","","Operational"
-"01","Table D/01 BUFR","301123","","","001094","Numéro WBAN","","","","Operational"
-"01","Table D/01 BUFR","301123","","","002011","Type de radiosonde","","","","Operational"
-"01","Table D/01 BUFR","301123","","","001018","Nom abrégé de la station ou du site","","","","Operational"
-"01","Table D/01 BUFR","301123","","","001095","Identification de l'observateur","","","","Operational"
-"01","Table D/01 BUFR","301123","","","025061","Identification du logiciel et numéro de version","","","","Operational"
-"01","Table D/01 BUFR","301123","","","025068","Recalcul des archives - nombre de fois","","","","Operational"
-"01","Table D/01 BUFR","301123","","","001082","Numéro du radiosondage","","","","Operational"
-"01","Table D/01 BUFR","301123","","","001083","Numéro du lâcher de radiosonde","","","","Operational"
-"01","Table D/01 BUFR","301123","","","001081","Numéro de série de la radiosonde","","","","Operational"
-"01","Table D/01 BUFR","301123","","","002067","Fréquence de fonctionnement de la radiosonde","","","","Operational"
-"01","Table D/01 BUFR","301123","","","002066","Système de réception au sol des données de radiosondage","","","","Operational"
-"01","Table D/01 BUFR","301123","","","002014","Technique de poursuite/état du système utilisé","","","","Operational"
-"01","Table D/01 BUFR","301123","","","025067","Correction de pression au point de lâcher de la radiosonde","","","","Operational"
-"01","Table D/01 BUFR","301123","azimut","azimut","025065","Correction de l'orientation","","","","Operational"
-"01","Table D/01 BUFR","301123","altitude","altitude","025066","Correction de l'orientation","","","","Operational"
-"01","Table D/01 BUFR","301123","","","002095","Type de capteur de pression","","","","Operational"
-"01","Table D/01 BUFR","301123","","","002096","Type de capteur de température","","","","Operational"
-"01","Table D/01 BUFR","301123","","","002097","Type de capteur d'humidité","","","","Operational"
-"01","Table D/01 BUFR","301123","","","002016","Configuration de la radiosonde","","","","Operational"
-"01","Table D/01 BUFR","301123","","","002083","Type d'abri de gonflement","","","","Operational"
-"01","Table D/01 BUFR","301123","","","002080","Fabriquant du ballon","","","","Operational"
-"01","Table D/01 BUFR","301123","","","002081","Type de ballon","","","","Operational"
-"01","Table D/01 BUFR","301123","","","001093","Numéro de lot du ballon","","","","Operational"
-"01","Table D/01 BUFR","301123","","","002084","Type de gaz insufflé","","","","Operational"
-"01","Table D/01 BUFR","301123","","","002085","Quantité de gaz insufflée","","","","Operational"
-"01","Table D/01 BUFR","301123","","","002086","Longueur de la traîne","","","","Operational"
-"01","Table D/01 BUFR","301123","","","002082","Poids du ballon","","","","Operational"
-"01","Table D/01 BUFR","301123","","","008041","Caractéristique des données","= 2 Date de fabrication du ballon","","","Operational"
-"01","Table D/01 BUFR","301123","","","301011","Année, mois, jour","","","","Operational"
-"01","Table D/01 BUFR","301125","","","001033","Identification du centre d'origine/de production","","","","Operational"
-"01","Table D/01 BUFR","301125","","","001034","Identification du centre secondaire d'origine/ de production","","","","Operational"
-"01","Table D/01 BUFR","301125","","","025060","Identification du logiciel","","","","Operational"
-"01","Table D/01 BUFR","301125","","","001007","Indicateur d'identification du satellite","","","","Operational"
-"01","Table D/01 BUFR","301125","","","002019","Instruments satellitaires","","","","Operational"
-"01","Table D/01 BUFR","301125","","","001012","Direction de déplacement de la plate-forme d'observation mobile","","","","Operational"
-"01","Table D/01 BUFR","301126","","","001087","Extension de l'indicatif OMM de la plate-forme d'observation maritime","","","","Operational"
-"01","Table D/01 BUFR","301126","","","001015","Nom de la station ou du site","","","","Operational"
-"01","Table D/01 BUFR","301126","","","002149","Type de bouée de collecte de données","","","","Operational"
-"01","Table D/01 BUFR","301126","","","301011","Année, mois, jour","","","","Operational"
-"01","Table D/01 BUFR","301126","","","301012","Heure, minute","","","","Operational"
-"01","Table D/01 BUFR","301126","précision élevée","précision élevée","301021","Latitude/longitude","","","","Operational"
-"01","Table D/01 BUFR","301128","","","001081","Numéro de série de la radiosonde","","","","Operational"
-"01","Table D/01 BUFR","301128","","","001082","Numéro du radiosondage","","","","Operational"
-"01","Table D/01 BUFR","301128","","","001083","Numéro du lâcher de radiosonde","","","","Operational"
-"01","Table D/01 BUFR","301128","","","001095","Identification de l'observateur","","","","Operational"
-"01","Table D/01 BUFR","301128","","","002015","Degré d'équipement de la radiosonde","","","","Operational"
-"01","Table D/01 BUFR","301128","","","002016","Configuration de la radiosonde","","","","Operational"
-"01","Table D/01 BUFR","301128","","","002017","Algorithmes de correction pour les mesures d'humidité","","","","Operational"
-"01","Table D/01 BUFR","301128","","","002066","Système de réception au sol des données de radiosondage","","","","Operational"
-"01","Table D/01 BUFR","301128","","","002067","Fréquence de fonctionnement de la radiosonde","","","","Operational"
-"01","Table D/01 BUFR","301128","","","002080","Fabricant du ballon","","","","Operational"
-"01","Table D/01 BUFR","301128","","","002081","Type de ballon","","","","Operational"
-"01","Table D/01 BUFR","301128","","","002082","Poids du ballon","","","","Operational"
-"01","Table D/01 BUFR","301128","","","002083","Type d'abri de gonflement","","","","Operational"
-"01","Table D/01 BUFR","301128","","","002084","Type de gaz insufflé","","","","Operational"
-"01","Table D/01 BUFR","301128","","","002085","Quantité de gaz insufflée","","","","Operational"
-"01","Table D/01 BUFR","301128","","","002086","Longueur de la traîne","","","","Operational"
-"01","Table D/01 BUFR","301128","","","002095","Type de capteur de pression","","","","Operational"
-"01","Table D/01 BUFR","301128","","","002096","Type de capteur de température","","","","Operational"
-"01","Table D/01 BUFR","301128","","","002097","Type de capteur d'humidité","","","","Operational"
-"01","Table D/01 BUFR","301128","","","002103","Radôme","","","","Operational"
-"01","Table D/01 BUFR","301128","","","002191","Calcul de la hauteur géopotentielle","","","","Operational"
-"01","Table D/01 BUFR","301128","","","025061","Identification du logiciel et numéro de version","","","","Operational"
-"01","Table D/01 BUFR","301128","","","035035","Raison de l'abandon","Raison de l'interruption du radiosondage","","","Operational"
-"01","Table D/01 BUFR","301129","","","001007","Indicateur d'identification du satellite","","","","Operational"
-"01","Table D/01 BUFR","301129","","","001031","Identification du centre d'origine/de production","","","","Operational"
-"01","Table D/01 BUFR","301129","","","002019","Instruments satellitaires","","","","Operational"
-"01","Table D/01 BUFR","301129","","","002020","Classification des satellites","","","","Operational"
-"01","Table D/01 BUFR","301130","","","301011","Année, mois, jour","","","","Operational"
-"01","Table D/01 BUFR","301130","","","301012","Heure, minute","","","","Operational"
-"01","Table D/01 BUFR","301130","","","202131","Changer d'échelle","Ajouter 3 à l'échelle","","","Operational"
-"01","Table D/01 BUFR","301130","","","201138","Changer le champ de données","Ajouter 10 au champ de données","","","Operational"
-"01","Table D/01 BUFR","301130","","","004006","Seconde","","","","Operational"
-"01","Table D/01 BUFR","301130","","","201000","Changement du champ de données","Annuler","","","Operational"
-"01","Table D/01 BUFR","301130","","","202000","Changement d'échelle","Annuler","","","Operational"
-"01","Table D/01 BUFR","301131","précision élevée","précision élevée","301021","Latitude/longitude","","","","Operational"
-"01","Table D/01 BUFR","301131","","","007024","Distance zénithale du satellite","","","","Operational"
-"01","Table D/01 BUFR","301131","","","005021","Direction ou azimut","","","","Operational"
-"01","Table D/01 BUFR","301131","","","007025","Distance zénithale du soleil","","","","Operational"
-"01","Table D/01 BUFR","301131","","","005022","Azimut du soleil","","","","Operational"
-"01","Table D/01 BUFR","301150","","","001125","Série d'identifiants du WIGOS","","","","Operational"
-"01","Table D/01 BUFR","301150","","","001126","Émetteur d'identifiants du WIGOS","","","","Operational"
-"01","Table D/01 BUFR","301150","","","001127","Numéro d'émission du WIGOS","","","","Operational"
-"01","Table D/01 BUFR","301150","caractère","caractère","001128","Identifiant local du WIGOS","","","","Operational"
+﻿TABLE_NAME,DESCRIPTEUR,SÉQUENCE DE DESCRIPTEURS,NOM DE L’ÉLÉMENT,DESCRIPTION DE L’ÉLÉMENT,NOM de L’ÉLÉMENT
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 001,,(Indicateur régional OMM et chiffre indicatif OMM de la station),,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 001,0 01 001,Indicateur régional OMM,,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 001,0 01 002,Chiffre indicatif OMM de la station,,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 002,0 01 003,Région OMM/zone géographique,,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 002,0 01 004,Sous-région OMM,,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 002,0 01 005,Indicateur d'identification de la bouée ou de la plate-forme,,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 003,,(Indicatif d'appel du navire et déplacement),Indicatif d'appel du navire,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 003,0 01 011,Indicateur d'identification du navire ou d'une station terrestre mobile,Indicatif d'appel du navire,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 003,0 01 012,Direction de déplacement de la plate-forme d'observation mobile,Indicatif d'appel du navire,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 003,0 01 013,Vitesse de déplacement de la plate-forme d'observation mobile,Indicatif d'appel du navire,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 004,,(Identification de la station d'observation en surface),,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 004,0 01 001,Indicateur régional OMM,,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 004,0 01 002,Chiffre indicatif OMM de la station,,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 004,0 01 015,Nom de la station ou du site,,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 004,0 02 001,Type de station,,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 005,,(Centre d'origine/centre secondaire),,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 005,0 01 035,Centre d'origine/de production,,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 005,0 01 034,Identification du centre secondaire d'origine/ de production,,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 011,,"(Année, mois, jour)",,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 011,0 04 001,Année,,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 011,0 04 002,Mois,,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 011,0 04 003,Jour,,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 012,,"(Heure, minute)",,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 012,0 04 004,Heure,,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 012,0 04 005,Minute,,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 013,,"(Heure, minute, seconde)",,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 013,0 04 004,Heure,,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 013,0 04 005,Minute,,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 013,0 04 006,Seconde,,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 014,,(Période),,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 014,1 02 002,Répéter 2 descripteurs 2 fois,,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 014,3 01 011,"Année, mois, jour",,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 014,3 01 012,"Heure, minute",,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 0018,,(Indicatif d'appel chiffré du navire et méthode de chiffrement),Voir les notes 2 à 4,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 0018,0 01 114,Indicateur d'identification chiffré du navire ou d'une station terrestre mobile (chiffrement Base64),Voir les notes 2 à 4,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 0018,0 25 185,Méthode de chiffrement,Voir les notes 2 à 4,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 0018,0 25 186,Version de la clef de chiffrement,Voir les notes 2 à 4,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 021,,(Latitude/longitude (précision élevée)),,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 021,0 05 001,Latitude,,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 021,0 06 001,Longitude,,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 022,,"(Latitude/longitude (précision élevée), hauteur de la station)",,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 022,0 05 001,Latitude,,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 022,0 06 001,Longitude,,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 022,0 07 001,Hauteur de la station,,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 023,,(Latitude/longitude (faible précision)),,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 023,0 05 002,Latitude,,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 023,0 06 002,Longitude,,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 024,,"(Latitude/longitude (faible précision), hauteur de la station)",,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 024,0 05 002,Latitude,,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 024,0 06 002,Longitude,,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 024,0 07 001,Hauteur de la station,,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 025,,"(Latitude/longitude (faible précision), jour/heure)",,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 025,3 01 023,Latitude/longitude (faible précision),,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 025,0 04 003,Jour,,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 025,3 01 012,"Heure, minute",,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 026,,"(Latitude/longitude (précision élevée), période (jour, heure, minute))",,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 026,3 01 021,Latitude/longitude (précision élevée),,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 026,0 04 003,Jour,Période en jours,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 026,0 04 003,Jour,Période en jours,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 026,0 04 004,Heure,Période en heures,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 026,0 04 004,Heure,Période en heures,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 026,0 04 005,Minute,Période en minutes,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 026,0 04 005,Minute,Période en minutes,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 027,,(Description d'une catactéristique météorologique en trois ou en deux dimensions),,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 027,0 08 007,Caractéristique dimensionnelle,"= 0 Point, = 1 Ligne, = 2 Surface, = 3 Volume",
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 027,1 01 000,Répétition différée de 1 descripteur,,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 027,0 31 001,Facteur de répétition différée du descripteur (voir note 5),,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 027 (suite),3 01 028,"Coupe horizontale d'une caractéristique météorologique décrite sous la forme d'un polygone, d'un cercle, d'une ligne ou d'un point",Mis à valeur manquante (annuler),
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 027 (suite),0 08 007,Caractéristique dimensionnelle,Mis à valeur manquante (annuler),
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 028,,"(Coupe horizontale d'une caractéristique météorologique décrite sous la forme d'un polygone, d'un cercle, d'une ligne ou d'un point)",Mis à valeur manquante (annuler),
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 028,0 08 040,Caractéristique du niveau de vol,Mis à valeur manquante (annuler),
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 028,0 33 042,Type de limite représentée par la valeur qui suit,Mis à valeur manquante (annuler),
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 028,0 07 010,Niveau de vol,Mis à valeur manquante (annuler),
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 028,1 01 000,Répétition différée de 1 descripteur,Mis à valeur manquante (annuler),
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 028,0 31 002,Facteur élargi de répétition différée du descripteur (voir note 6),Mis à valeur manquante (annuler),
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 028,3 01 023,Latitude/longitude (faible précision),Mis à valeur manquante (annuler),
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 028,0 19 007,Rayon réel de la caractéristique (voir note 7),Mis à valeur manquante (annuler),
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 028,0 08 040,Caractéristique du niveau de vol,Mis à valeur manquante (annuler),
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 029,,(Identification),,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 029,0 01 018,Nom abrégé de la station ou du site,,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 029,0 02 001,Type de station,,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 029,3 01 011,"Année, mois, jour",,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 030,,(Identification avec position),,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 030,0 01 018,Nom abrégé de la station ou du site,,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 030,0 02 001,Type de station,,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 030,3 01 011,"Année, mois, jour",,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 030,3 01 024,"Latitude/longitude (faible précision), hauteur de la station",,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 031,,"(Identification et type de station, date/heure, position (précision élevée), hauteur de la station)",,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 031,3 01 001,Indicateur régional OMM et chiffre indicatif OMM de la station,,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 031,0 02 001,Type de station,,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 031,3 01 011,"Année, mois, jour",,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 031,3 01 012,"Heure, minute",,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 031,3 01 022,"Latitude/longitude (précision élevée), hauteur de la station",,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 032,,"(Identification et type de station, date/heure, position (faible précision), hauteur de la station)",,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 032,3 01 001,Indicateur régional OMM et chiffre indicatif OMM de la station,,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 032,0 02 001,Type de station,,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 032,3 01 011,"Année, mois, jour",,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 032,3 01 012,"Heure, minute",,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 032,3 01 024,"Latitude/longitude (faible précision), hauteur de la station",,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 033,,(Bouée/plate-forme — fixe),,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 033,0 01 005,Indicateur d'identification de la bouée ou de la plate-forme,,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 033,0 02 001,Type de station,,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 033,3 01 011,"Année, mois, jour",,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 033,3 01 012,"Heure, minute",,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 033,3 01 021,Latitude/longitude (précision élevée),,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 034,,(Bouée/plate-forme — fixe),,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 034,0 01 005,Indicateur d'identification de la bouée ou de la plate-forme,,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 034,0 02 001,Type de station,,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 034,3 01 011,"Année, mois, jour",,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 034,3 01 012,"Heure, minute",,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 034,3 01 023,Latitude/longitude (faible précision),,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 035,,(Bouée/plate-forme — mobile) (voir note 8),,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 035,0 01 005,Indicateur d'identification de la bouée ou de la plate-forme,,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 035,0 01 012,Direction de déplacement de la plate-forme d'observation mobile,,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 035,0 01 013,Vitesse de déplacement de la plate-forme d'observation mobile,,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 035,0 02 001,Type de station,,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 035,3 01 011,"Année, mois, jour",,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 035,3 01 012,"Heure, minute",,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 035,3 01 023,Latitude/longitude (faible précision),,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 036,,(Navire),,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 036,3 01 003,Indicatif d'appel du navire et déplacement,,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 036,0 02 001,Type de station,,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 036,3 01 011,"Année, mois, jour",,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 036,3 01 012,"Heure, minute",,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 036,3 01 023,Latitude/longitude (faible précision),,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 037,,(Station terrestre pour sondages verticaux),,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 037,3 01 001,Indicateur régional OMM et chiffre indicatif OMM de la station,,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 037,0 02 011,Type de radiosonde,,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 037,0 02 012,Méthode de calcul des données de radiosondage,,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 037,3 01 011,"Année, mois, jour",,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 037,3 01 012,"Heure, minute",,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 037,3 01 022,"Latitude/longitude (précision élevée), hauteur de la station",,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 038,,(Station terrestre pour sondages verticaux),,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 038,3 01 001,Indicateur régional OMM et chiffre indicatif OMM de la station,,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 038,0 02 011,Type de radiosonde,,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 038,0 02 012,Méthode de calcul des données de radiosondage,,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 038,3 01 011,"Année, mois, jour",,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 038 (suite),3 01 012,"Heure, minute",,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 038 (suite),3 01 024,"Latitude/longitude (faible précision), hauteur de la station",,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 039,,(Navire pour sondages verticaux),,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 039,3 01 003,Indicatif d'appel du navire et déplacement,,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 039,0 02 011,Type de radiosonde,,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 039,0 02 012,Méthode de calcul des données de radiosondage,,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 039,3 01 011,"Année, mois, jour",,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 039,3 01 012,"Heure, minute",,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 039,3 01 023,Latitude/longitude (faible précision),,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 040,,(Navire pour sondages verticaux),,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 040,3 01 003,Indicatif d'appel du navire et déplacement,,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 040,0 02 011,Type de radiosonde,,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 040,0 02 012,Méthode de calcul des données de radiosondage,,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 040,3 01 011,"Année, mois, jour",,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 040,3 01 012,"Heure, minute",,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 040,3 01 024,"Latitude/longitude (faible précision), hauteur de la station",,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 041,,"(Indicateur d'identification du satellite, instrument, technique de traitement des données, date/heure)",,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 041,0 01 007,Indicateur d'identification du satellite,,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 041,0 02 021,Données instrumentales satellitaires utilisées dans le traitement,,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 041,0 02 022,Technique utilisée pour le traitement des données satellitaires,,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 041,3 01 011,"Année, mois, jour",,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 041,3 01 012,"Heure, minute",,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 042,,"(Indicateur d'identification du satellite, instrument, technique de traitement des données, date/heure, position)",,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 042,3 01 041,"Indicateur d'identification du satellite, instrument, technique de traitement des données, date/heure",,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 042,3 01 021,Latitude/longitude (précision élevée),,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 043,,"(Indicateur d'identification du satellite, méthode de calcul du vent, date/heure, position)",,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 043,0 01 007,Indicateur d'identification du satellite,,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 043,0 02 023,Méthode de calcul du vent à partir de données satellitaires,,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 043,3 01 011,"Année, mois, jour",,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 043,3 01 013,"Heure, minute, seconde",,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 043,3 01 021,Latitude/longitude (précision élevée),,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 044,,"(Indicateur d'identification du satellite, méthode de calcul de l'humidité, date/heure, position)",,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 044,0 01 007,Indicateur d'identification du satellite,,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 044,0 02 024,Méthode de calcul de l'humidité moyenne intégrée,,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 044,3 01 011,"Année, mois, jour",,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 044,3 01 013,"Heure, minute, seconde",,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 044,3 01 021,Latitude/longitude (précision élevée),,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 045,,(Position et vitesse du satellite),,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 045,3 01 011,"Année, mois, jour",,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 045,3 01 012,"Heure, minute",,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 045,2 01 138,Changer le champ de données,16 bits de long,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 045,2 02 131,Changer d'échelle,Échelle: 3,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 045,0 04 006,Secondes,,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 045,2 01 000,Changement du champ de données,Annuler,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 045,2 02 000,Changement d'échelle,Annuler,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 045,3 04 030,Position de la plate-forme,Par rapport au centre de la Terre,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 045,3 04 031,Vitesse de déplacement de la plate-forme,Par rapport au centre de la Terre,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 046,,"(Indicateur d'identification du satellite, direction de déplacement, détecteur, modèle, logiciel, résolution)",,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 046,0 01 007,Indicateur d'identification du satellite,,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 046,0 01 012,Direction de déplacement de la plate-forme d'observation mobile,,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 046,0 02 048,Indicateur de détecteur de satellite,,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 046,0 21 119,Modèle géophysique de diffusomètre vent,,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 046,0 25 060,Identification du logiciel,,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 046,2 02 124,Changer d'échelle,,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 046,0 02 026,Résolution en travers de la trajectoire,,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 046,0 02 027,Résolution dans le sens de la route du satellite,,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 046,2 02 000,Changement d'échelle,Annuler,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 046,0 05 040,Numéro d'orbite,,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 047,,(En-tête de produits de satellite ERS),,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 047,0 01 007,Indicateur d'identification du satellite,,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 047,0 25 060,Identification du logiciel,,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 047,0 01 033,Identification du centre d'origine/de production,,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 047,0 01 034,Identification du centre secondaire d'origine/ de production,,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 047,0 01 012,Direction de déplacement de la plate-forme d'observation mobile,,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 047,3 01 045,Position et vitesse du satellite,,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 047,0 02 021,Données instrumentales satellitaires utilisées dans le traitement,,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 047,3 01 011,"Année, mois, jour",,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 047,3 01 012,"Heure, minute",,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 047 (suite),2 01 138,Changer le champ de données,16 bits de long,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 047 (suite),2 02 131,Changer d'échelle,Échelle: 3,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 047 (suite),0 04 006,Secondes,,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 047 (suite),2 01 000,Changement du champ de données,Annuler,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 047 (suite),2 02 000,Changement d'échelle,Annuler,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 047 (suite),3 01 023,Latitude/longitude (faible précision),,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 048,,(Paramètres de radars),,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 048,0 02 104,Polarisation d'antenne,,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 048,0 02 121,Fréquence moyenne,,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 048,0 02 113,Nombre de visées en azimut,,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 048,0 02 026,Résolution en travers de la trajectoire,,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 048,0 02 027,Résolution dans le sens de la route du satellite,,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 048,0 02 111,Angle d'incidence du radar,,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 048,0 02 140,Angle d'azimut du faisceau de radar de satellite,,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 048,2 02 127,Changer d'échelle,Échelle: -1,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 048,0 01 013,Vitesse de déplacement de la plate-forme d'observation mobile,Vitesse de déplacement de la plate-forme de radar,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 048,2 02 126,Changer d'échelle,Échelle: -2,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 048,0 07 001,Hauteur de la station,Altitude de la plate-forme de radar,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 048,2 02 000,Changement d'échelle,Annuler,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 048,0 25 010,Traitement des échos fixes,,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 048,0 21 064,Estimation des bruits parasites,,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 049,,(Données du faisceau radar),,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 049,0 02 111,Angle d'incidence du radar,,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 049,0 02 112,Angle d'ouverture du faisceau,,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 049,0 21 062,Rétrodiffusion,,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 049,0 21 063,Résolution radiométrique (valeur de bruit),,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 049,0 21 065,Compteur de paquets manquants,,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 051,,"(Numéro de vol, système de navigation, date/heure, position, phase de vol)",,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 051,0 01 006,Numéro de vol de l'aéronef,,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 051,0 02 061,Système de navigation pour l'aéronautique,,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 051,3 01 011,"Année, mois, jour",,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 051,3 01 012,"Heure, minute",,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 051,3 01 021,Latitude/longitude (précision élevée),,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 051,0 08 004,Phase de vol de l'aéronef,,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 055,,"(Identification et type de station, date/heure, position (précision élevée), déplacement)",,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 055,0 01 005,Indicateur d'identification de la bouée ou de la plate-forme,,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 055,0 02 001,Type de station,,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 055,3 01 011,"Année, mois, jour",,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 055,3 01 012,"Heure, minute",,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 055 (suite),3 01 021,Latitude/longitude (précision élevée),,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 055 (suite),0 01 012,Direction de déplacement de la plate-forme d'observation mobile,,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 055 (suite),0 01 014,Vitesse de dérive de la plate-forme (précision élevée),,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 056,,"(Séquence pour l'identification de la plate-forme, le type, le moment et le lieu d'établissement du message d'observation)",,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 056,0 01 087,Extension de l'indicatif OMM de la plate-forme d'observation maritime,Numéro OMM (extension à 7 chiffres),
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 056,0 01 011,Indicateur d'identification du navire ou d'une station terrestre mobile,Indicatif d'appel (lorsque attribué),
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 056,0 01 015,Nom de la station ou du site,Nom de la plate-forme,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 056,0 02 008,Type de plate-forme en mer,,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 056,0 02 001,Type de station,,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 056,3 01 011,"Année, mois, jour",,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 056,3 01 012,"Heure, minute",,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 056,3 01 021,Latitude/longitude (précision élevée),,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 056,0 07 030,Altitude du sol de la station,Altitude de la station/ plate-forme au-dessus du niveau moyen de la mer,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 056,0 07 031,Altitude du baromètre,,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 058,,"(Éclair, codage universel)",,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 058,,Date/heure de l'éclair,,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 058,3 01 011,"Année, mois, jour",,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 058,3 01 012,"Heure, minute",,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 058,2 01 152,Changer le champ de données,,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 058,2 02 135,Changer d'échelle,,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 058,0 04 006,Seconde,,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 058,2 02 000,Changer d'échelle,,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 058,2 01 000,Changer le champ de données,,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 058,,Coordonnées horizontales et verticales de l'éclair,,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 058,3 01 021,Latitude/longitude (précision élevée),,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 058,0 20 111,"Composante principale de l'ellipse d'erreur, axe x",,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 058,0 20 112,"Composante secondaire de l'ellipse d'erreur, axe y",,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 058,0 20 113,"Composante de l'ellipse d'erreur, axe z",,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 058,0 20 114,Angle de l'axe x dans l'ellipse d'erreur,,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 058,0 20 115,Angle de l'axe z dans l'ellipse d'erreur,,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 058,0 20 116,Altitude d'émission de la décharge interne,,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 058 (suite),,Informations sur l'émission,,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 058 (suite),0 20 117,Amplitude de l'éclair,V ou A,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 058 (suite),0 20 118,Erreur de détection de l'éclair,,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 058 (suite),0 20 119,Polarité de décharge,,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 058 (suite),0 25 035,Méthode de décision pour la polarité,,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 058 (suite),0 20 121,Valeur seuil pour la décision de polarité,,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 058 (suite),0 20 122,Valeur seuil pour la décision de polarité,,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 058 (suite),0 20 123,Seuil minimum de détection,,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 058 (suite),0 20 124,Coup de foudre ou éclair,,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 058 (suite),0 25 175,Valeur résiduelle modifiée,,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 058 (suite),0 20 023,Autres phénomènes météorologiques,Identification nuage-sol ou nuage-nuage,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 058 (suite),,Traitement des données,,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 058 (suite),0 25 063,Indicateur du système ou processeur central,,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 058 (suite),2 02 136,Changer d'échelle,,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 058 (suite),2 01 136,Changer le champ de données,,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 058 (suite),0 02 121,Fréquence moyenne,"Déterminer la fréquence centrale, au besoin",
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 058 (suite),2 01 000,Changer le champ de données,,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 058 (suite),2 02 000,Changer d'échelle,,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 058 (suite),0 25 061,Identification du logiciel et numéro de version,,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 058 (suite),0 02 184,Type de capteur de détection de la foudre,,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 058 (suite),0 02 189,Distinction entre les différents types d'éclairs,,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 058 (suite),0 25 036,Méthode de localisation des atmosphériques,,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 058 (suite),1 01 000,Répétition différée de 1 descripteur,Nombre de capteurs pris en compte,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 058 (suite),0 31 002,Facteur élargi de répétition différée du descripteur,Nombre de capteurs pris en compte,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 059,3 01 059,Identification du site du capteur et des instruments,,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 059,,(Identification du site du capteur et des instruments),,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 059,3 01 021,Latitude/longitude (précision élevée),Capteur,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 059,0 07 030,Altitude du sol de la station,Capteur,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 059,0 07 032,Hauteur du capteur au-dessus du sol (ou du pont sur une plate-forme marine),Capteur pour l'éclair,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 062,,(Position(s) du radar),,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 062,1 01 000,Répétition différée de 1 descripteur,,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 062,0 31 001,Facteur de répétition différée du descripteur,,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 062,3 01 001,Indicateur régional OMM et chiffre indicatif OMM de la station,,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 065,,(Identification du message ACARS),,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 065,0 01 006,Numéro de vol de l'aéronef (voir note 10),,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 065,0 01 008,Numéro d'immatriculation de l'aéronef ou autre identification (voir note 10),,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 065 (suite),0 02 001,Type de station,,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 065 (suite),0 02 002,Type d'instrument pour la mesure du vent,,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 065 (suite),0 02 005,Précision des observations de la température,,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 065 (suite),0 02 062,Type de système de retransmission des données d'aéronef,,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 065 (suite),0 02 070,Spécification originale de la latitude/longitude,,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 065 (suite),0 02 065,Station ACARS de réception au sol,,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 066,,(Position concernant les messages ACARS),,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 066,3 01 011,"Année, mois, jour",,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 066,3 01 013,"Heure, minute, seconde",,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 066,3 01 023,Latitude/longitude (faible précision),,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 066,0 07 004,Pression,,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 066,0 02 064,Qualité de l'angle de roulis de l'aéronef,,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 066,0 08 004,Phase de vol de l'aéronef,,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 070,,(Instrument de mesure de l'ozone — spectrophotomètre Brewer),,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 070,0 02 143,Type d'instrument de mesure de l'ozone,,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 070,0 02 142,Numéro de série/identificateur du type d'instrument de mesure de l'ozone,,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 070,0 02 144,Type de source lumineuse pour spectrophotomètre Brewer,,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 071,,(Indicateur d'identification du satellite/résolution après traitement),,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 071,0 01 007,Indicateur d'identification du satellite,,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 071,0 01 031,Identification du centre d'origine/de production,,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 071,0 02 020,Classification des satellites,,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 071,0 02 028,Dimension du secteur au nadir en coordonnée x,,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 071,0 02 029,Dimension du secteur au nadir en coordonnée y,,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 072,,(Identification du satellite),,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 072,3 01 071,Indicateur d'identification du satellite/résolution après traitement,,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 072,3 01 011,"Année, mois, jour",,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 072,3 01 013,"Heure, minute, seconde",,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 072,3 01 021,Latitude/longitude (précision élevée),,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 074,,(Instrument de mesure de l'ozone — spectrophotomètre Dobson),,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 074,0 02 143,Type d'instrument de mesure de l'ozone,,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 074,0 02 142,Numéro de série/identificateur du type d'instrument de mesure de l'ozone,,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 074,0 02 145,Longueurs d'ondes et réglage pour instruments Dobson,,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 074,0 02 146,État de la source pour instruments Dobson,,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 075,,(Identification du sondage),,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 075,3 01 001,Indicateur régional OMM et chiffre indicatif OMM de la station,,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 075,0 01 015,Nom de la station ou du site,,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 075 (suite),3 01 024,"Latitude/longitude (faible précision), hauteur de la station",,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 075 (suite),0 08 021,Caractéristique temporelle,= 18 Heure du lâcher,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 075 (suite),3 01 011,"Année, mois, jour",,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 075 (suite),3 01 012,"Heure, minute",,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 076,,(Instrument de sondage de l'ozone),,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 076,0 02 011,Type de radiosonde,,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 076,0 02 143,Type d'instrument de mesure de l'ozone,,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 076,0 02 142,Numéro de série/identificateur du type d'instrument de mesure de l'ozone,,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 089,,(Identification nationale de la station),,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 089,0 01 101,Indicateur d'identification d'État,,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 089,0 01 102,Chiffre indicatif national de la station,,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 090,,"(Identification de la station d'observation en surface; heure, coordonnées horizontales et verticales)",,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 090,3 01 004,Identification de la station d'observation en surface,,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 090,3 01 011,"Année, mois, jour",,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 090,3 01 012,"Heure, minute",,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 090,3 01 021,Latitude/longitude (précision élevée),,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 090,0 07 030,Altitude du sol de la station,,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 090,0 07 031,Altitude du baromètre,,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 091,,(Instruments de la station d'observation en surface),,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 091,0 02 180,Système principal de détection du temps présent,,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 091,0 02 181,Capteur supplémentaire du temps présent,,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 091,0 02 182,Système de mesure de la visibilité,,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 091,0 02 183,Système de détection des nuages,,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 091,0 02 184,Type de capteur de détection de la foudre,,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 091,0 02 179,Type d'algorithme utilisé pour l'état du ciel,,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 091,0 02 186,Détection des divers types de précipitations,,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 091,0 02 187,Détection d'autres phénomènes météorologiques,,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 091,0 02 188,Détection d'un obscurcissement,,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 091,0 02 189,Distinction entre les différents types d'éclairs,,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 092,,"(Identification de la station mobile d'observation en surface, date/heure, coordonnées horizontales et verticales)",,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 092,0 01 011,Indicateur d'identification du navire ou d'une station terrestre mobile,,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 092,0 01 003,Région OMM/zone géographique,,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 092,0 02 001,Type de station,,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 092,3 01 011,"Année, mois, jour",,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 092,3 01 012,"Heure, minute",,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 092,3 01 021,Latitude/longitude (précision élevée),,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 092 (suite),0 07 030,Altitude du sol de la station,,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 092 (suite),0 07 031,Altitude du baromètre,,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 092 (suite),0 33 024,Repère de qualité de l'altitude de la station (pour les stations mobiles),,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 093,,"(Identification du navire, déplacement, date/ heure, coordonnées horizontales et verticales)",Identification du navire,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 093,3 01 036,Navire,Identification du navire,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 093,0 07 030,Altitude du sol de la station,Identification du navire,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 093,0 07 031,Altitude du baromètre,Identification du navire,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 110,,(Identification du site du lâcher et instruments de mesure du vent),,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 110,3 01 001,Indicateur régional OMM et chiffre indicatif OMM de la station,,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 110,0 01 011,Indicateur d'identification du navire ou d'une station terrestre mobile,,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 110,0 02 011,Type de radiosonde,,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 110,0 02 014,Technique de poursuite/état du système utilisé,,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 110,0 02 003,Type d'équipement de mesure utilisé,,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 111,,"(Identification du site du lâcher et instruments de mesure du vent, de la pression, de la température et de l'humidité (PTU))",,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 111,3 01 001,Indicateur régional OMM et chiffre indicatif OMM de la station,,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 111,0 01 011,Indicateur d'identification du navire ou d'une station terrestre mobile,,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 111,0 02 011,Type de radiosonde,,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 111,0 02 013,Correction du rayonnement solaire et infrarouge,,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 111,0 02 014,Technique de poursuite/état du système utilisé,,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 111,0 02 003,Type d'équipement de mesure utilisé,,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 112,,(Identification du point de lâcher et instruments de la catasonde),,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 112,0 01 006,Numéro de vol de l'aéronef,,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 112,0 02 011,Type de radiosonde,,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 112,0 02 013,Correction du rayonnement solaire et infrarouge,,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 112,0 02 014,Technique de poursuite/état du système utilisé,,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 112,0 02 003,Type d'équipement de mesure utilisé,,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 113,,(Date et heure du lâcher) (voir note 11),,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 113,0 08 021,Caractéristique temporelle,= 18 Heure du lâcher,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 113,3 01 011,"Année, mois, jour",Jour du lâcher,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 113,3 01 013,"Heure, minute, seconde",Heure du lâcher,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 114,,(Coordonnées horizontales et verticales du site du lâcher),Altitude du lâcher de la sonde,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 114,3 01 021,Latitude/longitude (précision élevée),Altitude du lâcher de la sonde,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 114,0 07 030,Altitude du sol de la station,Altitude du lâcher de la sonde,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 114,0 07 031,Altitude du baromètre,Altitude du lâcher de la sonde,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 114,0 07 007,Hauteur,Altitude du lâcher de la sonde,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 114,0 33 024,Repère de qualité de l'altitude de la station (pour les stations mobiles),Altitude du lâcher de la sonde,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 120,,(Radiosondage — en-tête abrégé et données sur le lâcher),,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 120,3 01 001,Indicateur régional OMM et chiffre indicatif OMM de la station,,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 120,0 01 094,Numéro WBAN,,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 120,0 02 011,Type de radiosonde,,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 120,3 01 121,Radiosondage - données sur le lâcher,,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 121,,(Radiosondage — données sur le lâcher),,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 121,0 08 041,Caractéristique des données,= 3 Point de lâcher du ballon,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 121,3 01 122,Date et heure (au centième de seconde près),Altitude du lâcher de la radiosonde,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 121,3 01 021,Latitude/longitude (précision élevée),Altitude du lâcher de la radiosonde,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 121,0 07 031,Altitude du baromètre,Altitude du lâcher de la radiosonde,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 121,0 07 007,Hauteur,Altitude du lâcher de la radiosonde,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 122,,(Date et heure (au centième de seconde près)) (voir note 11),,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 122,3 01 011,"Année, mois, jour",,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 122,3 01 012,"Heure, minute",,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 122,2 01 135,Changer le champ de données,,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 122,2 02 130,,,Changer d'échelle
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 122,0 04 006,Seconde,,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 122,2 02 000,Changement d'échelle,Annuler,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 122,2 01 000,Changement du champ de données,Annuler,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 123,,(Radiosondage — en-tête complet),,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 123,1 02 002,Répéter 2 descripteurs 2 fois,,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 123,0 08 041,Caractéristique des données,"= 0 Site principal, = 1 Site d'observation",
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 123,0 01 062,Indicateur court d'emplacement OACI,,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 123,3 01 001,Indicateur régional OMM et chiffre indicatif OMM de la station,,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 123 (suite),0 01 094,Numéro WBAN,,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 123 (suite),0 02 011,Type de radiosonde,,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 123 (suite),0 01 018,Nom abrégé de la station ou du site,,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 123 (suite),0 01 095,Identification de l'observateur,,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 123 (suite),0 25 061,Identification du logiciel et numéro de version,,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 123 (suite),0 25 068,Recalcul des archives – nombre de fois,,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 123 (suite),0 01 082,Numéro du radiosondage,,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 123 (suite),0 01 083,Numéro du lâcher de radiosonde,,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 123 (suite),0 01 081,Numéro de série de la radiosonde,,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 123 (suite),0 02 067,Fréquence de fonctionnement de la radiosonde,,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 123 (suite),0 02 066,Système de réception au sol des données de radiosondage,,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 123 (suite),0 02 014,Technique de poursuite/état du système utilisé,,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 123 (suite),0 25 067,Correction de pression au point de lâcher de la radiosonde,,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 123 (suite),0 25 065,Correction de l'orientation (azimut),,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 123 (suite),0 25 066,Correction de l'orientation (altitude),,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 123 (suite),0 02 095,Type de capteur de pression,,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 123 (suite),0 02 096,Type de capteur de température,,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 123 (suite),0 02 097,Type de capteur d'humidité,,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 123 (suite),0 02 016,Configuration de la radiosonde,,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 123 (suite),0 02 083,Type d'abri de gonflement,,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 123 (suite),0 02 080,Fabriquant du ballon,,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 123 (suite),0 02 081,Type de ballon,,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 123 (suite),0 01 093,Numéro de lot du ballon,,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 123 (suite),0 02 084,Type de gaz insufflé,,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 123 (suite),0 02 085,Quantité de gaz insufflée,,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 123 (suite),0 02 086,Longueur de la traîne,,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 123 (suite),0 02 082,Poids du ballon,,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 123 (suite),0 08 041,Caractéristique des données,= 2 Date de fabrication du ballon,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 123 (suite),3 01 011,"Année, mois, jour",,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 125,,(En-tête ASCAT),,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 125,0 01 033,Identification du centre d'origine/de production,,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 125,0 01 034,Identification du centre secondaire d'origine/ de production,,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 125,0 25 060,Identification du logiciel,,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 125,0 01 007,Indicateur d'identification du satellite,,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 125,0 02 019,Instruments satellitaires,,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 125,0 01 012,Direction de déplacement de la plate-forme d'observation mobile,,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 126,,(Séquence pour la représentation de l'identification des bouées ancrées),,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 126,0 01 087,Extension de l'indicatif OMM de la plate-forme d'observation maritime,,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 126,0 01 015,Nom de la station ou du site,,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 126,0 02 149,Type de bouée de collecte de données,,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 126,3 01 011,"Année, mois, jour",,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 126,3 01 012,"Heure, minute",,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 126,3 01 021,Latitude/longitude (précision élevée),,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 128,,(Supplément d'information sur le radiosondage),,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 128,0 01 081,Numéro de série de la radiosonde,,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 128,0 01 082,Numéro du radiosondage,,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 128,0 01 083,Numéro du lâcher de radiosonde,,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 128,0 01 095,Identification de l'observateur,,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 128,0 02 015,Degré d'équipement de la radiosonde,,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 128,0 02 016,Configuration de la radiosonde,,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 128,0 02 017,Algorithmes de correction pour les mesures d'humidité,,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 128,0 02 066,Système de réception au sol des données de radiosondage,,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 128,0 02 067,Fréquence de fonctionnement de la radiosonde,,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 128,0 02 080,Fabricant du ballon,,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 128,0 02 081,Type de ballon,,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 128,0 02 082,Poids du ballon,,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 128,0 02 083,Type d'abri de gonflement,,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 128,0 02 084,Type de gaz insufflé,,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 128,0 02 085,Quantité de gaz insufflée,,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 128,0 02 086,Longueur de la traîne,,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 128,0 02 095,Type de capteur de pression,,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 128,0 02 096,Type de capteur de température,,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 128,0 02 097,Type de capteur d'humidité,,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 128,0 02 103,Radôme,,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 128,0 02 191,Calcul de la hauteur géopotentielle,,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 128,0 25 061,Identification du logiciel et numéro de version,,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 128,0 35 035,Raison de l'abandon,Raison de l'interruption du radiosondage,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 129,,(Satellite et instruments d'observation),,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 129,0 01 007,Indicateur d'identification du satellite,,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 129,0 01 031,Identification du centre d'origine/de production,,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 129,0 02 019,Instruments satellitaires,,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 129,0 02 020,Classification des satellites,,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 130,,(Référence temporelle de grande précision),,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 130,3 01 011,"Année, mois, jour",,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 130,3 01 012,"Heure, minute",,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 130,2 02 131,Changer d'échelle,Ajouter 3 à l'échelle,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 130,2 01 138,Changer le champ de données,Ajouter 10 au champ de données,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 130,0 04 006,Seconde,,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 130,2 01 000,Changement du champ de données,Annuler,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 130,2 02 000,Changement d'échelle,Annuler,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 131,3 01 021,(Localisation géographique des pixels) Latitude/longitude (précision élevée),,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 131,0 07 024,Distance zénithale du satellite,,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 131,0 05 021,Direction ou azimut,,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 131,0 07 025,Distance zénithale du soleil,,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 131,0 05 022,Azimut du soleil,,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 150,0 01 125,(Identifiant du WIGOS) Série d'identifiants du WIGOS,,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 150,0 01 126,Émetteur d'identifiants du WIGOS,,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 150,0 01 127,Numéro d'émission du WIGOS,,
+Catégorie 01 — Séquences correspondant à la position et à l'identification,3 01 150,0 01 128,Identifiant local du WIGOS (caractère),,

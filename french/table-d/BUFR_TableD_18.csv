@@ -1,13 +1,13 @@
-Category,CategoryOfSequences_fr,FXY1,Title_fr,SubTitle_fr,FXY2,ElementName_fr,ElementDescription_fr,Note_fr,noteIDs,Status
-18,Catégorie 18 – Séquences correspondant à des messages d'observation radiologique,318001,faible précision,,301025,"Latitude/longitude, jour/heure",,,,Operational
-18,Catégorie 18 – Séquences correspondant à des messages d'observation radiologique,318001,,,024011,Dose,,,,Operational
-18,Catégorie 18 – Séquences correspondant à des messages d'observation radiologique,318003,précision élevée,,301026,"Latitude/longitude, période",,,,Operational
-18,Catégorie 18 – Séquences correspondant à des messages d'observation radiologique,318003,,,024005,Masse isotopique,,,,Operational
-18,Catégorie 18 – Séquences correspondant à des messages d'observation radiologique,318003,,,024004,Nom de l'élément,,,,Operational
-18,Catégorie 18 – Séquences correspondant à des messages d'observation radiologique,318003,"du type d'isotope désigné, y compris la dose bêta brute",,024021,Concentration dans l'air,,,,Operational
-18,Catégorie 18 – Séquences correspondant à des messages d'observation radiologique,318004,faible précision,,301025,"Latitude/longitude, jour/heure",,,,Operational
-18,Catégorie 18 – Séquences correspondant à des messages d'observation radiologique,318004,,,004023,Période ou décalage dans le temps,,,,Operational
-18,Catégorie 18 – Séquences correspondant à des messages d'observation radiologique,318004,,,013011,Précipitations totales/valeur totale de l'équivalent en eau,,,,Operational
-18,Catégorie 18 – Séquences correspondant à des messages d'observation radiologique,318004,,,024005,Masse isotopique,,,,Operational
-18,Catégorie 18 – Séquences correspondant à des messages d'observation radiologique,318004,,,024004,Nom de l'élément,,,,Operational
-18,Catégorie 18 – Séquences correspondant à des messages d'observation radiologique,318004,du type d'isotope désigné,,024022,Concentration dans les précipitations,,,,Operational
+TABLE_NAME,DESCRIPTEUR,SÉQUENCE DE DESCRIPTEURS,NOM DE L’ÉLÉMENT,DESCRIPTION DE L’ÉLÉMENT
+Catégorie 18 – Séquences correspondant à des messages d'observation radiologique,3 18 001,3 01 025,"Latitude/longitude (faible précision), jour/heure",
+Catégorie 18 – Séquences correspondant à des messages d'observation radiologique,3 18 001,0 24 011,Dose,
+Catégorie 18 – Séquences correspondant à des messages d'observation radiologique,3 18 003,3 01 026,"Latitude/longitude (précision élevée), période (jour, heure, minute)",
+Catégorie 18 – Séquences correspondant à des messages d'observation radiologique,3 18 003,0 24 005,Masse isotopique,
+Catégorie 18 – Séquences correspondant à des messages d'observation radiologique,3 18 003,0 24 004,Nom de l'élément,
+Catégorie 18 – Séquences correspondant à des messages d'observation radiologique,3 18 003,0 24 021,"Concentration dans l'air (du type d'isotope désigné, y compris la dose bêta brute)",
+Catégorie 18 – Séquences correspondant à des messages d'observation radiologique,3 18 004,3 01 025,"Latitude/longitude (faible précision), jour/heure",
+Catégorie 18 – Séquences correspondant à des messages d'observation radiologique,3 18 004,0 04 023,Période ou décalage dans le temps,
+Catégorie 18 – Séquences correspondant à des messages d'observation radiologique,3 18 004,0 13 011,Précipitations totales/valeur totale de l'équivalent en eau,
+Catégorie 18 – Séquences correspondant à des messages d'observation radiologique,3 18 004,0 24 005,Masse isotopique,
+Catégorie 18 – Séquences correspondant à des messages d'observation radiologique,3 18 004,0 24 004,Nom de l'élément,
+Catégorie 18 – Séquences correspondant à des messages d'observation radiologique,3 18 004,0 24 022,Concentration dans les précipitations (du type d'isotope désigné),

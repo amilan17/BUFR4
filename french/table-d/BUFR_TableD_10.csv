@@ -1,700 +1,1120 @@
-Category,CategoryOfSequences_fr,FXY1,Title_fr,SubTitle_fr,FXY2,ElementName_fr,ElementDescription_fr,Note_fr,noteIDs,Status
-10,Table D/10 BUFR – 1,310001,Satellite — température de luminance,,301042,"Indicateur d'identification du satellite, instrument, technique de traitement des données, date/heure, position",,,,Operational
-10,Table D/10 BUFR – 1,310001,,,303031,"Données significatives, terre/mer, température de la pellicule superficielle",,,,Operational
-10,Table D/10 BUFR – 1,310001,,,303032,Nuages,,,,Operational
-10,Table D/10 BUFR – 1,310001,,,101026,Répéter 1 descripteur 26 fois,,,,Operational
-10,Table D/10 BUFR – 1,310001,,,303025,Canal de satellite et température de luminance,,,,Operational
-10,Table D/10 BUFR – 1,310002,Satellite — basse altitude,,301042,"Indicateur d'identification du satellite, instrument, technique de traitement des données, date/heure, position",,,,Operational
-10,Table D/10 BUFR – 1,310002,,,303031,"Données significatives, terre/mer, température de la pellicule superficielle",,,,Operational
-10,Table D/10 BUFR – 1,310002,,,303032,Nuages,,,,Operational
-10,Table D/10 BUFR – 1,310002,,,101009,Répéter 1 descripteur 9 fois,,,,Operational
-10,Table D/10 BUFR – 1,310002,,,303023,Température moyenne de la couche,,,,Operational
-10,Table D/10 BUFR – 1,310003,Satellite — haute altitude,,301042,"Indicateur d'identification du satellite, instrument, technique de traitement des données, date/heure, position",,,,Operational
-10,Table D/10 BUFR – 1,310003,,,303031,"Données significatives, terre/mer, température de la pellicule superficielle",,,,Operational
-10,Table D/10 BUFR – 1,310003,,,303032,Nuages,,,,Operational
-10,Table D/10 BUFR – 1,310003,,,101006,Répéter 1 descripteur 6 fois,,,,Operational
-10,Table D/10 BUFR – 1,310003,,,303023,Température moyenne de la couche,,,,Operational
-10,Table D/10 BUFR – 1,310004,Satellite — eau précipitable,,301042,"Indicateur d'identification du satellite, instrument, technique de traitement des données, date/heure, position",,,,Operational
-10,Table D/10 BUFR – 1,310004,,,303031,"Données significatives, terre/mer, température de la pellicule superficielle",,,,Operational
-10,Table D/10 BUFR – 1,310004,,,303032,Nuages,,,,Operational
-10,Table D/10 BUFR – 1,310004,,,101003,Répéter 1 descripteur 3 fois,,,,Operational
-10,Table D/10 BUFR – 1,310004,,,303024,Eau précipitable,,,,Operational
-10,Table D/10 BUFR – 1,310005,,,301042,"Indicateur d'identification du satellite, instrument, technique de traitement des données, date/heure, position",,,,Operational
-10,Table D/10 BUFR – 1,310005,,,303031,"Données significatives, terre/mer, température de la pellicule superficielle",,,,Operational
-10,Table D/10 BUFR – 1,310005,,,303033,Nuages,,,,Operational
-10,Table D/10 BUFR – 1,310005,,,101000,Répétition différée de 1 descripteur,,,,Operational
-10,Table D/10 BUFR – 1,310005,,,031001,Facteur de répétition différée du descripteur,,,,Operational
-10,Table D/10 BUFR – 1,310005,,,303025,Canal de satellite et température de luminance,,,,Operational
-10,Table D/10 BUFR – 2,310006,,,301042,"Indicateur d'identification du satellite, instrument, technique de traitement des données, date/heure, position",,,,Operational
-10,Table D/10 BUFR – 2,310006,,,303031,"Données significatives, terre/mer, température de la pellicule superficielle",,,,Operational
-10,Table D/10 BUFR – 2,310006,,,303033,Nuages,,,,Operational
-10,Table D/10 BUFR – 2,310006,,,101000,Répétition différée de 1 descripteur,,,,Operational
-10,Table D/10 BUFR – 2,310006,,,031001,Facteur de répétition différée du descripteur,,,,Operational
-10,Table D/10 BUFR – 2,310006,,,303023,Température moyenne de la couche,,,,Operational
-10,Table D/10 BUFR – 2,310007,,,301042,"Indicateur d'identification du satellite, instrument, technique de traitement des données, date/heure, position",,,,Operational
-10,Table D/10 BUFR – 2,310007,,,303031,"Données significatives, terre/mer, température de la pellicule superficielle",,,,Operational
-10,Table D/10 BUFR – 2,310007,,,303033,Nuages,,,,Operational
-10,Table D/10 BUFR – 2,310007,,,101000,Répétition différée de 1 descripteur,,,,Operational
-10,Table D/10 BUFR – 2,310007,,,031001,Facteur de répétition différée du descripteur,,,,Operational
-10,Table D/10 BUFR – 2,310007,,,303024,Eau précipitable,,,,Operational
-10,Table D/10 BUFR – 2,310008,Données de l'ATOVS HIRS,,310011,Paramètres du champ de vision du sondeur ATOVS,,,,Operational
-10,Table D/10 BUFR – 2,310008,,,101019,Répéter 1 descripteur 19 fois,,,,Operational
-10,Table D/10 BUFR – 2,310008,,,310012,Paramètres du canal du sondeur ATOVS,,,,Operational
-10,Table D/10 BUFR – 2,310008,,,002150,Numéro du canal de l'instrument TOVS/ ATOVS/AVHRR,,,,Operational
-10,Table D/10 BUFR – 2,310008,,,025079,"Luminance énergétique d'albédo-éclairement énergétique après filtrage solaire, pour le sondeur ATOVS",,,,Operational
-10,Table D/10 BUFR – 2,310008,,,025080,"Luminance énergétique d'albédo-largeur équivalente du filtre, pour le sondeur ATOVS",,,,Operational
-10,Table D/10 BUFR – 2,310008,,,033032,Indicateurs de qualité du canal du sondeur ATOVS,,,,Operational
-10,Table D/10 BUFR – 2,310008,,,014045,Luminance énergétique dans le canal,,,,Operational
-10,Table D/10 BUFR – 2,310009,Données AMSU-A de l'ATOVS,,310011,Paramètres du champ de vision du sondeur ATOVS,,,,Operational
-10,Table D/10 BUFR – 2,310009,,,101015,Répéter 1 descripteur 15 fois,,,,Operational
-10,Table D/10 BUFR – 2,310009,,,310012,Paramètres du canal du sondeur ATOVS,,,,Operational
-10,Table D/10 BUFR – 2,310010,Données AMSU-B/MHS de l'ATOVS,,310011,Paramètres du champ de vision du sondeur ATOVS,,,,Operational
-10,Table D/10 BUFR – 2,310010,,,101005,Répéter 1 descripteur 5 fois,,,,Operational
-10,Table D/10 BUFR – 2,310010,,,310012,Paramètres du canal du sondeur ATOVS,,,,Operational
-10,Table D/10 BUFR – 2,310011,Paramètres du champ de vision du sondeur ATOVS,,008070,Identificateur de produits de sondages verticaux,,,,Operational
-10,Table D/10 BUFR – 2,310011,,,001033,Identification du centre d'origine/de production,,,,Operational
-10,Table D/10 BUFR – 3,310011(suite),,,001034,Identification du centre secondaire d'origine/de production,,,,Operational
-10,Table D/10 BUFR – 3,310011(suite),,,008070,Identificateur de produits de sondages verticaux,,,,Operational
-10,Table D/10 BUFR – 3,310011(suite),,,001033,Identification du centre d'origine/de production,,,,Operational
-10,Table D/10 BUFR – 3,310011(suite),,,001034,Identification du centre secondaire d'origine/de production,,,,Operational
-10,Table D/10 BUFR – 3,310011(suite),,,001007,Indicateur d'identification du satellite,,,,Operational
-10,Table D/10 BUFR – 3,310011(suite),,,002048,Indicateur de détecteur de satellite,,,,Operational
-10,Table D/10 BUFR – 3,310011(suite),,,005040,Numéro de l'orbite,,,,Operational
-10,Table D/10 BUFR – 3,310011(suite),,,025075,"Corrections d'antenne de satellite, numéro de version",,,,Operational
-10,Table D/10 BUFR – 3,310011(suite),,,201133,Changer le champ de données,,,,Operational
-10,Table D/10 BUFR – 3,310011(suite),,,005041,Numéro de la ligne de balayage,,,,Operational
-10,Table D/10 BUFR – 3,310011(suite),,,201000,Changer le champ de données,,,,Operational
-10,Table D/10 BUFR – 3,310011(suite),,,005043,Numéro du champ de vision,,,,Operational
-10,Table D/10 BUFR – 3,310011(suite),,,025070,Numéro de paquet principal,,,,Operational
-10,Table D/10 BUFR – 3,310011(suite),,,033030,Indicateurs d'état pour la ligne de balayage du sondeur ATOVS,,,,Operational
-10,Table D/10 BUFR – 3,310011(suite),,,033031,Indicateurs de qualité de la ligne de balayage du sondeur ATOVS,,,,Operational
-10,Table D/10 BUFR – 3,310011(suite),,,004001,Année,,,,Operational
-10,Table D/10 BUFR – 3,310011(suite),,,004002,Mois,,,,Operational
-10,Table D/10 BUFR – 3,310011(suite),,,004003,Jour,,,,Operational
-10,Table D/10 BUFR – 3,310011(suite),,,004004,Heure,,,,Operational
-10,Table D/10 BUFR – 3,310011(suite),,,004005,Minute,,,,Operational
-10,Table D/10 BUFR – 3,310011(suite),,,202131,Changer d'échelle,,,,Operational
-10,Table D/10 BUFR – 3,310011(suite),,,201138,Changer le champ de données,,,,Operational
-10,Table D/10 BUFR – 3,310011(suite),,,004006,Seconde,,,,Operational
-10,Table D/10 BUFR – 3,310011(suite),,,201000,Changer le champ de données,,,,Operational
-10,Table D/10 BUFR – 3,310011(suite),,,202000,Changer d'échelle,,,,Operational
-10,Table D/10 BUFR – 3,310011(suite),,,005001,Latitude (précision élevée),,,,Operational
-10,Table D/10 BUFR – 3,310011(suite),,,006001,Longitude (précision élevée),,,,Operational
-10,Table D/10 BUFR – 3,310011(suite),,,202126,Changer d'échelle,,,,Operational
-10,Table D/10 BUFR – 3,310011(suite),,,007001,Hauteur de la station,,,,Operational
-10,Table D/10 BUFR – 3,310011(suite),,,202000,Changer d'échelle,,,,Operational
-10,Table D/10 BUFR – 3,310011(suite),,,007024,Distance zénithale du satellite,,,,Operational
-10,Table D/10 BUFR – 3,310011(suite),,,005021,Direction ou azimut,Azimut du satellite,,,Operational
-10,Table D/10 BUFR – 3,310011(suite),,,007025,Distance zénithale du soleil,,,,Operational
-10,Table D/10 BUFR – 3,310011(suite),,,005022,Azimut du soleil,,,,Operational
-10,Table D/10 BUFR – 3,310011(suite),,,033033,Indicateurs de qualité du champ de vision du sondeur ATOVS,,,,Operational
-10,Table D/10 BUFR – 3,310011(suite),,,002151,Indicateur d'identification du radiomètre,,,,Operational
-10,Table D/10 BUFR – 3,310011(suite),,,012064,Température de l'instrument,,,,Operational
-10,Table D/10 BUFR – 3,310011(suite),,,002151,Indicateur d'identification du radiomètre,,,,Operational
-10,Table D/10 BUFR – 3,310011(suite),,,012064,Température de l'instrument,,,,Operational
-10,Table D/10 BUFR – 3,310011(suite),,,002151,Indicateur d'identification du radiomètre,,,,Operational
-10,Table D/10 BUFR – 4,310011(suite),,,012064,Température de l'instrument,,,,Operational
-10,Table D/10 BUFR – 4,310011(suite),,,002151,Indicateur d'identification du radiomètre,,,,Operational
-10,Table D/10 BUFR – 4,310011(suite),,,012064,Température de l'instrument,,,,Operational
-10,Table D/10 BUFR – 4,310012,Paramètres du canal du sondeur ATOVS,,002150,Numéro du canal de l'instrument TOVS/ ATOVS/AVHRR,,,,Operational
-10,Table D/10 BUFR – 4,310012,,,025076,"Log10 du numéro d'onde centrale de la luminance énergétique pour la mesure de la température, dans le cas du sondeur ATOVS",,,,Operational
-10,Table D/10 BUFR – 4,310012,,,025077,Coefficient 1 de correction de largeur de bande,,,,Operational
-10,Table D/10 BUFR – 4,310012,,,025078,Coefficient 2 de correction de largeur de bande,,,,Operational
-10,Table D/10 BUFR – 4,310012,,,033032,Indicateurs de qualité du canal du sondeur ATOVS,,,,Operational
-10,Table D/10 BUFR – 4,310012,,,201132,Changer le champ de données,,,,Operational
-10,Table D/10 BUFR – 4,310012,,,202129,Changer d'échelle,,,,Operational
-10,Table D/10 BUFR – 4,310012,,,012063,Température de luminance,,,,Operational
-10,Table D/10 BUFR – 4,310012,,,202000,Changer d'échelle,,,,Operational
-10,Table D/10 BUFR – 4,310012,,,201000,Changer le champ de données,,,,Operational
-10,Table D/10 BUFR – 4,310013,Données de l'AVHRR (couverture mondiale,,001007,) Indicateur d'identification du satellite,,,,Operational
-10,Table D/10 BUFR – 4,310013,,,005040,Numéro de l'orbite,,,,Operational
-10,Table D/10 BUFR – 4,310013,,,004001,Année,,,,Operational
-10,Table D/10 BUFR – 4,310013,,,004002,Mois,,,,Operational
-10,Table D/10 BUFR – 4,310013,,,004003,Jour,,,,Operational
-10,Table D/10 BUFR – 4,310013,,,004004,Heure,,,,Operational
-10,Table D/10 BUFR – 4,310013,,,004005,Minute,,,,Operational
-10,Table D/10 BUFR – 4,310013,,,004006,Seconde,,,,Operational
-10,Table D/10 BUFR – 4,310013,,,005001,Latitude (précision élevée),,,,Operational
-10,Table D/10 BUFR – 4,310013,,,006001,Longitude (précision élevée),,,,Operational
-10,Table D/10 BUFR – 4,310013,,,007025,Distance zénithale du soleil,,,,Operational
-10,Table D/10 BUFR – 4,310013,,,005043,Numéro du champ de vision,,,,Operational
-10,Table D/10 BUFR – 4,310013,,,025085,Fraction de pixels clairs dans le champ de vision du sondeur HIRS,,,,Operational
-10,Table D/10 BUFR – 4,310013,,,201131,Changer le champ de données,,,,Operational
-10,Table D/10 BUFR – 4,310013,,,202129,Changer d'échelle,,,,Operational
-10,Table D/10 BUFR – 4,310013,,,002150,Numéro du canal de l'instrument TOVS/ ATOVS/AVHRR,,,,Operational
-10,Table D/10 BUFR – 4,310013,,,008023,Statistiques de premier ordre,,,,Operational
-10,Table D/10 BUFR – 4,310013,,,008072,Type de pixel,,,,Operational
-10,Table D/10 BUFR – 4,310013,,,014027,Albédo,,,,Operational
-10,Table D/10 BUFR – 4,310013,,,008072,Type de pixel,,,,Operational
-10,Table D/10 BUFR – 4,310013,,,014027,Albédo,,,,Operational
-10,Table D/10 BUFR – 4,310013,,,002150,Numéro du canal de l'instrument TOVS/ ATOVS/AVHRR,,,,Operational
-10,Table D/10 BUFR – 4,310013,,,008023,Statistiques de premier ordre,,,,Operational
-10,Table D/10 BUFR – 4,310013,,,008072,Type de pixel,,,,Operational
-10,Table D/10 BUFR – 5,310013(suite),,,014027,Albédo,,,,Operational
-10,Table D/10 BUFR – 5,310013(suite),,,008072,Type de pixel,,,,Operational
-10,Table D/10 BUFR – 5,310013(suite),,,014027,Albédo,,,,Operational
-10,Table D/10 BUFR – 5,310013(suite),,,002150,Numéro du canal de l'instrument TOVS/ ATOVS/AVHRR,,,,Operational
-10,Table D/10 BUFR – 5,310013(suite),,,008023,Statistiques de premier ordre,,,,Operational
-10,Table D/10 BUFR – 5,310013(suite),,,008072,Type de pixel,,,,Operational
-10,Table D/10 BUFR – 5,310013(suite),,,014027,Albédo,,,,Operational
-10,Table D/10 BUFR – 5,310013(suite),,,008072,Type de pixel,,,,Operational
-10,Table D/10 BUFR – 5,310013(suite),,,014027,Albédo,,,,Operational
-10,Table D/10 BUFR – 5,310013(suite),,,202000,Changer d'échelle,,,,Operational
-10,Table D/10 BUFR – 5,310013(suite),,,201000,Changer le champ de données,,,,Operational
-10,Table D/10 BUFR – 5,310013(suite),,,201132,Changer le champ de données,,,,Operational
-10,Table D/10 BUFR – 5,310013(suite),,,202129,Changer d'échelle,,,,Operational
-10,Table D/10 BUFR – 5,310013(suite),,,002150,Numéro du canal de l'instrument TOVS/ ATOVS/AVHRR,,,,Operational
-10,Table D/10 BUFR – 5,310013(suite),,,008023,Statistiques de premier ordre,,,,Operational
-10,Table D/10 BUFR – 5,310013(suite),,,008072,Type de pixel,,,,Operational
-10,Table D/10 BUFR – 5,310013(suite),,,012063,Température de luminance,,,,Operational
-10,Table D/10 BUFR – 5,310013(suite),,,008072,Type de pixel,,,,Operational
-10,Table D/10 BUFR – 5,310013(suite),,,012063,Température de luminance,,,,Operational
-10,Table D/10 BUFR – 5,310013(suite),,,002150,Numéro du canal de l'instrument TOVS/ ATOVS/AVHRR,,,,Operational
-10,Table D/10 BUFR – 5,310013(suite),,,008023,Statistiques de premier ordre,,,,Operational
-10,Table D/10 BUFR – 5,310013(suite),,,008072,Type de pixel,,,,Operational
-10,Table D/10 BUFR – 5,310013(suite),,,012063,Température de luminance,,,,Operational
-10,Table D/10 BUFR – 5,310013(suite),,,008072,Type de pixel,,,,Operational
-10,Table D/10 BUFR – 5,310013(suite),,,012063,Température de luminance,,,,Operational
-10,Table D/10 BUFR – 5,310013(suite),,,008023,Statistiques de premier ordre,,,,Operational
-10,Table D/10 BUFR – 5,310013(suite),,,008072,Type de pixel,,,,Operational
-10,Table D/10 BUFR – 5,310013(suite),,,012063,Température de luminance,,,,Operational
-10,Table D/10 BUFR – 5,310013(suite),,,008072,Type de pixel,,,,Operational
-10,Table D/10 BUFR – 5,310013(suite),,,012063,Température de luminance,,,,Operational
-10,Table D/10 BUFR – 5,310013(suite),,,002150,Numéro du canal de l'instrument TOVS/ ATOVS/AVHRR,,,,Operational
-10,Table D/10 BUFR – 5,310013(suite),,,008023,Statistiques de premier ordre,,,,Operational
-10,Table D/10 BUFR – 5,310013(suite),,,008072,Type de pixel,,,,Operational
-10,Table D/10 BUFR – 5,310013(suite),,,012063,Température de luminance,,,,Operational
-10,Table D/10 BUFR – 5,310013(suite),,,008072,Type de pixel,,,,Operational
-10,Table D/10 BUFR – 5,310013(suite),,,012063,Température de luminance,,,,Operational
-10,Table D/10 BUFR – 5,310013(suite),,,202000,Changer d'échelle,,,,Operational
-10,Table D/10 BUFR – 5,310013(suite),,,201000,Changer le champ de données,,,,Operational
-10,Table D/10 BUFR – 5,310014,Données de vent du satellite géostationnaire,,301072,Identification du satellite,"Identification du satellite, date/ heure, latitude/ longitude",,,Operational
-10,Table D/10 BUFR – 6,310014(suite),,,303041,Séquence de données de vent,,,,Operational
-10,Table D/10 BUFR – 6,310014(suite),,,304011,GOES-I/M info,,,,Operational
-10,Table D/10 BUFR – 6,310015,Données de Météosat relatives au rayonnement,,301072,Identification du satellite,,,,Operational
-10,Table D/10 BUFR – 6,310015,,,007024,Distance zénithale du satellite,,,,Operational
-10,Table D/10 BUFR – 6,310015,,,010002,Hauteur,,,,Operational
-10,Table D/10 BUFR – 6,310015,,,303041,Séquence de données de vent,,,,Operational
-10,Table D/10 BUFR – 6,310015,,,101003,Répéter 1 descripteur 3 fois,,,,Operational
-10,Table D/10 BUFR – 6,310015,,,304032,Nébulosité,,,,Operational
-10,Table D/10 BUFR – 6,310015,,,002152,Instrument de satellite utilisé dans le traitement des données,,,,Operational
-10,Table D/10 BUFR – 6,310015,,,002024,Méthode de calcul de l'humidité moyenne intégrée,,,,Operational
-10,Table D/10 BUFR – 6,310015,,,007004,Pression,,,,Operational
-10,Table D/10 BUFR – 6,310015,,,007004,Pression,,,,Operational
-10,Table D/10 BUFR – 6,310015,,,013003,Humidité relative,,,,Operational
-10,Table D/10 BUFR – 6,310015,,,101003,Répéter 1 descripteur 3 fois,,,,Operational
-10,Table D/10 BUFR – 6,310015,,,304033,Luminance énergétique par ciel clair,,,,Operational
-10,Table D/10 BUFR – 6,310016,Données de Météosat deuxième génération (MSG,,301072,relatives au rayonnement) Identification du satellite,,,,Operational
-10,Table D/10 BUFR – 6,310016,,,007024,Distance zénithale du satellite,,,,Operational
-10,Table D/10 BUFR – 6,310016,,,010002,Hauteur,,,,Operational
-10,Table D/10 BUFR – 6,310016,,,303041,Séquence de données de vent,,,,Operational
-10,Table D/10 BUFR – 6,310016,,,101012,Répéter 1 descripteur 12 fois,,,,Operational
-10,Table D/10 BUFR – 6,310016,,,304032,Nébulosité,,,,Operational
-10,Table D/10 BUFR – 6,310016,,,002152,Instrument de satellite utilisé dans le traitement des données,,,,Operational
-10,Table D/10 BUFR – 6,310016,,,002024,Méthode de calcul de l'humidité moyenne intégrée,,,,Operational
-10,Table D/10 BUFR – 6,310016,,,007004,Pression,,,,Operational
-10,Table D/10 BUFR – 6,310016,,,007004,Pression,,,,Operational
-10,Table D/10 BUFR – 6,310016,,,013003,Humidité relative,,,,Operational
-10,Table D/10 BUFR – 6,310016,,,101012,Répéter 1 descritpeur 12 fois,,,,Operational
-10,Table D/10 BUFR – 6,310016,,,304033,Luminance énergétique par ciel clair,,,,Operational
-10,Table D/10 BUFR – 6,310018,Données sur l'ozone,,001007,Indicateur d'identification du satellite,,,,Operational
-10,Table D/10 BUFR – 6,310018,,,005040,Numéro de l'orbite,,,,Operational
-10,Table D/10 BUFR – 6,310018,,,004001,Année,,,,Operational
-10,Table D/10 BUFR – 6,310018,,,004043,Jour de l'année,,,,Operational
-10,Table D/10 BUFR – 6,310018,,,004004,Heure,,,,Operational
-10,Table D/10 BUFR – 6,310018,,,004005,Minute,,,,Operational
-10,Table D/10 BUFR – 6,310018,,,004006,Seconde,,,,Operational
-10,Table D/10 BUFR – 6,310018,,,207002,"Augmenter l'échelle, la valeur de référence et le champ de données",,,,Operational
-10,Table D/10 BUFR – 6,310018,,,026030,Temps d'intégration de la mesure,,,,Operational
-10,Table D/10 BUFR – 7,310018(suite),,,207000,"Augmentation de l'échelle, de la valeur de référence et du champ de données",Annuler,,,Operational
-10,Table D/10 BUFR – 7,310018(suite),,,005002,Latitude (faible précision),,,,Operational
-10,Table D/10 BUFR – 7,310018(suite),,,006002,Longitude (faible précision),,,,Operational
-10,Table D/10 BUFR – 7,310018(suite),,,033072,Erreur relative à l'ozone,,,,Operational
-10,Table D/10 BUFR – 7,310018(suite),,,007025,Distance zénithale du soleil,,,,Operational
-10,Table D/10 BUFR – 7,310018(suite),,,005022,Azimut du soleil,,,,Operational
-10,Table D/10 BUFR – 7,310018(suite),,,207002,"Augmenter l'échelle, la valeur de référence et le champ de données",,,,Operational
-10,Table D/10 BUFR – 7,310018(suite),,,015001,Ozone total,,,,Operational
-10,Table D/10 BUFR – 7,310018(suite),,,207000,"Augmentation de l'échelle, de la valeur de référence et du champ de données",Annuler,,,Operational
-10,Table D/10 BUFR – 7,310018(suite),,,008003,Caractéristique verticale (observations par satellite),= 0 Surface,,,Operational
-10,Table D/10 BUFR – 7,310018(suite),,,207001,"Augmenter l'échelle, la valeur de référence et le champ de données",,,,Operational
-10,Table D/10 BUFR – 7,310018(suite),,,010004,Pression,Terrain,,,Operational
-10,Table D/10 BUFR – 7,310018(suite),,,207000,"Augmentation de l'échelle, de la valeur de référence et du champ de données",Annuler,,,Operational
-10,Table D/10 BUFR – 7,310018(suite),,,008003,Caractéristique verticale (observations par satellite),Mis à valeur manquante (annuler),,,Operational
-10,Table D/10 BUFR – 7,310018(suite),,,008003,Caractéristique verticale (observations par satellite),= 2 Sommet des nuages,,,Operational
-10,Table D/10 BUFR – 7,310018(suite),,,033042,Type de limite représentée par la valeur qui suit,= 0 Limite inférieure exclue,,,Operational
-10,Table D/10 BUFR – 7,310018(suite),,,207001,"Augmenter l'échelle, la valeur de référence et le champ de données",,,,Operational
-10,Table D/10 BUFR – 7,310018(suite),,,007004,Pression,,,,Operational
-10,Table D/10 BUFR – 7,310018(suite),,,207000,"Augmentation de l'échelle, de la valeur de référence et du champ de données",Annuler,,,Operational
-10,Table D/10 BUFR – 7,310018(suite),,,207002,"Augmenter l'échelle, la valeur de référence et le champ de données",,,,Operational
-10,Table D/10 BUFR – 7,310018(suite),,,015001,Ozone total,Inférieur à la pression au sommet des nuages,,,Operational
-10,Table D/10 BUFR – 7,310018(suite),,,207000,"Augmentation de l'échelle, de la valeur de référence et du champ de données",Annuler,,,Operational
-10,Table D/10 BUFR – 7,310018(suite),,,008003,Caractéristique verticale (observations par satellite),Mis à valeur manquante (annuler),,,Operational
-10,Table D/10 BUFR – 7,310018(suite),,,207002,"Augmenter l'échelle, la valeur de référence et le champ de données",,,,Operational
-10,Table D/10 BUFR – 7,310018(suite),,,020081,Étendue de la couche nuageuse dans le secteur,Nébulosité,,,Operational
-10,Table D/10 BUFR – 7,310018(suite),,,207000,"Augmentation de l'échelle, de la valeur de référence et du champ de données",Annuler,,,Operational
-10,Table D/10 BUFR – 8,310018(suite),,,020065,Couverture neigeuse,,,,Operational
-10,Table D/10 BUFR – 8,310018(suite),,,008029,Type de surface,,,,Operational
-10,Table D/10 BUFR – 8,310018(suite),,,207004,"Augmenter l'échelle, la valeur de référence et le champ de données",,,,Operational
-10,Table D/10 BUFR – 8,310018(suite),,,015030,Indice de contamination par aérosols,,,,Operational
-10,Table D/10 BUFR – 8,310018(suite),,,207000,"Augmentation de l'échelle, de la valeur de référence et du champ de données",Annuler,,,Operational
-10,Table D/10 BUFR – 8,310018(suite),,,008075,Identificateur d'orbite ascendante ou descendante,,,,Operational
-10,Table D/10 BUFR – 8,310019,Données sur l'ozone,,001007,Indicateur d'identification du satellite,,,,Operational
-10,Table D/10 BUFR – 8,310019,,,002019,Instruments satellitaires,= 624 SBUV/2,,,Operational
-10,Table D/10 BUFR – 8,310019,,,301011,"Année, mois, jour",,,,Operational
-10,Table D/10 BUFR – 8,310019,,,301013,"Heure, minute, seconde",,,,Operational
-10,Table D/10 BUFR – 8,310019,,,301023,Latitude/longitude (faible précision),,,,Operational
-10,Table D/10 BUFR – 8,310019,,,007025,Distance zénithale du soleil,,,,Operational
-10,Table D/10 BUFR – 8,310019,,,008021,Caractéristique temporelle,= 28 Début du balayage,,,Operational
-10,Table D/10 BUFR – 8,310019,,,007025,Distance zénithale du soleil,,,,Operational
-10,Table D/10 BUFR – 8,310019,,,008021,Caractéristique temporelle,= 29 Fin du balayage,,,Operational
-10,Table D/10 BUFR – 8,310019,,,007025,Distance zénithale du soleil,,,,Operational
-10,Table D/10 BUFR – 8,310019,,,008021,Caractéristique temporelle,Mis à valeur manquante (annuler),,,Operational
-10,Table D/10 BUFR – 8,310019,,,008029,Type de surface,,,,Operational
-10,Table D/10 BUFR – 8,310019,,,005040,Numéro de l'orbite,,,,Operational
-10,Table D/10 BUFR – 8,310019,,,008075,Identificateur d'orbite ascendante ou descendante,,,,Operational
-10,Table D/10 BUFR – 8,310019,,,008003,Caractéristique verticale (observations par satellite),= 0 Surface,,,Operational
-10,Table D/10 BUFR – 8,310019,,,010004,Pression,= Terrain,,,Operational
-10,Table D/10 BUFR – 8,310019,,,008003,Caractéristique verticale (observations par satellite),Mis à valeur manquante (annuler),,,Operational
-10,Table D/10 BUFR – 8,310019,,,207002,"Augmenter l'échelle, la valeur de référence et le champ de données",,,,Operational
-10,Table D/10 BUFR – 8,310019,,,015001,Ozone total,,,,Operational
-10,Table D/10 BUFR – 8,310019,,,207000,"Augmentation de l'échelle, de la valeur de référence et du champ de données",Annuler,,,Operational
-10,Table D/10 BUFR – 8,310019,,,033070,Qualité de l'ozone total,,,,Operational
-10,Table D/10 BUFR – 8,310019,,,015030,Indice de contamination par aérosols,,,,Operational
-10,Table D/10 BUFR – 8,310019,,,207002,"Augmenter l'échelle, la valeur de référence et le champ de données",,,,Operational
-10,Table D/10 BUFR – 8,310019,,,020081,Étendue de la couche nuageuse dans le secteur,Nébulosité,,,Operational
-10,Table D/10 BUFR – 8,310019,,,207000,"Augmentation de l'échelle, de la valeur de référence et du champ de données",Annuler,,,Operational
-10,Table D/10 BUFR – 8,310019,,,008003,Caractéristique verticale (observations par satellite),= 2 Sommet des nuages,,,Operational
-10,Table D/10 BUFR – 9,310019(suite),,,033042,Type de limite représentée par la valeur qui suit,= 0 Limite inférieure exclue,,,Operational
-10,Table D/10 BUFR – 9,310019(suite),,,007004,Pression,,,,Operational
-10,Table D/10 BUFR – 9,310019(suite),,,207002,"Augmenter l'échelle, la valeur de référence et le champ de données",,,,Operational
-10,Table D/10 BUFR – 9,310019(suite),,,015001,Ozone total,Inférieur à la pression au sommet des nuages,,,Operational
-10,Table D/10 BUFR – 9,310019(suite),,,207000,"Augmentation de l'échelle, de la valeur de référence et du champ de données",Annuler,,,Operational
-10,Table D/10 BUFR – 9,310019(suite),,,008003,Caractéristique verticale (observations par satellite),Mis à valeur manquante (annuler),,,Operational
-10,Table D/10 BUFR – 9,310019(suite),,,113021,Répéter 13 descripteurs 21 fois,,,,Operational
-10,Table D/10 BUFR – 9,310019(suite),,,007004,Pression,Bas de la couche,,,Operational
-10,Table D/10 BUFR – 9,310019(suite),,,007004,Pression,Sommet de la couche,,,Operational
-10,Table D/10 BUFR – 9,310019(suite),,,207002,"Augmenter l'échelle, la valeur de référence et le champ de données",,,,Operational
-10,Table D/10 BUFR – 9,310019(suite),,,008021,Caractéristique temporelle,= 27 Première approximation,,,Operational
-10,Table D/10 BUFR – 9,310019(suite),,,015005,Pression partielle de l'ozone,,,,Operational
-10,Table D/10 BUFR – 9,310019(suite),,,008021,Caractéristique temporelle,Mis à valeur manquante (annuler),,,Operational
-10,Table D/10 BUFR – 9,310019(suite),,,015005,Pression partielle de l'ozone,,,,Operational
-10,Table D/10 BUFR – 9,310019(suite),,,033007,Degré de confiance,,,,Operational
-10,Table D/10 BUFR – 9,310019(suite),,,207000,"Augmentation de l'échelle, de la valeur de référence et du champ de données",Annuler,,,Operational
-10,Table D/10 BUFR – 9,310019(suite),,,008026,Caractéristique matricielle,= 0 Rang de la matrice de noyaux moyens,,,Operational
-10,Table D/10 BUFR – 9,310019(suite),,,101020,Répéter 1 descripteur 20 fois,,,,Operational
-10,Table D/10 BUFR – 9,310019(suite),,,025143,Coefficient linéaire,,,,Operational
-10,Table D/10 BUFR – 9,310019(suite),,,008026,Caractéristique matricielle,Mis à valeur manquante (annuler),,,Operational
-10,Table D/10 BUFR – 9,310019(suite),,,008043,Type de constituants chimiques ou physiques de l'atmosphère,= 0 Ozone,,,Operational
-10,Table D/10 BUFR – 9,310019(suite),,,109015,Répéter 9 descripteurs 15 fois,,,,Operational
-10,Table D/10 BUFR – 9,310019(suite),,,007004,Pression,,,,Operational
-10,Table D/10 BUFR – 9,310019(suite),,,008090,Échelle décimale des mantisses suivantes,,,,Operational
-10,Table D/10 BUFR – 9,310019(suite),,,207006,"Augmenter l'échelle, la valeur de référence et le champ de données",,,,Operational
-10,Table D/10 BUFR – 9,310019(suite),,,015008,Mantisse du rapport de mélange volumétrique,,,,Operational
-10,Table D/10 BUFR – 9,310019(suite),,,207000,"Augmentation de l'échelle, de la valeur de référence et du champ de données",Annuler,,,Operational
-10,Table D/10 BUFR – 10,310019(suite),,,008090,Échelle décimale des mantisses suivantes,Mis à valeur manquante (annuler),,,Operational
-10,Table D/10 BUFR – 10,310019(suite),,,207002,"Augmenter l'échelle, la valeur de référence et le champ de données",,,,Operational
-10,Table D/10 BUFR – 10,310019(suite),,,033007,Degré de confiance,,,,Operational
-10,Table D/10 BUFR – 10,310019(suite),,,207000,"Augmentation de l'échelle, de la valeur de référence et du champ de données",Annuler,,,Operational
-10,Table D/10 BUFR – 10,310019(suite),,,008043,Type de constituants chimiques ou physiques de l'atmosphère,Mis à valeur manquante (annuler),,,Operational
-10,Table D/10 BUFR – 10,310019(suite),,,033071,Qualité du profil de l'ozone,,,,Operational
-10,Table D/10 BUFR – 10,310019(suite),,,108008,Répéter 8 descripteurs 8 fois,,,,Operational
-10,Table D/10 BUFR – 10,310019(suite),,,202124,Changer d'échelle,,,,Operational
-10,Table D/10 BUFR – 10,310019(suite),,,201107,Changer le champ de données,,,,Operational
-10,Table D/10 BUFR – 10,310019(suite),,,002071,Longueur d'onde spectrographique,,,,Operational
-10,Table D/10 BUFR – 10,310019(suite),,,201000,Changement du champ de données,Annuler,,,Operational
-10,Table D/10 BUFR – 10,310019(suite),,,202000,Changement d'échelle,Annuler,,,Operational
-10,Table D/10 BUFR – 10,310019(suite),,,207002,"Augmenter l'échelle, la valeur de référence et le champ de données",,,,Operational
-10,Table D/10 BUFR – 10,310019(suite),,,020081,Étendue de la couche nuageuse dans le secteur,Nébulosité,,,Operational
-10,Table D/10 BUFR – 10,310019(suite),,,207000,"Augmentation de l'échelle, de la valeur de référence et du champ de données",Annuler,,,Operational
-10,Table D/10 BUFR – 10,310020,Données d'ozone déduites,,310022,"Indicateur d'identification du satellite, instrument, type de produit",,,,Operational
-10,Table D/10 BUFR – 10,310020,,,301011,"Année, mois, jour",,,,Operational
-10,Table D/10 BUFR – 10,310020,,,301013,"Heure, minute, seconde",,,,Operational
-10,Table D/10 BUFR – 10,310020,,,301021,Latitude/longitude (précision élevée),,,,Operational
-10,Table D/10 BUFR – 10,310020,,,304034,"Latitude/longitude, hauteur du soleil, nombre de couches",,,,Operational
-10,Table D/10 BUFR – 10,310020,,,310021,"Densité d'ozone intégrée, hauteur d'une couche déterminée",,,,Operational
-10,Table D/10 BUFR – 10,310021,"Densité d'ozone intégrée, hauteur d'une couche déterminée",,108000,Répétition différée de 8 descripteurs,,,,Operational
-10,Table D/10 BUFR – 10,310021,,,031001,Facteur de répétition différée du descripteur,,,,Operational
-10,Table D/10 BUFR – 10,310021,,,201131,Changer le champ de données,,,,Operational
-10,Table D/10 BUFR – 10,310021,,,202129,Changer d'échelle,,,,Operational
-10,Table D/10 BUFR – 10,310021,,,007004,Pression,,,,Operational
-10,Table D/10 BUFR – 10,310021,,,007004,Pression,,,,Operational
-10,Table D/10 BUFR – 10,310021,,,202000,Changement d'échelle,Annuler,,,Operational
-10,Table D/10 BUFR – 10,310021,,,201000,Changement du champ de données,Annuler,,,Operational
-10,Table D/10 BUFR – 10,310021,,,015020,Densité d'ozone intégrée,,,,Operational
-10,Table D/10 BUFR – 10,310021,,,010002,Hauteur,,,,Operational
-10,Table D/10 BUFR – 11,310022,"Indicateur d'identification du satellite, instrument, type de produit",,001007,Indicateur d'identification du satellite,,,,Operational
-10,Table D/10 BUFR – 11,310022,,,002019,Instruments satellitaires,,,,Operational
-10,Table D/10 BUFR – 11,310022,,,001033,Identification du centre d'origine/ de production,,,,Operational
-10,Table D/10 BUFR – 11,310022,,,002172,Type de produit pour les données extraites concernant les gaz atmosphériques,,,,Operational
-10,Table D/10 BUFR – 11,310023,Données sur la luminance énergétique fournies par les satellites géostationnaires dans plusieurs canaux,,301072,Identification du satellite,,,,Operational
-10,Table D/10 BUFR – 11,310023,,,030021,Nombre de pixels par ligne,,,,Operational
-10,Table D/10 BUFR – 11,310023,,,030022,Nombre de pixels par colonne,,,,Operational
-10,Table D/10 BUFR – 11,310023,,,008012,Identificateur terre/mer,,,,Operational
-10,Table D/10 BUFR – 11,310023,,,007024,Distance zénithale du satellite,,,,Operational
-10,Table D/10 BUFR – 11,310023,,,007025,Distance zénithale du soleil,,,,Operational
-10,Table D/10 BUFR – 11,310023,,,010002,Hauteur,,,,Operational
-10,Table D/10 BUFR – 11,310023,,,101012,Répéter 1 descripteur 12 fois,,,,Operational
-10,Table D/10 BUFR – 11,310023,,,304032,Nébulosité,,,,Operational
-10,Table D/10 BUFR – 11,310023,,,105002,Répéter 5 descripteurs 2 fois,,,,Operational
-10,Table D/10 BUFR – 11,310023,,,002152,Instrument de satellite utilisé dans le traitement des données,,,,Operational
-10,Table D/10 BUFR – 11,310023,,,002024,Méthode de calcul de l'humidité moyenne intégrée,,,,Operational
-10,Table D/10 BUFR – 11,310023,,,007004,Pression,,,,Operational
-10,Table D/10 BUFR – 11,310023,,,007004,Pression,,,,Operational
-10,Table D/10 BUFR – 11,310023,,,013003,Humidité relative,,,,Operational
-10,Table D/10 BUFR – 11,310023,,,101012,Répéter 1 descripteur 12 fois,,,,Operational
-10,Table D/10 BUFR – 11,310023,,,304033,Luminance énergétique par ciel clair,,,,Operational
-10,Table D/10 BUFR – 11,310024,Données sur la luminance énergétique fournies par les satellites géostationnaires dans trois canaux,,301072,Identification du satellite,,,,Operational
-10,Table D/10 BUFR – 11,310024,,,030021,Nombre de pixels par ligne,,,,Operational
-10,Table D/10 BUFR – 11,310024,,,030022,Nombre de pixels par colonne,,,,Operational
-10,Table D/10 BUFR – 11,310024,,,008012,Identificateur terre/mer,,,,Operational
-10,Table D/10 BUFR – 11,310024,,,007024,Distance zénithale du satellite,,,,Operational
-10,Table D/10 BUFR – 11,310024,,,007025,Distance zénithale du soleil,,,,Operational
-10,Table D/10 BUFR – 11,310024,,,010002,Hauteur,,,,Operational
-10,Table D/10 BUFR – 11,310024,,,101003,Répéter 1 descripteur 3 fois,,,,Operational
-10,Table D/10 BUFR – 11,310024,,,304032,Nébulosité,,,,Operational
-10,Table D/10 BUFR – 11,310024,,,105002,Répéter 5 descripteurs 2 fois,,,,Operational
-10,Table D/10 BUFR – 11,310024,,,002152,Instrument de satellite utilisé dans le traitement des données,,,,Operational
-10,Table D/10 BUFR – 11,310024,,,002024,Méthode de calcul de l'humidité moyenne intégrée,,,,Operational
-10,Table D/10 BUFR – 11,310024,,,007004,Pression,,,,Operational
-10,Table D/10 BUFR – 12,310024(suite),,,007004,Pression,,,,Operational
-10,Table D/10 BUFR – 12,310024(suite),,,013003,Humidité relative,,,,Operational
-10,Table D/10 BUFR – 12,310024(suite),,,101003,Répéter 1 descripteur 3 fois,,,,Operational
-10,Table D/10 BUFR – 12,310024(suite),,,304033,Luminance énergétique par ciel clair,,,,Operational
-10,Table D/10 BUFR – 12,310025,Enregistrement de la température du SSMIS,,001007,Indicateur d'identification du satellite,,,,Operational
-10,Table D/10 BUFR – 12,310025,,,008021,Caractéristique temporelle,Début du balayage,,,Operational
-10,Table D/10 BUFR – 12,310025,,,004001,Année,,,,Operational
-10,Table D/10 BUFR – 12,310025,,,004002,Mois,,,,Operational
-10,Table D/10 BUFR – 12,310025,,,004003,Jour,,,,Operational
-10,Table D/10 BUFR – 12,310025,,,004004,Heure,,,,Operational
-10,Table D/10 BUFR – 12,310025,,,004005,Minute,,,,Operational
-10,Table D/10 BUFR – 12,310025,,,201138,Changer le champ de données,,,,Operational
-10,Table D/10 BUFR – 12,310025,,,202131,Changer d'échelle,,,,Operational
-10,Table D/10 BUFR – 12,310025,,,004006,Seconde,Millisecondes,,,Operational
-10,Table D/10 BUFR – 12,310025,,,202000,Changer d'échelle,,,,Operational
-10,Table D/10 BUFR – 12,310025,,,201000,Changer le champ de données,,,,Operational
-10,Table D/10 BUFR – 12,310025,,,201132,Changer le champ de données,,,,Operational
-10,Table D/10 BUFR – 12,310025,,,005041,Numéro de la ligne de balayage,Numéro du balayage,,,Operational
-10,Table D/10 BUFR – 12,310025,,,201000,Changer le champ de données,,,,Operational
-10,Table D/10 BUFR – 12,310025,,,201129,Changer le champ de données,,,,Operational
-10,Table D/10 BUFR – 12,310025,,,005043,Numéro du champ de vision,Numéro de la scène,,,Operational
-10,Table D/10 BUFR – 12,310025,,,201000,Changer le champ de données,,,,Operational
-10,Table D/10 BUFR – 12,310025,,,005002,Latitude (faible précision),,,,Operational
-10,Table D/10 BUFR – 12,310025,,,006002,Longitude (faible précision),,,,Operational
-10,Table D/10 BUFR – 12,310025,,,013040,Indicateur de surface,,,,Operational
-10,Table D/10 BUFR – 12,310025,,,020029,Indicateur de pluie,,,,Operational
-10,Table D/10 BUFR – 12,310025,,,104024,Répéter 4 descripteurs 24 fois,,,,Operational
-10,Table D/10 BUFR – 12,310025,,,005042,Numéro du canal,,,,Operational
-10,Table D/10 BUFR – 12,310025,,,012163,Température de luminance,,,,Operational
-10,Table D/10 BUFR – 12,310025,,,021083,Étalonnage - cible chaude,,,,Operational
-10,Table D/10 BUFR – 12,310025,,,021084,Étalonnage - cible froide,,,,Operational
-10,Table D/10 BUFR – 12,310025,,,115003,Répéter 15 descripteurs 3 fois,,,,Operational
-10,Table D/10 BUFR – 12,310025,,,004001,Année,,,,Operational
-10,Table D/10 BUFR – 12,310025,,,004002,Mois,,,,Operational
-10,Table D/10 BUFR – 12,310025,,,004003,Jour,,,,Operational
-10,Table D/10 BUFR – 12,310025,,,201142,Changer le champ de données,,,,Operational
-10,Table D/10 BUFR – 12,310025,,,202131,Changer d'échelle,,,,Operational
-10,Table D/10 BUFR – 12,310025,,,004026,Période ou décalage dans le temps,Éphéméride millisecondes,,,Operational
-10,Table D/10 BUFR – 12,310025,,,202000,Changer d'échelle,,,,Operational
-10,Table D/10 BUFR – 12,310025,,,201000,Changer le champ de données,,,,Operational
-10,Table D/10 BUFR – 12,310025,,,005001,Latitude (précision élevée),Éphéméride,,,Operational
-10,Table D/10 BUFR – 12,310025,,,006001,Longitude (précision élevée),Éphéméride,,,Operational
-10,Table D/10 BUFR – 13,310025(suite),,,201138,Changer le champ de données,,,,Operational
-10,Table D/10 BUFR – 13,310025(suite),,,202129,Changer d'échelle,,,,Operational
-10,Table D/10 BUFR – 13,310025(suite),,,007001,Hauteur de la station,Éphéméride,,,Operational
-10,Table D/10 BUFR – 13,310025(suite),,,202000,Changer d'échelle,,,,Operational
-10,Table D/10 BUFR – 13,310025(suite),,,201000,Changer le champ de données,,,,Operational
-10,Table D/10 BUFR – 13,310025(suite),,,008021,Caractéristique temporelle,Début de l'orbite,,,Operational
-10,Table D/10 BUFR – 13,310025(suite),,,004001,Année,,,,Operational
-10,Table D/10 BUFR – 13,310025(suite),,,004002,Mois,,,,Operational
-10,Table D/10 BUFR – 13,310025(suite),,,004003,Jour,,,,Operational
-10,Table D/10 BUFR – 13,310025(suite),,,004004,Heure,,,,Operational
-10,Table D/10 BUFR – 13,310025(suite),,,004005,Minute,,,,Operational
-10,Table D/10 BUFR – 13,310025(suite),,,005040,Numéro de l'orbite,,,,Operational
-10,Table D/10 BUFR – 13,310025(suite),,,101003,Répéter 1 descripteur 3 fois,,,,Operational
-10,Table D/10 BUFR – 13,310025(suite),,,012070,Température de la charge chaude,,,,Operational
-10,Table D/10 BUFR – 13,310025(suite),,,025054,Numéro d'identification de la sous-trame SSMIS,,,,Operational
-10,Table D/10 BUFR – 13,310025(suite),,,101004,Répéter 1 descripteur 4 fois,,,,Operational
-10,Table D/10 BUFR – 13,310025(suite),,,025055,Télémaintenance du multiplexeur,,,,Operational
-10,Table D/10 BUFR – 13,310025(suite),,,008007,Caractéristique dimensionnelle,Ligne,,,Operational
-10,Table D/10 BUFR – 13,310025(suite),,,104028,Répéter 4 descripteurs 28 fois,,,,Operational
-10,Table D/10 BUFR – 13,310025(suite),,,005002,Latitude (faible précision),,,,Operational
-10,Table D/10 BUFR – 13,310025(suite),,,006002,Longitude (faible précision),,,,Operational
-10,Table D/10 BUFR – 13,310025(suite),,,002111,Angle d'incidence du radar,,,,Operational
-10,Table D/10 BUFR – 13,310025(suite),,,005021,Direction ou azimut,Angle de la Terre,,,Operational
-10,Table D/10 BUFR – 13,310026,Données satellitaires d'occultation radio,,310022,"Indicateur d'identification du satellite, instrument, type de produit",,,,Operational
-10,Table D/10 BUFR – 13,310026,,,025060,Identification du logiciel,,,,Operational
-10,Table D/10 BUFR – 13,310026,,,008021,Caractéristique temporelle,= 17 Commencement du phénomène,,,Operational
-10,Table D/10 BUFR – 13,310026,,,301011,"Année, mois, jour",,,,Operational
-10,Table D/10 BUFR – 13,310026,,,301012,"Heure, minute",,,,Operational
-10,Table D/10 BUFR – 13,310026,,,201138,Changer le champ de données,16 bits de long,,,Operational
-10,Table D/10 BUFR – 13,310026,,,202131,Changer d'échelle,Échelle: 3,,,Operational
-10,Table D/10 BUFR – 13,310026,,,004006,Seconde,,,,Operational
-10,Table D/10 BUFR – 13,310026,,,202000,Changement d'échelle,Annuler,,,Operational
-10,Table D/10 BUFR – 13,310026,,,201000,Changement du champ de données,Annuler,,,Operational
-10,Table D/10 BUFR – 13,310026,,,033039,Indicateurs de qualité des données d'occultation radio,,,,Operational
-10,Table D/10 BUFR – 13,310026,,,033007,Degré de confiance,Ensemble du message,,,Operational
-10,Table D/10 BUFR – 13,310026,,,304030,Position de la plate-forme,,,,Operational
-10,Table D/10 BUFR – 13,310026,,,304031,Vitesse de déplacement de la plate-forme,,,,Operational
-10,Table D/10 BUFR – 13,310026,,,002020,Classification des satellites,,,,Operational
-10,Table D/10 BUFR – 13,310026,,,001050,Numéro d'identification de l'émetteur de la plate-forme,,,,Operational
-10,Table D/10 BUFR – 14,310026(suite),,,202127,Changer d'échelle,Échelle: 1,,,Operational
-10,Table D/10 BUFR – 14,310026(suite),,,304030,Position de la plate-forme,,,,Operational
-10,Table D/10 BUFR – 14,310026(suite),,,202000,Changement d'échelle,Annuler,,,Operational
-10,Table D/10 BUFR – 14,310026(suite),,,304031,Vitesse de déplacement de la plate-forme,,,,Operational
-10,Table D/10 BUFR – 14,310026(suite),,,201133,Changer le champ de données,18 bits de long,,,Operational
-10,Table D/10 BUFR – 14,310026(suite),,,202131,Changer d'échelle,Échelle: 3,,,Operational
-10,Table D/10 BUFR – 14,310026(suite),,,004016,Incrément temporel,,,,Operational
-10,Table D/10 BUFR – 14,310026(suite),,,202000,Changement d'échelle,Annuler,,,Operational
-10,Table D/10 BUFR – 14,310026(suite),,,201000,Changement du champ de données,Annuler,,,Operational
-10,Table D/10 BUFR – 14,310026(suite),,,301021,Latitude/longitude (précision élevée),,,,Operational
-10,Table D/10 BUFR – 14,310026(suite),,,304030,Position de la plate-forme,,,,Operational
-10,Table D/10 BUFR – 14,310026(suite),,,010035,Rayon de la courbure locale de la Terre,,,,Operational
-10,Table D/10 BUFR – 14,310026(suite),,,005021,Direction ou azimut,,,,Operational
-10,Table D/10 BUFR – 14,310026(suite),,,010036,Ondulation du géoïde,,,,Operational
-10,Table D/10 BUFR – 14,310026(suite),,,113000,Répétition différée de 13 descripteurs,,,,Operational
-10,Table D/10 BUFR – 14,310026(suite),,,031002,Facteur élargi de répétition différée du descripteur,,,,Operational
-10,Table D/10 BUFR – 14,310026(suite),,,301021,Latitude/longitude (précision élevée),,,,Operational
-10,Table D/10 BUFR – 14,310026(suite),,,005021,Direction ou azimut,,,,Operational
-10,Table D/10 BUFR – 14,310026(suite),,,108000,Répétition différée de 8 descripteurs,,,,Operational
-10,Table D/10 BUFR – 14,310026(suite),,,031001,Facteur de répétition différée du descripteur,,,,Operational
-10,Table D/10 BUFR – 14,310026(suite),,,002121,Fréquence moyenne,,,,Operational
-10,Table D/10 BUFR – 14,310026(suite),,,007040,Paramètre d'impact,,,,Operational
-10,Table D/10 BUFR – 14,310026(suite),,,015037,Angle de courbure,,,,Operational
-10,Table D/10 BUFR – 14,310026(suite),,,008023,Statistiques de premier ordre,= 13 Moyenne quadratique,,,Operational
-10,Table D/10 BUFR – 14,310026(suite),,,201125,Changer le champ de données,20 bits de long,,,Operational
-10,Table D/10 BUFR – 14,310026(suite),,,015037,Angle de courbure,,,,Operational
-10,Table D/10 BUFR – 14,310026(suite),,,201000,Changement du champ de données,Annuler,,,Operational
-10,Table D/10 BUFR – 14,310026(suite),,,008023,Statistiques de premier ordre,Mis à valeur manquante,,,Operational
-10,Table D/10 BUFR – 14,310026(suite),,,033007,Degré de confiance,Toutes les données pour la répétition,,,Operational
-10,Table D/10 BUFR – 14,310026(suite),,,108000,Répétition différée de 8 descripteurs,,,,Operational
-10,Table D/10 BUFR – 14,310026(suite),,,031002,Facteur élargi de répétition différée du descripteur,,,,Operational
-10,Table D/10 BUFR – 14,310026(suite),,,007007,Hauteur,,,,Operational
-10,Table D/10 BUFR – 14,310026(suite),,,015036,Réfractivité atmosphérique,,,,Operational
-10,Table D/10 BUFR – 14,310026(suite),,,008023,Statistiques de premier ordre,= 13 Moyenne quadratique,,,Operational
-10,Table D/10 BUFR – 14,310026(suite),,,201123,Changer le champ de données,14 bits de long,,,Operational
-10,Table D/10 BUFR – 14,310026(suite),,,015036,Réfractivité atmosphérique,,,,Operational
-10,Table D/10 BUFR – 14,310026(suite),,,201000,Changement du champ de données,Annuler,,,Operational
-10,Table D/10 BUFR – 14,310026(suite),,,008023,Statistiques de premier ordre,Mis à valeur manquante,,,Operational
-10,Table D/10 BUFR – 15,310026(suite),,,033007,Degré de confiance,Toutes les données pour la hauteur indiquée,,,Operational
-10,Table D/10 BUFR – 15,310026(suite),,,116000,Répétition différée de 16 descripteurs,,,,Operational
-10,Table D/10 BUFR – 15,310026(suite),,,031002,Facteur élargi de répétition différée du descripteur,,,,Operational
-10,Table D/10 BUFR – 15,310026(suite),,,007009,Hauteur géopotentielle,,,,Operational
-10,Table D/10 BUFR – 15,310026(suite),,,010004,Pression,,,,Operational
-10,Table D/10 BUFR – 15,310026(suite),,,012001,Température/température de l'air,,,,Operational
-10,Table D/10 BUFR – 15,310026(suite),,,013001,Humidité spécifique,,,,Operational
-10,Table D/10 BUFR – 15,310026(suite),,,008023,Statistiques de premier ordre,= 13 Moyenne quadratique,,,Operational
-10,Table D/10 BUFR – 15,310026(suite),,,201120,Changer le champ de données,6 bits de long,,,Operational
-10,Table D/10 BUFR – 15,310026(suite),,,010004,Pression,,,,Operational
-10,Table D/10 BUFR – 15,310026(suite),,,201000,Changement du champ de données,Annuler,,,Operational
-10,Table D/10 BUFR – 15,310026(suite),,,201122,Changer le champ de données,6 bits de long,,,Operational
-10,Table D/10 BUFR – 15,310026(suite),,,012001,Température/température de l'air,,,,Operational
-10,Table D/10 BUFR – 15,310026(suite),,,201000,Changement du champ de données,Annuler,,,Operational
-10,Table D/10 BUFR – 15,310026(suite),,,201123,Changer le champ de données,9 bits de long,,,Operational
-10,Table D/10 BUFR – 15,310026(suite),,,013001,Humidité spécifique,,,,Operational
-10,Table D/10 BUFR – 15,310026(suite),,,201000,Changement du champ de données,Annuler,,,Operational
-10,Table D/10 BUFR – 15,310026(suite),,,008023,Statistiques de premier ordre,Mis à valeur manquante,,,Operational
-10,Table D/10 BUFR – 15,310026(suite),,,033007,Degré de confiance,Toutes les données pour la hauteur indiquée,,,Operational
-10,Table D/10 BUFR – 15,310026(suite),,,008003,Caractéristique verticale (observations par satellite),= 0 Surface,,,Operational
-10,Table D/10 BUFR – 15,310026(suite),,,007009,Hauteur géopotentielle,,,,Operational
-10,Table D/10 BUFR – 15,310026(suite),,,010004,Pression,,,,Operational
-10,Table D/10 BUFR – 15,310026(suite),,,008023,Statistiques de premier ordre,= 13 Moyenne quadratique,,,Operational
-10,Table D/10 BUFR – 15,310026(suite),,,201120,Changer le champ de données,6 bits de long,,,Operational
-10,Table D/10 BUFR – 15,310026(suite),,,010004,Pression,,,,Operational
-10,Table D/10 BUFR – 15,310026(suite),,,201000,Changement du champ de données,Annuler,,,Operational
-10,Table D/10 BUFR – 15,310026(suite),,,008023,Statistiques de premier ordre,Mis à valeur manquante,,,Operational
-10,Table D/10 BUFR – 15,310026(suite),,,033007,Degré de confiance,Données de surface,,,Operational
-10,Table D/10 BUFR – 15,310027,Séquence principale pour tous les produits relatifs à la luminance énergétique du ciel,,301071,Indicateur d'identification du satellite/ résolution après traitement,Information sur le produit,,,Operational
-10,Table D/10 BUFR – 15,310027,,,301011,"Année, mois, jour",,,,Operational
-10,Table D/10 BUFR – 15,310027,,,301013,"Heure, minute, seconde",,,,Operational
-10,Table D/10 BUFR – 15,310027,,,301021,Latitude/longitude (précision élevée),,,,Operational
-10,Table D/10 BUFR – 15,310027,,,030021,Nombre de pixels par ligne,,,,Operational
-10,Table D/10 BUFR – 16,310027(suite),,,030022,Nombre de pixels par colonne,,,,Operational
-10,Table D/10 BUFR – 16,310027(suite),,,010002,Hauteur,Hauteur de l'orbite,,,Operational
-10,Table D/10 BUFR – 16,310027(suite),,,304036,Couverture nuageuse,,,,Operational
-10,Table D/10 BUFR – 16,310027(suite),,,002152,Instrument de satellite utilisé dans le traitement des données,,,,Operational
-10,Table D/10 BUFR – 16,310027(suite),,,002167,Méthode de calcul de la luminance énergétique,,,,Operational
-10,Table D/10 BUFR – 16,310027(suite),,,101011,Répéter 1 descripteur 11 fois,,,,Operational
-10,Table D/10 BUFR – 16,310027(suite),,,304035,Toutes les données relatives à la luminance énergétique du ciel,,,,Operational
-10,Table D/10 BUFR – 16,310028,Séquence principale pour tous les produits relatifs à la luminance énergétique du ciel,,301071,Indicateur d'identification du satellite/ résolution après traitement,Information sur le produit,,,Operational
-10,Table D/10 BUFR – 16,310028,,,301011,"Année, mois, jour",,,,Operational
-10,Table D/10 BUFR – 16,310028,,,301013,"Heure, minute, seconde",,,,Operational
-10,Table D/10 BUFR – 16,310028,,,301021,Latitude/longitude (précision élevée),,,,Operational
-10,Table D/10 BUFR – 16,310028,,,030021,Nombre de pixels par ligne,,,,Operational
-10,Table D/10 BUFR – 16,310028,,,030022,Nombre de pixels par colonne,,,,Operational
-10,Table D/10 BUFR – 16,310028,,,010002,Hauteur,Hauteur de l'orbite,,,Operational
-10,Table D/10 BUFR – 16,310028,,,304036,Couverture nuageuse,,,,Operational
-10,Table D/10 BUFR – 16,310028,,,002152,Instrument de satellite utilisé dans le traitement des données,,,,Operational
-10,Table D/10 BUFR – 16,310028,,,002167,Méthode de calcul de la luminance énergétique,,,,Operational
-10,Table D/10 BUFR – 16,310028,,,101011,Répéter 1 descripteur 11 fois,,,,Operational
-10,Table D/10 BUFR – 16,310028,,,304037,Toutes les données relatives à la luminance énergétique du ciel,,,,Operational
-10,Table D/10 BUFR – 16,310029,"Couche, ozone, hauteur, température et vapeur d'eau",,110000,Répétition différée de 10 descripteurs,,,,Operational
-10,Table D/10 BUFR – 16,310029,,,031001,Facteur de répétition différée du descripteur,,,,Operational
-10,Table D/10 BUFR – 16,310029,,,201138,Changer le champ de données,,,,Operational
-10,Table D/10 BUFR – 16,310029,,,202130,Changer d'échelle,,,,Operational
-10,Table D/10 BUFR – 16,310029,,,007004,Pression,,,,Operational
-10,Table D/10 BUFR – 16,310029,,,007004,Pression,,,,Operational
-10,Table D/10 BUFR – 16,310029,,,202000,Changement d'échelle,Annuler,,,Operational
-10,Table D/10 BUFR – 16,310029,,,201000,Changement du champ de données,Annuler,,,Operational
-10,Table D/10 BUFR – 16,310029,,,015020,Densité d'ozone intégrée,,,,Operational
-10,Table D/10 BUFR – 16,310029,,,010002,Hauteur,,,,Operational
-10,Table D/10 BUFR – 16,310029,,,012101,Température/température de l'air,,,,Operational
-10,Table D/10 BUFR – 16,310029,,,013098,Humidité absolue intégrée,,,,Operational
-10,Table D/10 BUFR – 17,310030,Transmission de données par les instruments MIPAS ou GOMOS,,310022,"Indicateur d'identification du satellite, instrument, type de produit",,,,Operational
-10,Table D/10 BUFR – 17,310030,,,301011,"Année, mois, jour",,,,Operational
-10,Table D/10 BUFR – 17,310030,,,301013,"Heure, minute, seconde",,,,Operational
-10,Table D/10 BUFR – 17,310030,,,301021,Latitude/longitude (précision élevée),,,,Operational
-10,Table D/10 BUFR – 17,310030,,,304034,"Latitude/longitude, hauteur du soleil, nombre de couches",,,,Operational
-10,Table D/10 BUFR – 17,310030,,,310029,"Couche, ozone, hauteur, température et vapeur d'eau",,,,Operational
-ES,TABLE_NAME,DESCRIPTEUR,,,SÉQUENCEDEDESCRIPTEURS,NOM DE L’ÉLÉMENT,DESCRIPTION DE L’ÉLÉMENT,,,Operational
-10,Table D/10 BUFR,310069(suite),,,012063,Température de luminance,,,,Operational
-10,Table D/10 BUFR,310069(suite),,,202000,Changement d'échelle,Annuler,,,Operational
-10,Table D/10 BUFR,310069(suite),,,201000,Changement du champ de données,Annuler,,,Operational
-10,Table D/10 BUFR,310070,Enregistrement du sondeur MWTS du système VASS embarqué à bord de satellites FY-3,,,,,,,Operational
-10,Table D/10 BUFR,310070,,,310068,Paramètres du champ de vision du système VASS,,,,Operational
-10,Table D/10 BUFR,310070,,,101013,Répéter 1 descripteur 13 fois,,,,Operational
-10,Table D/10 BUFR,310070,,,310069,Paramètres du canal du système VASS,,,,Operational
-10,Table D/10 BUFR,310071,Enregistrement du sondeur MWHS du système VASS embarqué à bord de satellites FY-3,,,,,,,Operational
-10,Table D/10 BUFR,310071,,,310068,Paramètres du champ de vision du système VASS,,,,Operational
-10,Table D/10 BUFR,310071,,,101015,Répéter 1 descripteur 15 fois,,,,Operational
-10,Table D/10 BUFR,310071,,,310069,Paramètres du canal du système VASS,,,,Operational
-10,Table D/10 BUFR,310072,Enregistrement du sondeur IRAS du système VASS embarqué à bord de satellites FY-3,,,,,,,Operational
-10,Table D/10 BUFR,310072,,,310068,Paramètres du champ de vision du système VASS,,,,Operational
-10,Table D/10 BUFR,310072,,,101026,Répéter 1 descripteur 26 fois,,,,Operational
-10,Table D/10 BUFR,310072,,,310069,Paramètres du canal du système VASS,,,,Operational
-10,Table D/10 BUFR,310077,Vent dérivé d'observations par satellite,,,,,,,Operational
-10,Table D/10 BUFR,310077,,,,Traitement de l'information,,,,Operational
-10,Table D/10 BUFR,310077,,,001033,Identification du centre d'origine/de production,,,,Operational
-10,Table D/10 BUFR,310077,,,001034,Identification du centre secondaire d'origine/de production,,,,Operational
-10,Table D/10 BUFR,310077,,,025061,Identification du logiciel et numéro de version,,,,Operational
-10,Table D/10 BUFR,310077,,,025062,Identification de la base de données,,,,Operational
-10,Table D/10 BUFR,310077,,,,Identification du satellite ou de l'instrument,,,,Operational
-10,Table D/10 BUFR,310077,,,001007,Indicateur d'identification du satellite,,,,Operational
-10,Table D/10 BUFR,310077,,,002153,Fréquence centrale du canal du satellite,,,,Operational
-10,Table D/10 BUFR,310077,,,001012,Direction de déplacement de la plate-forme d'observation mobile,,,,Operational
-10,Table D/10 BUFR,310077,,,201138,Changer le champ de données,,,,Operational
-10,Table D/10 BUFR,310077,,,002026,Résolution en travers de la trajectoire,,,,Operational
-10,Table D/10 BUFR,310077,,,002027,Résolution dans le sens de la route du satellite,,,,Operational
-10,Table D/10 BUFR,310077,,,201000,Changement du champ de données,Annuler,,,Operational
-10,Table D/10 BUFR,310077,,,,Méthodes,,,,Operational
-10,Table D/10 BUFR,310077,,,002028,Dimension du secteur au nadir en coordonnée x,Dimension de la case «cible»,,,Operational
-10,Table D/10 BUFR,310077,,,002029,Dimension du secteur au nadir en coordonnée y,Dimension de la case «cible»,,,Operational
-10,Table D/10 BUFR,310077,,,002161,Méthode de traitement des données du vent,,,,Operational
-10,Table D/10 BUFR,310077(suite),,,002164,Méthode de corrélation des traceurs,,,,Operational
-10,Table D/10 BUFR,310077(suite),,,002023,Méthode de calcul du vent à partir de données satellitaires,,,,Operational
-10,Table D/10 BUFR,310077(suite),,,008012,Identificateur terre/mer,,,,Operational
-10,Table D/10 BUFR,310077(suite),,,008013,Identificateur jour/nuit,,,,Operational
-10,Table D/10 BUFR,310077(suite),,,,Données finales sur les vecteurs de mouvement atmosphérique,,,,Operational
-10,Table D/10 BUFR,310077(suite),,,001124,Indicateur d'identification des points de grille,,,,Operational
-10,Table D/10 BUFR,310077(suite),,,005001,Latitude (précision élevée),,,,Operational
-10,Table D/10 BUFR,310077(suite),,,006001,Longitude (précision élevée),,,,Operational
-10,Table D/10 BUFR,310077(suite),,,004001,Année,,,,Operational
-10,Table D/10 BUFR,310077(suite),,,004002,Mois,,,,Operational
-10,Table D/10 BUFR,310077(suite),,,004003,Jour,,,,Operational
-10,Table D/10 BUFR,310077(suite),,,004004,Heure,,,,Operational
-10,Table D/10 BUFR,310077(suite),,,004005,Minute,,,,Operational
-10,Table D/10 BUFR,310077(suite),,,004006,Seconde,,,,Operational
-10,Table D/10 BUFR,310077(suite),,,004086,Période ou décalage dans le temps de longue durée,Secondes,,,Operational
-10,Table D/10 BUFR,310077(suite),,,002162,Méthode élargie de détermination de l'altitude,,,,Operational
-10,Table D/10 BUFR,310077(suite),,,007004,Pression,,,,Operational
-10,Table D/10 BUFR,310077(suite),,,011001,Direction du vent,,,,Operational
-10,Table D/10 BUFR,310077(suite),,,011002,Vitesse du vent,,,,Operational
-10,Table D/10 BUFR,310077(suite),,,011003,Composante u,,,,Operational
-10,Table D/10 BUFR,310077(suite),,,011004,Composante v,,,,Operational
-10,Table D/10 BUFR,310077(suite),,,012001,Température/température de l'air,,,,Operational
-10,Table D/10 BUFR,310077(suite),,,020014,Hauteur du sommet des nuages,,,,Operational
-10,Table D/10 BUFR,310077(suite),,,007024,Distance zénithale du satellite,,,,Operational
-10,Table D/10 BUFR,310077(suite),,,001023,Numéro de la séquence d'observations,,,,Operational
-10,Table D/10 BUFR,310077(suite),,,104000,Répétition différée de 4 descripteurs,,,,Operational
-10,Table D/10 BUFR,310077(suite),,,031001,Facteur de répétition différée du descripteur,,,,Operational
-10,Table D/10 BUFR,310077(suite),,,002162,Méthode élargie de détermination de l'altitude,,,,Operational
-10,Table D/10 BUFR,310077(suite),,,007004,Pression,,,,Operational
-10,Table D/10 BUFR,310077(suite),,,012001,Température/température de l'air,,,,Operational
-10,Table D/10 BUFR,310077(suite),,,020014,Hauteur du sommet des nuages,,,,Operational
-10,Table D/10 BUFR,310077(suite),,,,Informations sur les images (pour chaque image utilisée),,,,Operational
-10,Table D/10 BUFR,310077(suite),,,113000,Répétition différée de 13 descripteurs,,,,Operational
-10,Table D/10 BUFR,310077(suite),,,031001,Facteur de répétition différée du descripteur,,,,Operational
-10,Table D/10 BUFR,310077(suite),,,004086,Période ou décalage dans le temps de longue durée,Secondes,,,Operational
-10,Table D/10 BUFR,310077(suite),,,002020,Classification des satellites,,,,Operational
-10,Table D/10 BUFR,310077(suite),,,001007,Indicateur d'identification du satellite,,,,Operational
-10,Table D/10 BUFR,310077(suite),,,002019,Instruments satellitaires,,,,Operational
-10,Table D/10 BUFR,310077(suite),,,005042,Numéro du canal,,,,Operational
-10,Table D/10 BUFR,310077(suite),,,002153,Fréquence centrale du canal du satellite,,,,Operational
-10,Table D/10 BUFR,310077(suite),,,005040,Numéro de l'orbite,,,,Operational
-10,Table D/10 BUFR,310077(suite),,,007024,Distance zénithale du satellite,,,,Operational
-10,Table D/10 BUFR,310077(suite),,,005021,Direction ou azimut,,,,Operational
-10,Table D/10 BUFR,310077(suite),,,002162,Méthode élargie de détermination de l'altitude,,,,Operational
-10,Table D/10 BUFR,310077(suite),,,007004,Pression,,,,Operational
-10,Table D/10 BUFR,310077(suite),,,012001,Température/température de l'air,,,,Operational
-10,Table D/10 BUFR,310077(suite),,,020014,Hauteur du sommet des nuages,,,,Operational
-10,Table D/10 BUFR,310077(suite),,,,Vecteurs intermédiaires (pour chaque vecteur composante),,,,Operational
-10,Table D/10 BUFR,310077(suite),,,119000,Répétition différée de 19 descripteurs,,,,Operational
-10,Table D/10 BUFR,310077(suite),,,031001,Facteur de répétition différée du descripteur,,,,Operational
-10,Table D/10 BUFR,310077(suite),,,004086,Période ou décalage dans le temps de longue durée,Secondes,,,Operational
-10,Table D/10 BUFR,310077(suite),,,004086,Période ou décalage dans le temps de longue durée,Secondes,,,Operational
-10,Table D/10 BUFR,310077(suite),,,005001,Latitude (précision élevée),,,,Operational
-10,Table D/10 BUFR,310077(suite),,,006001,Longitude (précision élevée),,,,Operational
-10,Table D/10 BUFR,310077(suite),,,011003,Composante u,,,,Operational
-10,Table D/10 BUFR,310077(suite),,,011004,Composante v,,,,Operational
-10,Table D/10 BUFR,310077(suite),,,011113,Suivi de la corrélation du vecteur,,,,Operational
-10,Table D/10 BUFR,310077(suite),,,025148,Coefficient de variation,,,,Operational
-10,Table D/10 BUFR,310077(suite),,,103000,Répétition différée de 3 descripteurs,,,,Operational
-10,Table D/10 BUFR,310077(suite),,,031001,Facteur de répétition différée du descripteur,,,,Operational
-10,Table D/10 BUFR,310077(suite),,,008023,Statistiques de premier ordre,,,,Operational
-10,Table D/10 BUFR,310077(suite),,,011003,Composante u,,,,Operational
-10,Table D/10 BUFR,310077(suite),,,011004,Composante v,,,,Operational
-10,Table D/10 BUFR,310077(suite),,,008023,Statistiques de premier ordre,Mis à valeur manquante (annuler),,,Operational
-10,Table D/10 BUFR,310077(suite),,,103000,Répétition différée de 3 descripteurs,,,,Operational
-10,Table D/10 BUFR,310077(suite),,,031001,Facteur de répétition différée du descripteur,,,,Operational
-10,Table D/10 BUFR,310077(suite),,,020111,"Composante principale de l'ellipse d'erreur, axe x",,,,Operational
-10,Table D/10 BUFR,310077(suite),,,020112,"Composante secondaire de l'ellipse d'erreur, axe y",,,,Operational
-10,Table D/10 BUFR,310077(suite),,,020114,Angle de l'axe x dans l'ellipse d'erreur,,,,Operational
-10,Table D/10 BUFR,310077(suite),,,,Données de prévision correspondantes,,,,Operational
-10,Table D/10 BUFR,310077(suite),,,001033,Identification du centre d'origine/de production,,,,Operational
-10,Table D/10 BUFR,310077(suite),,,008021,Caractéristique temporelle,= 27 Première approximation,,,Operational
-10,Table D/10 BUFR,310077(suite),,,007004,Pression,,,,Operational
-10,Table D/10 BUFR,310077(suite),,,011095,Composante u du vecteur vent – modèle,,,,Operational
-10,Table D/10 BUFR,310077(suite),,,011096,Composante v du vecteur vent – modèle,,,,Operational
-10,Table D/10 BUFR,310077(suite),,,008021,Caractéristique temporelle,= 4 Prévision,,,Operational
-10,Table D/10 BUFR,310077(suite),,,007004,Pression,,,,Operational
-10,Table D/10 BUFR,310077(suite),,,011095,Composante u du vecteur vent – modèle,,,,Operational
-10,Table D/10 BUFR,310077(suite),,,011096,Composante v du vecteur vent – modèle,,,,Operational
-10,Table D/10 BUFR,310077(suite),,,008021,Caractéristique temporelle,Mis à valeur manquante (annuler),,,Operational
-10,Table D/10 BUFR,310077(suite),,,008086,Caractéristique verticale pour la prévision numérique du temps,= 10 Niveau d'ajustement optimal,,,Operational
-10,Table D/10 BUFR,310077(suite),,,007004,Pression,,,,Operational
-10,Table D/10 BUFR,310077(suite),,,011095,Composante u du vecteur vent - modèle,,,,Operational
-10,Table D/10 BUFR,310077(suite),,,011096,Composante v du vecteur vent – modèle,,,,Operational
-10,Table D/10 BUFR,310077(suite),,,008086,Caractéristique verticale pour la prévision numérique du temps,Mis à valeur manquante (annuler),,,Operational
-10,Table D/10 BUFR,310077(suite),,,,Qualité finale des vecteurs de mouvement atmosphérique,,,,Operational
-10,Table D/10 BUFR,310077(suite),,,102004,Répéter 2 descripteurs 4 fois,,,,Operational
-10,Table D/10 BUFR,310077(suite),,,001044,Application de production,,,,Operational
-10,Table D/10 BUFR,310077(suite),,,033007,Degré de confiance,,,,Operational
-10,Table D/10 BUFR,310077(suite),,,008092,Expression de l'incertitude de mesure,= 0 Incertitude type,,,Operational
-10,Table D/10 BUFR,310077(suite),,,007004,Pression,,,,Operational
-10,Table D/10 BUFR,310077(suite),,,011003,Composante u,,,,Operational
-10,Table D/10 BUFR,310077(suite),,,011004,Composante v,,,,Operational
-10,Table D/10 BUFR,310077(suite),,,008092,Expression de l'incertitude de mesure,Mis à valeur manquante (annuler),,,Operational
-10,Table D/10 BUFR,310077(suite),,,033066,Indicateur de qualité du vecteur de mouvement atmosphérique,,,,Operational
-10,Table D/10 BUFR,310077(suite),,,,Données sur les nuages et microphysique des nuages (fait référence à l'image nominale utilisée pour déterminer l'altitude),,,,Operational
-10,Table D/10 BUFR,310077(suite),,,020081,Étendue de la couche nuageuse dans le secteur,,,,Operational
-10,Table D/10 BUFR,310077(suite),,,020012,Type de nuage,,,,Operational
-10,Table D/10 BUFR,310077(suite),,,020056,Phase des nuages,,,,Operational
-10,Table D/10 BUFR,310077(suite),,,117000,Répétition différée de 17 descripteurs,,,,Operational
-10,Table D/10 BUFR,310077(suite),,,031001,Facteur de répétition différée du descripteur,,,,Operational
-10,Table D/10 BUFR,310077(suite),,,008023,Statistiques de premier ordre,,,,Operational
-10,Table D/10 BUFR,310077(suite),,,020016,Pression au sommet des nuages,,,,Operational
-10,Table D/10 BUFR,310077(suite),,,008092,Expression de l'incertitude de mesure,= 0 Incertitude type,,,Operational
-10,Table D/10 BUFR,310077(suite),,,008003,Caractéristique verticale (observations par satellite),= 2 Sommet de la couche nuageuse,,,Operational
-10,Table D/10 BUFR,310077(suite),,,012001,Température/température de l'air,,,,Operational
-10,Table D/10 BUFR,310077(suite),,,008003,Caractéristique verticale (observations par satellite),Mis à valeur manquante (annuler),,,Operational
-10,Table D/10 BUFR,310077(suite),,,020016,Pression au sommet des nuages,,,,Operational
-10,Table D/10 BUFR,310077(suite),,,008092,Expression de l'incertitude de mesure,Mis à valeur manquante (annuler),,,Operational
-10,Table D/10 BUFR,310077(suite),,,025149,Coût estimatif optimal,,,,Operational
-10,Table D/10 BUFR,310077(suite),,,020016,Pression au sommet des nuages,,,,Operational
-10,Table D/10 BUFR,310077(suite),,,020014,Hauteur du sommet des nuages,,,,Operational
-10,Table D/10 BUFR,310077(suite),,,013093,Épaisseur optique des nuages,,,,Operational
-10,Table D/10 BUFR,310077(suite),,,013109,Teneur en glace/eau liquide,,,,Operational
-10,Table D/10 BUFR,310077(suite),,,040038,Taille des particules de nuages,,,,Operational
-10,Table D/10 BUFR,310077(suite),,,008011,Caractéristique météorologique,= 12 Nuages,,,Operational
-10,Table D/10 BUFR,310077(suite),,,014050,Émissivité,,,,Operational
-10,Table D/10 BUFR,310077(suite),,,008011,Caractéristique météorologique,Mis à valeur manquante (annuler),,,Operational
-10,Table D/10 BUFR,310077(suite),,,008023,Statistiques de premier ordre,Mis à valeur manquante (annuler),,,Operational
+﻿TABLE_NAME,DESCRIPTEUR,SÉQUENCE DE DESCRIPTEURS,NOM DE L’ÉLÉMENT,DESCRIPTION DE L’ÉLÉMENT,NOM de L’ÉLÉMENT
+Table D/10 BUFR – 1,3 10 001,3 01 042,"(Satellite — température de luminance) Indicateur d'identification du satellite, instrument, technique de traitement des données, date/heure, position",,
+Table D/10 BUFR – 1,3 10 001,3 03 031,"Données significatives, terre/mer, température de la pellicule superficielle",,
+Table D/10 BUFR – 1,3 10 001,3 03 032,Nuages,,
+Table D/10 BUFR – 1,3 10 001,1 01 026,Répéter 1 descripteur 26 fois,,
+Table D/10 BUFR – 1,3 10 001,3 03 025,Canal de satellite et température de luminance,,
+Table D/10 BUFR – 1,3 10 002,3 01 042,"(Satellite — basse altitude) Indicateur d'identification du satellite, instrument, technique de traitement des données, date/heure, position",,
+Table D/10 BUFR – 1,3 10 002,3 03 031,"Données significatives, terre/mer, température de la pellicule superficielle",,
+Table D/10 BUFR – 1,3 10 002,3 03 032,Nuages,,
+Table D/10 BUFR – 1,3 10 002,1 01 009,Répéter 1 descripteur 9 fois,,
+Table D/10 BUFR – 1,3 10 002,3 03 023,Température moyenne de la couche,,
+Table D/10 BUFR – 1,3 10 003,3 01 042,"(Satellite — haute altitude) Indicateur d'identification du satellite, instrument, technique de traitement des données, date/heure, position",,
+Table D/10 BUFR – 1,3 10 003,3 03 031,"Données significatives, terre/mer, température de la pellicule superficielle",,
+Table D/10 BUFR – 1,3 10 003,3 03 032,Nuages,,
+Table D/10 BUFR – 1,3 10 003,1 01 006,Répéter 1 descripteur 6 fois,,
+Table D/10 BUFR – 1,3 10 003,3 03 023,Température moyenne de la couche,,
+Table D/10 BUFR – 1,3 10 004,3 01 042,"(Satellite — eau précipitable) Indicateur d'identification du satellite, instrument, technique de traitement des données, date/heure, position",,
+Table D/10 BUFR – 1,3 10 004,3 03 031,"Données significatives, terre/mer, température de la pellicule superficielle",,
+Table D/10 BUFR – 1,3 10 004,3 03 032,Nuages,,
+Table D/10 BUFR – 1,3 10 004,1 01 003,Répéter 1 descripteur 3 fois,,
+Table D/10 BUFR – 1,3 10 004,3 03 024,Eau précipitable,,
+Table D/10 BUFR – 1,3 10 005,3 01 042,"Indicateur d'identification du satellite, instrument, technique de traitement des données, date/heure, position",,
+Table D/10 BUFR – 1,3 10 005,3 03 031,"Données significatives, terre/mer, température de la pellicule superficielle",,
+Table D/10 BUFR – 1,3 10 005,3 03 033,Nuages,,
+Table D/10 BUFR – 1,3 10 005,1 01 000,Répétition différée de 1 descripteur,,
+Table D/10 BUFR – 1,3 10 005,0 31 001,Facteur de répétition différée du descripteur,,
+Table D/10 BUFR – 1,3 10 005,3 03 025,Canal de satellite et température de luminance,,
+Table D/10 BUFR – 2,3 10 006,3 01 042,"Indicateur d'identification du satellite, instrument, technique de traitement des données, date/heure, position",,
+Table D/10 BUFR – 2,3 10 006,3 03 031,"Données significatives, terre/mer, température de la pellicule superficielle",,
+Table D/10 BUFR – 2,3 10 006,3 03 033,Nuages,,
+Table D/10 BUFR – 2,3 10 006,1 01 000,Répétition différée de 1 descripteur,,
+Table D/10 BUFR – 2,3 10 006,0 31 001,Facteur de répétition différée du descripteur,,
+Table D/10 BUFR – 2,3 10 006,3 03 023,Température moyenne de la couche,,
+Table D/10 BUFR – 2,3 10 007,3 01 042,"Indicateur d'identification du satellite, instrument, technique de traitement des données, date/heure, position",,
+Table D/10 BUFR – 2,3 10 007,3 03 031,"Données significatives, terre/mer, température de la pellicule superficielle",,
+Table D/10 BUFR – 2,3 10 007,3 03 033,Nuages,,
+Table D/10 BUFR – 2,3 10 007,1 01 000,Répétition différée de 1 descripteur,,
+Table D/10 BUFR – 2,3 10 007,0 31 001,Facteur de répétition différée du descripteur,,
+Table D/10 BUFR – 2,3 10 007,3 03 024,Eau précipitable,,
+Table D/10 BUFR – 2,3 10 008,3 10 011,(Données de l'ATOVS HIRS) Paramètres du champ de vision du sondeur ATOVS,,
+Table D/10 BUFR – 2,3 10 008,1 01 019,Répéter 1 descripteur 19 fois,,
+Table D/10 BUFR – 2,3 10 008,3 10 012,Paramètres du canal du sondeur ATOVS,,
+Table D/10 BUFR – 2,3 10 008,0 02 150,Numéro du canal de l'instrument TOVS/ ATOVS/AVHRR,,
+Table D/10 BUFR – 2,3 10 008,0 25 079,"Luminance énergétique d'albédo-éclairement énergétique après filtrage solaire, pour le sondeur ATOVS",,
+Table D/10 BUFR – 2,3 10 008,0 25 080,"Luminance énergétique d'albédo-largeur équivalente du filtre, pour le sondeur ATOVS",,
+Table D/10 BUFR – 2,3 10 008,0 33 032,Indicateurs de qualité du canal du sondeur ATOVS,,
+Table D/10 BUFR – 2,3 10 008,0 14 045,Luminance énergétique dans le canal,,
+Table D/10 BUFR – 2,3 10 009,3 10 011,(Données AMSU-A de l'ATOVS) Paramètres du champ de vision du sondeur ATOVS,,
+Table D/10 BUFR – 2,3 10 009,1 01 015,Répéter 1 descripteur 15 fois,,
+Table D/10 BUFR – 2,3 10 009,3 10 012,Paramètres du canal du sondeur ATOVS,,
+Table D/10 BUFR – 2,3 10 010,3 10 011,(Données AMSU-B/MHS de l'ATOVS) Paramètres du champ de vision du sondeur ATOVS,,
+Table D/10 BUFR – 2,3 10 010,1 01 005,Répéter 1 descripteur 5 fois,,
+Table D/10 BUFR – 2,3 10 010,3 10 012,Paramètres du canal du sondeur ATOVS,,
+Table D/10 BUFR – 2,3 10 011,0 08 070,(Paramètres du champ de vision du sondeur ATOVS) Identificateur de produits de sondages verticaux,,
+Table D/10 BUFR – 2,3 10 011,0 01 033,Identification du centre d'origine/de production,,
+Table D/10 BUFR – 3,3 10 011,0 01 034,Identification du centre secondaire d'origine/de production,,
+Table D/10 BUFR – 3,3 10 011,0 08 070,Identificateur de produits de sondages verticaux,,
+Table D/10 BUFR – 3,3 10 011,0 01 033,Identification du centre d'origine/de production,,
+Table D/10 BUFR – 3,3 10 011,0 01 034,Identification du centre secondaire d'origine/de production,,
+Table D/10 BUFR – 3,3 10 011,0 01 007,Indicateur d'identification du satellite,,
+Table D/10 BUFR – 3,3 10 011,0 02 048,Indicateur de détecteur de satellite,,
+Table D/10 BUFR – 3,3 10 011,0 05 040,Numéro de l'orbite,,
+Table D/10 BUFR – 3,3 10 011,0 25 075,"Corrections d'antenne de satellite, numéro de version",,
+Table D/10 BUFR – 3,3 10 011,2 01 133,Changer le champ de données,,
+Table D/10 BUFR – 3,3 10 011,0 05 041,Numéro de la ligne de balayage,,
+Table D/10 BUFR – 3,3 10 011,2 01 000,Changer le champ de données,,
+Table D/10 BUFR – 3,3 10 011,0 05 043,Numéro du champ de vision,,
+Table D/10 BUFR – 3,3 10 011,0 25 070,Numéro de paquet principal,,
+Table D/10 BUFR – 3,3 10 011,0 33 030,Indicateurs d'état pour la ligne de balayage du sondeur ATOVS,,
+Table D/10 BUFR – 3,3 10 011,0 33 031,Indicateurs de qualité de la ligne de balayage du sondeur ATOVS,,
+Table D/10 BUFR – 3,3 10 011,0 04 001,Année,,
+Table D/10 BUFR – 3,3 10 011,0 04 002,Mois,,
+Table D/10 BUFR – 3,3 10 011,0 04 003,Jour,,
+Table D/10 BUFR – 3,3 10 011,0 04 004,Heure,,
+Table D/10 BUFR – 3,3 10 011,0 04 005,Minute,,
+Table D/10 BUFR – 3,3 10 011,2 02 131,Changer d'échelle,,
+Table D/10 BUFR – 3,3 10 011,2 01 138,Changer le champ de données,,
+Table D/10 BUFR – 3,3 10 011,0 04 006,Seconde,,
+Table D/10 BUFR – 3,3 10 011,2 01 000,Changer le champ de données,,
+Table D/10 BUFR – 3,3 10 011,2 02 000,Changer d'échelle,,
+Table D/10 BUFR – 3,3 10 011,0 05 001,Latitude (précision élevée),,
+Table D/10 BUFR – 3,3 10 011,0 06 001,Longitude (précision élevée),,
+Table D/10 BUFR – 3,3 10 011,2 02 126,Changer d'échelle,,
+Table D/10 BUFR – 3,3 10 011,0 07 001,Hauteur de la station,,
+Table D/10 BUFR – 3,3 10 011,2 02 000,Changer d'échelle,,
+Table D/10 BUFR – 3,3 10 011,0 07 024,Distance zénithale du satellite,,
+Table D/10 BUFR – 3,3 10 011,0 05 021,Direction ou azimut,Azimut du satellite,
+Table D/10 BUFR – 3,3 10 011,0 07 025,Distance zénithale du soleil,,
+Table D/10 BUFR – 3,3 10 011,0 05 022,Azimut du soleil,,
+Table D/10 BUFR – 3,3 10 011,0 33 033,Indicateurs de qualité du champ de vision du sondeur ATOVS,,
+Table D/10 BUFR – 3,3 10 011,0 02 151,Indicateur d'identification du radiomètre,,
+Table D/10 BUFR – 3,3 10 011,0 12 064,Température de l'instrument,,
+Table D/10 BUFR – 3,3 10 011,0 02 151,Indicateur d'identification du radiomètre,,
+Table D/10 BUFR – 3,3 10 011,0 12 064,Température de l'instrument,,
+Table D/10 BUFR – 3,3 10 011,0 02 151,Indicateur d'identification du radiomètre,,
+Table D/10 BUFR – 4,3 10 011,0 12 064,Température de l'instrument,,
+Table D/10 BUFR – 4,3 10 011,0 02 151,Indicateur d'identification du radiomètre,,
+Table D/10 BUFR – 4,3 10 011,0 12 064,Température de l'instrument,,
+Table D/10 BUFR – 4,3 10 012,0 02 150,(Paramètres du canal du sondeur ATOVS) Numéro du canal de l'instrument TOVS/ ATOVS/AVHRR,,
+Table D/10 BUFR – 4,3 10 012,0 25 076,"Log10 du numéro d'onde centrale de la luminance énergétique pour la mesure de la température, dans le cas du sondeur ATOVS",,
+Table D/10 BUFR – 4,3 10 012,0 25 077,Coefficient 1 de correction de largeur de bande,,
+Table D/10 BUFR – 4,3 10 012,0 25 078,Coefficient 2 de correction de largeur de bande,,
+Table D/10 BUFR – 4,3 10 012,0 33 032,Indicateurs de qualité du canal du sondeur ATOVS,,
+Table D/10 BUFR – 4,3 10 012,2 01 132,Changer le champ de données,,
+Table D/10 BUFR – 4,3 10 012,2 02 129,Changer d'échelle,,
+Table D/10 BUFR – 4,3 10 012,0 12 063,Température de luminance,,
+Table D/10 BUFR – 4,3 10 012,2 02 000,Changer d'échelle,,
+Table D/10 BUFR – 4,3 10 012,2 01 000,Changer le champ de données,,
+Table D/10 BUFR – 4,3 10 013,0 01 007,(Données de l'AVHRR (couverture mondiale)) Indicateur d'identification du satellite,,
+Table D/10 BUFR – 4,3 10 013,0 05 040,Numéro de l'orbite,,
+Table D/10 BUFR – 4,3 10 013,0 04 001,Année,,
+Table D/10 BUFR – 4,3 10 013,0 04 002,Mois,,
+Table D/10 BUFR – 4,3 10 013,0 04 003,Jour,,
+Table D/10 BUFR – 4,3 10 013,0 04 004,Heure,,
+Table D/10 BUFR – 4,3 10 013,0 04 005,Minute,,
+Table D/10 BUFR – 4,3 10 013,0 04 006,Seconde,,
+Table D/10 BUFR – 4,3 10 013,0 05 001,Latitude (précision élevée),,
+Table D/10 BUFR – 4,3 10 013,0 06 001,Longitude (précision élevée),,
+Table D/10 BUFR – 4,3 10 013,0 07 025,Distance zénithale du soleil,,
+Table D/10 BUFR – 4,3 10 013,0 05 043,Numéro du champ de vision,,
+Table D/10 BUFR – 4,3 10 013,0 25 085,Fraction de pixels clairs dans le champ de vision du sondeur HIRS,,
+Table D/10 BUFR – 4,3 10 013,2 01 131,Changer le champ de données,,
+Table D/10 BUFR – 4,3 10 013,2 02 129,Changer d'échelle,,
+Table D/10 BUFR – 4,3 10 013,0 02 150,Numéro du canal de l'instrument TOVS/ ATOVS/AVHRR,,
+Table D/10 BUFR – 4,3 10 013,0 08 023,Statistiques de premier ordre,,
+Table D/10 BUFR – 4,3 10 013,0 08 072,Type de pixel,,
+Table D/10 BUFR – 4,3 10 013,0 14 027,Albédo,,
+Table D/10 BUFR – 4,3 10 013,0 08 072,Type de pixel,,
+Table D/10 BUFR – 4,3 10 013,0 14 027,Albédo,,
+Table D/10 BUFR – 4,3 10 013,0 02 150,Numéro du canal de l'instrument TOVS/ ATOVS/AVHRR,,
+Table D/10 BUFR – 4,3 10 013,0 08 023,Statistiques de premier ordre,,
+Table D/10 BUFR – 4,3 10 013,0 08 072,Type de pixel,,
+Table D/10 BUFR – 5,3 10 013,0 14 027,Albédo,,
+Table D/10 BUFR – 5,3 10 013,0 08 072,Type de pixel,,
+Table D/10 BUFR – 5,3 10 013,0 14 027,Albédo,,
+Table D/10 BUFR – 5,3 10 013,0 02 150,Numéro du canal de l'instrument TOVS/ ATOVS/AVHRR,,
+Table D/10 BUFR – 5,3 10 013,0 08 023,Statistiques de premier ordre,,
+Table D/10 BUFR – 5,3 10 013,0 08 072,Type de pixel,,
+Table D/10 BUFR – 5,3 10 013,0 14 027,Albédo,,
+Table D/10 BUFR – 5,3 10 013,0 08 072,Type de pixel,,
+Table D/10 BUFR – 5,3 10 013,0 14 027,Albédo,,
+Table D/10 BUFR – 5,3 10 013,2 02 000,Changer d'échelle,,
+Table D/10 BUFR – 5,3 10 013,2 01 000,Changer le champ de données,,
+Table D/10 BUFR – 5,3 10 013,2 01 132,Changer le champ de données,,
+Table D/10 BUFR – 5,3 10 013,2 02 129,Changer d'échelle,,
+Table D/10 BUFR – 5,3 10 013,0 02 150,Numéro du canal de l'instrument TOVS/ ATOVS/AVHRR,,
+Table D/10 BUFR – 5,3 10 013,0 08 023,Statistiques de premier ordre,,
+Table D/10 BUFR – 5,3 10 013,0 08 072,Type de pixel,,
+Table D/10 BUFR – 5,3 10 013,0 12 063,Température de luminance,,
+Table D/10 BUFR – 5,3 10 013,0 08 072,Type de pixel,,
+Table D/10 BUFR – 5,3 10 013,0 12 063,Température de luminance,,
+Table D/10 BUFR – 5,3 10 013,0 02 150,Numéro du canal de l'instrument TOVS/ ATOVS/AVHRR,,
+Table D/10 BUFR – 5,3 10 013,0 08 023,Statistiques de premier ordre,,
+Table D/10 BUFR – 5,3 10 013,0 08 072,Type de pixel,,
+Table D/10 BUFR – 5,3 10 013,0 12 063,Température de luminance,,
+Table D/10 BUFR – 5,3 10 013,0 08 072,Type de pixel,,
+Table D/10 BUFR – 5,3 10 013,0 12 063,Température de luminance,,
+Table D/10 BUFR – 5,3 10 013,0 02 150,Numéro du canal de l'instrument TOVS/ ATOVS/AVHRR,,
+Table D/10 BUFR – 5,3 10 013,0 08 023,Statistiques de premier ordre,,
+Table D/10 BUFR – 5,3 10 013,0 08 072,Type de pixel,,
+Table D/10 BUFR – 5,3 10 013,0 12 063,Température de luminance,,
+Table D/10 BUFR – 5,3 10 013,0 08 072,Type de pixel,,
+Table D/10 BUFR – 5,3 10 013,0 12 063,Température de luminance,,
+Table D/10 BUFR – 5,3 10 013,2 02 000,Changer d'échelle,,
+Table D/10 BUFR – 5,3 10 013,2 01 000,Changer le champ de données,,
+Table D/10 BUFR – 5,3 10 014,3 01 072,(Données de vent du satellite géostationnaire) Identification du satellite,"Identification du satellite, date/ heure, latitude/ longitude",
+Table D/10 BUFR-6,3 10 014,3 03 041,Séquence de données de vent,,
+Table D/10 BUFR-6,3 10 014,3 04 011,GOES-I/M info,,
+Table D/10 BUFR-6,3 10 015,3 01 072,(Données de Météosat relatives au rayonnement) Identification du satellite,,
+Table D/10 BUFR-6,3 10 015,0 07 024,Distance zénithale du satellite,,
+Table D/10 BUFR-6,3 10 015,0 10 002,Hauteur,,
+Table D/10 BUFR-6,3 10 015,3 03 041,Séquence de données de vent,,
+Table D/10 BUFR-6,3 10 015,1 01 003,Répéter 1 descripteur 3 fois,,
+Table D/10 BUFR-6,3 10 015,3 04 032,Nébulosité,,
+Table D/10 BUFR-6,3 10 015,0 02 152,Instrument de satellite utilisé dans le traitement des données,,
+Table D/10 BUFR-6,3 10 015,0 02 024,Méthode de calcul de l'humidité moyenne intégrée,,
+Table D/10 BUFR-6,3 10 015,0 07 004,Pression,,
+Table D/10 BUFR-6,3 10 015,0 07 004,Pression,,
+Table D/10 BUFR-6,3 10 015,0 13 003,Humidité relative,,
+Table D/10 BUFR-6,3 10 015,1 01 003,Répéter 1 descripteur 3 fois,,
+Table D/10 BUFR-6,3 10 015,3 04 033,Luminance énergétique par ciel clair,,
+Table D/10 BUFR-6,3 10 016,3 01 072,(Données de Météosat deuxième génération (MSG) relatives au rayonnement) Identification du satellite,,
+Table D/10 BUFR-6,3 10 016,0 07 024,Distance zénithale du satellite,,
+Table D/10 BUFR-6,3 10 016,0 10 002,Hauteur,,
+Table D/10 BUFR-6,3 10 016,3 03 041,Séquence de données de vent,,
+Table D/10 BUFR-6,3 10 016,1 01 012,Répéter 1 descripteur 12 fois,,
+Table D/10 BUFR-6,3 10 016,3 04 032,Nébulosité,,
+Table D/10 BUFR-6,3 10 016,0 02 152,Instrument de satellite utilisé dans le traitement des données,,
+Table D/10 BUFR-6,3 10 016,0 02 024,Méthode de calcul de l'humidité moyenne intégrée,,
+Table D/10 BUFR-6,3 10 016,0 07 004,Pression,,
+Table D/10 BUFR-6,3 10 016,0 07 004,Pression,,
+Table D/10 BUFR-6,3 10 016,0 13 003,Humidité relative,,
+Table D/10 BUFR-6,3 10 016,1 01 012,Répéter 1 descritpeur 12 fois,,
+Table D/10 BUFR-6,3 10 016,3 04 033,Luminance énergétique par ciel clair,,
+Table D/10 BUFR-6,3 10 018,0 01 007,(Données sur l'ozone) Indicateur d'identification du satellite,,
+Table D/10 BUFR-6,3 10 018,0 05 040,Numéro de l'orbite,,
+Table D/10 BUFR-6,3 10 018,0 04 001,Année,,
+Table D/10 BUFR-6,3 10 018,0 04 043,Jour de l'année,,
+Table D/10 BUFR-6,3 10 018,0 04 004,Heure,,
+Table D/10 BUFR-6,3 10 018,0 04 005,Minute,,
+Table D/10 BUFR-6,3 10 018,0 04 006,Seconde,,
+Table D/10 BUFR-6,3 10 018,2 07 002,"Augmenter l'échelle, la valeur de référence et le champ de données",,
+Table D/10 BUFR-6,3 10 018,0 26 030,Temps d'intégration de la mesure,,
+Table D/10 BUFR – 7,3 10 018,2 07 000,"Augmentation de l'échelle, de la valeur de référence et du champ de données",Annuler,
+Table D/10 BUFR – 7,3 10 018,0 05 002,Latitude (faible précision),,
+Table D/10 BUFR – 7,3 10 018,0 06 002,Longitude (faible précision),,
+Table D/10 BUFR – 7,3 10 018,0 33 072,Erreur relative à l'ozone,,
+Table D/10 BUFR – 7,3 10 018,0 07 025,Distance zénithale du soleil,,
+Table D/10 BUFR – 7,3 10 018,0 05 022,Azimut du soleil,,
+Table D/10 BUFR – 7,3 10 018,2 07 002,"Augmenter l'échelle, la valeur de référence et le champ de données",,
+Table D/10 BUFR – 7,3 10 018,0 15 001,Ozone total,,
+Table D/10 BUFR – 7,3 10 018,2 07 000,"Augmentation de l'échelle, de la valeur de référence et du champ de données",Annuler,
+Table D/10 BUFR – 7,3 10 018,0 08 003,Caractéristique verticale (observations par satellite),= 0 Surface,
+Table D/10 BUFR – 7,3 10 018,2 07 001,"Augmenter l'échelle, la valeur de référence et le champ de données",,
+Table D/10 BUFR – 7,3 10 018,0 10 004,Pression,Terrain,
+Table D/10 BUFR – 7,3 10 018,2 07 000,"Augmentation de l'échelle, de la valeur de référence et du champ de données",Annuler,
+Table D/10 BUFR – 7,3 10 018,0 08 003,Caractéristique verticale (observations par satellite),Mis à valeur manquante (annuler),
+Table D/10 BUFR – 7,3 10 018,0 08 003,Caractéristique verticale (observations par satellite),= 2 Sommet des nuages,
+Table D/10 BUFR – 7,3 10 018,0 33 042,Type de limite représentée par la valeur qui suit,= 0 Limite inférieure exclue,
+Table D/10 BUFR – 7,3 10 018,2 07 001,"Augmenter l'échelle, la valeur de référence et le champ de données",,
+Table D/10 BUFR – 7,3 10 018,0 07 004,Pression,,
+Table D/10 BUFR – 7,3 10 018,2 07 000,"Augmentation de l'échelle, de la valeur de référence et du champ de données",Annuler,
+Table D/10 BUFR – 7,3 10 018,2 07 002,"Augmenter l'échelle, la valeur de référence et le champ de données",,
+Table D/10 BUFR – 7,3 10 018,0 15 001,Ozone total,Inférieur à la pression au sommet des nuages,
+Table D/10 BUFR – 7,3 10 018,2 07 000,"Augmentation de l'échelle, de la valeur de référence et du champ de données",Annuler,
+Table D/10 BUFR – 7,3 10 018,0 08 003,Caractéristique verticale (observations par satellite),Mis à valeur manquante (annuler),
+Table D/10 BUFR – 7,3 10 018,2 07 002,"Augmenter l'échelle, la valeur de référence et le champ de données",,
+Table D/10 BUFR – 7,3 10 018,0 20 081,Étendue de la couche nuageuse dans le secteur,Nébulosité,
+Table D/10 BUFR – 7,3 10 018,2 07 000,,Annuler,"Augmentation de l'échelle, de la valeur de référence et du champ de données"
+Table D/10 BUFR-8,3 10 018,0 20 065,Couverture neigeuse,,
+Table D/10 BUFR-8,3 10 018,0 08 029,Type de surface,,
+Table D/10 BUFR-8,3 10 018,2 07 004,"Augmenter l'échelle, la valeur de référence et le champ de données",,
+Table D/10 BUFR-8,3 10 018,0 15 030,Indice de contamination par aérosols,,
+Table D/10 BUFR-8,3 10 018,2 07 000,"Augmentation de l'échelle, de la valeur de référence et du champ de données",Annuler,
+Table D/10 BUFR-8,3 10 018,0 08 075,Identificateur d'orbite ascendante ou descendante,,
+Table D/10 BUFR-8,3 10 019,0 01 007,(Données sur l'ozone) Indicateur d'identification du satellite,,
+Table D/10 BUFR-8,3 10 019,0 02 019,Instruments satellitaires,= 624 SBUV/2,
+Table D/10 BUFR-8,3 10 019,3 01 011,"Année, mois, jour",,
+Table D/10 BUFR-8,3 10 019,3 01 013,"Heure, minute, seconde",,
+Table D/10 BUFR-8,3 10 019,3 01 023,Latitude/longitude (faible précision),,
+Table D/10 BUFR-8,3 10 019,0 07 025,Distance zénithale du soleil,,
+Table D/10 BUFR-8,3 10 019,0 08 021,Caractéristique temporelle,= 28 Début du balayage,
+Table D/10 BUFR-8,3 10 019,0 07 025,Distance zénithale du soleil,,
+Table D/10 BUFR-8,3 10 019,0 08 021,Caractéristique temporelle,= 29 Fin du balayage,
+Table D/10 BUFR-8,3 10 019,0 07 025,Distance zénithale du soleil,,
+Table D/10 BUFR-8,3 10 019,0 08 021,Caractéristique temporelle,Mis à valeur manquante (annuler),
+Table D/10 BUFR-8,3 10 019,0 08 029,Type de surface,,
+Table D/10 BUFR-8,3 10 019,0 05 040,Numéro de l'orbite,,
+Table D/10 BUFR-8,3 10 019,0 08 075,Identificateur d'orbite ascendante ou descendante,,
+Table D/10 BUFR-8,3 10 019,0 08 003,Caractéristique verticale (observations par satellite),= 0 Surface,
+Table D/10 BUFR-8,3 10 019,0 10 004,Pression,= Terrain,
+Table D/10 BUFR-8,3 10 019,0 08 003,Caractéristique verticale (observations par satellite),Mis à valeur manquante (annuler),
+Table D/10 BUFR-8,3 10 019,2 07 002,"Augmenter l'échelle, la valeur de référence et le champ de données",,
+Table D/10 BUFR-8,3 10 019,0 15 001,Ozone total,,
+Table D/10 BUFR-8,3 10 019,2 07 000,"Augmentation de l'échelle, de la valeur de référence et du champ de données",Annuler,
+Table D/10 BUFR-8,3 10 019,0 33 070,Qualité de l'ozone total,,
+Table D/10 BUFR-8,3 10 019,0 15 030,Indice de contamination par aérosols,,
+Table D/10 BUFR-8,3 10 019,2 07 002,"Augmenter l'échelle, la valeur de référence et le champ de données",,
+Table D/10 BUFR-8,3 10 019,0 20 081,Étendue de la couche nuageuse dans le secteur,Nébulosité,
+Table D/10 BUFR-8,3 10 019,2 07 000,"Augmentation de l'échelle, de la valeur de référence et du champ de données",Annuler,
+Table D/10 BUFR-8,3 10 019,0 08 003,Caractéristique verticale (observations par satellite),= 2 Sommet des nuages,
+Table D/10 BUFR-9,3 10 019,0 33 042,Type de limite représentée par la valeur qui suit,= 0 Limite inférieure exclue,
+Table D/10 BUFR-9,3 10 019,0 07 004,Pression,,
+Table D/10 BUFR-9,3 10 019,2 07 002,"Augmenter l'échelle, la valeur de référence et le champ de données",,
+Table D/10 BUFR-9,3 10 019,0 15 001,Ozone total,Inférieur à la pression au sommet des nuages,
+Table D/10 BUFR-9,3 10 019,2 07 000,"Augmentation de l'échelle, de la valeur de référence et du champ de données",Annuler,
+Table D/10 BUFR-9,3 10 019,0 08 003,Caractéristique verticale (observations par satellite),Mis à valeur manquante (annuler),
+Table D/10 BUFR-9,3 10 019,1 13 021,Répéter 13 descripteurs 21 fois,,
+Table D/10 BUFR-9,3 10 019,0 07 004,Pression,Bas de la couche,
+Table D/10 BUFR-9,3 10 019,0 07 004,Pression,Sommet de la couche,
+Table D/10 BUFR-9,3 10 019,2 07 002,"Augmenter l'échelle, la valeur de référence et le champ de données",,
+Table D/10 BUFR-9,3 10 019,0 08 021,Caractéristique temporelle,= 27 Première approximation,
+Table D/10 BUFR-9,3 10 019,0 15 005,Pression partielle de l'ozone,,
+Table D/10 BUFR-9,3 10 019,0 08 021,Caractéristique temporelle,Mis à valeur manquante (annuler),
+Table D/10 BUFR-9,3 10 019,0 15 005,Pression partielle de l'ozone,,
+Table D/10 BUFR-9,3 10 019,0 33 007,Degré de confiance,,
+Table D/10 BUFR-9,3 10 019,2 07 000,"Augmentation de l'échelle, de la valeur de référence et du champ de données",Annuler,
+Table D/10 BUFR-9,3 10 019,0 08 026,Caractéristique matricielle,= 0 Rang de la matrice de noyaux moyens,
+Table D/10 BUFR-9,3 10 019,1 01 020,Répéter 1 descripteur 20 fois,,
+Table D/10 BUFR-9,3 10 019,0 25 143,Coefficient linéaire,,
+Table D/10 BUFR-9,3 10 019,0 08 026,Caractéristique matricielle,Mis à valeur manquante (annuler),
+Table D/10 BUFR-9,3 10 019,0 08 043,Type de constituants chimiques ou physiques de l'atmosphère,= 0 Ozone,
+Table D/10 BUFR-9,3 10 019,1 09 015,Répéter 9 descripteurs 15 fois,,
+Table D/10 BUFR-9,3 10 019,0 07 004,Pression,,
+Table D/10 BUFR-9,3 10 019,0 08 090,Échelle décimale des mantisses suivantes,,
+Table D/10 BUFR-9,3 10 019,2 07 006,"Augmenter l'échelle, la valeur de référence et le champ de données",,
+Table D/10 BUFR-9,3 10 019,0 15 008,Mantisse du rapport de mélange volumétrique,,
+Table D/10 BUFR-9,3 10 019,2 07 000,"Augmentation de l'échelle, de la valeur de référence et du champ de données",Annuler,
+Table D/10 BUFR – 10,3 10 019,0 08 090,Échelle décimale des mantisses suivantes,Mis à valeur manquante (annuler),
+Table D/10 BUFR – 10,3 10 019,2 07 002,"Augmenter l'échelle, la valeur de référence et le champ de données",,
+Table D/10 BUFR – 10,3 10 019,0 33 007,Degré de confiance,,
+Table D/10 BUFR – 10,3 10 019,2 07 000,"Augmentation de l'échelle, de la valeur de référence et du champ de données",Annuler,
+Table D/10 BUFR – 10,3 10 019,0 08 043,Type de constituants chimiques ou physiques de l'atmosphère,Mis à valeur manquante (annuler),
+Table D/10 BUFR – 10,3 10 019,0 33 071,Qualité du profil de l'ozone,,
+Table D/10 BUFR – 10,3 10 019,1 08 008,Répéter 8 descripteurs 8 fois,,
+Table D/10 BUFR – 10,3 10 019,2 02 124,Changer d'échelle,,
+Table D/10 BUFR – 10,3 10 019,2 01 107,Changer le champ de données,,
+Table D/10 BUFR – 10,3 10 019,0 02 071,Longueur d'onde spectrographique,,
+Table D/10 BUFR – 10,3 10 019,2 01 000,Changement du champ de données,Annuler,
+Table D/10 BUFR – 10,3 10 019,2 02 000,Changement d'échelle,Annuler,
+Table D/10 BUFR – 10,3 10 019,2 07 002,"Augmenter l'échelle, la valeur de référence et le champ de données",,
+Table D/10 BUFR – 10,3 10 019,0 20 081,Étendue de la couche nuageuse dans le secteur,Nébulosité,
+Table D/10 BUFR – 10,3 10 019,2 07 000,"Augmentation de l'échelle, de la valeur de référence et du champ de données",Annuler,
+Table D/10 BUFR – 10,3 10 020,3 10 022,"(Données d'ozone déduites) Indicateur d'identification du satellite, instrument, type de produit",,
+Table D/10 BUFR – 10,3 10 020,3 01 011,"Année, mois, jour",,
+Table D/10 BUFR – 10,3 10 020,3 01 013,"Heure, minute, seconde",,
+Table D/10 BUFR – 10,3 10 020,3 01 021,Latitude/longitude (précision élevée),,
+Table D/10 BUFR – 10,3 10 020,3 04 034,"Latitude/longitude, hauteur du soleil, nombre de couches",,
+Table D/10 BUFR – 10,3 10 020,3 10 021,"Densité d'ozone intégrée, hauteur d'une couche déterminée",,
+Table D/10 BUFR – 10,3 10 021,1 08 000,"(Densité d'ozone intégrée, hauteur d'une couche déterminée) Répétition différée de 8 descripteurs",,
+Table D/10 BUFR – 10,3 10 021,0 31 001,Facteur de répétition différée du descripteur,,
+Table D/10 BUFR – 10,3 10 021,2 01 131,Changer le champ de données,,
+Table D/10 BUFR – 10,3 10 021,2 02 129,Changer d'échelle,,
+Table D/10 BUFR – 10,3 10 021,0 07 004,Pression,,
+Table D/10 BUFR – 10,3 10 021,0 07 004,Pression,,
+Table D/10 BUFR – 10,3 10 021,2 02 000,Changement d'échelle,Annuler,
+Table D/10 BUFR – 10,3 10 021,2 01 000,Changement du champ de données,Annuler,
+Table D/10 BUFR – 10,3 10 021,0 15 020,Densité d'ozone intégrée,,
+Table D/10 BUFR – 10,3 10 021,0 10 002,Hauteur,,
+Table D/10 BUFR – 11,3 10 022,0 01 007,"(Indicateur d'identification du satellite, instrument, type de produit) Indicateur d'identification du satellite",,
+Table D/10 BUFR – 11,3 10 022,0 02 019,Instruments satellitaires,,
+Table D/10 BUFR – 11,3 10 022,0 01 033,Identification du centre d'origine/ de production,,
+Table D/10 BUFR – 11,3 10 022,0 02 172,Type de produit pour les données extraites concernant les gaz atmosphériques,,
+Table D/10 BUFR – 11,3 10 023,3 01 072,(Données sur la luminance énergétique fournies par les satellites géostationnaires dans plusieurs canaux) Identification du satellite,,
+Table D/10 BUFR – 11,3 10 023,0 30 021,Nombre de pixels par ligne,,
+Table D/10 BUFR – 11,3 10 023,0 30 022,Nombre de pixels par colonne,,
+Table D/10 BUFR – 11,3 10 023,0 08 012,Identificateur terre/mer,,
+Table D/10 BUFR – 11,3 10 023,0 07 024,Distance zénithale du satellite,,
+Table D/10 BUFR – 11,3 10 023,0 07 025,Distance zénithale du soleil,,
+Table D/10 BUFR – 11,3 10 023,0 10 002,Hauteur,,
+Table D/10 BUFR – 11,3 10 023,1 01 012,Répéter 1 descripteur 12 fois,,
+Table D/10 BUFR – 11,3 10 023,3 04 032,Nébulosité,,
+Table D/10 BUFR – 11,3 10 023,1 05 002,Répéter 5 descripteurs 2 fois,,
+Table D/10 BUFR – 11,3 10 023,0 02 152,Instrument de satellite utilisé dans le traitement des données,,
+Table D/10 BUFR – 11,3 10 023,0 02 024,Méthode de calcul de l'humidité moyenne intégrée,,
+Table D/10 BUFR – 11,3 10 023,0 07 004,Pression,,
+Table D/10 BUFR – 11,3 10 023,0 07 004,Pression,,
+Table D/10 BUFR – 11,3 10 023,0 13 003,Humidité relative,,
+Table D/10 BUFR – 11,3 10 023,1 01 012,Répéter 1 descripteur 12 fois,,
+Table D/10 BUFR – 11,3 10 023,3 04 033,Luminance énergétique par ciel clair,,
+Table D/10 BUFR – 11,3 10 024,3 01 072,(Données sur la luminance énergétique fournies par les satellites géostationnaires dans trois canaux) Identification du satellite,,
+Table D/10 BUFR – 11,3 10 024,0 30 021,Nombre de pixels par ligne,,
+Table D/10 BUFR – 11,3 10 024,0 30 022,Nombre de pixels par colonne,,
+Table D/10 BUFR – 11,3 10 024,0 08 012,Identificateur terre/mer,,
+Table D/10 BUFR – 11,3 10 024,0 07 024,Distance zénithale du satellite,,
+Table D/10 BUFR – 11,3 10 024,0 07 025,Distance zénithale du soleil,,
+Table D/10 BUFR – 11,3 10 024,0 10 002,Hauteur,,
+Table D/10 BUFR – 11,3 10 024,1 01 003,Répéter 1 descripteur 3 fois,,
+Table D/10 BUFR – 11,3 10 024,3 04 032,Nébulosité,,
+Table D/10 BUFR – 11,3 10 024,1 05 002,Répéter 5 descripteurs 2 fois,,
+Table D/10 BUFR – 11,3 10 024,0 02 152,Instrument de satellite utilisé dans le traitement des données,,
+Table D/10 BUFR – 11,3 10 024,0 02 024,Méthode de calcul de l'humidité moyenne intégrée,,
+Table D/10 BUFR – 11,3 10 024,0 07 004,Pression,,
+Table D/10 BUFR – 12,3 10 024,0 07 004,Pression,,
+Table D/10 BUFR – 12,3 10 024,0 13 003,Humidité relative,,
+Table D/10 BUFR – 12,3 10 024,1 01 003,Répéter 1 descripteur 3 fois,,
+Table D/10 BUFR – 12,3 10 024,3 04 033,Luminance énergétique par ciel clair,,
+Table D/10 BUFR – 12,3 10 025,0 01 007,(Enregistrement de la température du SSMIS) Indicateur d'identification du satellite,,
+Table D/10 BUFR – 12,3 10 025,0 08 021,Caractéristique temporelle,Début du balayage,
+Table D/10 BUFR – 12,3 10 025,0 04 001,Année,,
+Table D/10 BUFR – 12,3 10 025,0 04 002,Mois,,
+Table D/10 BUFR – 12,3 10 025,0 04 003,Jour,,
+Table D/10 BUFR – 12,3 10 025,0 04 004,Heure,,
+Table D/10 BUFR – 12,3 10 025,0 04 005,Minute,,
+Table D/10 BUFR – 12,3 10 025,2 01 138,Changer le champ de données,,
+Table D/10 BUFR – 12,3 10 025,2 02 131,Changer d'échelle,,
+Table D/10 BUFR – 12,3 10 025,0 04 006,Seconde,Millisecondes,
+Table D/10 BUFR – 12,3 10 025,2 02 000,Changer d'échelle,,
+Table D/10 BUFR – 12,3 10 025,2 01 000,Changer le champ de données,,
+Table D/10 BUFR – 12,3 10 025,2 01 132,Changer le champ de données,,
+Table D/10 BUFR – 12,3 10 025,0 05 041,Numéro de la ligne de balayage,Numéro du balayage,
+Table D/10 BUFR – 12,3 10 025,2 01 000,Changer le champ de données,,
+Table D/10 BUFR – 12,3 10 025,2 01 129,Changer le champ de données,,
+Table D/10 BUFR – 12,3 10 025,0 05 043,Numéro du champ de vision,Numéro de la scène,
+Table D/10 BUFR – 12,3 10 025,2 01 000,Changer le champ de données,,
+Table D/10 BUFR – 12,3 10 025,0 05 002,Latitude (faible précision),,
+Table D/10 BUFR – 12,3 10 025,0 06 002,Longitude (faible précision),,
+Table D/10 BUFR – 12,3 10 025,0 13 040,Indicateur de surface,,
+Table D/10 BUFR – 12,3 10 025,0 20 029,Indicateur de pluie,,
+Table D/10 BUFR – 12,3 10 025,1 04 024,Répéter 4 descripteurs 24 fois,,
+Table D/10 BUFR – 12,3 10 025,0 05 042,Numéro du canal,,
+Table D/10 BUFR – 12,3 10 025,0 12 163,Température de luminance,,
+Table D/10 BUFR – 12,3 10 025,0 21 083,Étalonnage – cible chaude,,
+Table D/10 BUFR – 12,3 10 025,0 21 084,Étalonnage – cible froide,,
+Table D/10 BUFR – 12,3 10 025,1 15 003,Répéter 15 descripteurs 3 fois,,
+Table D/10 BUFR – 12,3 10 025,0 04 001,Année,,
+Table D/10 BUFR – 12,3 10 025,0 04 002,Mois,,
+Table D/10 BUFR – 12,3 10 025,0 04 003,Jour,,
+Table D/10 BUFR – 12,3 10 025,2 01 142,Changer le champ de données,,
+Table D/10 BUFR – 12,3 10 025,2 02 131,Changer d'échelle,,
+Table D/10 BUFR – 12,3 10 025,0 04 026,Période ou décalage dans le temps,Éphéméride millisecondes,
+Table D/10 BUFR – 12,3 10 025,2 02 000,Changer d'échelle,,
+Table D/10 BUFR – 12,3 10 025,2 01 000,Changer le champ de données,,
+Table D/10 BUFR – 12,3 10 025,0 05 001,Latitude (précision élevée),Éphéméride,
+Table D/10 BUFR – 12,3 10 025,0 06 001,Longitude (précision élevée),Éphéméride,
+Table D/10 BUFR – 13,3 10 025,2 01 138,Changer le champ de données,,
+Table D/10 BUFR – 13,3 10 025,2 02 129,Changer d'échelle,,
+Table D/10 BUFR – 13,3 10 025,0 07 001,Hauteur de la station,Éphéméride,
+Table D/10 BUFR – 13,3 10 025,2 02 000,Changer d'échelle,,
+Table D/10 BUFR – 13,3 10 025,2 01 000,Changer le champ de données,,
+Table D/10 BUFR – 13,3 10 025,0 08 021,Caractéristique temporelle,Début de l'orbite,
+Table D/10 BUFR – 13,3 10 025,0 04 001,Année,,
+Table D/10 BUFR – 13,3 10 025,0 04 002,Mois,,
+Table D/10 BUFR – 13,3 10 025,0 04 003,Jour,,
+Table D/10 BUFR – 13,3 10 025,0 04 004,Heure,,
+Table D/10 BUFR – 13,3 10 025,0 04 005,Minute,,
+Table D/10 BUFR – 13,3 10 025,0 05 040,Numéro de l'orbite,,
+Table D/10 BUFR – 13,3 10 025,1 01 003,Répéter 1 descripteur 3 fois,,
+Table D/10 BUFR – 13,3 10 025,0 12 070,Température de la charge chaude,,
+Table D/10 BUFR – 13,3 10 025,0 25 054,Numéro d'identification de la sous-trame SSMIS,,
+Table D/10 BUFR – 13,3 10 025,1 01 004,Répéter 1 descripteur 4 fois,,
+Table D/10 BUFR – 13,3 10 025,0 25 055,Télémaintenance du multiplexeur,,
+Table D/10 BUFR – 13,3 10 025,0 08 007,Caractéristique dimensionnelle,Ligne,
+Table D/10 BUFR – 13,3 10 025,1 04 028,Répéter 4 descripteurs 28 fois,,
+Table D/10 BUFR – 13,3 10 025,0 05 002,Latitude (faible précision),,
+Table D/10 BUFR – 13,3 10 025,0 06 002,Longitude (faible précision),,
+Table D/10 BUFR – 13,3 10 025,0 02 111,Angle d'incidence du radar,,
+Table D/10 BUFR – 13,3 10 025,0 05 021,Direction ou azimut,Angle de la Terre,
+Table D/10 BUFR – 13,3 10 026,3 10 022,"(Données satellitaires d'occultation radio) Indicateur d'identification du satellite, instrument, type de produit",,
+Table D/10 BUFR – 13,3 10 026,0 25 060,Identification du logiciel,,
+Table D/10 BUFR – 13,3 10 026,0 08 021,Caractéristique temporelle,= 17 Commencement du phénomène,
+Table D/10 BUFR – 13,3 10 026,3 01 011,"Année, mois, jour",,
+Table D/10 BUFR – 13,3 10 026,3 01 012,"Heure, minute",,
+Table D/10 BUFR – 13,3 10 026,2 01 138,Changer le champ de données,16 bits de long,
+Table D/10 BUFR – 13,3 10 026,2 02 131,Changer d'échelle,Échelle: 3,
+Table D/10 BUFR – 13,3 10 026,0 04 006,Seconde,,
+Table D/10 BUFR – 13,3 10 026,2 02 000,Changement d'échelle,Annuler,
+Table D/10 BUFR – 13,3 10 026,2 01 000,Changement du champ de données,Annuler,
+Table D/10 BUFR – 13,3 10 026,0 33 039,Indicateurs de qualité des données d'occultation radio,,
+Table D/10 BUFR – 13,3 10 026,0 33 007,Degré de confiance,Ensemble du message,
+Table D/10 BUFR – 13,3 10 026,3 04 030,Position de la plate-forme,,
+Table D/10 BUFR – 13,3 10 026,3 04 031,Vitesse de déplacement de la plate-forme,,
+Table D/10 BUFR – 13,3 10 026,0 02 020,Classification des satellites,,
+Table D/10 BUFR – 13,3 10 026,0 01 050,Numéro d'identification de l'émetteur de la plate-forme,,
+Table D/10 BUFR – 14,3 10 026,2 02 127,Changer d'échelle,Échelle: 1,
+Table D/10 BUFR – 14,3 10 026,3 04 030,Position de la plate-forme,,
+Table D/10 BUFR – 14,3 10 026,2 02 000,Changement d'échelle,Annuler,
+Table D/10 BUFR – 14,3 10 026,3 04 031,Vitesse de déplacement de la plate-forme,,
+Table D/10 BUFR – 14,3 10 026,2 01 133,Changer le champ de données,18 bits de long,
+Table D/10 BUFR – 14,3 10 026,2 02 131,Changer d'échelle,Échelle: 3,
+Table D/10 BUFR – 14,3 10 026,0 04 016,Incrément temporel,,
+Table D/10 BUFR – 14,3 10 026,2 02 000,Changement d'échelle,Annuler,
+Table D/10 BUFR – 14,3 10 026,2 01 000,Changement du champ de données,Annuler,
+Table D/10 BUFR – 14,3 10 026,3 01 021,Latitude/longitude (précision élevée),,
+Table D/10 BUFR – 14,3 10 026,3 04 030,Position de la plate-forme,,
+Table D/10 BUFR – 14,3 10 026,0 10 035,Rayon de la courbure locale de la Terre,,
+Table D/10 BUFR – 14,3 10 026,0 05 021,Direction ou azimut,,
+Table D/10 BUFR – 14,3 10 026,0 10 036,Ondulation du géoïde,,
+Table D/10 BUFR – 14,3 10 026,1 13 000,Répétition différée de 13 descripteurs,,
+Table D/10 BUFR – 14,3 10 026,0 31 002,Facteur élargi de répétition différée du descripteur,,
+Table D/10 BUFR – 14,3 10 026,3 01 021,Latitude/longitude (précision élevée),,
+Table D/10 BUFR – 14,3 10 026,0 05 021,Direction ou azimut,,
+Table D/10 BUFR – 14,3 10 026,1 08 000,Répétition différée de 8 descripteurs,,
+Table D/10 BUFR – 14,3 10 026,0 31 001,Facteur de répétition différée du descripteur,,
+Table D/10 BUFR – 14,3 10 026,0 02 121,Fréquence moyenne,,
+Table D/10 BUFR – 14,3 10 026,0 07 040,Paramètre d'impact,,
+Table D/10 BUFR – 14,3 10 026,0 15 037,Angle de courbure,,
+Table D/10 BUFR – 14,3 10 026,0 08 023,Statistiques de premier ordre,= 13 Moyenne quadratique,
+Table D/10 BUFR – 14,3 10 026,2 01 125,Changer le champ de données,20 bits de long,
+Table D/10 BUFR – 14,3 10 026,0 15 037,Angle de courbure,,
+Table D/10 BUFR – 14,3 10 026,2 01 000,Changement du champ de données,Annuler,
+Table D/10 BUFR – 14,3 10 026,0 08 023,Statistiques de premier ordre,Mis à valeur manquante,
+Table D/10 BUFR – 14,3 10 026,0 33 007,Degré de confiance,Toutes les données pour la répétition,
+Table D/10 BUFR – 14,3 10 026,1 08 000,Répétition différée de 8 descripteurs,,
+Table D/10 BUFR – 14,3 10 026,0 31 002,Facteur élargi de répétition différée du descripteur,,
+Table D/10 BUFR – 14,3 10 026,0 07 007,Hauteur,,
+Table D/10 BUFR – 14,3 10 026,0 15 036,Réfractivité atmosphérique,,
+Table D/10 BUFR – 14,3 10 026,0 08 023,Statistiques de premier ordre,= 13 Moyenne quadratique,
+Table D/10 BUFR – 14,3 10 026,2 01 123,Changer le champ de données,14 bits de long,
+Table D/10 BUFR – 14,3 10 026,0 15 036,Réfractivité atmosphérique,,
+Table D/10 BUFR – 14,3 10 026,2 01 000,Changement du champ de données,Annuler,
+Table D/10 BUFR – 14,3 10 026,0 08 023,Statistiques de premier ordre,Mis à valeur manquante,
+Table D/10 BUFR – 15,3 10 026,0 33 007,Degré de confiance,Toutes les données pour la hauteur indiquée,
+Table D/10 BUFR – 15,3 10 026,1 16 000,Répétition différée de 16 descripteurs,,
+Table D/10 BUFR – 15,3 10 026,0 31 002,Facteur élargi de répétition différée du descripteur,,
+Table D/10 BUFR – 15,3 10 026,0 07 009,Hauteur géopotentielle,,
+Table D/10 BUFR – 15,3 10 026,0 10 004,Pression,,
+Table D/10 BUFR – 15,3 10 026,0 12 001,Température/température de l'air,,
+Table D/10 BUFR – 15,3 10 026,0 13 001,Humidité spécifique,,
+Table D/10 BUFR – 15,3 10 026,0 08 023,Statistiques de premier ordre,= 13 Moyenne quadratique,
+Table D/10 BUFR – 15,3 10 026,2 01 120,Changer le champ de données,6 bits de long,
+Table D/10 BUFR – 15,3 10 026,0 10 004,Pression,,
+Table D/10 BUFR – 15,3 10 026,2 01 000,Changement du champ de données,Annuler,
+Table D/10 BUFR – 15,3 10 026,2 01 122,Changer le champ de données,6 bits de long,
+Table D/10 BUFR – 15,3 10 026,0 12 001,Température/température de l'air,,
+Table D/10 BUFR – 15,3 10 026,2 01 000,Changement du champ de données,Annuler,
+Table D/10 BUFR – 15,3 10 026,2 01 123,Changer le champ de données,9 bits de long,
+Table D/10 BUFR – 15,3 10 026,0 13 001,Humidité spécifique,,
+Table D/10 BUFR – 15,3 10 026,2 01 000,Changement du champ de données,Annuler,
+Table D/10 BUFR – 15,3 10 026,0 08 023,Statistiques de premier ordre,Mis à valeur manquante,
+Table D/10 BUFR – 15,3 10 026,0 33 007,Degré de confiance,Toutes les données pour la hauteur indiquée,
+Table D/10 BUFR – 15,3 10 026,0 08 003,Caractéristique verticale (observations par satellite),= 0 Surface,
+Table D/10 BUFR – 15,3 10 026,0 07 009,Hauteur géopotentielle,,
+Table D/10 BUFR – 15,3 10 026,0 10 004,Pression,,
+Table D/10 BUFR – 15,3 10 026,0 08 023,Statistiques de premier ordre,= 13 Moyenne quadratique,
+Table D/10 BUFR – 15,3 10 026,2 01 120,Changer le champ de données,6 bits de long,
+Table D/10 BUFR – 15,3 10 026,0 10 004,Pression,,
+Table D/10 BUFR – 15,3 10 026,2 01 000,Changement du champ de données,Annuler,
+Table D/10 BUFR – 15,3 10 026,0 08 023,Statistiques de premier ordre,Mis à valeur manquante,
+Table D/10 BUFR – 15,3 10 026,0 33 007,Degré de confiance,Données de surface,
+Table D/10 BUFR – 15,3 10 027,3 01 071,(Séquence principale pour tous les produits relatifs à la luminance énergétique du ciel) Indicateur d'identification du satellite/ résolution après traitement,Information sur le produit,
+Table D/10 BUFR – 15,3 10 027,3 01 011,"Année, mois, jour",,
+Table D/10 BUFR – 15,3 10 027,3 01 013,"Heure, minute, seconde",,
+Table D/10 BUFR – 15,3 10 027,3 01 021,Latitude/longitude (précision élevée),,
+Table D/10 BUFR – 15,3 10 027,0 30 021,Nombre de pixels par ligne,,
+Table D/10 BUFR – 16,3 10 027,0 30 022,Nombre de pixels par colonne,,
+Table D/10 BUFR – 16,3 10 027,0 10 002,Hauteur,Hauteur de l'orbite,
+Table D/10 BUFR – 16,3 10 027,3 04 036,Couverture nuageuse,,
+Table D/10 BUFR – 16,3 10 027,0 02 152,Instrument de satellite utilisé dans le traitement des données,,
+Table D/10 BUFR – 16,3 10 027,0 02 167,Méthode de calcul de la luminance énergétique,,
+Table D/10 BUFR – 16,3 10 027,1 01 011,Répéter 1 descripteur 11 fois,,
+Table D/10 BUFR – 16,3 10 027,3 04 035,Toutes les données relatives à la luminance énergétique du ciel,,
+Table D/10 BUFR – 16,3 10 028,3 01 071,(Séquence principale pour tous les produits relatifs à la luminance énergétique du ciel) Indicateur d'identification du satellite/ résolution après traitement,Information sur le produit,
+Table D/10 BUFR – 16,3 10 028,3 01 011,"Année, mois, jour",,
+Table D/10 BUFR – 16,3 10 028,3 01 013,"Heure, minute, seconde",,
+Table D/10 BUFR – 16,3 10 028,3 01 021,Latitude/longitude (précision élevée),,
+Table D/10 BUFR – 16,3 10 028,0 30 021,Nombre de pixels par ligne,,
+Table D/10 BUFR – 16,3 10 028,0 30 022,Nombre de pixels par colonne,,
+Table D/10 BUFR – 16,3 10 028,0 10 002,Hauteur,Hauteur de l'orbite,
+Table D/10 BUFR – 16,3 10 028,3 04 036,Couverture nuageuse,,
+Table D/10 BUFR – 16,3 10 028,0 02 152,Instrument de satellite utilisé dans le traitement des données,,
+Table D/10 BUFR – 16,3 10 028,0 02 167,Méthode de calcul de la luminance énergétique,,
+Table D/10 BUFR – 16,3 10 028,1 01 011,Répéter 1 descripteur 11 fois,,
+Table D/10 BUFR – 16,3 10 028,3 04 037,Toutes les données relatives à la luminance énergétique du ciel,,
+Table D/10 BUFR – 16,3 10 029,1 10 000,"(Couche, ozone, hauteur, température et vapeur d'eau) Répétition différée de 10 descripteurs",,
+Table D/10 BUFR – 16,3 10 029,0 31 001,Facteur de répétition différée du descripteur,,
+Table D/10 BUFR – 16,3 10 029,2 01 138,Changer le champ de données,,
+Table D/10 BUFR – 16,3 10 029,2 02 130,Changer d'échelle,,
+Table D/10 BUFR – 16,3 10 029,0 07 004,Pression,,
+Table D/10 BUFR – 16,3 10 029,0 07 004,Pression,,
+Table D/10 BUFR – 16,3 10 029,2 02 000,Changement d'échelle,Annuler,
+Table D/10 BUFR – 16,3 10 029,2 01 000,Changement du champ de données,Annuler,
+Table D/10 BUFR – 16,3 10 029,0 15 020,Densité d'ozone intégrée,,
+Table D/10 BUFR – 16,3 10 029,0 10 002,Hauteur,,
+Table D/10 BUFR – 16,3 10 029,0 12 101,Température/température de l'air,,
+Table D/10 BUFR – 16,3 10 029,0 13 098,Humidité absolue intégrée,,
+Table D/10 BUFR – 17,3 10 030,3 10 022,"(Transmission de données par les instruments MIPAS ou GOMOS) Indicateur d'identification du satellite, instrument, type de produit",,
+Table D/10 BUFR – 17,3 10 030,3 01 011,"Année, mois, jour",,
+Table D/10 BUFR – 17,3 10 030,3 01 013,"Heure, minute, seconde",,
+Table D/10 BUFR – 17,3 10 030,3 01 021,Latitude/longitude (précision élevée),,
+Table D/10 BUFR – 17,3 10 030,3 04 034,"Latitude/longitude, hauteur du soleil, nombre de couches",,
+Table D/10 BUFR – 17,3 10 030,3 10 029,"Couche, ozone, hauteur, température et vapeur d'eau",,
+Table D/10 BUFR – 17,3 10 050,3 10 051,(Superposition de données satellitaires 1C pour trois instruments) Position du satellite et température des instruments,,
+Table D/10 BUFR – 17,3 10 050,3 10 052,Type et position de l'instrument satellitaire,AIRS,
+Table D/10 BUFR – 17,3 10 050,1 01 000,Répétition différée de 1 descripteur,,
+Table D/10 BUFR – 17,3 10 050,0 31 002,Facteur élargi de répétition différée du descripteur,,
+Table D/10 BUFR – 17,3 10 050,3 10 053,Données satellitaires – Canaux et températures de luminance pour un ensemble élargi de canaux,AIRS,
+Table D/10 BUFR – 17,3 10 050,1 01 004,Répéter 1 descripteur 4 fois,,
+Table D/10 BUFR – 17,3 10 050,3 10 054,Données satellitaires – Canaux dans le visible et albédos pour un ensemble élargi de canaux,,
+Table D/10 BUFR – 17,3 10 050,0 20 010,Nébulosité (totale),,
+Table D/10 BUFR – 17,3 10 050,3 10 052,Type et position de l'instrument satellitaire,AMSU-A,
+Table D/10 BUFR – 17,3 10 050,1 01 015,Répéter 1 descripteur 15 fois,,
+Table D/10 BUFR – 17,3 10 050,3 10 053,Données satellitaires – Canaux et températures de luminance pour un ensemble élargi de canaux,AMSU-A,
+Table D/10 BUFR – 17,3 10 050,3 10 052,Type et position de l'instrument satellitaire,HSB,
+Table D/10 BUFR – 17,3 10 050,1 01 005,Répéter 1 descripteur 5 fois,,
+Table D/10 BUFR – 17,3 10 050,3 10 053,Données satellitaires – Canaux et températures de luminance pour un ensemble élargi de canaux,HSB,
+Table D/10 BUFR – 17,3 10 051,0 01 007,(Position du satellite et température des instruments) Indicateur d'identification du satellite,,
+Table D/10 BUFR – 17,3 10 051,0 05 040,Numéro de l'orbite,,
+Table D/10 BUFR – 17,3 10 051,2 01 133,Changer le champ de données,,
+Table D/10 BUFR – 17,3 10 051,0 05 041,Numéro de la ligne de balayage,,
+Table D/10 BUFR – 17,3 10 051,2 01 000,Changement du champ de données,Annuler,
+Table D/10 BUFR – 17,3 10 051,2 01 132,Changer le champ de données,,
+Table D/10 BUFR – 17,3 10 051,0 25 070,Numéro de paquet principal,,
+Table D/10 BUFR – 17,3 10 051,2 01 000,Changement du champ de données,Annuler,
+Table D/10 BUFR – 18,3 10 051,2 02 126,Changer d'échelle,,
+Table D/10 BUFR – 18,3 10 051,0 07 001,Hauteur de la station,,
+Table D/10 BUFR – 18,3 10 051,2 02 000,Changement d'échelle,Annuler,
+Table D/10 BUFR – 18,3 10 051,0 07 025,Distance zénitale du soleil,,
+Table D/10 BUFR – 18,3 10 051,0 05 022,Azimut du soleil,,
+Table D/10 BUFR – 18,3 10 051,1 02 009,Répéter 2 descripteurs 9 fois,,
+Table D/10 BUFR – 18,3 10 051,0 02 151,Indicateur d'identification du radiomètre,,
+Table D/10 BUFR – 18,3 10 051,0 12 064,Température de l'instrument,,
+Table D/10 BUFR – 18,3 10 052,0 02 019,(Type et position de l'instrument satellitaire) Instruments satellitaires,,
+Table D/10 BUFR – 18,3 10 052,3 01 011,"Année, mois, jour",,
+Table D/10 BUFR – 18,3 10 052,3 01 012,"Heure, minute",,
+Table D/10 BUFR – 18,3 10 052,2 02 131,Changer d'échelle,,
+Table D/10 BUFR – 18,3 10 052,2 01 138,Changer le champ de données,,
+Table D/10 BUFR – 18,3 10 052,0 04 006,Seconde,,
+Table D/10 BUFR – 18,3 10 052,2 01 000,Changement du champ de données,Annuler,
+Table D/10 BUFR – 18,3 10 052,2 02 000,Changement d'échelle,Annuler,
+Table D/10 BUFR – 18,3 10 052,3 01 021,Latitude/longitude (précision élevée),,
+Table D/10 BUFR – 18,3 10 052,0 07 024,Distance zénithale du satellite,,
+Table D/10 BUFR – 18,3 10 052,0 05 021,Direction ou azimut,,
+Table D/10 BUFR – 18,3 10 052,0 05 043,Numéro du champ de vision,,
+Table D/10 BUFR – 18,3 10 053,2 01 134,(Données satellitaires — Canaux et températures de luminance pour un ensemble élargi de canaux) Changer le champ de données,,
+Table D/10 BUFR – 18,3 10 053,0 05 042,Numéro du canal,,
+Table D/10 BUFR – 18,3 10 053,2 01 000,Changement du champ de données,Annuler,
+Table D/10 BUFR – 18,3 10 053,0 25 076,"Log10 du numéro d'onde centrale de la luminance énergétique pour la mesure de la température, dans le cas du sondeur ATOVS",,
+Table D/10 BUFR – 18,3 10 053,0 33 032,Indicateurs de qualité du canal du sondeur ATOVS,,
+Table D/10 BUFR – 18,3 10 053,0 12 163,Température de luminance,Échelle: 2,
+Table D/10 BUFR – 18,3 10 054,2 01 134,(Données satellitaires — Canaux dans le visible et albédos pour un ensemble élargi de canaux) Changer le champ de données,,
+Table D/10 BUFR – 18,3 10 054,0 05 042,Numéro du canal,,
+Table D/10 BUFR – 18,3 10 054,2 01 000,Changement du champ de données,Annuler,
+TABLE_NAME,DESCRIPTEUR,SÉQUENCE DE DESCRIPTEURS,NOM DE L’ÉLÉMENT,DESCRIPTION DE L’ÉLÉMENT
+Table D/10 BUFR,3 10 054,2 01 134,Changer le champ de données,
+Table D/10 BUFR,3 10 054,0 05 042,Numéro du canal,
+Table D/10 BUFR,3 10 054,2 01 000,Changement du champ de données,Annuler
+Table D/10 BUFR,3 10 054,0 25 076,"Log10 du numéro d'onde centrale de la luminance énergétique pour la mesure de la température, dans le cas du sondeur ATOVS",
+Table D/10 BUFR,3 10 054,0 33 032,Indicateurs de qualité du canal du sondeur ATOVS,
+Table D/10 BUFR,3 10 054,2 01 131,Changer le champ de données,
+Table D/10 BUFR,3 10 054,2 02 129,Changer d'échelle,
+Table D/10 BUFR,3 10 054,1 02 002,Répéter 2 descripteurs 2 fois,
+Table D/10 BUFR,3 10 054,0 08 023,Statistiques de premier ordre,
+Table D/10 BUFR,3 10 054,0 14 027,Albédo,
+Table D/10 BUFR,3 10 054 (suite),0 08 023,Statistiques de premier ordre,
+Table D/10 BUFR,3 10 054 (suite),2 02 000,Changement d'échelle,Annuler
+Table D/10 BUFR,3 10 054 (suite),2 01 000,Changement du champ de données,Annuler
+Table D/10 BUFR,3 10 055,3 10 051,Position du satellite et température des instruments,
+Table D/10 BUFR,3 10 055,3 10 052,Type et position de l'instrument satellitaire,AIRS
+Table D/10 BUFR,3 10 055,1 02 020,Répéter 2 descripteurs 20 fois,
+Table D/10 BUFR,3 10 055,0 25 076,"Log10 du numéro d'onde centrale de la luminance énergétique pour la mesure de la température, dans le cas du sondeur ATOVS",
+Table D/10 BUFR,3 10 055,0 25 052,Log10 de l'ajustement normalisé aux données des composantes principales,
+Table D/10 BUFR,3 10 055,1 01 000,Répétition différée de 1 descripteur,
+Table D/10 BUFR,3 10 055,0 31 002,Facteur élargi de répétition différée du descripteur,
+Table D/10 BUFR,3 10 055,0 25 050,Indice de qualité de la composante principale,Luminance énergétique mesurée par satellite
+Table D/10 BUFR,3 10 060,0 01 007,Indicateur d'identification du satellite,
+Table D/10 BUFR,3 10 060,0 01 033,Identification du centre d'origine/de production,
+Table D/10 BUFR,3 10 060,0 02 019,Instruments satellitaires,
+Table D/10 BUFR,3 10 060,0 02 020,Classification des satellites,
+Table D/10 BUFR,3 10 060,3 01 011,"Année, mois, jour",
+Table D/10 BUFR,3 10 060,3 01 012,"Heure, minute",
+Table D/10 BUFR,3 10 060,2 07 003,"Augmenter l'échelle, la valeur de référence et le champ de données",
+Table D/10 BUFR,3 10 060,0 04 006,Seconde,
+Table D/10 BUFR,3 10 060,2 07 000,"Augmentation de l'échelle, de la valeur de référence et du champ de données",Annuler
+Table D/10 BUFR,3 10 060,3 04 030,Position de la plate-forme,
+Table D/10 BUFR,3 10 060,3 01 021,Latitude/longitude (précision élevée),
+Table D/10 BUFR,3 10 060,0 07 024,Distance zénithale du satellite,
+Table D/10 BUFR,3 10 060,0 05 021,Direction ou azimut,
+Table D/10 BUFR,3 10 060,0 07 025,Distance zénithale du soleil,
+Table D/10 BUFR,3 10 060,0 05 022,Azimut du soleil,
+Table D/10 BUFR,3 10 060,0 08 075,Identificateur d'orbite ascendante ou descendante,
+Table D/10 BUFR,3 10 060,2 01 133,Changer le champ de données,Augmenter le champ de données
+Table D/10 BUFR,3 10 060 (suite),0 05 041,Numéro de la ligne de balayage,
+Table D/10 BUFR,3 10 060 (suite),2 01 000,Changer le champ de données,Annuler l'augmentation du champ de données
+Table D/10 BUFR,3 10 060 (suite),0 05 045,Numéro du champ balayé,
+Table D/10 BUFR,3 10 060 (suite),0 05 043,Numéro du champ de vision,
+Table D/10 BUFR,3 10 060 (suite),0 05 040,Numéro de l'orbite,
+Table D/10 BUFR,3 10 060 (suite),0 10 001,Hauteur de la surface terrestre,
+Table D/10 BUFR,3 10 060 (suite),2 01 129,Changer le champ de données,Augmenter le champ de données
+Table D/10 BUFR,3 10 060 (suite),0 07 002,Hauteur ou altitude,
+Table D/10 BUFR,3 10 060 (suite),2 01 000,Changement du champ de données,Annuler l'augmentation du champ de données
+Table D/10 BUFR,3 10 060 (suite),2 02 127,Changement d'échelle,Augmenter l'échelle
+Table D/10 BUFR,3 10 060 (suite),2 01 125,Changer le champ de données,Augmenter le champ de données
+Table D/10 BUFR,3 10 060 (suite),0 21 166,Fraction terrestre,
+Table D/10 BUFR,3 10 060 (suite),2 01 000,Changement du champ de données,Annuler l'augmentation du champ de données
+Table D/10 BUFR,3 10 060 (suite),2 02 000,Changement d'échelle,Annuler l'augmentation de l'échelle
+Table D/10 BUFR,3 10 060 (suite),0 08 012,Identificateur terre/mer,
+Table D/10 BUFR,3 10 060 (suite),0 20 010,Nébulosité (totale),
+Table D/10 BUFR,3 10 060 (suite),0 20 014,Hauteur du sommet des nuages,
+Table D/10 BUFR,3 10 060 (suite),0 02 165,Indicateur de type de luminance énergétique,
+Table D/10 BUFR,3 10 060 (suite),0 33 075,Indicateur de qualité au niveau du balayage,
+Table D/10 BUFR,3 10 060 (suite),1 07 003,Répéter 7 descripteurs 3 fois,
+Table D/10 BUFR,3 10 060 (suite),0 08 076,Type de bande,
+Table D/10 BUFR,3 10 060 (suite),0 06 029,Nombre d'ondes,Début de l'intervalle
+Table D/10 BUFR,3 10 060 (suite),0 06 029,Nombre d'ondes,Fin de l'intervalle
+Table D/10 BUFR,3 10 060 (suite),0 25 140,Début canal,
+Table D/10 BUFR,3 10 060 (suite),0 25 141,Fin canal,
+Table D/10 BUFR,3 10 060 (suite),0 33 076,Indicateur de qualité de l'étalonnage,
+Table D/10 BUFR,3 10 060 (suite),0 33 077,Indicateur de qualité du champ de vision,
+Table D/10 BUFR,3 10 060 (suite),0 08 076,Type de bande,Mis à valeur manquante (annuler)
+Table D/10 BUFR,3 10 060 (suite),0 33 078,Qualité de la localisation géographique,
+Table D/10 BUFR,3 10 060 (suite),0 33 003,Informations sur la qualité,
+Table D/10 BUFR,3 10 060 (suite),1 04 000,Répétition différée de 4 descripteurs,
+Table D/10 BUFR,3 10 060 (suite),0 31 002,Facteur élargi de répétition différée du descripteur,
+Table D/10 BUFR,3 10 060 (suite),2 01 133,Changer le champ de données,Augmenter le champ de données
+Table D/10 BUFR,3 10 060 (suite),0 05 042,Numéro du canal,
+Table D/10 BUFR,3 10 060 (suite),2 01 000,Changement du champ de données,Annuler l'augmentation du champ de données
+Table D/10 BUFR,3 10 060 (suite),0 14 044,Luminance énergétique dans le canal,
+Table D/10 BUFR,3 10 061,0 01 007,Indicateur d'identification du satellite,
+Table D/10 BUFR,3 10 061,0 01 033,Identification du centre d'origine/de production,
+Table D/10 BUFR,3 10 061,0 01 034,Identification du centre secondaire d'origine/ de production,
+Table D/10 BUFR,3 10 061,0 02 019,Instruments satellitaires,
+Table D/10 BUFR,3 10 061,0 02 020,Classification des satellites,
+Table D/10 BUFR,3 10 061,3 01 011,"Année, mois, jour",
+Table D/10 BUFR,3 10 061,3 01 012,"Heure, minute",
+Table D/10 BUFR,3 10 061,2 07 003,"Augmenter l'échelle, la valeur de référence et le champ de données",
+Table D/10 BUFR,3 10 061,0 04 006,Seconde,
+Table D/10 BUFR,3 10 061,2 07 000,"Augmentation de l'échelle, de la valeur de référence et du champ de données",Annuler
+Table D/10 BUFR,3 10 061,0 05 040,Numéro de l'orbite,
+Table D/10 BUFR,3 10 061,0 05 041,Numéro de la ligne de balayage,
+Table D/10 BUFR,3 10 061,0 05 043,Numéro du champ de vision,
+Table D/10 BUFR,3 10 061,0 33 079,Indicateur de qualité au niveau des granules,
+Table D/10 BUFR,3 10 061,0 33 080,Indicateur de qualité au niveau du balayage,
+Table D/10 BUFR,3 10 061,0 33 078,Qualité de la localisation géographique,
+Table D/10 BUFR,3 10 061,3 01 021,Latitude/longitude (précision élevée),
+Table D/10 BUFR,3 10 061,2 01 129,Changer le champ de données,Augmenter le champ de données
+Table D/10 BUFR,3 10 061,0 07 002,Hauteur ou altitude,
+Table D/10 BUFR,3 10 061,2 01 000,Changement du champ de données,Annuler l'augmentation du champ de données
+Table D/10 BUFR,3 10 061,0 07 024,Distance zénithale du satellite,
+Table D/10 BUFR,3 10 061,0 05 021,Direction ou azimut,
+Table D/10 BUFR,3 10 061,0 07 025,Distance zénithale du soleil,
+Table D/10 BUFR,3 10 061,0 05 022,Azimut du soleil,
+Table D/10 BUFR,3 10 061,0 25 075,"Corrections d'antenne de satellite, numéro de version",
+Table D/10 BUFR,3 10 061,1 11 000,Répétition différée de 11 descripteurs,
+Table D/10 BUFR,3 10 061,0 31 002,Facteur élargi de répétition différée du descripteur,
+Table D/10 BUFR,3 10 061,0 05 042,Numéro du canal,
+Table D/10 BUFR,3 10 061 (suite),2 02 131,Changer d'échelle,Augmenter l'échelle de 3
+Table D/10 BUFR,3 10 061 (suite),0 02 153,Fréquence centrale du canal du satellite,
+Table D/10 BUFR,3 10 061 (suite),0 02 154,Largeur de bande du canal du satellite,
+Table D/10 BUFR,3 10 061 (suite),2 02 000,Changement d'échelle,Annuler l'augmentation d'échelle
+Table D/10 BUFR,3 10 061 (suite),0 02 104,Polarisation de l'antenne,
+Table D/10 BUFR,3 10 061 (suite),0 12 066,Température d'antenne,
+Table D/10 BUFR,3 10 061 (suite),0 12 163,Température de luminance,
+Table D/10 BUFR,3 10 061 (suite),0 12 158,Équivalent en bruit du différentiel de température sur cible froide,
+Table D/10 BUFR,3 10 061 (suite),0 12 159,Équivalent en bruit du différentiel de température sur cible chaude,
+Table D/10 BUFR,3 10 061 (suite),0 33 081,Indicateur de qualité des données du canal,
+Table D/10 BUFR,3 10 062,0 01 007,Indicateur d'identification du satellite,
+Table D/10 BUFR,3 10 062,0 01 033,Identification du centre d'origine/de production,
+Table D/10 BUFR,3 10 062,0 01 034,Identification du centre secondaire d'origine/ de production,
+Table D/10 BUFR,3 10 062,0 02 019,Instruments satellitaires,
+Table D/10 BUFR,3 10 062,0 02 020,Classification des satellites,
+Table D/10 BUFR,3 10 062,3 01 011,"Année, mois, jour",
+Table D/10 BUFR,3 10 062,3 01 012,"Heure, minute",
+Table D/10 BUFR,3 10 062,2 07 003,"Augmenter l'échelle, la valeur de référence et le champ de données",
+Table D/10 BUFR,3 10 062,0 04 006,Seconde,
+Table D/10 BUFR,3 10 062,2 07 000,"Augmentation de l'échelle, de la valeur de référence et du champ de données",Annuler
+Table D/10 BUFR,3 10 062,0 05 040,Numéro de l'orbite,
+Table D/10 BUFR,3 10 062,2 01 133,Changer le champ de données,Augmenter le champ de données
+Table D/10 BUFR,3 10 062,0 05 041,Numéro de la ligne de balayage,
+Table D/10 BUFR,3 10 062,0 05 043,Numéro du champ de vision,
+Table D/10 BUFR,3 10 062,2 01 000,Changement du champ de données,Annuler l'augmentation du champ de données
+Table D/10 BUFR,3 10 062,0 08 076,Type de bande,
+Table D/10 BUFR,3 10 062,0 33 082,Indicateur de qualité de la localisation géographique,
+Table D/10 BUFR,3 10 062,3 01 021,Latitude/longitude (précision élevée),
+Table D/10 BUFR,3 10 062,2 01 129,Changer le champ de données,Augmenter le champ de données
+Table D/10 BUFR,3 10 062,0 07 002,Hauteur ou altitude,
+Table D/10 BUFR,3 10 062,2 01 000,Changement du champ de données,Annuler l'augmentation du champ de données
+Table D/10 BUFR,3 10 062,0 07 024,Distance zénithale du satellite,
+Table D/10 BUFR,3 10 062 (suite),0 05 021,Direction ou azimut,
+Table D/10 BUFR,3 10 062 (suite),0 07 025,Distance zénithale du soleil,
+Table D/10 BUFR,3 10 062 (suite),0 05 022,Azimut du soleil,
+Table D/10 BUFR,3 10 062 (suite),0 08 072,Type de pixel,
+Table D/10 BUFR,3 10 062 (suite),0 08 029,Type de surface,
+Table D/10 BUFR,3 10 062 (suite),1 05 000,Répétition différée de 5 descripteurs,
+Table D/10 BUFR,3 10 062 (suite),0 31 002,Facteur élargi de répétition différée du descripteur,
+Table D/10 BUFR,3 10 062 (suite),0 05 042,Numéro du canal,
+Table D/10 BUFR,3 10 062 (suite),0 02 155,Longueur d'onde du canal du satellite,
+Table D/10 BUFR,3 10 062 (suite),0 33 083,Indicateur de qualité des données sur la luminance énergétique,
+Table D/10 BUFR,3 10 062 (suite),0 14 043,Luminance énergétique dans le canal,
+Table D/10 BUFR,3 10 062 (suite),0 15 042,Facteur de réflexion,
+Table D/10 BUFR,3 10 063,0 01 007,Indicateur d'identification du satellite,
+Table D/10 BUFR,3 10 063,0 01 033,Identification du centre d'origine/de production,
+Table D/10 BUFR,3 10 063,0 01 034,Identification du centre secondaire d'origine/ de production,
+Table D/10 BUFR,3 10 063,0 02 019,Instruments satellitaires,
+Table D/10 BUFR,3 10 063,0 02 020,Classification des satellites,
+Table D/10 BUFR,3 10 063,3 01 011,"Année, mois, jour",
+Table D/10 BUFR,3 10 063,3 01 012,"Heure, minute",
+Table D/10 BUFR,3 10 063,2 07 003,"Augmenter l'échelle, la valeur de référence et le champ de données",
+Table D/10 BUFR,3 10 063,0 04 006,Seconde,
+Table D/10 BUFR,3 10 063,2 07 000,"Augmentation de l'échelle, de la valeur de référence et du champ de données",Annuler
+Table D/10 BUFR,3 10 063,0 05 040,Numéro de l'orbite,
+Table D/10 BUFR,3 10 063,2 01 133,Changer le champ de données,Augmenter le champ de données
+Table D/10 BUFR,3 10 063,0 05 041,Numéro de la ligne de balayage,
+Table D/10 BUFR,3 10 063,0 05 043,Numéro du champ de vision,
+Table D/10 BUFR,3 10 063,2 01 000,Changement du champ de données,Annuler l'augmentation du champ de données
+Table D/10 BUFR,3 10 063,0 33 082,Indicateur de qualité de la localisation géographique,
+Table D/10 BUFR,3 10 063,3 01 021,Latitude/longitude (précision élevée),
+Table D/10 BUFR,3 10 063,2 01 129,Changer le champ de données,Augmenter le champ de données
+Table D/10 BUFR,3 10 063,0 07 002,Hauteur ou altitude,
+Table D/10 BUFR,3 10 063,2 01 000,Changement du champ de données,Annuler l'augmentation du champ de données
+Table D/10 BUFR,3 10 063,0 07 024,Distance zénithale du satellite,
+Table D/10 BUFR,3 10 063,0 05 021,Direction ou azimut,
+Table D/10 BUFR,3 10 063 (suite),0 07 025,Distance zénithale du soleil,
+Table D/10 BUFR,3 10 063 (suite),0 05 022,Azimut du soleil,
+Table D/10 BUFR,3 10 063 (suite),0 08 075,Identificateur d'orbite ascendante ou descendante,
+Table D/10 BUFR,3 10 063 (suite),0 08 013,Identificateur jour/nuit,
+Table D/10 BUFR,3 10 063 (suite),0 08 072,Type de pixel,
+Table D/10 BUFR,3 10 063 (suite),0 33 084,Indicateur de qualité au niveau du pixel,
+Table D/10 BUFR,3 10 063 (suite),0 07 062,Profondeur sous la surface de la mer/de l'eau,
+Table D/10 BUFR,3 10 063 (suite),0 33 086,Qualité d'extraction au niveau du pixel,
+Table D/10 BUFR,3 10 063 (suite),0 22 043,Température de la mer/de l'eau,
+Table D/10 BUFR,3 10 063 (suite),0 07 062,Profondeur sous la surface de la mer/de l'eau,Sommet de la couche
+Table D/10 BUFR,3 10 063 (suite),0 07 062,Profondeur sous la surface de la mer/de l'eau,Bas de la couche
+Table D/10 BUFR,3 10 063 (suite),0 33 086,Qualité de l'extraction au niveau du pixel,
+Table D/10 BUFR,3 10 063 (suite),0 22 043,Température de la mer/de l'eau,
+Table D/10 BUFR,3 10 064,0 01 007,Indicateur d'identification du satellite,
+Table D/10 BUFR,3 10 064,0 01 033,Identification du centre d'origine/de production,
+Table D/10 BUFR,3 10 064,0 01 034,Identification du centre secondaire d'origine/de production,
+Table D/10 BUFR,3 10 064,0 02 019,Instruments satellitaires,
+Table D/10 BUFR,3 10 064,0 02 020,Classification des satellites,
+Table D/10 BUFR,3 10 064,3 01 011,"Année, mois, jour",
+Table D/10 BUFR,3 10 064,3 01 012,"Heure, minute",
+Table D/10 BUFR,3 10 064,2 07 003,"Augmenter l'échelle, la valeur de référence et le champ de données",
+Table D/10 BUFR,3 10 064,0 04 006,Seconde,
+Table D/10 BUFR,3 10 064,2 07 000,"Augmentation de l'échelle, de la valeur de référence et du champ de données",Annuler
+Table D/10 BUFR,3 10 064,0 05 040,Numéro de l'orbite,
+Table D/10 BUFR,3 10 064,2 01 133,Changer le champ de données,
+Table D/10 BUFR,3 10 064,0 05 041,Numéro de la ligne de balayage,
+Table D/10 BUFR,3 10 064,0 05 043,Numéro du champ de vision,
+Table D/10 BUFR,3 10 064,2 01 000,Changement du champ de données,Annuler
+Table D/10 BUFR,3 10 064,0 33 082,Indicateur de qualité de la localisation géographique,
+Table D/10 BUFR,3 10 064,3 01 021,Latitude/longitude (précision élevée),
+Table D/10 BUFR,3 10 064,2 01 129,Changer le champ de données,
+Table D/10 BUFR,3 10 064,0 07 002,Hauteur ou altitude,
+Table D/10 BUFR,3 10 064,2 01 000,Changement du champ de données,Annuler
+Table D/10 BUFR,3 10 064,0 07 024,Distance zénithale du satellite,
+Table D/10 BUFR,3 10 064,0 05 021,Direction ou azimut,
+Table D/10 BUFR,3 10 064,0 07 025,Distance zénithale du soleil,
+Table D/10 BUFR,3 10 064,0 05 022,Azimut du soleil,
+Table D/10 BUFR,3 10 064,0 08 075,Identificateur d'orbite ascendante ou descendante,
+Table D/10 BUFR,3 10 064 (suite),0 08 029,Type de surface,
+Table D/10 BUFR,3 10 064 (suite),0 08 046,Type de constituants chimiques ou physiques de l'atmosphère,
+Table D/10 BUFR,3 10 064 (suite),0 33 085,Indicateur de qualité de l'épaisseur optique des aérosols,
+Table D/10 BUFR,3 10 064 (suite),0 33 086,Qualité de l'extraction au niveau du pixel,
+Table D/10 BUFR,3 10 064 (suite),0 15 049,Exposant d'Ångström de l'aérosol,
+Table D/10 BUFR,3 10 064 (suite),0 33 086,Qualité de l'extraction au niveau du pixel,
+Table D/10 BUFR,3 10 064 (suite),1 02 011,Répéter 2 descripteurs 11 fois,
+Table D/10 BUFR,3 10 064 (suite),0 02 155,Longueur d'onde du canal du satellite,
+Table D/10 BUFR,3 10 064 (suite),0 15 062,Épaisseur optique des aérosols,
+Table D/10 BUFR,3 10 065,0 01 007,Indicateur d'identification du satellite,
+Table D/10 BUFR,3 10 065,0 01 033,Identification du centre d'origine/de production,
+Table D/10 BUFR,3 10 065,0 01 034,Identification du centre secondaire d'origine/ de production,
+Table D/10 BUFR,3 10 065,0 02 019,Instruments satellitaires,
+Table D/10 BUFR,3 10 065,0 02 020,Classification des satellites,
+Table D/10 BUFR,3 10 065,3 01 011,"Année, mois, jour",
+Table D/10 BUFR,3 10 065,3 01 012,"Heure, minute",
+Table D/10 BUFR,3 10 065,2 07 003,"Augmenter l'échelle, la valeur de référence et le champ de données",
+Table D/10 BUFR,3 10 065,0 04 006,Seconde,
+Table D/10 BUFR,3 10 065,2 07 000,"Augmentation de l'échelle, de la valeur de référence et du champ de données",Annuler
+Table D/10 BUFR,3 10 065,0 05 040,Numéro de l'orbite,
+Table D/10 BUFR,3 10 065,0 33 082,Indicateur de qualité de la localisation géographique,
+Table D/10 BUFR,3 10 065,3 01 021,Latitude/longitude (précision élevée),
+Table D/10 BUFR,3 10 065,2 01 129,Changer le champ de données,
+Table D/10 BUFR,3 10 065,0 07 002,Hauteur ou altitude,
+Table D/10 BUFR,3 10 065,2 01 000,Changement du champ de données,Annuler
+Table D/10 BUFR,3 10 065,0 07 024,Distance zénithale du satellite,
+Table D/10 BUFR,3 10 065,0 05 021,Direction ou azimut,
+Table D/10 BUFR,3 10 065,0 07 025,Distance zénithale du soleil,
+Table D/10 BUFR,3 10 065,0 05 022,Azimut du soleil,
+Table D/10 BUFR,3 10 065,0 08 075,Identificateur d'orbite ascendante ou descendante,
+Table D/10 BUFR,3 10 065,0 33 071,Qualité du profil de l'ozone,
+Table D/10 BUFR,3 10 065,0 33 070,Qualité de l'ozone total,
+Table D/10 BUFR,3 10 065,0 20 021,Type de précipitation,
+Table D/10 BUFR,3 10 065,0 15 045,Dioxyde de soufre,
+Table D/10 BUFR,3 10 065,0 15 046,Indice de contamination volcanique,
+Table D/10 BUFR,3 10 065,0 08 065,Indicateur de reflet solaire,
+Table D/10 BUFR,3 10 065,0 33 087,Portée du satellite dans l'anomalie de l'Atlantique Sud,
+Table D/10 BUFR,3 10 065 (suite),0 08 003,Caractéristique verticale (observations par satellite),
+Table D/10 BUFR,3 10 065 (suite),0 10 004,Pression,
+Table D/10 BUFR,3 10 065 (suite),0 08 003,Caractéristique verticale (observations par satellite),
+Table D/10 BUFR,3 10 065 (suite),2 07 002,"Augmenter l'échelle, la valeur de référence et le champ de données",
+Table D/10 BUFR,3 10 065 (suite),0 15 001,Ozone total,
+Table D/10 BUFR,3 10 065 (suite),2 07 000,"Augmentation de l'échelle, de la valeur de référence et du champ de données",Annuler
+Table D/10 BUFR,3 10 065 (suite),1 05 012,Répéter 5 descripteurs 12 fois,
+Table D/10 BUFR,3 10 065 (suite),0 10 040,Données extraites concernant le nombre de couches,
+Table D/10 BUFR,3 10 065 (suite),0 10 004,Pression,
+Table D/10 BUFR,3 10 065 (suite),2 07 003,"Augmenter l'échelle, la valeur de référence et le champ de données",
+Table D/10 BUFR,3 10 065 (suite),0 15 005,Pression partielle de l'ozone,
+Table D/10 BUFR,3 10 065 (suite),2 07 000,"Augmentation de l'échelle, de la valeur de référence et du champ de données",Annuler
+Table D/10 BUFR,3 10 065 (suite),0 08 046,Type de constituants chimiques ou physiques de l'atmosphère,
+Table D/10 BUFR,3 10 065 (suite),1 07 019,Répéter 7 descripteurs 19 fois,
+Table D/10 BUFR,3 10 065 (suite),0 10 040,Données extraites concernant le nombre de couches,
+Table D/10 BUFR,3 10 065 (suite),0 10 004,Pression,
+Table D/10 BUFR,3 10 065 (suite),0 08 090,Échelle décimale des mantisses suivantes,
+Table D/10 BUFR,3 10 065 (suite),2 07 006,"Augmenter l'échelle, la valeur de référence et le champ de données",
+Table D/10 BUFR,3 10 065 (suite),0 15 008,Mantisse du rapport de mélange volumétrique,
+Table D/10 BUFR,3 10 065 (suite),2 07 000,"Augmentation de l'échelle, de la valeur de référence et du champ de données",Annuler
+Table D/10 BUFR,3 10 065 (suite),0 08 090,Échelle décimale de la mantisse suivante,Mis à valeur manquante (annuler)
+Table D/10 BUFR,3 10 066,0 01 007,Indicateur d'identification du satellite,
+Table D/10 BUFR,3 10 066,0 01 033,Identification du centre d'origine/de production,
+Table D/10 BUFR,3 10 066,0 01 034,Identification du centre secondaire d'origine/ de production,
+Table D/10 BUFR,3 10 066,0 02 019,Instruments satellitaires,
+Table D/10 BUFR,3 10 066,0 02 020,Classification des satellites,
+Table D/10 BUFR,3 10 066,3 01 011,"Année, mois, jour",
+Table D/10 BUFR,3 10 066,3 01 012,"Heure, minute",
+Table D/10 BUFR,3 10 066,2 07 003,"Augmenter l'échelle, la valeur de référence et le champ de données",
+Table D/10 BUFR,3 10 066 (suite),0 04 006,Seconde,
+Table D/10 BUFR,3 10 066 (suite),2 07 000,"Augmentation de l'échelle, de la valeur de référence et du champ de données",Annuler
+Table D/10 BUFR,3 10 066 (suite),0 05 040,Numéro de l'orbite,
+Table D/10 BUFR,3 10 066 (suite),0 33 082,Indicateur de qualité de la localisation géographique,
+Table D/10 BUFR,3 10 066 (suite),3 01 021,Latitude/longitude (précision élevée),
+Table D/10 BUFR,3 10 066 (suite),2 01 129,Changer le champ de données,
+Table D/10 BUFR,3 10 066 (suite),0 07 002,Hauteur ou altitude,
+Table D/10 BUFR,3 10 066 (suite),2 01 000,Changement du champ de données,Annuler
+Table D/10 BUFR,3 10 066 (suite),0 07 024,Distance zénithale du satellite,
+Table D/10 BUFR,3 10 066 (suite),0 05 021,Direction ou azimut,
+Table D/10 BUFR,3 10 066 (suite),0 07 025,Distance zénithale du soleil,
+Table D/10 BUFR,3 10 066 (suite),0 05 022,Azimut du soleil,
+Table D/10 BUFR,3 10 066 (suite),0 08 075,Identificateur d'orbite ascendante ou descendante,
+Table D/10 BUFR,3 10 066 (suite),0 20 081,Étendue de la couche nuageuse dans le secteur,Nébulosité
+Table D/10 BUFR,3 10 066 (suite),2 07 004,"Augmenter l'échelle, la valeur de référence et le champ de données",
+Table D/10 BUFR,3 10 066 (suite),0 15 030,Indice de contamination par aérosols,
+Table D/10 BUFR,3 10 066 (suite),2 07 000,"Augmentation de l'échelle, de la valeur de référence et du champ de données",Annuler
+Table D/10 BUFR,3 10 066 (suite),0 20 065,Couverture neigeuse,
+Table D/10 BUFR,3 10 066 (suite),0 15 041,Indice de dioxyde de soufre,
+Table D/10 BUFR,3 10 066 (suite),0 33 086,Qualité d'extraction au niveau du pixel,
+Table D/10 BUFR,3 10 066 (suite),0 33 087,Portée du satellite dans l'anomalie de l'Atlantique Sud,
+Table D/10 BUFR,3 10 066 (suite),0 33 088,Indicateur de qualité de la colonne totale d'ozone,
+Table D/10 BUFR,3 10 066 (suite),0 08 003,Caractéristique verticale (observations par satellite),= 0 Surface
+Table D/10 BUFR,3 10 066 (suite),2 07 001,"Augmenter l'échelle, la valeur de référence et le champ de données",
+Table D/10 BUFR,3 10 066 (suite),0 07 004,Pression,
+Table D/10 BUFR,3 10 066 (suite),2 07 000,"Augmentation de l'échelle, de la valeur de référence et du champ de données",Annuler
+Table D/10 BUFR,3 10 066 (suite),0 08 003,Caractéristique verticale (observations par satellite),Mis à valeur manquante (annuler)
+Table D/10 BUFR,3 10 066 (suite),2 07 002,"Augmenter l'échelle, la valeur de référence et le champ de données",
+Table D/10 BUFR,3 10 066 (suite),0 15 001,Ozone total,
+Table D/10 BUFR,3 10 066 (suite),2 07 000,"Augmentation de l'échelle, de la valeur de référence et du champ de données",Annuler
+Table D/10 BUFR,3 10 066 (suite),0 08 003,Caractéristique verticale (observations par satellite),= 2 Sommet des nuages
+Table D/10 BUFR,3 10 066 (suite),0 33 042,Type de limite représentée par la valeur qui suit,= 0 Limite inférieure exclue (>)
+Table D/10 BUFR,3 10 066 (suite),2 07 001,"Augmenter l'échelle, la valeur de référence et le champ de données",
+Table D/10 BUFR,3 10 066 (suite),0 07 004,Pression,Pression au sommet des nuages
+Table D/10 BUFR,3 10 066 (suite),2 07 000,"Augmentation de l'échelle, de la valeur de référence et du champ de données",Annuler
+Table D/10 BUFR,3 10 066 (suite),2 07 002,"Augmenter l'échelle, la valeur de référence et le champ de données",
+Table D/10 BUFR,3 10 066 (suite),0 15 001,Ozone total,En-dessous des nuages
+Table D/10 BUFR,3 10 066 (suite),2 07 000,"Augmentation de l'échelle, de la valeur de référence et du champ de données",Annuler
+Table D/10 BUFR,3 10 066 (suite),0 08 003,Caractéristique verticale (observations par satellite),Mis à valeur manquante (annuler)
+Table D/10 BUFR,3 10 066 (suite),0 01 032,Application de production,= 0 Première approximation | Définie par le centre de production local
+Table D/10 BUFR,3 10 066 (suite),2 07 002,"Augmenter l'échelle, la valeur de référence et le champ de données",
+Table D/10 BUFR,3 10 066 (suite),0 15 001,Ozone total,Première approximation de la colonne totale d'ozone
+Table D/10 BUFR,3 10 066 (suite),2 07 000,"Augmentation de l'échelle, de la valeur de référence et du champ de données",Annuler
+Table D/10 BUFR,3 10 067,0 01 033,Identification du centre d'origine/de production,
+Table D/10 BUFR,3 10 067,0 01 034,Identification du centre secondaire d'origine/ de production,
+Table D/10 BUFR,3 10 067,0 25 061,Identification du logiciel et numéro de version,
+Table D/10 BUFR,3 10 067,0 25 062,Identification de la base de données,
+Table D/10 BUFR,3 10 067,0 01 007,Indicateur d'identification du satellite,
+Table D/10 BUFR,3 10 067,0 02 153,Fréquence centrale du canal du satellite,
+Table D/10 BUFR,3 10 067,0 01 012,Direction de déplacement de la plate-forme d'observation mobile,
+Table D/10 BUFR,3 10 067,2 01 138,Changer le champ de données,
+Table D/10 BUFR,3 10 067,0 02 026,Résolution en travers de la trajectoire,
+Table D/10 BUFR,3 10 067 (suite),2 02 027,Résolution dans le sens de la route de satellite,
+Table D/10 BUFR,3 10 067 (suite),2 01 000,Changement du champ de données,Annuler
+Table D/10 BUFR,3 10 067 (suite),0 02 028,Dimension du secteur au nadir en coordonnée x,Dimension de la case «cible»
+Table D/10 BUFR,3 10 067 (suite),0 02 029,Dimension du secteur au nadir en coordonnée y,Dimension de la case «cible»
+Table D/10 BUFR,3 10 067 (suite),0 02 161,Méthode de traitement des données du vent,
+Table D/10 BUFR,3 10 067 (suite),0 02 164,Méthode de corrélation des traceurs,
+Table D/10 BUFR,3 10 067 (suite),0 02 023,Méthode de calcul du vent à partir de données satellitaires,
+Table D/10 BUFR,3 10 067 (suite),0 08 012,Identificateur terre/mer,
+Table D/10 BUFR,3 10 067 (suite),0 08 013,Identificateur jour/nuit,
+Table D/10 BUFR,3 10 067 (suite),0 01 124,Indicateur d'identification des points de grille,
+Table D/10 BUFR,3 10 067 (suite),0 05 001,Latitude (précision élevée),
+Table D/10 BUFR,3 10 067 (suite),0 06 001,Longitude (précision élevée),
+Table D/10 BUFR,3 10 067 (suite),0 04 001,Année,
+Table D/10 BUFR,3 10 067 (suite),0 04 002,Mois,
+Table D/10 BUFR,3 10 067 (suite),0 04 003,Jour,
+Table D/10 BUFR,3 10 067 (suite),0 04 004,Heure,
+Table D/10 BUFR,3 10 067 (suite),0 04 005,Minute,
+Table D/10 BUFR,3 10 067 (suite),0 04 006,Seconde,
+Table D/10 BUFR,3 10 067 (suite),0 04 086,Période ou décalage dans le temps de longue durée,Secondes
+Table D/10 BUFR,3 10 067 (suite),0 11 001,Direction du vent,
+Table D/10 BUFR,3 10 067 (suite),0 11 002,Vitesse du vent,
+Table D/10 BUFR,3 10 067 (suite),0 11 003,Composante u,
+Table D/10 BUFR,3 10 067 (suite),0 11 004,Composante v,
+Table D/10 BUFR,3 10 067 (suite),0 02 162,Méthode élargie de détermination de l'altitude,
+Table D/10 BUFR,3 10 067 (suite),0 07 004,Pression,
+Table D/10 BUFR,3 10 067 (suite),0 12 001,Température/température de l'air,
+Table D/10 BUFR,3 10 067 (suite),0 20 014,Hauteur du sommet des nuages,
+Table D/10 BUFR,3 10 067 (suite),0 07 024,Distance zénithale du satellite,
+Table D/10 BUFR,3 10 067 (suite),0 01 023,Numéro de la séquence d'observations,
+Table D/10 BUFR,3 10 067 (suite),1 04 000,Répétition différée de 4 descripteurs,
+Table D/10 BUFR,3 10 067 (suite),0 31 001,Facteur de répétition différée du descripteur,
+Table D/10 BUFR,3 10 067 (suite),0 02 162,Méthode élargie de détermination de l'altitude,
+Table D/10 BUFR,3 10 067 (suite),0 07 004,Pression,
+Table D/10 BUFR,3 10 067 (suite),0 12 001,Température/température de l'air,
+Table D/10 BUFR,3 10 067 (suite),0 20 014,Hauteur du sommet des nuages,
+Table D/10 BUFR,3 10 067 (suite),1 13 000,Répétition différée de 13 descripteurs,
+Table D/10 BUFR,3 10 067 (suite),0 31 001,Facteur de répétition différée du descripteur,
+Table D/10 BUFR,3 10 067 (suite),0 04 086,Période ou décalage dans le temps de longue durée,Secondes
+Table D/10 BUFR,3 10 067 (suite),0 02 020,Classification des satellites,
+Table D/10 BUFR,3 10 067 (suite),0 01 007,Indicateur d'identification du satellite,
+Table D/10 BUFR,3 10 067 (suite),0 02 019,Instruments satellitaires,
+Table D/10 BUFR,3 10 067 (suite),0 05 042,Numéro du canal,
+Table D/10 BUFR,3 10 067 (suite),0 02 153,Fréquence centrale du canal du satellite,
+Table D/10 BUFR,3 10 067 (suite),0 05 040,Numéro de l'orbite,
+Table D/10 BUFR,3 10 067 (suite),0 07 024,Distance zénithale du satellite,
+Table D/10 BUFR,3 10 067 (suite),0 05 021,Direction ou azimut,
+Table D/10 BUFR,3 10 067 (suite),0 02 162,Méthode élargie de détermination de l'altitude,
+Table D/10 BUFR,3 10 067 (suite),0 07 004,Pression,
+Table D/10 BUFR,3 10 067 (suite),0 12 001,Température/température de l'air,
+Table D/10 BUFR,3 10 067 (suite),0 20 014,Hauteur du sommet des nuages,
+Table D/10 BUFR,3 10 067 (suite),1 19 000,Répétition différée de 19 descripteurs,
+Table D/10 BUFR,3 10 067 (suite),0 31 001,Facteur de répétition différée du descripteur,
+Table D/10 BUFR,3 10 067 (suite),0 04 086,Période ou décalage dans le temps de longue durée,Secondes
+Table D/10 BUFR,3 10 067 (suite),0 04 086,Période ou décalage dans le temps de longue durée,Secondes
+Table D/10 BUFR,3 10 067 (suite),0 05 001,Latitude (précision élevée),
+Table D/10 BUFR,3 10 067 (suite),0 06 001,Longitude (précision élevée),
+Table D/10 BUFR,3 10 067 (suite),0 11 003,Composante u,
+Table D/10 BUFR,3 10 067 (suite),0 11 004,Composante v,
+Table D/10 BUFR,3 10 067 (suite),0 11 113,Suivi de la corrélation du vecteur,
+Table D/10 BUFR,3 10 067 (suite),0 25 148,Coefficient de variation,
+Table D/10 BUFR,3 10 067 (suite),1 03 000,Répétition différée de 3 descripteurs,
+Table D/10 BUFR,3 10 067 (suite),0 31 001,Facteur de répétition différée du descripteur,
+Table D/10 BUFR,3 10 067 (suite),0 08 023,Statistiques de premier ordre,
+Table D/10 BUFR,3 10 067 (suite),0 11 003,Composante u,
+Table D/10 BUFR,3 10 067 (suite),0 11 004,Composante v,
+Table D/10 BUFR,3 10 067 (suite),0 08 023,Statistiques de premier ordre,Mis à valeur manquante (annuler)
+Table D/10 BUFR,3 10 067 (suite),1 03 000,Répétition différée de 3 descripteurs,
+Table D/10 BUFR,3 10 067 (suite),0 31 001,Facteur de répétition différée du descripteur,
+Table D/10 BUFR,3 10 067 (suite),0 20 111,"Composante principale de l'ellipse d'erreur, axe x",
+Table D/10 BUFR,3 10 067 (suite),0 20 112,"Composante secondaire de l'ellipse d'erreur, axe y",
+Table D/10 BUFR,3 10 067 (suite),0 20 114,Angle de l'axe x dans l'ellipse d'erreur,
+Table D/10 BUFR,3 10 067 (suite),0 01 033,Identification du centre d'origine/de production,
+Table D/10 BUFR,3 10 067 (suite),0 08 021,Caractéristique temporelle,= 27 Première approximation
+Table D/10 BUFR,3 10 067 (suite),0 11 095,Composante u du vecteur vent – modèle,
+Table D/10 BUFR,3 10 067 (suite),0 11 096,Composante v du vecteur vent – modèle,
+Table D/10 BUFR,3 10 067 (suite),0 07 004,Pression,
+Table D/10 BUFR,3 10 067 (suite),0 08 021,Caractéristique temporelle,= 4 Prévision
+Table D/10 BUFR,3 10 067 (suite),0 11 095,Composante u du vecteur vent – modèle,
+Table D/10 BUFR,3 10 067 (suite),0 11 096,Composante v du vecteur vent - modèle,
+Table D/10 BUFR,3 10 067 (suite),0 07 004,Pression,
+Table D/10 BUFR,3 10 067 (suite),0 08 021,Caractéristique temporelle,Mis à valeur manquante (annuler)
+Table D/10 BUFR,3 10 067 (suite),0 08 086,Caractéristique verticale pour la prévision numérique du temps,= 10 Niveau d'ajustement optimal
+Table D/10 BUFR,3 10 067 (suite),0 11 095,Composante u du vecteur vent – modèle,
+Table D/10 BUFR,3 10 067 (suite),0 11 096,Composante v du vecteur vent – modèle,
+Table D/10 BUFR,3 10 067 (suite),0 07 004,Pression,
+Table D/10 BUFR,3 10 067 (suite),0 08 086,Caractéristique verticale pour la prévision numérique du temps,Mis à valeur manquante (annuler)
+Table D/10 BUFR,3 10 067 (suite),1 02 004,Répéter 2 descripteurs 4 fois,
+Table D/10 BUFR,3 10 067 (suite),0 01 032,Application de production,
+Table D/10 BUFR,3 10 067 (suite),0 33 007,Degré de confiance,
+Table D/10 BUFR,3 10 067 (suite),0 08 092,Expression de l'incertitude de mesure,= 0 Incertitude type
+Table D/10 BUFR,3 10 067 (suite),0 11 003,Composante u,
+Table D/10 BUFR,3 10 067 (suite),0 11 004,Composante v,
+Table D/10 BUFR,3 10 067 (suite),0 07 004,Pression,
+Table D/10 BUFR,3 10 067 (suite),0 08 092,Expression de l'incertitude de mesure,Mis à valeur manquante (annuler)
+Table D/10 BUFR,3 10 067 (suite),0 33 066,Indicateur de qualité du vecteur de mouvement atmosphérique,
+Table D/10 BUFR,3 10 067 (suite),0 20 081,Étendue de la couche nuageuse dans le secteur,
+Table D/10 BUFR,3 10 067 (suite),0 20 012,Type de nuage,
+Table D/10 BUFR,3 10 067 (suite),0 20 056,Phase des nuages,
+Table D/10 BUFR,3 10 067 (suite),1 17 000,Répétition différée de 17 descripteurs,
+Table D/10 BUFR,3 10 067 (suite),0 31 001,Facteur de répétition différée du descripteur,
+Table D/10 BUFR,3 10 067 (suite),0 08 023,Statistiques de premier ordre,
+Table D/10 BUFR,3 10 067 (suite),0 20 016,Pression au sommet des nuages,
+Table D/10 BUFR,3 10 067 (suite),0 08 092,Expression de l'incertitude de mesure,= 0 Incertitude type
+Table D/10 BUFR,3 10 067 (suite),0 08 003,Caractéristique verticale (observations par satellite),= 2 Sommet de la couche nuageuse
+Table D/10 BUFR,3 10 067 (suite),0 12 001,Température/température de l'air,
+Table D/10 BUFR,3 10 067 (suite),0 08 003,Caractéristique verticale (observations par satellite),Mis à valeur manquante (annuler)
+Table D/10 BUFR,3 10 067 (suite),0 20 016,Pression au sommet des nuages,
+Table D/10 BUFR,3 10 067 (suite),0 08 092,Expression de l'incertitude de mesure,Mis à valeur manquante (annuler)
+Table D/10 BUFR,3 10 067 (suite),0 25 149,Coût estimatif optimal,
+Table D/10 BUFR,3 10 067 (suite),0 20 016,Pression au sommet des nuages,
+Table D/10 BUFR,3 10 067 (suite),0 20 014,Hauteur du sommet des nuages,
+Table D/10 BUFR,3 10 067 (suite),0 13 093,Épaisseur optique des nuages,
+Table D/10 BUFR,3 10 067 (suite),0 13 109,Teneur en glace/eau liquide,
+Table D/10 BUFR,3 10 067 (suite),0 40 038,Taille des particules de nuages,
+Table D/10 BUFR,3 10 067 (suite),0 08 011,Caractéristique météorologique,= 12 Nuages
+Table D/10 BUFR,3 10 067 (suite),0 14 050,Émissivité,
+Table D/10 BUFR,3 10 067 (suite),0 08 011,Caractéristique météorologique,Mis à valeur manquante (annuler)
+Table D/10 BUFR,3 10 067 (suite),0 08 023,Statistiques de premier ordre,Mis à valeur manquante (annuler)
+Table D/10 BUFR,3 10 068,0 08 070,Identificateur de produits de sondages verticaux,
+Table D/10 BUFR,3 10 068,0 01 033,Identification du centre d'origine/de production,
+Table D/10 BUFR,3 10 068,0 01 034,Identification du centre secondaire d'origine/de production,
+Table D/10 BUFR,3 10 068,0 01 007,Indicateur d'identification du satellite,
+Table D/10 BUFR,3 10 068,0 02 019,Instruments satellitaires,
+Table D/10 BUFR,3 10 068,0 12 064,Température de l'instrument,
+Table D/10 BUFR,3 10 068,0 05 040,Numéro de l'orbite,
+Table D/10 BUFR,3 10 068,2 01 136,Changer le champ de données,
+Table D/10 BUFR,3 10 068,0 05 041,Numéro de la ligne de balayage,
+Table D/10 BUFR,3 10 068,2 01 000,Changement du champ de données,Annuler
+Table D/10 BUFR,3 10 068,0 05 043,Numéro du champ de vision,
+Table D/10 BUFR,3 10 068,3 01 011,"Année, mois, jour",
+Table D/10 BUFR,3 10 068,3 01 012,"Heure, minute",
+Table D/10 BUFR,3 10 068,2 01 138,Changer le champ de données,
+Table D/10 BUFR,3 10 068,2 02 131,Changer d'échelle,
+Table D/10 BUFR,3 10 068,0 04 006,Seconde,
+Table D/10 BUFR,3 10 068 (suite),2 02 000,Changement d'échelle,Annuler
+Table D/10 BUFR,3 10 068 (suite),2 01 000,Changement du champ de données,Annuler
+Table D/10 BUFR,3 10 068 (suite),0 05 001,Latitude (précision élevée),
+Table D/10 BUFR,3 10 068 (suite),0 06 001,Longitude (précision élevée),
+Table D/10 BUFR,3 10 068 (suite),2 02 126,Changer d'échelle,
+Table D/10 BUFR,3 10 068 (suite),0 07 001,Hauteur de la station,
+Table D/10 BUFR,3 10 068 (suite),2 02 000,Changement d'échelle,Annuler
+Table D/10 BUFR,3 10 068 (suite),0 10 007,Hauteur,
+Table D/10 BUFR,3 10 068 (suite),0 07 024,Distance zénithale du satellite,
+Table D/10 BUFR,3 10 068 (suite),0 05 021,Direction ou azimut,
+Table D/10 BUFR,3 10 068 (suite),0 07 025,Distance zénithale du soleil,
+Table D/10 BUFR,3 10 068 (suite),0 05 022,Azimut du soleil,
+Table D/10 BUFR,3 10 068 (suite),0 13 040,Indicateur de surface,
+Table D/10 BUFR,3 10 068 (suite),0 12 101,Température/température de l'air,Température à la surface des terres émergées ou de l'océan
+Table D/10 BUFR,3 10 068 (suite),2 01 131,Changer le champ de données,
+Table D/10 BUFR,3 10 068 (suite),2 02 129,Changer d'échelle,
+Table D/10 BUFR,3 10 068 (suite),0 11 011,Direction du vent à 10 m,Vent à la surface de l'océan
+Table D/10 BUFR,3 10 068 (suite),2 02 000,Changement d'échelle,Annuler
+Table D/10 BUFR,3 10 068 (suite),2 01 000,Changement du champ de données,Annuler
+Table D/10 BUFR,3 10 068 (suite),2 01 130,Changer le champ de données,
+Table D/10 BUFR,3 10 068 (suite),2 02 129,Changer d'échelle,
+Table D/10 BUFR,3 10 068 (suite),0 11 012,Vitesse du vent à 10 m,Vent à la surface de l'océan
+Table D/10 BUFR,3 10 068 (suite),2 02 000,Changement d'échelle,Annuler
+Table D/10 BUFR,3 10 068 (suite),2 01 000,Changement du champ de données,Annuler
+Table D/10 BUFR,3 10 068 (suite),0 20 029,Indicateur de pluie,
+Table D/10 BUFR,3 10 068 (suite),0 20 010,Nébulosité (totale),
+Table D/10 BUFR,3 10 068 (suite),0 20 014,Hauteur du sommet des nuages,
+Table D/10 BUFR,3 10 068 (suite),0 13 162,Teneur en eau liquide des nuages,
+Table D/10 BUFR,3 10 068 (suite),0 14 050,Émissivité,
+Table D/10 BUFR,3 10 069,0 05 042,Numéro du canal,
+Table D/10 BUFR,3 10 069,2 01 139,Changer le champ de données,
+Table D/10 BUFR,3 10 069,0 02 155,Longueur d'onde du canal du satellite,
+Table D/10 BUFR,3 10 069,2 01 000,Changement du champ de données,Annuler
+Table D/10 BUFR,3 10 069,0 25 077,Coefficient 1 de correction de largeur de bande,
+Table D/10 BUFR,3 10 069,0 25 078,Coefficient 2 de correction de largeur de bande,
+Table D/10 BUFR,3 10 069,0 33 007,Degré de confiance,
+Table D/10 BUFR,3 10 069,2 01 132,Changer le champ de données,
+Table D/10 BUFR,3 10 069,2 02 129,Changer d'échelle,
+Table D/10 BUFR,3 10 069 (suite),0 12 063,Température de luminance,
+Table D/10 BUFR,3 10 069 (suite),2 02 000,Changement d'échelle,Annuler
+Table D/10 BUFR,3 10 069 (suite),2 01 000,Changement du champ de données,Annuler
+Table D/10 BUFR,3 10 070,3 10 068,Paramètres du champ de vision du système VASS,
+Table D/10 BUFR,3 10 070,1 01 013,Répéter 1 descripteur 13 fois,
+Table D/10 BUFR,3 10 070,3 10 069,Paramètres du canal du système VASS,
+Table D/10 BUFR,3 10 071,3 10 068,Paramètres du champ de vision du système VASS,
+Table D/10 BUFR,3 10 071,1 01 015,Répéter 1 descripteur 15 fois,
+Table D/10 BUFR,3 10 071,3 10 069,Paramètres du canal du système VASS,
+Table D/10 BUFR,3 10 072,3 10 068,Paramètres du champ de vision du système VASS,
+Table D/10 BUFR,3 10 072,1 01 026,Répéter 1 descripteur 26 fois,
+Table D/10 BUFR,3 10 072,3 10 069,Paramètres du canal du système VASS,
+Table D/10 BUFR,3 10 077,0 01 033,Identification du centre d'origine/de production,
+Table D/10 BUFR,3 10 077,0 01 034,Identification du centre secondaire d'origine/de production,
+Table D/10 BUFR,3 10 077,0 25 061,Identification du logiciel et numéro de version,
+Table D/10 BUFR,3 10 077,0 25 062,Identification de la base de données,
+Table D/10 BUFR,3 10 077,0 01 007,Indicateur d'identification du satellite,
+Table D/10 BUFR,3 10 077,0 02 153,Fréquence centrale du canal du satellite,
+Table D/10 BUFR,3 10 077,0 01 012,Direction de déplacement de la plate-forme d'observation mobile,
+Table D/10 BUFR,3 10 077,2 01 138,Changer le champ de données,
+Table D/10 BUFR,3 10 077,0 02 026,Résolution en travers de la trajectoire,
+Table D/10 BUFR,3 10 077,0 02 027,Résolution dans le sens de la route du satellite,
+Table D/10 BUFR,3 10 077,2 01 000,Changement du champ de données,Annuler
+Table D/10 BUFR,3 10 077,0 02 028,Dimension du secteur au nadir en coordonnée x,Dimension de la case «cible»
+Table D/10 BUFR,3 10 077,0 02 029,Dimension du secteur au nadir en coordonnée y,Dimension de la case «cible»
+Table D/10 BUFR,3 10 077,0 02 161,Méthode de traitement des données du vent,
+Table D/10 BUFR,3 10 077 (suite),0 02 164,Méthode de corrélation des traceurs,
+Table D/10 BUFR,3 10 077 (suite),0 02 023,Méthode de calcul du vent à partir de données satellitaires,
+Table D/10 BUFR,3 10 077 (suite),0 08 012,Identificateur terre/mer,
+Table D/10 BUFR,3 10 077 (suite),0 08 013,Identificateur jour/nuit,

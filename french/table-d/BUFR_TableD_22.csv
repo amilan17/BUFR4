@@ -1,37 +1,37 @@
-Category,CategoryOfSequences_fr,FXY1,Title_fr,SubTitle_fr,FXY2,ElementName_fr,ElementDescription_fr,Note_fr,noteIDs,Status
-22,Catégorie 22 — Séquences relatives aux substances chimiques et aux aérosols,322028,METOP/GOME-2,,001007,Indicateur d'identification du satellite,,,,Operational
-22,Catégorie 22 — Séquences relatives aux substances chimiques et aux aérosols,322028,,,002019,Instruments satellitaires,,,,Operational
-22,Catégorie 22 — Séquences relatives aux substances chimiques et aux aérosols,322028,,,004001,Année,,,,Operational
-22,Catégorie 22 — Séquences relatives aux substances chimiques et aux aérosols,322028,,,004002,Mois,,,,Operational
-22,Catégorie 22 — Séquences relatives aux substances chimiques et aux aérosols,322028,,,004003,Jour,,,,Operational
-22,Catégorie 22 — Séquences relatives aux substances chimiques et aux aérosols,322028,,,004004,Heure,,,,Operational
-22,Catégorie 22 — Séquences relatives aux substances chimiques et aux aérosols,322028,,,004005,Minute,,,,Operational
-22,Catégorie 22 — Séquences relatives aux substances chimiques et aux aérosols,322028,,,004006,Seconde,,,,Operational
-22,Catégorie 22 — Séquences relatives aux substances chimiques et aux aérosols,322028,précision élevée,,005001,Latitude,,,,Operational
-22,Catégorie 22 — Séquences relatives aux substances chimiques et aux aérosols,322028,précision élevée,,006001,Longitude,,,,Operational
-22,Catégorie 22 — Séquences relatives aux substances chimiques et aux aérosols,322028,précision élevée,,027001,Latitude,,,,Operational
-22,Catégorie 22 — Séquences relatives aux substances chimiques et aux aérosols,322028,précision élevée,,028001,Longitude,,,,Operational
-22,Catégorie 22 — Séquences relatives aux substances chimiques et aux aérosols,322028,précision élevée,,027001,Latitude,,,,Operational
-22,Catégorie 22 — Séquences relatives aux substances chimiques et aux aérosols,322028,précision élevée,,028001,Longitude,,,,Operational
-22,Catégorie 22 — Séquences relatives aux substances chimiques et aux aérosols,322028,précision élevée,,027001,Latitude,,,,Operational
-22,Catégorie 22 — Séquences relatives aux substances chimiques et aux aérosols,322028,précision élevée,,028001,Longitude,,,,Operational
-22,Catégorie 22 — Séquences relatives aux substances chimiques et aux aérosols,322028,précision élevée,,027001,Latitude,,,,Operational
-22,Catégorie 22 — Séquences relatives aux substances chimiques et aux aérosols,322028,précision élevée,,028001,Longitude,,,,Operational
-22,Catégorie 22 — Séquences relatives aux substances chimiques et aux aérosols,322028,,,010001,Hauteur de la surface terrestre,,,,Operational
-22,Catégorie 22 — Séquences relatives aux substances chimiques et aux aérosols,322028,,,014019,Albédo de la surface,,,,Operational
-22,Catégorie 22 — Séquences relatives aux substances chimiques et aux aérosols,322028,,,007025,Distance zénithale du soleil,,,,Operational
-22,Catégorie 22 — Séquences relatives aux substances chimiques et aux aérosols,322028,,,010080,Distance zénithale de la visée,,,,Operational
-22,Catégorie 22 — Séquences relatives aux substances chimiques et aux aérosols,322028,,,005023,Différence d'azimut entre le soleil et le satellite,,,,Operational
-22,Catégorie 22 — Séquences relatives aux substances chimiques et aux aérosols,322028,totale,,020010,Nébulosité,,,,Operational
-22,Catégorie 22 — Séquences relatives aux substances chimiques et aux aérosols,322028,observations par satellite,,008003,Caractéristique verticale,,,,Operational
-22,Catégorie 22 — Séquences relatives aux substances chimiques et aux aérosols,322028,,,007004,Pression,,,,Operational
-22,Catégorie 22 — Séquences relatives aux substances chimiques et aux aérosols,322028,,,014026,Albédo au sommet des nuages,,,,Operational
-22,Catégorie 22 — Séquences relatives aux substances chimiques et aux aérosols,322028,,,020014,Hauteur du sommet des nuages,,,,Operational
-22,Catégorie 22 — Séquences relatives aux substances chimiques et aux aérosols,322028,,,013093,Épaisseur optique des nuages,,,,Operational
-22,Catégorie 22 — Séquences relatives aux substances chimiques et aux aérosols,322028,,,105000,Répétition différée de 5 descripteurs,,,,Operational
-22,Catégorie 22 — Séquences relatives aux substances chimiques et aux aérosols,322028,,,031001,Facteur de répétition différée du descripteur,,,,Operational
-22,Catégorie 22 — Séquences relatives aux substances chimiques et aux aérosols,322028,,,007004,Pression,,,,Operational
-22,Catégorie 22 — Séquences relatives aux substances chimiques et aux aérosols,322028,,,007004,Pression,,,,Operational
-22,Catégorie 22 — Séquences relatives aux substances chimiques et aux aérosols,322028,,,008043,Type de constituants chimiques ou physiques de l'atmosphère,,,,Operational
-22,Catégorie 22 — Séquences relatives aux substances chimiques et aux aérosols,322028,,,008044,Numéro d'enregistrement CAS,,,,Operational
-22,Catégorie 22 — Séquences relatives aux substances chimiques et aux aérosols,322028,,,015021,Densité de masse intégrée,,,,Operational
+TABLE_NAME,DESCRIPTEUR,SÉQUENCE DE DESCRIPTEURS,NOM DE L’ÉLÉMENT,DESCRIPTION DE L’ÉLÉMENT
+Catégorie 22 – Séquences relatives aux substances chimiques et aux aérosols,3 22 028,0 01 007,(METOP/GOME-2) Indicateur d'identification du satellite,
+Catégorie 22 – Séquences relatives aux substances chimiques et aux aérosols,3 22 028,0 02 019,Instruments satellitaires,
+Catégorie 22 – Séquences relatives aux substances chimiques et aux aérosols,3 22 028,0 04 001,Année,
+Catégorie 22 – Séquences relatives aux substances chimiques et aux aérosols,3 22 028,0 04 002,Mois,
+Catégorie 22 – Séquences relatives aux substances chimiques et aux aérosols,3 22 028,0 04 003,Jour,
+Catégorie 22 – Séquences relatives aux substances chimiques et aux aérosols,3 22 028,0 04 004,Heure,
+Catégorie 22 – Séquences relatives aux substances chimiques et aux aérosols,3 22 028,0 04 005,Minute,
+Catégorie 22 – Séquences relatives aux substances chimiques et aux aérosols,3 22 028,0 04 006,Seconde,
+Catégorie 22 – Séquences relatives aux substances chimiques et aux aérosols,3 22 028,0 05 001,Latitude (précision élevée),
+Catégorie 22 – Séquences relatives aux substances chimiques et aux aérosols,3 22 028,0 06 001,Longitude (précision élevée),
+Catégorie 22 – Séquences relatives aux substances chimiques et aux aérosols,3 22 028,0 27 001,Latitude (précision élevée),
+Catégorie 22 – Séquences relatives aux substances chimiques et aux aérosols,3 22 028,0 28 001,Longitude (précision élevée),
+Catégorie 22 – Séquences relatives aux substances chimiques et aux aérosols,3 22 028,0 27 001,Latitude (précision élevée),
+Catégorie 22 – Séquences relatives aux substances chimiques et aux aérosols,3 22 028,0 28 001,Longitude (précision élevée),
+Catégorie 22 – Séquences relatives aux substances chimiques et aux aérosols,3 22 028,0 27 001,Latitude (précision élevée),
+Catégorie 22 – Séquences relatives aux substances chimiques et aux aérosols,3 22 028,0 28 001,Longitude (précision élevée),
+Catégorie 22 – Séquences relatives aux substances chimiques et aux aérosols,3 22 028,0 27 001,Latitude (précision élevée),
+Catégorie 22 – Séquences relatives aux substances chimiques et aux aérosols,3 22 028,0 28 001,Longitude (précision élevée),
+Catégorie 22 – Séquences relatives aux substances chimiques et aux aérosols,3 22 028,0 10 001,Hauteur de la surface terrestre,
+Catégorie 22 – Séquences relatives aux substances chimiques et aux aérosols,3 22 028,0 14 019,Albédo de la surface,
+Catégorie 22 – Séquences relatives aux substances chimiques et aux aérosols,3 22 028,0 07 025,Distance zénithale du soleil,
+Catégorie 22 – Séquences relatives aux substances chimiques et aux aérosols,3 22 028,0 10 080,Distance zénithale de la visée,
+Catégorie 22 – Séquences relatives aux substances chimiques et aux aérosols,3 22 028,0 05 023,Différence d'azimut entre le soleil et le satellite,
+Catégorie 22 – Séquences relatives aux substances chimiques et aux aérosols,3 22 028,0 20 010,Nébulosité (totale),
+Catégorie 22 – Séquences relatives aux substances chimiques et aux aérosols,3 22 028,0 08 003,Caractéristique verticale (observations par satellite),
+Catégorie 22 – Séquences relatives aux substances chimiques et aux aérosols,3 22 028,0 07 004,Pression,
+Catégorie 22 – Séquences relatives aux substances chimiques et aux aérosols,3 22 028,0 14 026,Albédo au sommet des nuages,
+Catégorie 22 – Séquences relatives aux substances chimiques et aux aérosols,3 22 028,0 20 014,Hauteur du sommet des nuages,
+Catégorie 22 – Séquences relatives aux substances chimiques et aux aérosols,3 22 028,0 13 093,Épaisseur optique des nuages,
+Catégorie 22 – Séquences relatives aux substances chimiques et aux aérosols,3 22 028,1 05 000,Répétition différée de 5 descripteurs,
+Catégorie 22 – Séquences relatives aux substances chimiques et aux aérosols,3 22 028,0 31 001,Facteur de répétition différée du descripteur,
+Catégorie 22 – Séquences relatives aux substances chimiques et aux aérosols,3 22 028,0 07 004,Pression,
+Catégorie 22 – Séquences relatives aux substances chimiques et aux aérosols,3 22 028,0 07 004,Pression,
+Catégorie 22 – Séquences relatives aux substances chimiques et aux aérosols,3 22 028,0 08 043,Type de constituants chimiques ou physiques de l'atmosphère,
+Catégorie 22 – Séquences relatives aux substances chimiques et aux aérosols,3 22 028,0 08 044,Numéro d'enregistrement CAS,
+Catégorie 22 – Séquences relatives aux substances chimiques et aux aérosols,3 22 028,0 15 021,Densité de masse intégrée,

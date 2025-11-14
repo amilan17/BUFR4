@@ -1,219 +1,220 @@
-Category,CategoryOfSequences_fr,FXY1,Title_fr,SubTitle_fr,FXY2,ElementName_fr,ElementDescription_fr,Note_fr,noteIDs,Status
-11,Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),311001,Comptes rendus d'aéronef,,301051,"Numéro de vol, système de navigation, date/heure, position, phase de vol",ASDAR,,,Operational
-11,Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),311001,,,007002,Hauteur ou altitude,ASDAR,,,Operational
-11,Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),311001,,,012001,Température/température de l'air,ASDAR,,,Operational
-11,Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),311001,,,011001,Direction du vent,ASDAR,,,Operational
-11,Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),311001,,,011002,Vitesse du vent,ASDAR,,,Operational
-11,Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),311001,,,011031,Degré de turbulence,ASDAR,,,Operational
-11,Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),311001,,,011032,Hauteur de la base de la turbulence,ASDAR,,,Operational
-11,Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),311001,,,011033,Hauteur du sommet de la turbulence,ASDAR,,,Operational
-11,Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),311001,,,020041,Givrage d'aéronef,ASDAR,,,Operational
-11,Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),311002,Messages ACARS,,301065,Identification du message ACARS,,,,Operational
-11,Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),311002,,,301066,Position concernant les messages ACARS,,,,Operational
-11,Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),311002,,,311003,Variables ACARS standard transmises,,,,Operational
-11,Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),311002,,,311004,Variables ACARS supplémentaires transmises,,,,Operational
-11,Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),311003,Variables ACARS standard transmises,,010070,Altitude de l'aéronef indiquée,,,,Operational
-11,Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),311003,,,011001,Direction du vent,,,,Operational
-11,Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),311003,,,011002,Vitesse du vent,,,,Operational
-11,Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),311003,,,012001,Température/température de l'air,,,,Operational
-11,Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),311003,,,013002,Rapport de mélange,,,,Operational
-11,Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),311004,Variables ACARS supplémentaires transmises,,101000,Répétition différée de 1 descripteur,,,,Operational
-11,Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),311004,,,031000,Facteur de répétition légèrement différée du descripteur,,,,Operational
-11,Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),311004,,,011034,Vitesse des rafales verticales,,,,Operational
-11,Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),311004,,,101000,Répétition différée de 1 descripteur,,,,Operational
-11,Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),311004,,,031000,Facteur de répétition légèrement différée du descripteur,,,,Operational
-11,Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),311004,,,011035,Accélération des rafales verticales,,,,Operational
-11,Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),311004,,,101000,Répétition différée de 1 descripteur,,,,Operational
-11,Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),311004,,,031000,Facteur de répétition légèrement différée du descripteur,,,,Operational
-11,Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),311004,taux de dissipation des tourbillons,,011075,Intensité moyenne de la turbulence,,,,Operational
-11,Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),311004,,,101000,Répétition différée de 1 descripteur,,,,Operational
-11,Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),311004,,,031000,Facteur de répétition légèrement différée du descripteur,,,,Operational
-11,Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),311004,taux de dissipation des tourbillons,,011076,Intensité maximale de la turbulence,,,,Operational
-11,Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),311004,,,101000,Répétition différée de 1 descripteur,,,,Operational
-11,Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),311004,,,031000,Facteur de répétition légèrement différée du descripteur,,,,Operational
-11,Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),311004,,,033025,Indicateur de valeurs ACARS interpolées,,,,Operational
-11,Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),311004,,,101000,Répétition différée de 1 descripteur,,,,Operational
-11,Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),311004,,,031000,Facteur de répétition légèrement différée du descripteur,,,,Operational
-11,Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),311004,,,033026,Qualité de la mesure de l'humidité,,,,Operational
-11,Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),311005,Messages AMDAR standard,,001008,Numéro d'immatriculation de l'aéronef ou autre identification,,,,Operational
-11,Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),311005,,,001023,Numéro de la séquence d'observations,,,,Operational
-11,Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),311005,précision élevée,,301021,Latitude/longitude,,,,Operational
-11,Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),311005,,,301011,"Année, mois, jour",,,,Operational
-11,Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),311005,,,301013,"Heure, minute, seconde",,,,Operational
-11,Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),311005,,,007010,Niveau de vol,,,,Operational
-11,Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),311005,,,008009,Phase de vol détaillée de l'aéronef,,,,Operational
-11,Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),311005,,,011001,Direction du vent,,,,Operational
-11,Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),311005,,,011002,Vitesse du vent,,,,Operational
-11,Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),311005,,,011031,Degré de turbulence,,,,Operational
-11,Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),311005,,,011036,Équivalent maximal dérivé de la vitesse des rafales verticales,,,,Operational
-11,Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),311005,,,012101,Température/température de l'air,,,,Operational
-11,Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),311005,,,033025,Indicateur de valeurs ACARS interpolées,,,,Operational
-11,Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),311006,Données AMDAR ou données d'aéronefs pour un niveau sans indication de la latitude et de la longitude,,007010,Niveau de vol,,,,Operational
-11,Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),311006,,,011001,Direction du vent,,,,Operational
-11,Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),311006,,,011002,Vitesse du vent,,,,Operational
-11,Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),311006,,,002064,Qualité de l'angle de roulis de l'aéronef,,,,Operational
-11,Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),311006,,,012101,Température/température de l'air,,,,Operational
-11,Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),311006,,,012103,Point de rosée,,,,Operational
-11,Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),311007,Données d'aéronefs pour un niveau avec indication de la latitude et de la longitude,,007010,Niveau de vol,,,,Operational
-11,Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),311007,précision élevée,,301021,Latitude/longitude,,,,Operational
-11,Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),311007,,,011001,Direction du vent,,,,Operational
-11,Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),311007,,,011002,Vitesse du vent,,,,Operational
-11,Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),311007,,,002064,Qualité de l'angle de roulis de l'aéronef,,,,Operational
-11,Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),311007,,,012101,Température/température de l'air,,,,Operational
-11,Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),311007,,,012103,Point de rosée,,,,Operational
-11,Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),311008,Profil des phases ascendante et descendante d'un vol d'aéronef sans indication de la latitude et de la longitude à chaque niveau,,001008,Numéro d'immatriculation de l'aéronef ou autre identification,,,,Operational
-11,Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),311008,,,301011,"Année, mois, jour",,,,Operational
-11,Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),311008,,,301013,"Heure, minute, seconde",,,,Operational
-11,Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),311008,précision élevée,,301021,Latitude/longitude,,,,Operational
-11,Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),311008,,,008004,Phase de vol de l'aéronef,,,,Operational
-11,Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),311008,,,101000,Répétition différée de 1 descripteur,,,,Operational
-11,Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),311008,,,031001,Facteur de répétition différée du descripteur,,,,Operational
-11,Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),311008,,,311006,Données AMDAR ou données d'aéronefs pour un niveau sans indication de la latitude et de la longitude,,,,Operational
-11,Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),311009,Profil des phases ascendante et descendante d'un vol d'aéronef avec la latitude et la longitude à chaque niveau,,001008,Numéro d'immatriculation de l'aéronef ou autre identification,,,,Operational
-11,Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),311009,,,301011,"Année, mois, jour",,,,Operational
-11,Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),311009,,,301013,"Heure, minute, seconde",,,,Operational
-11,Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),311009,précision élevée,,301021,Latitude/longitude,,,,Operational
-11,Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),311009,,,008004,Phase de vol de l'aéronef,,,,Operational
-11,Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),311009,,,101000,Répétition différée de 1 descripteur,,,,Operational
-11,Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),311009,,,031001,Facteur de répétition différée du descripteur,,,,Operational
-11,Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),311009,,,311007,Données d'aéronefs pour un niveau avec indication de la latitude et de la longitude,,,,Operational
-11,Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),311010,"Modèle BUFR pour les données AMDAR, version 7",,001008,Numéro d'immatriculation de l'aéronef ou autre identification,,,,Operational
-11,Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),311010,,,001023,Numéro de la séquence d'observations,,,,Operational
-11,Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),311010,,,001006,Numéro de vol de l'aéronef,,,,Operational
-11,Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),311010,,,001110,Immatriculation de l'aéronef,,,,Operational
-11,Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),311010,,,001111,Aéroport de départ,,,,Operational
-11,Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),311010,,,001112,Aéroport de destination,,,,Operational
-11,Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),311010,,,204002,Ajouter un champ associé,2 bits de long,,,Operational
-11,Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),311010,,,031021,Signification du champ associé,= 8 Renseignements sur la qualité sur 2 bits,,,Operational
-11,Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),311010,,,301011,"Année, mois, jour",,,,Operational
-11,Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),311010,,,301013,"Heure, minute, seconde",,,,Operational
-11,Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),311010,précision élevée,,301021,Latitude/longitude,,,,Operational
-11,Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),311010,,,007010,Niveau de vol,Altitude pression,,,Operational
-11,Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),311010,Système mondial de navigation par satellite,,010053,Altitude GNSS,,,,Operational
-11,Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),311010,,,008009,Phase de vol détaillée de l'aéronef,,,,Operational
-11,Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),311010,,,011001,Direction du vent,,,,Operational
-11,Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),311010,,,011002,Vitesse du vent,,,,Operational
-11,Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),311010,,,002064,Qualité de l'angle de roulis de l'aéronef,,,,Operational
-11,Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),311010,,,011100,Vitesse vraie de l'aéronef,,,,Operational
-11,Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),311010,composante u,,011101,Vitesse sol de l'aéronef,,,,Operational
-11,Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),311010,composante v,,011102,Vitesse sol de l'aéronef,,,,Operational
-11,Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),311010,composante w,,011103,Vitesse sol de l'aéronef,,,,Operational
-11,Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),311010,,,011104,"Cap vrai de l'aéronef, du navire ou de la plate-forme mobile",Cap vrai de l'aéronef,,,Operational
-11,Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),311010,,,012101,Température/température de l'air,,,,Operational
-11,Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),311010,,,002170,Capteurs d'humidité de l'aéronef,,,,Operational
-11,Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),311010,,,201144,Changer le champ de données,,,,Operational
-11,Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),311010,,,202133,Changer d'échelle,,,,Operational
-11,Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),311010,,,013002,Rapport de mélange,,,,Operational
-11,Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),311010,,,202000,Changement d'échelle,Annuler,,,Operational
-11,Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),311010,,,201000,Changement du champ de données,Annuler,,,Operational
-11,Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),311010,,,201135,Changer le champ de données,,,,Operational
-11,Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),311010,,,202130,Changer d'échelle,,,,Operational
-11,Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),311010,,,013003,Humidité relative,,,,Operational
-11,Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),311010,,,202000,Changement d'échelle,Annuler,,,Operational
-11,Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),311010,,,201000,Changement du champ de données,Annuler,,,Operational
-11,Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),311010,,,101000,Répétition différée de 1 descripteur,,,,Operational
-11,Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),311010,,,031000,Facteur de répétition légèrement différée du descripteur,,,,Operational
-11,Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),311010,,,012103,Point de rosée,,,,Operational
-11,Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),311010,,,033026,Qualité de la mesure de l'humidité,,,,Operational
-11,Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),311010,,,101000,Répétition différée de 1 descripteur,,,,Operational
-11,Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),311010,,,031000,Facteur de répétition légèrement différée du descripteur,,,,Operational
-11,Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),311010,,,020042,Givrage de la cellule,,,,Operational
-11,Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),311010,,,103000,Répétition différée de 3 descripteurs,,,,Operational
-11,Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),311010,,,031000,Facteur de répétition légèrement différée du descripteur,,,,Operational
-11,Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),311010,,,020043,Teneur maximale en eau à l'état liquide,,,,Operational
-11,Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),311010,,,020044,Teneur moyenne en eau à l'état liquide,,,,Operational
-11,Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),311010,,,020045,Grosses gouttes d'eau surfondues,,,,Operational
-11,Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),311010,,,101000,Répétition différée de 1 descripteur,,,,Operational
-11,Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),311010,,,031000,Facteur de répétition légèrement différée du descripteur,,,,Operational
-11,Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),311010,,,033025,Indicateur de valeurs ACARS interpolées,,,,Operational
-11,Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),311010,,,103000,Répétition différée de 3 descripteurs,,,,Operational
-11,Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),311010,,,031001,Facteur de répétition différée du descripteur,,,,Operational
-11,Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),311010,taux de dissipation des tourbillons,,011075,Intensité moyenne de la turbulence,,,,Operational
-11,Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),311010,taux de dissipation des tourbillons,,011076,Intensité maximale de la turbulence,,,,Operational
-11,Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),311010,,,011039,Étalement dans le temps de l'apparition du taux maximal de dissipation des tourbillons,,,,Operational
-11,Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),311010,,,102000,Répétition différée de 2 descripteurs,,,,Operational
-11,Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),311010,,,031000,Facteur de répétition légèrement différée du descripteur,,,,Operational
-11,Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),311010,,,011037,Indice de turbulence,Taux de dissipation des tourbillons,,,Operational
-11,Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),311010,,,011077,Intervalle d'enregistrement ou temps moyen pour établir le taux de dissipation des tourbillons,,,,Operational
-11,Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),311010,,,103000,Répétition différée de 3 descripteurs,,,,Operational
-11,Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),311010,,,031000,Facteur de répétition légèrement différée du descripteur,,,,Operational
-11,Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),311010,,,011034,Vitesse des rafales verticales,,,,Operational
-11,Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),311010,,,011035,Accélération des rafales verticales,,,,Operational
-11,Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),311010,,,011036,Équivalent maximal dérivé de la vitesse des rafales verticales,,,,Operational
-11,Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),311010,,,204000,Ajout d'un champ associé,Annuler,,,Operational
-11,Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),311010,,,119000,Répétition différée de 19 descripteurs,,,,Operational
-11,Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),311010,,,031001,Facteur de répétition différée du descripteur,,,,Operational
-11,Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),311010,,,301011,"Année, mois, jour",,,,Operational
-11,Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),311010,,,301013,"Heure, minute, seconde",,,,Operational
-11,Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),311010,précision élevée,,301021,Latitude/longitude,,,,Operational
-11,Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classics),311010,,,007007,Hauteur,,,,Operational
-11,Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),311010,,,011105,Version de l'algorithme du taux de dissipation des tourbillons,,,,Operational
-11,Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),311010,,,204007,Ajouter un champ associé,7 bits de long,,,Operational
-11,Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),311010,,,031021,Signification du champ associé,= 7 Degré de confiance,,,Operational
-11,Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),311010,taux de dissipation des tourbillons,,011076,Intensité maximale de la turbulence,,,,Operational
-11,Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),311010,taux de dissipation des tourbillons,,011075,Intensité moyenne de la turbulence,,,,Operational
-11,Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),311010,,,204000,Ajout d'un champ associé,Annuler,,,Operational
-11,Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),311010,,,011106,Niveau de confiance minimum associé au fonctionnement,,,,Operational
-11,Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),311010,,,011107,Nombre maximum d'entrées fausses,,,,Operational
-11,Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),311010,,,011108,Localisation de la valeur de crête,,,,Operational
-11,Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),311010,,,011109,Nombre de valeurs justes du taux de dissipation des tourbillons,,,,Operational
-11,Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),311010,,,012101,Température/température de l'air,,,,Operational
-11,Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),311010,,,011001,Direction du vent,,,,Operational
-11,Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),311010,,,201130,Changer le champ de données,,,,Operational
-11,Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),311010,,,011084,Vitesse du vent,,,,Operational
-11,Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),311010,,,201000,Changement du champ de données,Annuler,,,Operational
-11,Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),311011,Modèle IAGOS pour une seule observation,,001023,", version 2 Numéro de la séquence d'observations",,,,Operational
-11,Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),311011,,,008004,Phase de vol de l'aéronef,,,,Operational
-11,Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),311011,,,301011,"Année, mois, jour",,,,Operational
-11,Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),311011,,,301013,"Heure, minute, seconde",,,,Operational
-11,Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),311011,faible précision,,005002,Latitude,,,,Operational
-11,Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),311011,faible précision,,006002,Longitude,,,,Operational
-11,Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),311011,,,007004,Pression,,,,Operational
-11,Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),311011,,,011001,Direction du vent,,,,Operational
-11,Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),311011,,,011002,Vitesse du vent,,,,Operational
-11,Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),311011,,,012101,Température/température de l'air,,,,Operational
-11,Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),311011,,,106000,Répétition différée de 6 descripteurs,,,,Operational
-11,Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),311011,,,031001,Facteur de répétition différée du descripteur,,,,Operational
-11,Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),311011,,,008046,Type de constituants chimiques ou physiques de l'atmosphère,,,,Operational
-11,Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),311011,,,201139,Changer le champ de données,20 bits de long,,,Operational
-11,Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),311011,,,202126,Changer d'échelle,Échelle: 7,,,Operational
-11,Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),311011,mol mol⁻¹,,015026,Concentration du polluant,,,,Operational
-11,Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),311011,,,202000,Changement d'échelle,Annuler,,,Operational
-11,Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),311011,,,201000,Changement du champ de données,Annuler,,,Operational
-11,Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),311011,,,106000,Répétition différée de 6 descripteurs,,,,Operational
-11,Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),311011,,,031001,Facteur de répétition différée du descripteur,,,,Operational
-11,Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),311011,,,008046,Type de constituants chimiques ou physiques de l'atmosphère,,,,Operational
-11,Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),311011,,,201138,Changer le champ de données,19 bits de long,,,Operational
-11,Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),311011,,,202130,Changer d'échelle,Échelle: 11,,,Operational
-11,Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),311011,mol mol⁻¹,,015026,Concentration du polluant,,,,Operational
-11,Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),311011,,,202000,Changement d'échelle,Annuler,,,Operational
-11,Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),311011,,,201000,Changement du champ de données,Annuler,,,Operational
-11,Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),311011,,,015052,Log₁₀ de la concentration en nombre de particules d'aérosols de diamètre supérieur à 5 nm,,,,Operational
-11,Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),311011,,,015053,Log₁₀ de la concentration en nombre de particules d'aérosols de diamètre supérieur à 14 nm,,,,Operational
-11,Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),311011,,,015054,"Log₁₀ de la concentration en nombre de particules d'aérosols de diamètre compris entre 0,25 et 2,5 µm",,,,Operational
-11,Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),311011,,,015055,Proportion d'aérosols non volatils,,,,Operational
-11,Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),311011,,,007004,Pression,,,,Operational
-11,Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),311011,,,007004,Pression,,,,Operational
-11,Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),311011,,,013099,Log₁₀ de la concentration intégrée de particules dans les nuages,,,,Operational
-11,Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),311011,,,013100,Log₁₀ de la surface intégrée des particules dans les nuages,,,,Operational
-11,Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),311011,,,013101,Log₁₀ du volume intégré des particules dans les nuages,,,,Operational
-11,Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),311012,Modèle BUFR pour le profil des phases ascendante et descendante d'un vol d'aéronef avec la latitude et la longitude à chaque niveau,,301150,Identifiant du WIGOS,,,,Operational
-11,Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),311012,,,001008,Numéro d'immatriculation de l'aéronef ou autre identification,,,,Operational
-11,Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),311012,,,001111,Aéroport de départ,À indiquer en cas de profil de phase ascendante,,,Operational
-11,Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),311012,,,001112,Aéroport de destination,À indiquer en cas de profil de phase descendante,,,Operational
-11,Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),311012,,,301011,"Année, mois, jour","Date/heure et position du premier niveau du profil (pour le profil de phase ascendante premier rapport / décollage, pour le profil de phase descendante dernier rapport /atterrissage)",,,Operational
-11,Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),311012,,,301013,"Heure, minute, seconde","Date/heure et position du premier niveau du profil (pour le profil de phase ascendante premier rapport / décollage, pour le profil de phase descendante dernier rapport /atterrissage)",,,Operational
-11,Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),311012,précision élevée,,301021,Latitude/longitude,"Date/heure et position du premier niveau du profil (pour le profil de phase ascendante premier rapport / décollage, pour le profil de phase descendante dernier rapport /atterrissage)",,,Operational
-11,Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),311012,,,008004,Phase de vol de l'aéronef,Profil de phase ascendante ou descendante,,,Operational
-11,Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),311012,,,110000,Répétition différée de 10 descripteurs,Nombre de niveaux suivants,,,Operational
-11,Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),311012,,,031002,Facteur élargi de répétition différée du descripteur,Nombre de niveaux suivants,,,Operational
-11,Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),311012,,,301011,"Année, mois, jour",Date du message d'observation à un seul niveau,,,Operational
-11,Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),311012,,,301013,"Heure, minute, seconde",Heure du message d'observation à un seul niveau,,,Operational
-11,Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),311012,,,311007,Données d'aéronefs pour un niveau avec indication de la latitude et de la longitude,"Niveau de vol = altitude pression, point de rosée = valeur déduite du rapport de mélange, limitée à Td ≤ T",,,Operational
-11,Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),311012,,,201144,Changer le champ de données,Données initiales mesurées,,,Operational
-11,Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),311012,,,202133,Changer d'échelle,Données initiales mesurées,,,Operational
-11,Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),311012,,,013002,Rapport de mélange,Données initiales mesurées,,,Operational
-11,Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),311012,,,202000,Changement d'échelle,Annuler,,,Operational
-11,Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),311012,,,201000,Changement du champ de données,Annuler,,,Operational
-11,Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),311012,,,013003,Humidité relative,"Valeur déduite du rapport de mélange, limitée à ≤ 100 %",,,Operational
-11,Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),311012,,,033026,Qualité de la mesure de l'humidité,"Table de code (indiquer le chiffre du code 10 si Td > T, voir la table de code)",,,Operational
+﻿TABLE_NAME,DESCRIPTEUR,SÉQUENCE DE DESCRIPTEURS,NOM DE L’ÉLÉMENT,DESCRIPTION DE L’ÉLÉMENT
+Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),3 11 001,3 01 051,"(Comptes rendus d'aéronef) Numéro de vol, système de navigation, date/heure, position, phase de vol",ASDAR
+Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),3 11 001,0 07 002,Hauteur ou altitude,ASDAR
+Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),3 11 001,0 12 001,Température/température de l'air,ASDAR
+Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),3 11 001,0 11 001,Direction du vent,ASDAR
+Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),3 11 001,0 11 002,Vitesse du vent,ASDAR
+Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),3 11 001,0 11 031,Degré de turbulence,ASDAR
+Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),3 11 001,0 11 032,Hauteur de la base de la turbulence,ASDAR
+Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),3 11 001,0 11 033,Hauteur du sommet de la turbulence,ASDAR
+Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),3 11 001,0 20 041,Givrage d'aéronef,ASDAR
+Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),3 11 002,3 01 065,(Messages ACARS) Identification du message ACARS,
+Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),3 11 002,3 01 066,Position concernant les messages ACARS,
+Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),3 11 002,3 11 003,Variables ACARS standard transmises,
+Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),3 11 002,3 11 004,Variables ACARS supplémentaires transmises,
+Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),3 11 003,0 10 070,(Variables ACARS standard transmises) Altitude de l'aéronef indiquée,
+Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),3 11 003,0 11 001,Direction du vent,
+Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),3 11 003,0 11 002,Vitesse du vent,
+Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),3 11 003,0 12 001,Température/température de l'air,
+Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),3 11 003,0 13 002,Rapport de mélange,
+Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),3 11 004,1 01 000,(Variables ACARS supplémentaires transmises) Répétition différée de 1 descripteur,
+Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),3 11 004,0 31 000,Facteur de répétition légèrement différée du descripteur,
+Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),3 11 004,0 11 034,Vitesse des rafales verticales,
+Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),3 11 004,1 01 000,Répétition différée de 1 descripteur,
+Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),3 11 004,0 31 000,Facteur de répétition légèrement différée du descripteur,
+Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),3 11 004,0 11 035,Accélération des rafales verticales,
+Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),3 11 004,1 01 000,Répétition différée de 1 descripteur,
+Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),3 11 004,0 31 000,Facteur de répétition légèrement différée du descripteur,
+Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),3 11 004,0 11 075,Intensité moyenne de la turbulence (taux de dissipation des tourbillons),
+Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),3 11 004,1 01 000,Répétition différée de 1 descripteur,
+Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),3 11 004,0 31 000,Facteur de répétition légèrement différée du descripteur,
+Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),3 11 004,0 11 076,Intensité maximale de la turbulence (taux de dissipation des tourbillons),
+Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),3 11 004,1 01 000,Répétition différée de 1 descripteur,
+Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),3 11 004,0 31 000,Facteur de répétition légèrement différée du descripteur,
+Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),3 11 004 (suite),0 33 025,Indicateur de valeurs ACARS interpolées,
+Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),3 11 004 (suite),1 01 000,Répétition différée de 1 descripteur,
+Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),3 11 004 (suite),0 31 000,Facteur de répétition légèrement différée du descripteur,
+Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),3 11 004 (suite),0 33 026,Qualité de la mesure de l'humidité,
+Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),3 11 005,0 01 008,(Messages AMDAR standard) Numéro d'immatriculation de l'aéronef ou autre identification,
+Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),3 11 005,0 01 023,Numéro de la séquence d'observations,
+Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),3 11 005,3 01 021,Latitude/longitude (précision élevée),
+Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),3 11 005,3 01 011,"Année, mois, jour",
+Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),3 11 005,3 01 013,"Heure, minute, seconde",
+Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),3 11 005,0 07 010,Niveau de vol,
+Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),3 11 005,0 08 009,Phase de vol détaillée de l'aéronef,
+Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),3 11 005,0 11 001,Direction du vent,
+Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),3 11 005,0 11 002,Vitesse du vent,
+Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),3 11 005,0 11 031,Degré de turbulence,
+Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),3 11 005,0 11 036,Équivalent maximal dérivé de la vitesse des rafales verticales,
+Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),3 11 005,0 12 101,Température/température de l'air,
+Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),3 11 005,0 33 025,Indicateur de valeurs ACARS interpolées,
+Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),3 11 006,0 07 010,(Données AMDAR ou données d'aéronefs pour un niveau sans indication de la latitude et de la longitude) Niveau de vol,
+Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),3 11 006,0 11 001,Direction du vent,
+Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),3 11 006,0 11 002,Vitesse du vent,
+Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),3 11 006,0 02 064,Qualité de l'angle de roulis de l'aéronef,
+Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),3 11 006,0 12 101,Température/température de l'air,
+Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),3 11 006,0 12 103,Point de rosée,
+Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),3 11 007,0 07 010,(Données d'aéronefs pour un niveau avec indication de la latitude et de la longitude) Niveau de vol,
+Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),3 11 007,3 01 021,Latitude/longitude (précision élevée),
+Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),3 11 007,0 11 001,Direction du vent,
+Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),3 11 007,0 11 002,Vitesse du vent,
+Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),3 11 007,0 02 064,Qualité de l'angle de roulis de l'aéronef,
+Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),3 11 007,0 12 101,Température/température de l'air,
+Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),3 11 007,0 12 103,Point de rosée,
+Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),3 11 008,0 01 008,(Profil des phases ascendante et descendante d'un vol d'aéronef sans indication de la latitude et de la longitude à chaque niveau) Numéro d'immatriculation de l'aéronef ou autre identification,
+Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),3 11 008,3 01 011,"Année, mois, jour",
+Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),3 11 008,3 01 013,"Heure, minute, seconde",
+Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),3 11 008 (suite),3 01 021,Latitude/longitude (précision élevée),
+Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),3 11 008 (suite),0 08 004,Phase de vol de l'aéronef,
+Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),3 11 008 (suite),1 01 000,Répétition différée de 1 descripteur,
+Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),3 11 008 (suite),0 31 001,Facteur de répétition différée du descripteur,
+Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),3 11 008 (suite),3 11 006,Données AMDAR ou données d'aéronefs pour un niveau sans indication de la latitude et de la longitude,
+Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),3 11 009,0 01 008,(Profil des phases ascendante et descendante d'un vol d'aéronef avec la latitude et la longitude à chaque niveau) Numéro d'immatriculation de l'aéronef ou autre identification,
+Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),3 11 009,3 01 011,"Année, mois, jour",
+Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),3 11 009,3 01 013,"Heure, minute, seconde",
+Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),3 11 009,3 01 021,Latitude/longitude (précision élevée),
+Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),3 11 009,0 08 004,Phase de vol de l'aéronef,
+Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),3 11 009,1 01 000,Répétition différée de 1 descripteur,
+Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),3 11 009,0 31 001,Facteur de répétition différée du descripteur,
+Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),3 11 009,3 11 007,Données d'aéronefs pour un niveau avec indication de la latitude et de la longitude,
+Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),3 11 010,0 01 008,"(Modèle BUFR pour les données AMDAR, version 7) Numéro d'immatriculation de l'aéronef ou autre identification",
+Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),3 11 010,0 01 023,Numéro de la séquence d'observations,
+Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),3 11 010,0 01 006,Numéro de vol de l'aéronef,
+Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),3 11 010,0 01 110,Immatriculation de l'aéronef,
+Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),3 11 010,0 01 111,Aéroport de départ,
+Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),3 11 010,0 01 112,Aéroport de destination,
+Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),3 11 010,2 04 002,Ajouter un champ associé,
+Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),3 11 010,0 31 021,Signification du champ associé,2 bits de long = 8 Renseignements sur la qualité sur 2 bits
+Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),3 11 010,3 01 011,"Année, mois, jour",
+Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),3 11 010,3 01 013,"Heure, minute, seconde",
+Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),3 11 010,3 01 021,Latitude/longitude (précision élevée),
+Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),3 11 010,0 07 010,Niveau de vol,Altitude pression
+Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),3 11 010,0 10 053,Altitude GNSS (Système mondial de navigation par satellite),
+Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),3 11 010,0 08 009,Phase de vol détaillée de l'aéronef,
+Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),3 11 010,0 11 001,Direction du vent,
+Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),3 11 010,0 11 002,Vitesse du vent,
+Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),3 11 010,0 02 064,Qualité de l'angle de roulis de l'aéronef,
+Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),3 11 010,0 11 100,Vitesse vraie de l'aéronef,
+Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),3 11 010,0 11 101,Vitesse sol de l'aéronef (composante u),
+Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),3 11 010 (suite),0 11 102,Vitesse sol de l'aéronef (composante v),
+Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),3 11 010 (suite),0 11 103,Vitesse sol de l'aéronef (composante w),
+Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),3 11 010 (suite),0 11 104,"Cap vrai de l'aéronef, du navire ou de la plate-forme mobile",Cap vrai de l'aéronef
+Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),3 11 010 (suite),0 12 101,Température/température de l'air,
+Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),3 11 010 (suite),0 02 170,Capteurs d'humidité de l'aéronef,
+Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),3 11 010 (suite),2 01 144,Changer le champ de données,
+Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),3 11 010 (suite),2 02 133,Changer d'échelle,
+Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),3 11 010 (suite),0 13 002,Rapport de mélange,
+Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),3 11 010 (suite),2 02 000,Changement d'échelle,Annuler
+Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),3 11 010 (suite),2 01 000,Changement du champ de données,Annuler
+Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),3 11 010 (suite),2 01 135,Changer le champ de données,
+Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),3 11 010 (suite),2 02 130,Changer d'échelle,
+Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),3 11 010 (suite),0 13 003,Humidité relative,
+Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),3 11 010 (suite),2 02 000,Changement d'échelle,Annuler
+Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),3 11 010 (suite),2 01 000,Changement du champ de données,Annuler
+Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),3 11 010 (suite),1 01 000,Répétition différée de 1 descripteur,
+Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),3 11 010 (suite),0 31 000,Facteur de répétition légèrement différée du descripteur,
+Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),3 11 010 (suite),0 12 103,Point de rosée,
+Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),3 11 010 (suite),0 33 026,Qualité de la mesure de l'humidité,
+Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),3 11 010 (suite),1 01 000,Répétition différée de 1 descripteur,
+Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),3 11 010 (suite),0 31 000,Facteur de répétition légèrement différée du descripteur,
+Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),3 11 010 (suite),0 20 042,Givrage de la cellule,
+Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),3 11 010 (suite),1 03 000,Répétition différée de 3 descripteurs,
+Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),3 11 010 (suite),0 31 000,Facteur de répétition légèrement différée du descripteur,
+Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),3 11 010 (suite),0 20 043,Teneur maximale en eau à l'état liquide,
+Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),3 11 010 (suite),0 20 044,Teneur moyenne en eau à l'état liquide,
+Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),3 11 010 (suite),0 20 045,Grosses gouttes d'eau surfondues,
+Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),3 11 010 (suite),1 01 000,Répétition différée de 1 descripteur,
+Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classics),3 11 010 (suite),0 31 000,Facteur de répétition légèrement différée du descripteur,
+Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),3 11 010 (suite),0 33 025,Indicateur de valeurs ACARS interpolées,
+Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),3 11 010 (suite),1 03 000,Répétition différée de 3 descripteurs,
+Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),3 11 010 (suite),0 31 001,Facteur de répétition différée du descripteur,
+Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),3 11 010 (suite),0 11 075,Intensité moyenne de la turbulence (taux de dissipation des tourbillons),
+Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),3 11 010 (suite),0 11 076,Intensité maximale de la turbulence (taux de dissipation des tourbillons),
+Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),3 11 010 (suite),0 11 039,Étalement dans le temps de l'apparition du taux maximal de dissipation des tourbillons,
+Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),3 11 010 (suite),1 02 000,Répétition différée de 2 descripteurs,
+Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),3 11 010 (suite),0 31 000,Facteur de répétition légèrement différée du descripteur,
+Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),3 11 010 (suite),0 11 037,Indice de turbulence,Taux de dissipation des tourbillons
+Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),3 11 010 (suite),0 11 077,Intervalle d'enregistrement ou temps moyen pour établir le taux de dissipation des tourbillons,
+Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),3 11 010 (suite),1 03 000,Répétition différée de 3 descripteurs,
+Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),3 11 010 (suite),0 31 000,Facteur de répétition légèrement différée du descripteur,
+Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),3 11 010 (suite),0 11 034,Vitesse des rafales verticales,
+Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),3 11 010 (suite),0 11 035,Accélération des rafales verticales,
+Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),3 11 010 (suite),0 11 036,Équivalent maximal dérivé de la vitesse des rafales verticales,
+Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),3 11 010 (suite),2 04 000,Ajout d'un champ associé,Annuler
+Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),3 11 010 (suite),1 19 000,Répétition différée de 19 descripteurs,
+Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),3 11 010 (suite),0 31 001,Facteur de répétition différée du descripteur,
+Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),3 11 010 (suite),3 01 011,"Année, mois, jour",
+Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),3 11 010 (suite),3 01 013,"Heure, minute, seconde",
+Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),3 11 010 (suite),3 01 021,Latitude/longitude (précision élevée),
+Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),3 11 010 (suite),0 07 007,Hauteur,
+Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),3 11 010 (suite),0 11 105,Version de l'algorithme du taux de dissipation des tourbillons,
+Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),3 11 010 (suite),2 04 007,Ajouter un champ associé,7 bits de long = 7 Degré de confiance
+Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),3 11 010 (suite),0 31 021,Signification du champ associé,
+Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),3 11 010 (suite),0 11 076,Intensité maximale de la turbulence (taux de dissipation des tourbillons),
+Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),3 11 010 (suite),0 11 075,Intensité moyenne de la turbulence (taux de dissipation des tourbillons),
+Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),3 11 010 (suite),2 04 000,Ajout d'un champ associé,Annuler
+Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),3 11 010 (suite),0 11 106,Niveau de confiance minimum associé au fonctionnement,
+Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),3 11 010 (suite),0 11 107,Nombre maximum d'entrées fausses,
+Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),3 11 010 (suite),0 11 108,Localisation de la valeur de crête,
+Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),3 11 010 (suite),0 11 109,Nombre de valeurs justes du taux de dissipation des tourbillons,
+Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),3 11 010 (suite),0 12 101,Température/température de l'air,
+Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),3 11 010 (suite),0 11 001,Direction du vent,
+Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),3 11 010 (suite),2 01 130,Changer le champ de données,
+Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),3 11 010 (suite),0 11 084,Vitesse du vent,
+Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),3 11 010 (suite),2 01 000,Changement du champ de données,Annuler
+Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),3 11 011,0 01 023,"(Modèle IAGOS pour une seule observation), version 2 Numéro de la séquence d'observations",
+Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),3 11 011,0 08 004,Phase de vol de l'aéronef,
+Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),3 11 011 (suite),3 01 011,"Année, mois, jour",
+Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),3 11 011 (suite),3 01 013,"Heure, minute, seconde",
+Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),3 11 011 (suite),0 05 002,Latitude (faible précision),
+Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),3 11 011 (suite),0 06 002,Longitude (faible précision),
+Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),3 11 011 (suite),0 07 004,Pression,
+Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),3 11 011 (suite),0 11 001,Direction du vent,
+Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),3 11 011 (suite),0 11 002,Vitesse du vent,
+Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),3 11 011 (suite),0 12 101,Température/température de l'air,
+Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),3 11 011 (suite),1 06 000,Répétition différée de 6 descripteurs,
+Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),3 11 011 (suite),0 31 001,Facteur de répétition différée du descripteur,
+Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),3 11 011 (suite),0 08 046,Type de constituants chimiques ou physiques de l'atmosphère,
+Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),3 11 011 (suite),2 01 139,Changer le champ de données,20 bits de long Échelle: 7
+Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),3 11 011 (suite),2 02 126,Changer d'échelle,
+Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),3 11 011 (suite),0 15 026,Concentration du polluant (mol mol⁻¹),
+Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),3 11 011 (suite),2 02 000,Changement d'échelle,Annuler
+Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),3 11 011 (suite),2 01 000,Changement du champ de données,Annuler
+Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),3 11 011 (suite),1 06 000,Répétition différée de 6 descripteurs,
+Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),3 11 011 (suite),0 31 001,Facteur de répétition différée du descripteur,
+Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),3 11 011 (suite),0 08 046,Type de constituants chimiques ou physiques de l'atmosphère,
+Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),3 11 011 (suite),2 01 138,Changer le champ de données,19 bits de long Échelle: 11
+Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),3 11 011 (suite),2 02 130,Changer d'échelle,
+Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),3 11 011 (suite),0 15 026,Concentration du polluant (mol mol⁻¹),
+Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),3 11 011 (suite),2 02 000,Changement d'échelle,Annuler
+Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),3 11 011 (suite),2 01 000,Changement du champ de données,Annuler
+Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),3 11 011 (suite),0 15 052,Log₁₀ de la concentration en nombre de particules d'aérosols de diamètre supérieur à 5 nm,
+Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),3 11 011 (suite),0 15 053,Log₁₀ de la concentration en nombre de particules d'aérosols de diamètre supérieur à 14 nm,
+Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),3 11 011 (suite),0 15 054,"Log₁₀ de la concentration en nombre de particules d'aérosols de diamètre compris entre 0,25 et 2,5 µm",
+Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),3 11 011 (suite),0 15 055,Proportion d'aérosols non volatils,
+Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),3 11 011 (suite),0 07 004,Pression,
+Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),3 11 011 (suite),0 07 004,Pression,
+Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),3 11 011 (suite),0 13 099,Log₁₀ de la concentration intégrée de particules dans les nuages,
+Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),3 11 011 (suite),0 13 100,Log₁₀ de la surface intégrée des particules dans les nuages,
+Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),3 11 011 (suite),0 13 101,Log₁₀ du volume intégré des particules dans les nuages,
+Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),3 11 012,3 01 150,(Modèle BUFR pour le profil des phases ascendante et descendante d'un vol d'aéronef avec la latitude et la longitude à chaque niveau) Identifiant du WIGOS,
+Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),3 11 012,0 01 008,Numéro d'immatriculation de l'aéronef ou autre identification,
+Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),3 11 012,0 01 111,Aéroport de départ,À indiquer en cas de profil de phase ascendante
+Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),3 11 012,0 01 112,Aéroport de destination,À indiquer en cas de profil de phase descendante
+Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),3 11 012,3 01 011,"Année, mois, jour","Date/heure et position du premier niveau du profil (pour le profil de phase ascendante premier rapport / décollage, pour le profil de phase descendante dernier rapport /atterrissage)"
+Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),3 11 012,3 01 013,"Heure, minute, seconde","Date/heure et position du premier niveau du profil (pour le profil de phase ascendante premier rapport / décollage, pour le profil de phase descendante dernier rapport /atterrissage)"
+Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),3 11 012,3 01 021,Latitude/longitude (précision élevée),"Date/heure et position du premier niveau du profil (pour le profil de phase ascendante premier rapport / décollage, pour le profil de phase descendante dernier rapport /atterrissage)"
+Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),3 11 012,0 08 004,Phase de vol de l'aéronef,Profil de phase ascendante ou descendante
+Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),3 11 012,1 10 000,Répétition différée de 10 descripteurs,Nombre de niveaux suivants
+Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),3 11 012,0 31 002,Facteur élargi de répétition différée du descripteur,
+Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),3 11 012,,Données du profil des phases ascendante et descendante d'un vol d'aéronef pour un niveau avec indication de la latitude et de la longitude,
+Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),3 11 012,3 01 011,"Année, mois, jour",Date du message d'observation à un seul niveau
+Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),3 11 012,3 01 013,"Heure, minute, seconde",Heure du message d'observation à un seul niveau
+Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),3 11 012,3 11 007,Données d'aéronefs pour un niveau avec indication de la latitude et de la longitude,"Niveau de vol = altitude pression, point de rosée = valeur déduite du rapport de mélange, limitée à Td ≤ T"
+Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),3 11 012 (suite),2 01 144,Changer le champ de données,
+Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),3 11 012 (suite),2 02 133,Changer d'échelle,
+Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),3 11 012 (suite),0 13 002,Rapport de mélange,Données initiales mesurées
+Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),3 11 012 (suite),2 02 000,Changement d'échelle,Annuler
+Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),3 11 012 (suite),2 01 000,Changement du champ de données,Annuler
+Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),3 11 012 (suite),0 13 003,Humidité relative,"Valeur déduite du rapport de mélange, limitée à ≤ 100 %"
+Catégorie 11 — Séquences correspondant à des messages d'observation à un seul niveau (données classiques),3 11 012 (suite),0 33 026,Qualité de la mesure de l'humidité,"Table de code (indiquer le chiffre du code 10 si Td > T, voir la table de code)"

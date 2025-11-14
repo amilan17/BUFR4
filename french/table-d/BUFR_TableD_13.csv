@@ -1,54 +1,54 @@
-Category,CategoryOfSequences_fr,FXY1,Title_fr,SubTitle_fr,FXY2,ElementName_fr,ElementDescription_fr,Note_fr,noteIDs,Status
-13,Catégorie 13 — Séquences communes aux données d'images,313009,Valeurs de réflectivité radar,,021001,Réflectivité horizontale,,,,Operational
-13,Catégorie 13 — Séquences communes aux données d'images,313009,,,101000,Répétition différée de 1 descripteur,,,,Operational
-13,Catégorie 13 — Séquences communes aux données d'images,313009,,,031001,Facteur de répétition différée du descripteur,,,,Operational
-13,Catégorie 13 — Séquences communes aux données d'images,313009,,,021001,Réflectivité horizontale,,,,Operational
-13,Catégorie 13 — Séquences communes aux données d'images,313010,Intensités des précipitations mesurées par radar,,021036,Intensité des précipitations mesurée par radar,,,,Operational
-13,Catégorie 13 — Séquences communes aux données d'images,313010,,,101000,Répétition différée de 1 descripteur,,,,Operational
-13,Catégorie 13 — Séquences communes aux données d'images,313010,,,031001,Facteur de répétition différée du descripteur,,,,Operational
-13,Catégorie 13 — Séquences communes aux données d'images,313010,,,021036,Intensité des précipitations mesurée par radar,,,,Operational
-13,Catégorie 13 — Séquences communes aux données d'images,313031,Pas de codage en longueur de ligne pour la valeur des pixels (4 bits,,006002,) Longitude,Première position de la longitude moins un incrément,,,Operational
-13,Catégorie 13 — Séquences communes aux données d'images,313031,faible précision,,006012,Incrément de longitude,,,,Operational
-13,Catégorie 13 — Séquences communes aux données d'images,313031,,,101000,Répétition différée de 1 descripteur,,,,Operational
-13,Catégorie 13 — Séquences communes aux données d'images,313031,,,031002,Facteur élargi de répétition différée du descripteur,,,,Operational
-13,Catégorie 13 — Séquences communes aux données d'images,313031,4 bits,,030001,Valeur des pixels,,,,Operational
-13,Catégorie 13 — Séquences communes aux données d'images,313032,Données d'images pas codées selon la méthode de codage par plages pour la valeur des pixels (4 bits,,005002,) Latitude,Première position de la latitude moins un incrément Valeur indiquée de façon à ne pas traverser le pôle,,,Operational
-13,Catégorie 13 — Séquences communes aux données d'images,313032,faible précision,,005012,Incrément de latitude,,,,Operational
-13,Catégorie 13 — Séquences communes aux données d'images,313032,,,101000,Répétition différée de 1 descripteur,,,,Operational
-13,Catégorie 13 — Séquences communes aux données d'images,313032,,,031002,Facteur élargi de répétition différée du descripteur,,,,Operational
-13,Catégorie 13 — Séquences communes aux données d'images,313032,4 bits,,313031,Pas de codage en longueur de ligne pour la valeur des pixels,,,,Operational
-13,Catégorie 13 — Séquences communes aux données d'images,313041,Codage en longueur de ligne pour la valeur des pixels (4 bits,,006002,) Longitude,Première position de la longitude moins un incrément,,,Operational
-13,Catégorie 13 — Séquences communes aux données d'images,313041,,,110000,Répétition différée de 10 descripteurs,,,,Operational
-13,Catégorie 13 — Séquences communes aux données d'images,313041,,,031001,Facteur de répétition différée du descripteur,,,,Operational
-13,Catégorie 13 — Séquences communes aux données d'images,313041,,,104000,Répétition différée de 4 descripteurs,,,,Operational
-13,Catégorie 13 — Séquences communes aux données d'images,313041,,,031001,Facteur de répétition différée du descripteur,,,,Operational
-13,Catégorie 13 — Séquences communes aux données d'images,313041,faible précision,,006012,Incrément de longitude,,,,Operational
-13,Catégorie 13 — Séquences communes aux données d'images,313041,,,101000,Répétition différée de 1 descripteur,,,,Operational
-13,Catégorie 13 — Séquences communes aux données d'images,313041,,,031012,Facteur élargi de répétition différée du descripteur et des données,,,,Operational
-13,Catégorie 13 — Séquences communes aux données d'images,313041,4 bits,,030001,Valeur des pixels,,,,Operational
-13,Catégorie 13 — Séquences communes aux données d'images,313041,faible précision,,006012,Incrément de longitude,,,,Operational
-13,Catégorie 13 — Séquences communes aux données d'images,313041,,,101000,Répétition différée de 1 descripteur,,,,Operational
-13,Catégorie 13 — Séquences communes aux données d'images,313041,,,031001,Facteur de répétition différée du descripteur,,,,Operational
-13,Catégorie 13 — Séquences communes aux données d'images,313041,4 bits,,030001,Valeur des pixels,,,,Operational
-13,Catégorie 13 — Séquences communes aux données d'images,313042,Données d'images codées selon la méthode de codage par plages pour la valeur des pixels (4 bits,,005002,) Latitude,Première position de la latitude moins un incrément Valeur indiquée de façon à ne pas traverser le pôle,,,Operational
-13,Catégorie 13 — Séquences communes aux données d'images,313042,faible précision,,005012,Incrément de latitude,,,,Operational
-13,Catégorie 13 — Séquences communes aux données d'images,313042,,,101000,Répétition différée de 1 descripteur,,,,Operational
-13,Catégorie 13 — Séquences communes aux données d'images,313042,,,031002,Facteur élargi de répétition différée du descripteur,,,,Operational
-13,Catégorie 13 — Séquences communes aux données d'images,313042,4 bits,,313041,Codage en longueur de ligne pour la valeur des pixels,,,,Operational
-13,Catégorie 13 — Séquences communes aux données d'images,313043,Données d'images codées selon la méthode de codage par plages pour la valeur des pixels (4 bits,,006002,", grille régulière) Longitude",Première position de la longitude moins un incrément,,,Operational
-13,Catégorie 13 — Séquences communes aux données d'images,313043,faible précision,,005002,Latitude,Première position de la latitude moins un incrément,,,Operational
-13,Catégorie 13 — Séquences communes aux données d'images,313043,faible précision,,005012,Incrément de latitude,,,,Operational
-13,Catégorie 13 — Séquences communes aux données d'images,313043,,,112000,Répétition différée de 12 descripteurs,,,,Operational
-13,Catégorie 13 — Séquences communes aux données d'images,313043,,,031001,Facteur de répétition différée du descripteur,,,,Operational
-13,Catégorie 13 — Séquences communes aux données d'images,313043,,,110000,Répétition différée de 10 descripteurs,,,,Operational
-13,Catégorie 13 — Séquences communes aux données d'images,313043,,,031001,Facteur de répétition différée du descripteur,,,,Operational
-13,Catégorie 13 — Séquences communes aux données d'images,313043,,,104000,Répétition différée de 4 descripteurs,,,,Operational
-13,Catégorie 13 — Séquences communes aux données d'images,313043,,,031001,Facteur de répétition différée du descripteur,,,,Operational
-13,Catégorie 13 — Séquences communes aux données d'images,313043,faible précision,,006012,Incrément de longitude,,,,Operational
-13,Catégorie 13 — Séquences communes aux données d'images,313043,,,101000,Répétition différée de 1 descripteur,,,,Operational
-13,Catégorie 13 — Séquences communes aux données d'images,313043,,,031011,Facteur de répétition,,,,Operational
-13,Catégorie 13 — Séquences communes aux données d'images,313043,4 bits,,030001,Valeur des pixels,,,,Operational
-13,Catégorie 13 — Séquences communes aux données d'images,313043,faible précision,,006012,Incrément de longitude,,,,Operational
-13,Catégorie 13 — Séquences communes aux données d'images,313043,,,101000,Répétition différée de 1 descripteur,,,,Operational
-13,Catégorie 13 — Séquences communes aux données d'images,313043,,,031001,Facteur de répétition différée du descripteur,,,,Operational
-13,Catégorie 13 — Séquences communes aux données d'images,313043,4 bits,,030001,Valeur des pixels,,,,Operational
+﻿TABLE_NAME,DESCRIPTEUR,SÉQUENCE DE DESCRIPTEURS,NOM DE L’ÉLÉMENT,DESCRIPTION DE L’ÉLÉMENT
+Catégorie 13 — Séquences communes aux données d'images,3 13 009,0 21 001,Réflectivité horizontale (Valeurs de réflectivité radar),
+Catégorie 13 — Séquences communes aux données d'images,3 13 009,1 01 000,Répétition différée de 1 descripteur,
+Catégorie 13 — Séquences communes aux données d'images,3 13 009,0 31 001,Facteur de répétition différée du descripteur,
+Catégorie 13 — Séquences communes aux données d'images,3 13 009,0 21 001,Réflectivité horizontale,
+Catégorie 13 — Séquences communes aux données d'images,3 13 010,0 21 036,Intensité des précipitations mesurée par radar (Intensités des précipitations mesurées par radar),
+Catégorie 13 — Séquences communes aux données d'images,3 13 010,1 01 000,Répétition différée de 1 descripteur,
+Catégorie 13 — Séquences communes aux données d'images,3 13 010,0 31 001,Facteur de répétition différée du descripteur,
+Catégorie 13 — Séquences communes aux données d'images,3 13 010,0 21 036,Intensité des précipitations mesurée par radar,
+Catégorie 13 — Séquences communes aux données d'images,3 13 031,0 06 002,Longitude (faible précision) (Pas de codage en longueur de ligne pour la valeur des pixels (4 bits)),Première position de la longitude moins un incrément
+Catégorie 13 — Séquences communes aux données d'images,3 13 031,0 06 012,Incrément de longitude (faible précision),
+Catégorie 13 — Séquences communes aux données d'images,3 13 031,1 01 000,Répétition différée de 1 descripteur,
+Catégorie 13 — Séquences communes aux données d'images,3 13 031,0 31 002,Facteur élargi de répétition différée du descripteur,
+Catégorie 13 — Séquences communes aux données d'images,3 13 031,0 30 001,Valeur des pixels (4 bits),
+Catégorie 13 — Séquences communes aux données d'images,3 13 032,0 05 002,Latitude (faible précision) (Données d'images pas codées selon la méthode de codage par plages pour la valeur des pixels (4 bits)),Première position de la latitude moins un incrément Valeur indiquée de façon à ne pas traverser le pôle
+Catégorie 13 — Séquences communes aux données d'images,3 13 032,0 05 012,Incrément de latitude (faible précision),
+Catégorie 13 — Séquences communes aux données d'images,3 13 032,1 01 000,Répétition différée de 1 descripteur,
+Catégorie 13 — Séquences communes aux données d'images,3 13 032,0 31 002,Facteur élargi de répétition différée du descripteur,
+Catégorie 13 — Séquences communes aux données d'images,3 13 032,3 13 031,Pas de codage en longueur de ligne pour la valeur des pixels (4 bits),
+Catégorie 13 — Séquences communes aux données d'images,3 13 041,0 06 002,Longitude (faible précision) (Codage en longueur de ligne pour la valeur des pixels (4 bits)),Première position de la longitude moins un incrément
+Catégorie 13 — Séquences communes aux données d'images,3 13 041,1 10 000,Répétition différée de 10 descripteurs,
+Catégorie 13 — Séquences communes aux données d'images,3 13 041,0 31 001,Facteur de répétition différée du descripteur,
+Catégorie 13 — Séquences communes aux données d'images,3 13 041,1 04 000,Répétition différée de 4 descripteurs,
+Catégorie 13 — Séquences communes aux données d'images,3 13 041,0 31 001,Facteur de répétition différée du descripteur,
+Catégorie 13 — Séquences communes aux données d'images,3 13 041,0 06 012,Incrément de longitude (faible précision),
+Catégorie 13 — Séquences communes aux données d'images,3 13 041,1 01 000,Répétition différée de 1 descripteur,
+Catégorie 13 — Séquences communes aux données d'images,3 13 041,0 31 012,Facteur élargi de répétition différée du descripteur et des données,
+Catégorie 13 — Séquences communes aux données d'images,3 13 041,0 30 001,Valeur des pixels (4 bits),
+Catégorie 13 — Séquences communes aux données d'images,3 13 041,0 06 012,Incrément de longitude (faible précision),
+Catégorie 13 — Séquences communes aux données d'images,3 13 041,1 01 000,Répétition différée de 1 descripteur,
+Catégorie 13 — Séquences communes aux données d'images,3 13 041,0 31 001,Facteur de répétition différée du descripteur,
+Catégorie 13 — Séquences communes aux données d'images,3 13 041,0 30 001,Valeur des pixels (4 bits),
+Catégorie 13 — Séquences communes aux données d'images,3 13 042,0 05 002,Latitude (faible précision) (Données d'images codées selon la méthode de codage par plages pour la valeur des pixels (4 bits)),Première position de la latitude moins un incrément Valeur indiquée de façon à ne pas traverser le pôle
+Catégorie 13 — Séquences communes aux données d'images,3 13 042,0 05 012,Incrément de latitude (faible précision),
+Catégorie 13 — Séquences communes aux données d'images,3 13 042,1 01 000,Répétition différée de 1 descripteur,
+Catégorie 13 — Séquences communes aux données d'images,3 13 042,0 31 002,Facteur élargi de répétition différée du descripteur,
+Catégorie 13 — Séquences communes aux données d'images,3 13 042,3 13 041,Codage en longueur de ligne pour la valeur des pixels (4 bits),
+Catégorie 13 — Séquences communes aux données d'images,3 13 043,0 06 002,"Longitude (faible précision) (Données d'images codées selon la méthode de codage par plages pour la valeur des pixels (4 bits), grille régulière)",Première position de la longitude moins un incrément
+Catégorie 13 — Séquences communes aux données d'images,3 13 043,0 05 002,Latitude (faible précision),Première position de la latitude moins un incrément
+Catégorie 13 — Séquences communes aux données d'images,3 13 043,0 05 012,Incrément de latitude (faible précision),
+Catégorie 13 — Séquences communes aux données d'images,3 13 043,1 12 000,Répétition différée de 12 descripteurs,
+Catégorie 13 — Séquences communes aux données d'images,3 13 043,0 31 001,Facteur de répétition différée du descripteur,
+Catégorie 13 — Séquences communes aux données d'images,3 13 043,1 10 000,Répétition différée de 10 descripteurs,
+Catégorie 13 — Séquences communes aux données d'images,3 13 043,0 31 001,Facteur de répétition différée du descripteur,
+Catégorie 13 — Séquences communes aux données d'images,3 13 043,1 04 000,Répétition différée de 4 descripteurs,
+Catégorie 13 — Séquences communes aux données d'images,3 13 043,0 31 001,Facteur de répétition différée du descripteur,
+Catégorie 13 — Séquences communes aux données d'images,3 13 043,0 06 012,Incrément de longitude (faible précision),
+Catégorie 13 — Séquences communes aux données d'images,3 13 043,1 01 000,Répétition différée de 1 descripteur,
+Catégorie 13 — Séquences communes aux données d'images,3 13 043,0 31 011,Facteur de répétition,
+Catégorie 13 — Séquences communes aux données d'images,3 13 043,0 30 001,Valeur des pixels (4 bits),
+Catégorie 13 — Séquences communes aux données d'images,3 13 043,0 06 012,Incrément de longitude (faible précision),
+Catégorie 13 — Séquences communes aux données d'images,3 13 043,1 01 000,Répétition différée de 1 descripteur,
+Catégorie 13 — Séquences communes aux données d'images,3 13 043,0 31 001,Facteur de répétition différée du descripteur,
+Catégorie 13 — Séquences communes aux données d'images,3 13 043,0 30 001,Valeur des pixels (4 bits),
