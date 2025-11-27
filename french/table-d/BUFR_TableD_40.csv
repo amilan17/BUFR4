@@ -1,0 +1,404 @@
+Category,CategoryOfSequences_fr,FXY1,Title_fr,SubTitle_fr,FXY2,ElementName_fr,ElementDescription_fr,Note_fr,noteIDs,Status
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340001,(Données IASI de niveau 1c),,001007,Indicateur d'identification du satellite,,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340001,(Données IASI de niveau 1c),,001031,Identification du centre d'origine/de production,,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340001,(Données IASI de niveau 1c),,002019,Instruments satellitaires,,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340001,(Données IASI de niveau 1c),,002020,Classification des satellites,,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340001,(Données IASI de niveau 1c),,004001,Année,,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340001,(Données IASI de niveau 1c),,004002,Mois,,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340001,(Données IASI de niveau 1c),,004003,Jour,,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340001,(Données IASI de niveau 1c),,004004,Heure,,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340001,(Données IASI de niveau 1c),,004005,Minute,,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340001,(Données IASI de niveau 1c),,202131,Changer d'échelle,Ajouter 3 à l'échelle,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340001,(Données IASI de niveau 1c),,201138,Changer le champ de données,Ajouter 10 au champ de données,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340001,(Données IASI de niveau 1c),,004006,Seconde,,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340001,(Données IASI de niveau 1c),,201000,Changement du champ de données,Annuler,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340001,(Données IASI de niveau 1c),,202000,Changement d'échelle,Annuler,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340001,(Données IASI de niveau 1c),,005001,Latitude (précision élevée),,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340001,(Données IASI de niveau 1c),,006001,Longitude (précision élevée),,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340001,(Données IASI de niveau 1c),,007024,Distance zénithale du satellite,,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340001,(Données IASI de niveau 1c),,005021,Direction ou azimut,,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340001,(Données IASI de niveau 1c),,007025,Distance zénithale du soleil,,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340001,(Données IASI de niveau 1c),,005022,Azimut du soleil,,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340001,(Données IASI de niveau 1c),,005043,Numéro du champ de vision,,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340001,(Données IASI de niveau 1c),,005040,Numéro de l'orbite,,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340001,(Données IASI de niveau 1c),,201133,Changer le champ de données,Ajouter 5 au champ de données,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340001,(Données IASI de niveau 1c),,005041,Numéro de la ligne de balayage,,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340001,(Données IASI de niveau 1c),,201000,Changement du champ de données,Annuler,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340001,(Données IASI de niveau 1c),,201132,Changer le champ de données,Ajouter 4 au champ de données,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340001,(Données IASI de niveau 1c),,025070,Numéro de paquet principal,,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340001,(Données IASI de niveau 1c),,201000,Changement du champ de données,Annuler,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340001,(Données IASI de niveau 1c),,202126,Changer d'échelle,Soustraire 2 à l'échelle,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340001,(Données IASI de niveau 1c),,007001,Hauteur de la station,,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340001,(Données IASI de niveau 1c),,202000,Changement d'échelle,Annuler,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340001,(Données IASI de niveau 1c),,033060,GqisFlagQual - indicateur de qualité du système IASI pour chaque mesure,,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340001,(Données IASI de niveau 1c),,033061,GqisQualIndex - indicateur de caractéristique de bruit de l'instrument (par étalonnage spectral et étalonnage radiométrique),,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340001,(Données IASI de niveau 1c),,033062,GqisQualIndexLoc – indicateur d'indice de qualité géométrique,,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340001,(Données IASI de niveau 1c),,033063,GqisQualIndexRad – indicateur de caractéristique de bruit de l'instrument (par étalonnage radiométrique),,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340001,(Données IASI de niveau 1c),,033064,GqisQualIndexSpect – indicateur de caractéristique de bruit de l'instrument (par étalonnage spectral),,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340001,(Données IASI de niveau 1c),,033065,GqisSysTecSondQual – sortie de la fonction qualité du Centre d'expertise technique du système,,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340001,(Données IASI de niveau 1c),,101010,Répéter 1 descripteur 10 fois,,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340001,(Données IASI de niveau 1c),,340002,Description de bande,,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340001,(Données IASI de niveau 1c),,101087,Répéter 1 descripteur 87 fois,,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340001,(Données IASI de niveau 1c),,340003,"Séquence 100 canaux, IASI niveau 1c",,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340001,(Données IASI de niveau 1c),,002019,Instruments satellitaires,,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340001,(Données IASI de niveau 1c),,025051,Combinaison de canaux de radiomètre AVHRR,,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340001,(Données IASI de niveau 1c),,101007,Répéter 1 descripteur 7 fois,,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340001,(Données IASI de niveau 1c),,340004,"Séquence une scène AVHRR, IASI niveau 1c",,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340002,(Description de bande),,025140,Début canal,,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340002,(Description de bande),,025141,Fin canal,,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340002,(Description de bande),,025142,Facteur d'échelle du canal,,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340003,"(Séquence 100 canaux, IASI niveau 1c)",,104100,Répéter 4 descripteurs 100 fois,,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340003,"(Séquence 100 canaux, IASI niveau 1c)",,201136,Changer le champ de données,Ajouter 8 au champ de données,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340003,"(Séquence 100 canaux, IASI niveau 1c)",,005042,Numéro du canal,,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340003,"(Séquence 100 canaux, IASI niveau 1c)",,201000,Changement du champ de données,Annuler,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340003,"(Séquence 100 canaux, IASI niveau 1c)",,014046,Luminance énergétique mise à l'échelle,,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340004,"(Séquence une scène AVHRR, IASI niveau 1c)",,005060,Position angulaire selon Y du centre de gravité,,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340004,"(Séquence une scène AVHRR, IASI niveau 1c)",,005061,Position angulaire selon Z du centre de gravité,,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340004,"(Séquence une scène AVHRR, IASI niveau 1c)",,025085,Fraction de pixels clairs dans le champ de vision du sondeur HIRS,,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340004,"(Séquence une scène AVHRR, IASI niveau 1c)",,105006,Répéter 5 descripteurs 6 fois,,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340004,"(Séquence une scène AVHRR, IASI niveau 1c)",,005042,Numéro du canal,,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340004,"(Séquence une scène AVHRR, IASI niveau 1c)",,025142,Facteur d'échelle du canal,,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340004,"(Séquence une scène AVHRR, IASI niveau 1c)",,014047,Luminance moyenne AVHRR mise à l'échelle,,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340004,"(Séquence une scène AVHRR, IASI niveau 1c)",,025142,Facteur d'échelle du canal,,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340004,"(Séquence une scène AVHRR, IASI niveau 1c)",,014048,Écart type de la luminance AVHRR mise à l'échelle,,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340005,(Données OGDR de la mission JASON-2),,001007,Indicateur d'identification du satellite,,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340005,(Données OGDR de la mission JASON-2),,002019,Instruments satellitaires,,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340005,(Données OGDR de la mission JASON-2),,001096,Mise à poste,,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340005,(Données OGDR de la mission JASON-2),,025061,Identification du logiciel et numéro de version,,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340005,(Données OGDR de la mission JASON-2),,005044,Numéro de cycle du satellite,,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340005,(Données OGDR de la mission JASON-2),,005040,Numéro de l'orbite,,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340005,(Données OGDR de la mission JASON-2),,001030,Indicatif du modèle numérique,,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340005,(Datation),,004001,Année,,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340005,(Datation),,004002,Mois,,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340005,(Datation),,004003,Jour,,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340005,(Datation),,004004,Heure,,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340005,(Datation),,004005,Minute,,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340005,(Datation),,004007,Secondes par minute (à la microseconde près),,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340005,(Emplacement et type de surface),,005001,Latitude (précision élevée),,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340005,(Emplacement et type de surface),,006001,Longitude (précision élevée),,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340005,(Emplacement et type de surface),,008029,Type de surface,,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340005,(Emplacement et type de surface),,008074,Type d'écho de l'altimètre,,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340005,(Emplacement et type de surface),,008077,Type de surface détecté par radiomètre,,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340005,(Indicateurs),,040011,Indicateur d'interpolation,,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340005,(Indicateurs),,025097,Erreur tridimensionnelle estimative de l'orbite du navigateur,,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340005,(Indicateurs),,025095,Indicateur de l'état de l'altimètre,,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340005,(Indicateurs),,025098,Indicateur de qualité des données de l'altimètre,,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340005,(Indicateurs),,025099,Indicateur de qualité de la correction de l'altimètre,,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340005,(Indicateurs),,021144,Indicateur de pluie de l'altimètre,,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340005,(Indicateurs),,025096,Indicateur de l'état du radiomètre,,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340005,(Indicateurs),,040012,Indicateur de qualité des données du radiomètre,,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340005,(Indicateurs),,040013,Indicateur d'interprétation de la température de luminance du radiomètre,,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340005,(Indicateurs),,021169,Indicateur de présence de glace,,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340005,(Altimètre: bande Ku),,022151,Intervalle océanique en bande Ku,,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340005,(Altimètre: bande Ku),,022162,Moyenne quadratique de l'intervalle océanique à 20 Hz en bande Ku,,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340005,(Altimètre: bande Ku),,022163,Nombre de points corrects à 20 Hz en bande Ku,,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340005,(Altimètre: bande Ku),,025160,Correction finale de l'erreur instrumentale dans la bande Ku,,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340005,(Altimètre: bande Ku),,025133,Correction du biais d'état de la mer en bande Ku,,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340005,(Altimètre: bande Ku),,022156,Hauteur des vagues significative en bande Ku,,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340005,(Altimètre: bande Ku),,022164,Moyenne quadratique de la hauteur des vagues significative à 20 Hz en bande Ku,,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340005,(Altimètre: bande Ku),,022165,Nombre de points corrects à 20 Hz pour la hauteur des vagues significative en bande Ku,,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340005,(Altimètre: bande Ku),,022166,Correction finale de l'erreur instrumentale pour la hauteur des vagues significative dans la bande Ku,,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340005,(Altimètre: bande Ku),,021137,Coefficient de rétrodiffusion corrigé pour l'océan en bande Ku,,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340005,(Altimètre: bande Ku),,021138,Coefficient de rétrodiffusion corrigé type pour l'océan en bande Ku,,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340005,(Altimètre: bande Ku),,022167,Nombre de points corrects de rétrodiffusion en bande Ku,,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340005,(Altimètre: bande Ku),,021139,Correction finale de l'erreur instrumentale pour la commande automatique de gain dans la bande Ku,,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340005,(Altimètre: bande Ku),,021118,Correction d'atténuation sur sigma-0,,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340005,(Altimètre: bande Ku),,021145,Commande automatique de gain dans la bande Ku,,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340005,(Altimètre: bande Ku),,021146,Moyenne quadratique de la commande automatique de gain dans la bande Ku,,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340005,(Altimètre: bande Ku),,021147,Nombre de points corrects pour la commande automatique de gain dans la bande Ku,,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340005,(Altimètre: bande C),,022168,Intervalle océanique en bande C,,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340005,(Altimètre: bande C),,022169,Moyenne quadratique de l'intervalle océanique en bande C,,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340005,(Altimètre: bande C),,022170,Nombre de points corrects à 20 Hz en bande C,,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340005,(Altimètre: bande C),,025161,Correction finale de l'erreur instrumentale dans la bande C,,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340005,(Altimètre: bande C),,025162,Correction du biais d'état de la mer en bande C,,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340005,(Altimètre: bande C),,022171,Hauteur des vagues significative en bande C,,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340005,(Altimètre: bande C),,022172,Moyenne quadratique de la hauteur des vagues significative à 20 Hz en bande C,,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340005,(Altimètre: bande C),,022173,Nombre de points corrects à 20 Hz pour la hauteur des vagues significative en bande C,,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340005,(Altimètre: bande C),,022174,Correction finale de l'erreur instrumentale pour la hauteur des vagues significative dans la bande C,,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340005,(Altimètre: bande C),,021170,Coefficient de rétrodiffusion corrigé pour l'océan en bande C,,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340005,(Altimètre: bande C),,021171,Moyenne quadratique du coefficient de rétrodiffusion corrigé pour l'océan en bande C,,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340005,(Altimètre: bande C),,022175,Nombre de points corrects de rétrodiffusion en bande C,,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340005,(Altimètre: bande C),,021172,Correction finale de l'erreur instrumentale pour la commande automatique de gain dans la bande C,,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340005,(Altimètre: bande C),,021118,Correction d'atténuation sur sigma-0,,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340005,(Altimètre: bande C),,021173,Commande automatique de gain dans la bande C,,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340005,(Altimètre: bande C),,021174,Moyenne quadratique de la commande automatique de gain dans la bande C,,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340005,(Altimètre: bande C),,021175,Nombre de points corrects pour la commande automatique de gain dans la bande C,,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340005,(Radiomètre),,002153,Fréquence centrale du canal du satellite,,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340005,(Radiomètre),,012063,Température de luminance,,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340005,(Radiomètre),,002153,Fréquence centrale du canal du satellite,,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340005,(Radiomètre),,012063,Température de luminance,,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340005,(Radiomètre),,002153,Fréquence centrale du canal du satellite,,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340005,(Radiomètre),,012063,Température de luminance,,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340005,(Radiomètre),,013090,Teneur en vapeur d'eau indiquée par le radiomètre,,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340005,(Radiomètre),,013091,Teneur en eau liquide indiquée par le radiomètre,,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340005,(Vent),,007002,Hauteur ou altitude,,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340005,(Vent),,011097,Vitesse du vent indiquée par l'altimètre,,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340005,(Vent),,011098,Vitesse du vent indiquée par le radiomètre,,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340005,(Vent),,007002,Hauteur ou altitude,,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340005,(Vent),,011095,Composante u du vecteur vent – modèle,,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340005,(Vent),,011096,Composante v du vecteur vent – modèle,,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340005,(Topographie dynamique),,010096,Topographie dynamique moyenne,,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340005,(Topographie dynamique),,010081,Altitude du centre de gravité au-dessus de l'ellipsoïde de référence,,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340005,(Topographie dynamique),,010082,Taux de variation d'altitude instantané,,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340005,(Topographie dynamique),,010083,"Carré de l'angle de décalage du satellite par rapport au nadir, calculé à partir de l'assiette de la plate-forme",,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340005,(Topographie dynamique),,010101,"Carré de l'angle de décalage du satellite par rapport au nadir, calculé à partir de la forme des ondes",,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340005,(Topographie dynamique),,025132,Correction ionosphérique – modèle en bande Ku,,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340005,(Topographie dynamique),,025163,Correction ionosphérique de l'altimètre en bande Ku,,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340005,(Topographie dynamique),,025126,Correction de troposphère sèche – modèle,,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340005,(Topographie dynamique),,025128,Correction de troposphère humide – modèle,,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340005,(Topographie dynamique),,025164,Correction de troposphère humide du radiomètre,,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340005,(Topographie dynamique),,010085,Hauteur moyenne de la surface de la mer,,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340005,(Topographie dynamique),,010097,Hauteur moyenne de la surface de la mer fournie par l'altimètre seulement,,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340005,(Topographie dynamique),,010086,Hauteur du géoïde,,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340005,(Topographie dynamique),,010087,Profondeur de l'océan ou altitude des terres émergées,,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340005,(Topographie dynamique),,010092,Hauteur de marée terrestre,,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340005,(Topographie dynamique),,010088,Hauteur géocentrique totale de marée océanique (solution 1),,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340005,(Topographie dynamique),,010089,Hauteur géocentrique totale de marée océanique (solution 2),,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340005,(Topographie dynamique),,010098,Hauteur de la marée de charge pour le calcul de la marée géocentrique – solution 1,,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340005,(Topographie dynamique),,010099,Hauteur de la marée de charge pour le calcul de la marée géocentrique – solution 2,,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340005,(Topographie dynamique),,010090,Hauteur de marée pour une période prolongée,,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340005,(Topographie dynamique),,010100,Hauteur de marée pour une période prolongée hors d'équilibre,,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340005,(Topographie dynamique),,010093,Hauteur géocentrique de marée polaire,,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340005,(Topographie dynamique),,025127,Correction de baromètre inverse,Correction de la hauteur de la surface de la mer due à une charge barométrique,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340005,(Topographie dynamique),,040014,Fluctuations haute fréquence de la correction topographique de la surface de la mer,,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340007,(Données IASI de niveau 1c (tous canaux),,001007,) Indicateur d'identification du satellite,,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340007,(Données IASI de niveau 1c (tous canaux),,001031,Identification du centre d'origine/de production,,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340007,(Données IASI de niveau 1c (tous canaux),,002019,Instruments satellitaires,,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340007,(Données IASI de niveau 1c (tous canaux),,002020,Classification des satellites,,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340007,(Données IASI de niveau 1c (tous canaux),,004001,Année,,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340007,(Données IASI de niveau 1c (tous canaux),,004002,Mois,,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340007,(Données IASI de niveau 1c (tous canaux),,004003,Jour,,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340007,(Données IASI de niveau 1c (tous canaux),,004004,Heure,,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340007,(Données IASI de niveau 1c (tous canaux),,004005,Minute,,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340007,(Données IASI de niveau 1c (tous canaux),,202131,Changer d'échelle,Ajouter 3 à l'échelle,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340007,(Données IASI de niveau 1c (tous canaux),,201138,Changer le champ de données,Ajouter 10 au champ de données,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340007,(Données IASI de niveau 1c (tous canaux),,004006,Seconde,,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340007,(Données IASI de niveau 1c (tous canaux),,201000,Changement du champ de données,Annuler,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340007,(Données IASI de niveau 1c (tous canaux),,202000,Changement d'échelle,Annuler,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340007,(Données IASI de niveau 1c (tous canaux),,005001,Latitude (précision élevée),,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340007,(Données IASI de niveau 1c (tous canaux),,006001,Longitude (précision élevée),,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340007,(Données IASI de niveau 1c (tous canaux),,007024,Distance zénithale du satellite,,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340007,(Données IASI de niveau 1c (tous canaux),,005021,Direction ou azimut,,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340007,(Données IASI de niveau 1c (tous canaux),,007025,Distance zénithale du soleil,,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340007,(Données IASI de niveau 1c (tous canaux),,005022,Azimut du soleil,,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340007,(Données IASI de niveau 1c (tous canaux),,005043,Numéro du champ de vision,,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340007,(Données IASI de niveau 1c (tous canaux),,005040,Numéro de l'orbite,,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340007,(Données IASI de niveau 1c (tous canaux),,201133,Changer le champ de données,Ajouter 5 au champ de données,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340007,(Données IASI de niveau 1c (tous canaux),,005041,Numéro de la ligne de balayage,,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340007,(Données IASI de niveau 1c (tous canaux),,201000,Changement du champ de données,Annuler,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340007,(Données IASI de niveau 1c (tous canaux),,201132,Changer le champ de données,Ajouter 4 au champ de données,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340007,(Données IASI de niveau 1c (tous canaux),,025070,Numéro de paquet principal,,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340007,(Données IASI de niveau 1c (tous canaux),,201000,Changement du champ de données,Annuler,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340007,(Données IASI de niveau 1c (tous canaux),,202126,Changer d'échelle,Soustraire 2 à l'échelle,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340007,(Données IASI de niveau 1c (tous canaux),,007001,Hauteur de la station,,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340007,(Données IASI de niveau 1c (tous canaux),,202000,Changement d'échelle,Annuler,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340007,(Données IASI de niveau 1c (tous canaux),,103003,Répéter 3 descripteurs 3 fois,,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340007,(Données IASI de niveau 1c (tous canaux),,025140,Début canal,,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340007,(Données IASI de niveau 1c (tous canaux),,025141,Fin canal,,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340007,(Données IASI de niveau 1c (tous canaux),,033060,GqisFlagQual – indicateur de qualité du système IASI pour chaque mesure,,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340007,(Données IASI de niveau 1c (tous canaux),,033061,GqisQualIndex - indicateur de caractéristique de bruit de l'instrument (par étalonnage spectral et étalonnage radiométrique),,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340007,(Données IASI de niveau 1c (tous canaux),,033062,GqisQualIndexLoc - indicateur d'indice de qualité géométrique,,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340007,(Données IASI de niveau 1c (tous canaux),,033063,GqisQualIndexRad - indicateur de caractéristique de bruit de l'instrument (par étalonnage radiométrique),,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340007,(Données IASI de niveau 1c (tous canaux),,033064,GqisQualIndexSpect - indicateur de caractéristique de bruit de l'instrument (par étalonnage spectral),,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340007,(Données IASI de niveau 1c (tous canaux),,033065,GqisSysTecSondQual – sortie de la fonction qualité du Centre d'expertise technique du système,,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340007,(Données IASI de niveau 1c (tous canaux),,040020,GqisFlagQualDetailed – indicateur de qualité du système,,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340007,(Données IASI de niveau 1c (tous canaux),,101010,Répéter 1 descripteur 10 fois,,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340007,(Données IASI de niveau 1c (tous canaux),,340002,Description de bande,,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340007,(Données IASI de niveau 1c (tous canaux),,101087,Répéter 1 descripteur 87 fois,,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340007,(Données IASI de niveau 1c (tous canaux),,340003,"Séquence 100 canaux, IASI niveau 1c",,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340007,(Données IASI de niveau 1c (tous canaux),,002019,Instruments satellitaires,,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340007,(Données IASI de niveau 1c (tous canaux),,025051,Combinaison de canaux de radiomètre AVHRR,,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340007,(Données IASI de niveau 1c (tous canaux),,101007,Répéter 1 descripteur 7 fois,,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340007,(Données IASI de niveau 1c (tous canaux),,340004,"Séquence une scène AVHRR, IASI niveau 1c",,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340007,(Données IASI de niveau 1c (tous canaux),,020081,Étendue de la couche nuageuse dans le secteur,,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340007,(Données IASI de niveau 1c (tous canaux),,008029,Type de surface,,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340007,(Données IASI de niveau 1c (tous canaux),,020083,Partie du segment couverte par la scène,,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340007,(Données IASI de niveau 1c (tous canaux),,008029,Type de surface,,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340007,(Données IASI de niveau 1c (tous canaux),,040018,GlacAvgImagIIS - moyenne des mesures de l'imageur,,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340007,(Données IASI de niveau 1c (tous canaux),,040019,GlacVarImagIIS - variance des mesures de l'imageur,,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340007,(Données IASI de niveau 1c (tous canaux),,040021,Fraction de pixels AVHRR pondérés dans le champ de vision de l'IASI recouvert d'une couche de neige/glace,,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340007,(Données IASI de niveau 1c (tous canaux),,040022,"Nombre de pixels AVHRR manquants, erronés ou défaillants",,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340017,,,001007,Indicateur d'identification du satellite,= 61 Sentinel 3A ou = 65 Sentinel 3B,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340017,,,002019,Instruments satellitaires,178 (SRAL),,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340017,,,005044,Numéro de cycle du satellite,,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340017,,,001096,Mise à poste,,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340017,,,005040,Numéro de l'orbite,,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340017,,,001040,Indicatif du centre de traitement,,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340017,,,025061,Identification du logiciel et numéro de version,,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340017,,,025182,Indicateur de traitement de niveau 1,,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340017,,,025183,Qualité du traitement de niveau 1,,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340017,,,025181,Indicateur de traitement de niveau 2,,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340017,,,025184,Catégorie de produit de niveau 2,,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340017,,,301011,"Année, mois, jour",,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340017,,,301013,"Heure, minute, seconde",,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340017,,,004007,Secondes par minute (à la microseconde près),,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340017,,,301021,Latitude/longitude (précision élevée),,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340017,,,005063,Roulis de l'engin spatial,,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340017,,,005064,Tangage de l'engin spatial,,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340017,,,005066,Lacet de l'engin spatial,,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340017,,,010081,Altitude du centre de gravité au-dessus de l'ellipsoïde de référence,,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340017,,,010082,Taux de variation d'altitude instantané,,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340017,,,008075,Identificateur d'orbite ascendante ou descendante,,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340017,,,025090,Indicateur de l'état de l'orbite,,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340017,,,008029,Type de surface,,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340017,,,201137,Changer le champ de données,Augmenter le champ de données de 9 bits,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340017,,,202129,Changer d'échelle,Augmenter l'échelle de 1,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340017,,,006021,Distance,,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340017,,,202000,Changement d'échelle,Annuler,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340017,,,201000,Changement du champ de données,Annuler,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340017,,,010087,Profondeur de l'océan ou altitude des terres émergées,,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340017,,,025096,Indicateur de l'état du radiomètre,,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340017,,,040012,Indicateur de qualité des données du radiomètre,,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340017,,,008077,Type de surface détecté par radiomètre,,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340017,,,104002,Répéter 4 descripteurs 2 fois,,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340017,,,002153,Fréquence centrale du canal du satellite,,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340017,,,012063,Température de luminance,,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340017,,,012065,Écart type de la température de luminance,,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340017,,,040013,Indicateur d'interprétation de la température de luminance du radiomètre,,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340017,,,007002,Hauteur ou altitude,,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340017,,,011098,Vitesse du vent indiquée par le radiomètre,,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340017,,,013090,Teneur en vapeur d'eau indiquée par le radiomètre,,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340017,,,013091,Teneur en eau liquide indiquée par le radiomètre,,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340017,,,025164,Correction de troposphère humide du radiomètre,,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340017,,,025095,Indicateur de l'état de l'altimètre,,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340017,,,040023,Indicateur de l'état de l'altimètre auxiliaire,,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340017,,,025113,Indicateur de qualité de la correction de l'altimètre dans une bande précise,,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340017,,,008074,Type d'écho de l'altimètre,,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340017,,,025190,Mode de traitement d'écho de l'altimètre,,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340017,,,021144,Indicateur de pluie de l'altimètre,,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340017,,,025191,Mode de localisation de l'altimètre,,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340017,,,021143,Atténuation par la pluie en bande Ku,,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340017,,,013055,Intensité des précipitations,,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340017,,,021169,Indicateur de présence de glace,,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340017,,,010101,"Carré de l'angle de décalage du satellite par rapport au nadir, calculé à partir de la forme des ondes",,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340017,,,015012,Nombre total d'électrons par mètre carré,,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340017,,,007002,Hauteur ou altitude,,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340017,,,011097,Vitesse du vent indiquée par l'altimètre,,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340017,,,040024,Existence de cartes météorologiques,,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340017,,,007002,Hauteur ou altitude,,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340017,,,025126,Correction de troposphère sèche - modèle,,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340017,,,025128,Correction de troposphère humide - modèle,,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340017,,,040011,Indicateur d'interpolation,,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340017,,,007002,Hauteur ou altitude,,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340017,,,011095,Composante u du vecteur vent – modèle,,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340017,,,011096,Composante v du vecteur vent – modèle,,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340017,,,010088,Hauteur géocentrique totale de marée océanique (solution 1),,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340017,,,010089,Hauteur géocentrique totale de marée océanique (solution 2),,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340017,,,010090,Hauteur de marée pour une période prolongée,,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340017,,,010092,Hauteur de marée terrestre,,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340017,,,010093,Hauteur géocentrique de marée polaire,,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340017,,,010098,Hauteur de la marée de charge pour le calcul de la marée géocentrique - solution 1,,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340017,,,010099,Hauteur de la marée de charge pour le calcul de la marée géocentrique - solution 2,,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340017,,,010100,Hauteur de marée pour une période prolongée hors d'équilibre,,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340017,,,025127,Correction de baromètre inverse,,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340017,,,040014,Fluctuations haute fréquence de la correction topographique de la surface de la mer,,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340017,,,010085,Hauteur moyenne de la surface de la mer,,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340017,,,010086,Hauteur du géoïde,,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340017,,,010096,Topographie dynamique moyenne,,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340017,,,010103,Précision de la topographie dynamique moyenne,,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340017,,,010102,Anomalie de hauteur de la surface de la mer,,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340017,,,022080,Fréquence centrale des bandes d'ondes,,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340017,,,008076,Type de bande,,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340017,,,022189,Intervalle océanique dans une bande précise,,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340017,,,022191,Moyenne quadratique de l'intervalle océanique dans une bande précise,,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340017,,,022130,Nombre de points corrects dans une bande précise,,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340017,,,025165,Correction ionosphérique - modèle dans une bande précise,,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340017,,,025166,Correction du biais d'état de la mer dans une bande précise,,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340017,,,025167,Correction finale de l'erreur instrumentale dans une bande précise,,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340017,,,021183,Coefficient de rétrodiffusion corrigé pour l'océan dans une bande précise,,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340017,,,021184,Coefficient de rétrodiffusion corrigé type pour l'océan dans une bande précise,,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340017,,,022134,Nombre de points corrects pour la rétrodiffusion dans une bande précise,,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340017,,,021122,Correction d'atténuation sur sigma-0 (sur la base de tB),,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340017,,,022190,Hauteur significative des vagues dans une bande précise,,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340017,,,022131,Moyenne quadratique de la hauteur significative des vagues dans une bande précise,,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340017,,,022132,Nombre de points corrects de la hauteur significative des vagues dans une bande précise,,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340017,,,022133,Correction finale de l'erreur instrumentale pour la hauteur significative des vagues dans une bande précise,,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340017,,,021186,Commande automatique de gain dans une bande précise,,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340017,,,021187,Moyenne quadratique de la commande automatique de gain dans une bande précise,,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340017,,,021188,Nombre de points corrects pour la commande automatique de gain dans une bande précise,,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340017,,,021185,Correction finale de l'erreur instrumentale pour la commande automatique de gain dans une bande précise,,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340017,,,025112,Indicateur de qualité des données de l'altimètre dans une bande précise,,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340017,,,025113,Indicateur de qualité de la correction de l'altimètre dans une bande précise,,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340017,,,033092,Indicateur de qualité des données sur l'océan dans une bande précise,,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340017,,,008076,Type de bande,,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340017,,,022189,Intervalle océanique dans une bande précise,,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340017,,,022191,Moyenne quadratique de l'intervalle océanique dans une bande précise,,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340017,,,022130,Nombre de points corrects dans une bande précise,,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340017,,,025165,Correction ionosphérique - modèle dans une bande précise,,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340017,,,025166,Correction du biais d'état de la mer dans une bande précise,,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340017,,,025167,Correction finale de l'erreur instrumentale dans une bande précise,,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340017,,,021183,Coefficient de rétrodiffusion corrigé pour l'océan dans une bande précise,,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340017,,,021184,Coefficient de rétrodiffusion corrigé type pour l'océan dans une bande précise,,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340017,,,022134,Nombre de points corrects pour la rétrodiffusion dans une bande précise,,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340017,,,021122,Correction d'atténuation sur sigma-0 (sur la base de tB),,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340017,,,022190,Hauteur significative des vagues dans une bande précise,,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340017,,,022131,Moyenne quadratique de la hauteur significative des vagues dans une bande précise,,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340017,,,022132,Nombre de points corrects de la hauteur significative des vagues dans une bande précise,,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340017,,,022133,Correction finale de l'erreur instrumentale pour la hauteur significative des vagues dans une bande précise,,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340017,,,021186,Commande automatique de gain dans une bande précise,,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340017,,,021187,Moyenne quadratique de la commande automatique de gain dans une bande précise,,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340017,,,021188,Nombre de points corrects pour la commande automatique de gain dans une bande précise,,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340017,,,021185,Correction finale de l'erreur instrumentale pour la commande automatique de gain dans une bande précise,,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340017,,,025112,Indicateur de qualité des données de l'altimètre dans une bande précise,,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340017,,,025113,Indicateur de qualité de la correction de l'altimètre dans une bande précise,,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340017,,,033092,Indicateur de qualité des données sur l'océan dans une bande précise,,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340017,,,025190,Mode de traitement de l'écho de l'altimètre,,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340017,,,011097,Vitesse du vent indiquée par l'altimètre,,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340017,,,013090,Teneur en vapeur d'eau indiquée par le radiomètre,,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340017,,,013091,Teneur en eau liquide indiquée par le radiomètre,,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340017,,,021143,Atténuation par la pluie en bande Ku,,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340017,,,021184,Coefficient de rétrodiffusion corrigé type pour l'océan dans une bande précise,,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340017,,,025128,Correction de troposphère humide - modèle,,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340017,,,025163,Correction ionosphérique de l'altimètre en bande Ku,,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340017,,,025164,Correction de troposphère humide du radiomètre,,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340017,,,010102,Anomalie de hauteur de la surface de la mer,,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340017,,,022189,Intervalle océanique dans une bande précise,,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340017,,,022191,Moyenne quadratique de l'intervalle océanique dans une bande précise,,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340017,,,022130,Nombre de points corrects dans une bande précise,,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340017,,,025166,Correction du biais d'état de la mer dans une bande précise,,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340017,,,021183,Coefficient de rétrodiffusion corrigé pour l'océan dans une bande précise,,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340017,,,021184,Coefficient de rétrodiffusion corrigé type pour l'océan dans une bande précise,,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340017,,,022134,Nombre de points corrects pour la rétrodiffusion dans une bande précise,,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340017,,,022190,Hauteur significative des vagues dans une bande précise,,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340017,,,022131,Moyenne quadratique de la hauteur significative des vagues dans une bande précise,,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340017,,,022132,Nombre de points corrects de la hauteur significative des vagues dans une bande précise,,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340017,,,025112,Indicateur de qualité des données de l'altimètre dans une bande précise,,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340017,,,025113,Indicateur de qualité de la correction de l'altimètre dans une bande précise,,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340017,,,033092,Indicateur de qualité des données sur l'océan dans une bande précise,,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340017,,,008049,Nombre d'observations,,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340017,,,022080,Fréquence centrale des bandes d'ondes,,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340017,,,134021,Répéter 34 descripteurs 21 fois,,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340017,,,301011,"Année, mois, jour",,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340017,,,301013,"Heure, minute, seconde",,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340017,,,004007,Secondes par minute (à la microseconde près),,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340017,,,301021,Latitude/longitude (précision élevée),,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340017,,,010081,Altitude du centre de gravité au-dessus de l'ellipsoïde de référence,,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340017,,,010082,Taux de variation d'altitude instantané,,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340017,,,008029,Type de surface,,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340017,,,201137,Changer le champ de données,Ajouter 9 bits au champ de données,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340017,,,202129,Changer d'échelle,Ajouter 1 à l'échelle,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340017,,,006021,Distance,,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340017,,,202000,Changement d'échelle,Annuler,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340017,,,201000,Changement du champ de données,Annuler,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340017,,,025191,Mode de localisation de l'altimètre,,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340017,,,021071,Maxima,,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340017,,,010085,Hauteur moyenne de la surface de la mer,,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340017,,,040011,Indicateur d'interpolation,,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340017,,,010102,Anomalie de hauteur de la surface de la mer,,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340017,,,022189,Intervalle océanique dans une bande précise,,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340017,,,022146,Intervalle pour centre de gravité excentré,,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340017,,,025165,Correction ionosphérique - modèle dans une bande précise,,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340017,,,025167,Correction finale de l'erreur instrumentale dans une bande précise,,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340017,,,021183,Coefficient de rétrodiffusion corrigé pour l'océan dans une bande précise,,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340017,,,022190,Hauteur significative des vagues dans une bande précise,,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340017,,,022133,Correction finale de l'erreur instrumentale pour la hauteur significative des vagues dans une bande précise,,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340017,,,021177,Coefficient de rétrodiffusion corrigé - centre de gravité excentré,,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340017,,,021185,Correction finale de l'erreur instrumentale pour la commande automatique de gain dans une bande précise,,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340017,,,013164,Franc-bord pour les glaces de mer,,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340017,,,202126,Changer d'échelle,Soustraire 2 bits de l'échelle,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340017,,,022046,Fraction de glace de mer,,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340017,,,202000,Changement d'échelle,Annuler,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340017,,,013117,Masse volumique de la neige (teneur en eau liquide),,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340017,,,013013,Hauteur totale de la couche de neige,,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340017,,,025112,Indicateur de qualité des données de l'altimètre dans une bande précise,,,,Operational
+40,Catégorie 40 – Séquence de messages supplémentaires d'observation par satellites,340017,,,033092,Indicateur de qualité des données sur l'océan dans une bande précise,,,,Operational
