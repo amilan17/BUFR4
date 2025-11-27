@@ -1,4 +1,4 @@
-Category,CategoryOfSequences_fr,FXY1,Title_fr,SubTitle_fr,FXY2,ElementName_fr,ElementDescription_fr,Note_fr,noteIDs,Status
+﻿Category,CategoryOfSequences_fr,FXY1,Title_fr,SubTitle_fr,FXY2,ElementName_fr,ElementDescription_fr,Note_fr,noteIDs,Status
 12,Catégorie 12 — Séquences correspondant à des messages d’observation à un seul niveau (données satellitaires),312001,,,301043,"Indicateur d'identification du satellite, méthode de calcul du vent, date/heure, position",,,,Operational
 12,Catégorie 12 — Séquences correspondant à des messages d’observation à un seul niveau (données satellitaires),312001,,,304001,"Pression au sommet des nuages, température, vent",,,,Operational
 12,Catégorie 12 — Séquences correspondant à des messages d’observation à un seul niveau (données satellitaires),312002,,,301043,"Indicateur d'identification du satellite, méthode de calcul du vent, date/heure, position",,,,Operational
@@ -18,7 +18,7 @@ Category,CategoryOfSequences_fr,FXY1,Title_fr,SubTitle_fr,FXY2,ElementName_fr,El
 12,Catégorie 12 — Séquences correspondant à des messages d’observation à un seul niveau (données satellitaires),312010,"Information sur les orbites, partie I",,002021,Données instrumentales satellitaires utilisées dans le traitement,,,,Operational
 12,Catégorie 12 — Séquences correspondant à des messages d’observation à un seul niveau (données satellitaires),312010,"Information sur les orbites, partie I",,005041,Numéro de la ligne de balayage,,,,Operational
 12,Catégorie 12 — Séquences correspondant à des messages d’observation à un seul niveau (données satellitaires),312010,"Information sur les orbites, partie I",,004001,Année,,,,Operational
-12,Catégorie 12 — Séquences correspondant à des messages d’observation à un seul niveau (données satellitaires),312010,"Information sur les orbites, partie I",,004003,Jour de l'année,,,,Operational
+12,Catégorie 12 — Séquences correspondant à des messages d’observation à un seul niveau (données satellitaires),312010,"Information sur les orbites, partie I",,004043,Jour de l'année,,,,Operational
 12,Catégorie 12 — Séquences correspondant à des messages d’observation à un seul niveau (données satellitaires),312011,"Information sur les orbites, partie II",,202131,Changer d'échelle,,,,Operational
 12,Catégorie 12 — Séquences correspondant à des messages d’observation à un seul niveau (données satellitaires),312011,"Information sur les orbites, partie II",,201149,Changer le champ de données,,,,Operational
 12,Catégorie 12 — Séquences correspondant à des messages d’observation à un seul niveau (données satellitaires),312011,"Information sur les orbites, partie II",,004006,Seconde,,,,Operational
